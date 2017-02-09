@@ -3,16 +3,17 @@
 Annotated News Commentary Corpus (v11)
 see: http://opus.lingfil.uu.se/download.php?f=News-Commentary11/News-Commentary11.tar.gz
 
-Morphological analysis: FreeLing (http://nlp.lsi.upc.edu/freeling/)
-Tagging: Wapiti (https://wapiti.limsi.fr/)
-Parsing: MaltParser (http://www.maltparser.org/)
-Co-Reference: Corzu: (http://www.cl.uzh.ch/de/research/completed-research/coreferenceresolution.html)
+-Morphological analysis: FreeLing (http://nlp.lsi.upc.edu/freeling/)
+-Tagging: Wapiti (https://wapiti.limsi.fr/)
+-Parsing: MaltParser (http://www.maltparser.org/)
+-Co-Reference: Corzu: (http://www.cl.uzh.ch/de/research/completed-research/coreferenceresolution.html)
 
 Contents:
-es-en: pure text, sentence aligend
-es-en-trees: English text, Spanish dependency trees in Moses XML (binarized)
-es-en-posscoref: pure text, Spanish with dummies for null subjects and annotated possessive pronoun 'su/sus' and annotated relative pronoun 'que'
-es-en-posscoref-trees: English text, Spanish dependency trees in Moses XML, with dummies for null subjects and annotated possessive pronoun 'su/sus' and annotated relative pronoun 'que'
+
+-es-en: pure text, sentence aligend
+-es-en-trees: English text, Spanish dependency trees in Moses XML (binarized)
+-es-en-posscoref: pure text, Spanish with dummies for null subjects and annotated possessive pronoun 'su/sus' and annotated relative pronoun 'que'
+-es-en-posscoref-trees: English text, Spanish dependency trees in Moses XML, with dummies for null subjects and annotated possessive pronoun 'su/sus' and annotated relative pronoun 'que'
 
 nc11.es.coref.conll.tar.bz2
   - annotated Spanish corpus, conll with entities
