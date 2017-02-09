@@ -3,10 +3,10 @@
 Annotated News Commentary Corpus (v11)
 see: http://opus.lingfil.uu.se/download.php?f=News-Commentary11/News-Commentary11.tar.gz
 
--Morphological analysis: FreeLing (http://nlp.lsi.upc.edu/freeling/)
--Tagging: Wapiti (https://wapiti.limsi.fr/)
--Parsing: MaltParser (http://www.maltparser.org/)
--Co-Reference: Corzu: (http://www.cl.uzh.ch/de/research/completed-research/coreferenceresolution.html)
+ -Morphological analysis: FreeLing (http://nlp.lsi.upc.edu/freeling/)
+ -Tagging: Wapiti (https://wapiti.limsi.fr/)
+ -Parsing: MaltParser (http://www.maltparser.org/)
+ -Co-Reference: Corzu: (http://www.cl.uzh.ch/de/research/completed-research/coreferenceresolution.html)
 
 Contents:
 
