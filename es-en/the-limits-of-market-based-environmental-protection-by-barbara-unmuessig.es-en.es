@@ -1,0 +1,36 @@
+¿ Se privatiza la naturaleza ?  
+Berlín - Hoy en día pocas personas tienen la esperanza de que convenciones de las Naciones unidas como la Convención marco sobre el Cambio climático y el  
+Asimismo , la búsqueda de límites estrictos a las emisiones de Co2 y normas ambientales y sociales más rígidas para reducir el consumo de recursos naturales y proteger a los trabajadores parece estar pasado de moda pues las economías afectadas por la crisis están inquietas de que dichas regulaciones obstaculicen la inversión y el comercio .  
+Como los viejos métodos han perdido credibilidad , algunos gobiernos , economistas e instituciones internacionales como el Programa de las naciones unidas para el medio ambiente han adoptado un nuevo enfoque , que se basa en la idea de que la naturaleza es un proveedor de " servicios de ecosistemas " .  
+Con dicho enfoque han transferido la responsabilidad de atender el riesgo medioambiental al sector privado y a los mecanismos basados en el mercado .  
+Según este nuevo paradigma , la preservación ambiental es un asunto comercial en el que el medio ambiente es solamente un conjunto de bienes y servicios comercializables .  
+El resultado de esta lógica es que los servicios de ecosistemas ya no serán gratuitos .  
+En efecto , de acuerdo con Pavan sukhdev , el autor principal de la investigación The economics of Ecosystems and Biodiversity ( La economía de los sistemas y la biodiversidad ) , que tiene por objetivo subrayar el impacto económico del deterioro ambiental , " Usamos la naturaleza porque es valiosa , pero la perdemos porque es gratuita " . .  
+Si duda , asignar valor a los servicios de ecosistemas va más allá de etiquetarlos con un precio .  
+De hecho , este enfoque puede ayudar a definir las políticas medioambientales más eficientes para obtener los beneficios de la biodiversidad y los ecosistemas .  
+A diferencia del Pib , algunos modelos nuevos de contabilidad incluyen mecanismos para cuantificar las ventajas de los servicios de ecosistemas o los costos de su destrucción , creando así una base para tomar medidas económicas y políticas .  
+El peligro radica en que el paradigma desembocaría fácilmente en la financialización de la naturaleza .  
+En efecto , el proceso ha empezado , por ejemplo , el Programa onu-redd incluye incentivos de mercado y financieros para reducir las emisiones de gases efecto invernadero debido a la deforestación y la degradación de los bosques .  
+De igual manera , " los hábitats de reserva " permiten a los promotores comerciar créditos de hábitat o de biodiversidad - obtenidos mediante medidas que protegen , restauran o mejoran hábitats o especies - para compensar los costos ambientales del desarrollo .  
+Además , los sistemas de comercio de carbono reducen el valor de los suelos y bosques a su capacidad de almacenamiento de carbono .  
+Todo esto implica la propiedad privada de servicios de ecosistemas .  
+Sin embargo , en muchos países , los ecosistemas intactos restantes se encuentran en áreas pobladas por pueblos indígenas , lo que crea inevitablemente conflicto con las comunidades afectadas y al interior de estas .  
+Los locales querrán saber quién ostenta la propiedad de los servicios y quién obtiene los beneficios de los créditos asociados .  
+Y quienquiera que sea tendrá que asumir la responsabilidad de cumplir los complicados requisitos de contabilidad y conformidad , y mitigar al mismo tiempo los riesgos de exclusión .  
+Además , la voluntad del sector privado para financiar , por ejemplo , la conservación de los bosques , depende de la integración de varios créditos en los programas globales de comercio de emisiones - una remota posibilidad dado el estado de las negociaciones internacionales climáticas .  
+Bajo la situación actual , el comercio de emisiones funciona solamente como una forma de corregir el enfoque tradicional de los países industrializados .  
+La creciente participación de los instrumentos basados en el mercado en la conservación solo permitirá a las empresas manipular sus obligaciones ambientales , mientras que para los gobiernos será más fácil desatender su responsabilidad en el diseño de políticas ambientales .  
+Por ejemplo , el año pasado , el poderoso lobby agroindustrial de Brasil logró hacer que el gobierno aprobara un nuevo código forestal , que incluye instrumentos basados en el mercado para ofrecer a los productores agrícolas más flexibilidad en las actividades de conservación .  
+Como resultado , los propietarios de tierras que reducen más la vegetación de la permitido por ley ahora pueden volver a satisfacer los criterios de conformidad mediante la compra de créditos de compensación en la Bolsa de valores ambiental de Rio de janeiro ( Bolsa verde ) a aquellos que tienen más de la cantidad mínima obligatoria de cubierta forestal .  
+Motivados por el nuevo esquema , aquellos que quieren ofrecer créditos de compensación tomaron tierras por la fuerza en zonas donde no es redituable talar - una respuesta orientada por el mercado que estuvo acompañada de violaciones a los derechos humanos .  
+La experiencia de Brasil pone de manifiesto los riesgos de una política ambiental laxa - que ofrece la posibilidad a aquellos con recursos la opción de salir del problema a costa de ciudadanos más vulnerables , en particular pueblos indígenas y agricultores a pequeña escala pobres .  
+La crisis económica global expuso los riesgos de depender exclusivamente de los mercados para regular la actividad económica .  
+Dado que las consecuencias de una crisis ambiental mundial serían mucho más devastadoras , subordinarse a los mecanismos basados en el mercado para proteger y fortalecer el medio ambiente es una receta que conduce al desastre .  
+A fin de evitar un resultado como ese , las personas en todo el mundo deberían rechazar la idea de que la naturaleza es un proveedor de servicios y exigir a los responsables del diseño de políticas trabajar activamente para proteger y restablecer hábitats y biodiversidad .  
+No se debe permitir que los mecanismos para " compensar " las actividades perjudiciales desvíen la atención de lo que realmente es urgente , como prevenir la deforestación y suprimir gradualmente los combustibles fósiles .  
+Con este fin , debe prohibirse la financialización de la naturaleza mediante derivados y otros productos financieros .  
+Después de todo , si bien el valor monetario actual de un bosque tropical intacto no corresponde a los recursos minerales y naturales que contiene , su importancia para la supervivencia humana es invaluable .  
+Además , los gobiernos deberían suprimir gradualmente los subsidios que perjudican el clima y la biodiversidad , como los incentivos en efectivo orientados a estimular la reducción de la masa forestal en nombre de actividades " productivas " como la agricultura .  
+Con ello , los países podrán cumplir sus objetivos de protección ambiental mientras que ahorran recursos fiscales .  
+Todo esto no quiere decir que los mecanismos basados en el mercado no sirven para la protección y restauración ambiental .  
+Sirven pero solo si forman parte de un marco integral que tome en cuenta el verdadero e inconmensurable valor del medio ambiental natural .  

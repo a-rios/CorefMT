@@ -1,0 +1,38 @@
+Hora de madurar para la eurozona  
+Milán - Después de la crisis de 2007 a 2009 , en los países avanzados se produjo en general un aumento grande y rápido de la deuda pública : por primera vez , la relación deuda / Pib de los países de la Ocde superó el 100 % en promedio .  
+Las perspectivas de crecimiento para las próximas dos generaciones se verán obstaculizadas por la consolidación fiscal , y habrá que reformular el Estado de bienestar que conocimos en Europa después de la Segunda guerra mundial , especialmente para hacer frente al veloz envejecimiento de la población .  
+Pero la crisis de deuda de la eurozona tiene rasgos particulares .  
+El más importante es que si bien la relación deuda / Pib promedio no es mayor que la de otros países avanzados , y los esfuerzos de consolidación comenzaron antes , la eurozona lleva dos años empantanada en una grave crisis de confianza .  
+Esto señala la existencia de una dimensión sistémica de la crisis , que no puede explicarse simplemente por la prodigalidad de aquellos países que no cumplieron las metas fiscales .  
+De hecho , la crisis griega reveló tres grandes falencias de la unión monetaria .  
+La primera , la falta de mecanismos eficaces para coordinar las políticas fiscales y económicas .  
+En tanto la vigilancia de la disciplina fiscal esté en manos de un organismo intergubernamental , el problema está destinado a repetirse , lo cual reduce la credibilidad de las reglas presupuestarias conjuntas .  
+Además , los mercados financieros subestimaron los riesgos crediticios , tanto de los privados como de los estados , dando por sentado que ninguno de ellos dejaría de pagar y que todas las deudas se cancelarían de algún modo , lo que dio lugar a una falta de disciplina de mercado por parte de los deudores .  
+Finalmente , cuando el estallido de la crisis provocó una reevaluación de los riesgos en los mercados financieros , la necesidad de evitar un desastre económico y financiero obligó a los gobiernos a estimular la demanda agregada y cubrir las deudas privadas .  
+Pero la desconexión de facto entre la autoridad monetaria centralizada y la autoridad fiscal descentralizada impidió un uso pleno de los instrumentos monetarios para hacer frente a las perturbaciones monetarias y financieras .  
+Esto dejó a cada uno de los miembros de la eurozona expuesto por separado a una presión brutal de los mercados financieros , en un momento en que un exceso de endeudamiento privado se había convertido en una deuda pública insostenible .  
+De repente , la eurozona se había transformado en una camisa de fuerza .  
+Y todavía lo es : se recortan presupuestos , el crecimiento es incierto y los países de la periferia deben encontrar el modo de lograr una devaluación considerable del tipo de cambio real para recuperar la competitividad y poner fin al déficit externo .  
+Entretanto , los países centrales afirman que poco pueden hacer para fortalecer la demanda agregada y aliviar la presión a la que están expuestos sus socios , aun cuando la agonía de la periferia está arrastrando al núcleo de la eurozona hacia la recesión , dada la dependencia de estos países respecto de las exportaciones a la periferia .  
+Y de hecho , los datos recientes señalan un rápido empeoramiento de la situación económica en Alemania , con una drástica reducción del superávit comercial en los últimos meses .  
+A lo largo de los últimos dos años , se introdujeron en la gobernanza económica de la eurozona cambios radicales tendientes a corregir los vicios de origen de la unión monetaria .  
+En esta transformación , lo que antes era un proceso intergubernamental se convirtió en un proceso comunitario .  
+La Comisión europea ha recibido poderes decisivos para la implementación de pautas políticas comunes , y el Consejo europeo ha limitado su propia capacidad de rechazar las recomendaciones de la Comisión , al instaurar la mayoría calificada como requisito para modificarlas .  
+Pero por más sólidas que sean las reglas de gobernanza , por sí solas no bastarán .  
+El pleno funcionamiento de una unión monetaria también exige un banco central con libertad para tomar las medidas necesarias para enfrentar las crisis de liquidez y de confianza , sumado a alguna forma de mutualización de las deudas soberanas y al control centralizado de la política fiscal .  
+Además , se necesitan políticas de supervisión bancaria centralizadas , con fuertes poderes para manejar las crisis bancarias y liquidar los bancos imposibles de rescatar .  
+Son objetivos que solamente se pueden alcanzar en forma gradual , a medida que Europa vaya convirtiéndose en una unión federal con todas las letras .  
+Hasta que eso ocurra , la supervivencia de la eurozona dependerá de la capacidad del Consejo europeo para establecer mecanismos provisorios que puedan detener la crisis y restaurar la confianza entre los países miembros .  
+En la reunión celebrada a fines de junio , los líderes europeos reconocieron por primera vez la multiplicidad de dimensiones de la crisis y aceptaron que la austeridad ( que cada uno ponga sus propios asuntos en orden ) no es suficiente .  
+Como resultado , se emprenderán nuevas iniciativas conjuntas en materia de políticas para encarar cuestiones relacionadas con el crecimiento económico , la unión bancaria y la liquidez .  
+Además , los líderes europeos dispusieron estas nuevas políticas dentro de un marco coherente a más largo plazo , que también prevé la inclusión de " la emisión de deuda conjunta " .  
+Asimismo , el Consejo europeo acordó un nuevo " Pacto para el Crecimiento y el Empleo " , que identifica una dimensión de las políticas de crecimiento que es específicamente europea , con énfasis en la integración de la energía , el transporte , las comunicaciones y los servicios , junto con una mayor inversión en infraestructura .  
+Lo que brilla por su ausencia es un reconocimiento de la necesidad de flexibilizar los esfuerzos de consolidación fiscal .  
+Según lo solicitado por la Comisión , los países con situación fiscal más sólida deberían pensar en poner freno a sus esfuerzos de consolidación , para no empeorar la recesión .  
+Pero para mantener la confianza de los inversores , algunos países de la eurozona deberán encontrar un difícil punto de equilibrio entre la austeridad y la sobreactuación , algo que sería más fácil si el Consejo europeo hubiera dejado bien en claro que para cumplir plenamente las obligaciones con la Unión europea será suficiente mantener en funcionamiento los estabilizadores automáticos y no apartarse de las metas presupuestarias estructurales .  
+Además , es necesario que Alemania asuma sobre sí una parte mayor del peso del ajuste .  
+Los recientes acuerdos salariales en Alemania , bastante generosos , ayudarán , pero son insuficientes : también es necesario estimular la demanda interna .  
+Con el tiempo , para aumentar la inversión y la renta internas pueden ser muy útiles una liberalización más decidida del hipertrofiado sistema bancario , las redes de servicios ( especialmente en energía y transporte ) y el proceso de compra estatal .  
+En lo inmediato , el estímulo puede salir de las nada desdeñables inversiones que se necesitarán para compensar la pérdida de la energía nuclear .  
+Nada de esto debe verse como una concesión , sino como parte de las obligaciones asumidas por los gobiernos de la eurozona para resolver los desequilibrios excesivos .  
+Hoy más que nunca , es preciso convencer a Alemania de que sin su contribución para revitalizar el crecimiento y corregir los desequilibrios externos , la eurozona enfrenta la perspectiva de una depresión prolongada y un colapso inevitable .  

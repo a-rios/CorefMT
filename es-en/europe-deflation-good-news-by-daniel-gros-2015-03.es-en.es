@@ -1,0 +1,27 @@
+Razones por las que la deflación es buena para Europa  
+Bruselas - En la economía mundial actual , no hay un precio más importante que el del petróleo crudo .  
+Se producen ( y se consumen ) más de 80 millones de barriles diarios y una gran parte de esa producción se comercializa internacionalmente .  
+Así , pues , la acusada bajada del precio del petróleo crudo - de unos 110 dólares el año pasado a unos 60 dólares hoy - está permitiendo ahorrar centenares de miles de millones de dólares en importaciones de petróleo .  
+Para la Unión europea y los Estados unidos , el beneficio de dicha bajada equivale al dos o el tres por ciento , aproximadamente , del Pib .  
+Para Europa , los beneficios de un petróleo barato podrían aumentar con el tiempo , porque los contratos de suministro de gas a largo plazo están en gran medida vinculados con el precio del petróleo , lo que representa otra ventaja para esa región , donde los precios del gas natural eran , hasta hace poco , varias veces mayores que en los Ee.uu. , beneficiados por unos menores costos de la energía del esquisto .  
+Pero muchos observadores han sostenido que el petróleo barato tiene también un aspecto negativo , porque exacerba las tendencias deflacionarias en los países avanzados , que ya parecen haber caído en la trampa del crecimiento escaso .  
+Según esa opinión , el acusado descenso de los precios del petróleo dificultará aún más a los bancos centrales de dichos países la consecución de la tasa de inflación anual del dos por ciento , que la mayoría han fijado en cumplimiento del mandato para la estabilidad de los precios .  
+La zona del euro en particular parece estar en peligro , pues ahora los precios están bajando por primera vez desde 2009 .  
+Según se sostiene , esa deflación es mala , porque dificulta aún más a los deudores - en particular los de las economías con problemas de la periferia de la zona del euro ( España , Grecia , Irlanda , Italia y Portugal ) - el pago de lo que deben .  
+Pero ese temor es infundado , porque se basa en un malentendido .  
+Lo que importa para la capacidad de servicio de la deuda son los ingresos de los deudores , no el nivel general de los precios .  
+Al bajar los precios del petróleo , los ingresos reales ( ajustados a la inflación ) de los hogares deben aumentar , porque no han de gastar tanto en combustible y calefacción .  
+Unos precios inferiores del petróleo facilitan la vida , no la complican , para los hogares muy endeudados en los Ee.uu. y la periferia de la zona del euro .  
+Así , pues , se debe considerar que unos menores precios al consumo son una buena señal .  
+La mayoría de las empresas manufactureras se beneficiará también de unos menores costos de la energía , con lo que mejorará su capacidad para el servicio de sus deudas , cosa que también es particularmente relevante en la periferia de la zona del euro , donde el sector no financiero acumuló demasiadas deudas durante el auge crediticio que precedió a la crisis financiera mundial de 2008 .  
+Además , aunque la mayoría de los ahorros que entrañan unos costos inferiores de la energía podrían manifestarse al principio en forma de unos beneficios mayores , con el tiempo la competencia obligará a las empresas a transmitir algunos de esos beneficios caídos del cielo en forma de precios inferiores o salarios superiores .  
+ésa es otra importante consecuencia del petróleo barato : con unos precios menores resulta más difícil calcular el punto en el que la presión de los salarios se vuelve inflacionista .  
+Como los salarios pueden aumentar hasta cierto punto sin avivar la inflación , la Junta de gobernadores de la reserva federal podría sentirse inclinada a aplazar la subida de los tipos de interés , cosa que hará - como ahora se espera de forma generalizada - en el próximo verano .  
+Las haciendas públicas deberían beneficiarse también de la deflación engendrada por unos menores precios del petróleo .  
+Los ingresos estatales dependen del valor de la producción nacional , no sólo del consumo .  
+Aunque unos precios inferiores del petróleo deprimen los precios al consumo , deberían impulsar la producción y el Pib total .  
+De no haber grandes cambios en los precios de las materias primas , el índice de precios al consumo evoluciona junto con el deflactor del Pib ( el deflactor de los precios correspondientes a toda la economía ) , pero no será así este año , porque los precios al consumo están bajando , mientras que el deflactor del Pib ( y el Pib nominal ) sigue aumentando , lo que debe propiciar unos ingresos estatales sólidos y constituye una buena noticia para los gobiernos muy endeudados de todo el mundo industrial , pero en particular para la periferia de la zona del euro .  
+Así , pues , se debe considerar que la bajada de los precios al consumo que la zona del euro está experimentando actualmente es una novedad positiva para todos los importadores de energía .  
+La periferia de la zona del euro , en particular , puede esperarse una combinación ideal de tipos de interés bajos , un tipo de cambio del euro favorable y un aumento de los ingresos reales gracias al petróleo barato .  
+En un ambiente deflacionario , unos precios menores del petróleo parecen dificultar al Banco central europeo la consecución de su objetivo de una tasa de inflación cercana al dos por ciento .  
+En realidad , unos menores precios del petróleo representan una bendición para Europa y en particular para aquellas de sus naciones que más dificultades afrontan .  

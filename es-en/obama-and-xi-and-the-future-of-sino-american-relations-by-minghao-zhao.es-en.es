@@ -1,0 +1,32 @@
+" Mao-nixon " 2.0  
+Beijing - Este fin de semana , una finca californiana es escenario de la " cumbre de Sunnylands " entre el presidente chino Xi jinping y su par estadounidense Barack obama .  
+De hecho , lo que Xi desea de la reunión ( concretamente , " un nuevo tipo de relación entre las grandes potencias " ) se origina conceptualmente en las históricas reuniones entre Mao zedong y Richard nixon en 1972 .  
+En 1969 , los desafíos más graves a los que se enfrentaba el recientemente electo Nixon eran terminar la Guerra de vietnam y hacer frente a una Unión soviética cada vez más agresiva .  
+China era un elemento esencial dentro del esquema general de Nixon para la solución de estos problemas aparentemente intratables .  
+De hecho , China tuvo un papel especial de asistencia a Vietnam del norte contra los estadounidenses ; y sus relaciones con la Unión soviética estaban agriándose , a tal punto que llegaron a producirse violentos incidentes en la frontera compartida a lo largo del río Amur .  
+Nixon y su asesor de seguridad nacional , Henry kissinger , consideraron que había llegado el momento de restaurar las relaciones con China , que también temía las ambiciones hegemónicas de los soviéticos .  
+Para ello , Nixon y Kissinger puentearon al Departamento de estado y al Congreso de los estados unidos e iniciaron contactos directos con China a través de canales clandestinos en Pakistán y Rumania .  
+En los tres años que siguieron , los dos países consiguieron superar sus diferencias ideológicas y alcanzar una solución negociada eficaz en lo concerniente con la Unión soviética , Vietnam e incluso Japón ; al mismo tiempo , se aseguraron de que durante el proceso de mejora de sus relaciones , sus intereses reales no se verían afectados por la " cuestión Taiwán " .  
+Una vez bosquejados estos acuerdos , en febrero de 1972 Nixon hizo una visita a China , que terminó con la firma de uno de los documentos diplomáticos más importantes del siglo xx , el " comunicado de Shanghai " .  
+Para que la cumbre de Sunnylands produzca beneficios a largo plazo como los que generó la cumbre Mao-nixon , se la debe plantear en el mismo nivel filosófico y estratégico .  
+Por supuesto , las relaciones sinoestadounidenses son mucho más complejas ahora que en 1972 , en virtud de los estrechos lazos económicos que en la actualidad vinculan a ambos países .  
+Solo nos cabe esperar que se emita un " comunicado de California " , que marque el rumbo que seguirán las relaciones bilaterales en las décadas que vendrán .  
+Tanto Obama como Xi deben aspirar a impedir que la actual " coexistencia competitiva " de los dos países degenere en confrontación estratégica ( algo que no pudo evitarse en ninguno de los casos en que una potencia establecida se encontró frente a una potencia en ascenso ) .  
+A pesar de que ambos líderes han reiterado muchas veces la importancia de una relación estable , positiva y de colaboración , es inevitable que la competencia estratégica se intensifique a medida que en los próximos años la economía de China vaya alcanzando a la estadounidense y luego la supere ( al menos , en lo que atañe al Pib ) .  
+De modo que el objetivo de Sunnylands debe ser sentar las bases para la institución de reglas que impidan que la supuesta rivalidad sinoestadounidense se descontrole .  
+Por más sospechas que uno de los lados pueda abrigar en relación con las intenciones estratégicas a largo plazo de la otra parte , la única opción viable para ambos países es tener una relación no basada en la confrontación .  
+Pero por desgracia , en la actualidad las relaciones bilaterales muestran en este aspecto tendencias muy preocupantes .  
+¿ Qué puede servir como elemento de unión entre China y los Estados unidos , dada la ausencia de una amenaza común como fue la Unión soviética y el hecho de que una parte importante de las élites de ambos países considera al otro país como la principal fuente de peligro ?  
+Es preciso que los expertos en planificación estratégica en Beijing y en Washington miren más allá de las amenazas tradicionales y presten atención a cuestiones como la estabilidad económica , la seguridad en materia de recursos y energía , el avance tecnológico , el cambio climático , los problemas demográficos y la ciberseguridad .  
+Son cuestiones estas que un país no puede resolver solo , ni siquiera con la ayuda de sus aliados ; y plantean una amenaza que es mayor que la de la ex Unión soviética , además de indudablemente más compleja , y que solamente se puede encarar a través de la cooperación .  
+Por ejemplo , China ya es el mayor consumidor de energía del mundo y el mayor emisor de dióxido de carbono .  
+En los últimos años , ambos países han padecido las consecuencias de fenómenos meteorológicos extremos .  
+Incluso si en el corto plazo Estados unidos obtiene la independencia energética gracias a la explotación del shale , no podrá tolerar el impacto de altos niveles de consumo , contaminación y emisiones por parte de otros países .  
+Además , dentro de la relación bilateral ha surgido un tema nuevo , el de la ciberseguridad , que probablemente será delicado ; pero ambas partes están muy interesadas en encararlo en forma cooperativa .  
+Lo mismo vale para las iniciativas encaminadas a impedir que la situación en la península de Corea empeore , asegurar la estabilidad en Afganistán y Pakistán , resolver el dilema de Oriente próximo y crear una estructura abierta e inclusiva para el comercio y las inversiones a escala regional e internacional .  
+Y entre los resultados más importantes que se esperan de la cumbre de Sunnylands , también está el de forjar un nuevo tipo de relación entre las fuerzas armadas de ambos países .  
+Así como la reunión entre Mao y Nixon de hace 41 años fue el comienzo de una distensión en la hasta entonces gélida relación entre ambos países , la reunión entre Xi y Obama puede ser un nuevo punto de partida para esta relación bilateral , que ha llegado a ser la más importante del mundo , y servir para prevenir la necesidad de nuevas distensiones futuras .  
+Hace cuatro décadas , China y Estados unidos se unieron para hacer frente a un adversario común .  
+Hoy es necesario que se unan en pos de un objetivo común .  
+Ambos países saben que es tiempo de cooperar y definir el futuro .  
+El único modo que tienen de encarar los desafíos comunes en forma conjunta y exitosa es demostrando capacidad de contención estratégica y voluntad política para resolver los problemas y actuar en forma concreta .  

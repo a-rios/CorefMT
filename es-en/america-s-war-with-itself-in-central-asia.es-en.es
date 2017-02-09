@@ -1,0 +1,40 @@
+La guerra de los Estados unidos consigo mismos en el Asia central  
+Washington , D.c. - En el palizón que llevan un decenio dándose para mantener la seguridad del Afganistán , los Estados unidos han hecho malabarismos con políticas exteriores contradictorias en el Uzbekistán y el Kirguizistán , los frágiles Estados del asia central que desempeñan decisivos papeles de apoyo en la guerra .  
+Una es la política de relaciones con esos dos Estados postsoviéticos en sí mismos , encaminada a fomentar la gestión idónea de los asuntos públicos , los derechos humanos y los vínculos comerciales : el habitual cajón de sastre de la diplomacia de los Ee.uu. la otra es la política destinada a utilizarlos como centros de comunicaciones para la guerra del Afganistán .  
+Lamentablemente , las dos políticas han resultado con frecuencia antagónicas , lo que ha menoscabado la influencia a largo plazo de los Estados unidos en esa región y a veces también su capacidad para hacer la guerra .  
+Y , a medida que los Ee.uu. aportan más tropas y dinero al Afganistán , se antepone una vez más la conveniencia militar a los fines de otras políticas en el Asia central .  
+En ciertos sentidos , es comprensible : los Ee.uu. tienen que reñir una guerra con un breve plazo autoimpuesto .  
+Los proyectos difusos y buenistas encaminados a fomentar los derechos humanos y la gestión idónea de los asuntos públicos en una región contigua y de menor importancia deben esperar .  
+Pero esa concepción no entiende que un Asia central debilitada , corrupta y abusiva no redundará en beneficio de los Estados unidos ni - si vamos al caso - del Afganistán .  
+En el Pakistán , el Gobierno del afganistán tiene un vecino grande , escindido y casi ingobernable .  
+Una actitud más práctica es la de equilibrar las necesidades de seguridad , reales y apremiantes , de los Estados unidos en el Afganistán con una política más positiva en el Asia central .  
+En el Kirguizistán , nación enclavada en una zona montañosa y con una historia de disturbios civiles y rápidos derrocamientos de gobiernos , los políticos locales están furiosos con la reciente decisión del Departamento de defensa de los ee.uu. de renovar un polémico contrato de suministro de combustible para la base aérea de Manas , decisivo centro de comunicaciones para las operaciones aéreas sobre el Afganistán .  
+El contrato , adjudicado de nuevo a una hermática empresa americana , servirá para mantener los vuelos de los Ee.uu. sobre el Afganistán , que es el objetivo americano primordial en esa región , pero la opaca naturaleza del acuerdo puede debilitar aún más la ya tambaleante posición de los Ee.uu. en el Kirguizistán , donde se ha considerado ese contrato una causa de corrupción que colmó las cuentas bancarias de dos dictadores sucesivos .  
+Aunque los investigadores del Congreso de los ee.uu. no encontraron pruebas de mordidas en relación con los contratos , sí que descubrieron ejemplos de falta de probidad y negligencia que , como mínimo , indican la disposición el Gobierno de los ee.uu. a pasar por alto procedimientos discutibles .  
+La mayor parte del combustible para la base procedía de Rusia y los principales concesionarios locales del contratista del Pentágono afirmaron falsamente que iba destinado al consumo civil interior , con lo que se le aplicaron unos aranceles de importación inferiores .  
+Dado el volumen de combustible para aviones a reacción , los participantes principales , incluidos compradores , vendedores y funcionarios de los Ee.uu. , conocían , evidentemente , o deberían haber conocido ese plan .  
+Sin embargo , desde el punto de vista del Pentágono , los contratistas hicieron exactamente lo que debían : suministrar el combustible a un precio razonable .  
+ésa es la razón por la que se renovó el contrato .  
+Pese a ser frágil y violento , Kirguizistán es el Estado más democrático de esa región y podría ser el aliado natural de los Estados unidos , pero este país , al aplicar una política exterior de estrechas miras , centrada en el combustible para los aviones a reacción , no se ha favorecido a sí mismo precisamente .  
+De hecho , esa política ha envalentonado a políticos prorrusos , que nada desearían más que ver a los americanos expulsados del Kirguizistán .  
+En torno a la base ha habido un intenso chalaneo .  
+En una reunión celebrada en febrero , la embajadora de los Ee.uu. en el Kirguizistán preguntó a su homólogo chino por los rumores de que China se había ofrecido a pagar 3.000 millones de dólares al Kirguizistán , si clausuraba la base americana .  
+Los dos diplomáticos estaban hablando en ruso .  
+" [ El embajador chino ] , visiblemente nervioso , perdió temporalmente la capacidad para hablar en ruso y empezó a farfullar en chino a su silencioso asistente , que tomaba notas justo detrás de él " , según un cable diplomático confidencial de los Ee.uu. obtenido por el sitio web Wikileaks . org .  
+La reunión se celebró sólo unos meses después de que Washington eludiera las presiones rusas a los kirguises para que cerraran la base .  
+En la reunión de los dos embajadores , el chino , experimentado , aconsejó a la americana que los Ee.uu. pagaran a los kirguises 150 millones de dólares al año para conservar la base .  
+" Entonces el silencioso joven asistente intervino , contra lo que es habitual , para decir : " O tal vez deberían darles 5.000 millones de dólares para comprarnos a nosotros y a los rusos " .  
+Después el asistente volvió a encerrarse en su mutismo ante la mirada horrorizada del embajador [ chino ] " .  
+Desde los ataques terroristas del 11 de septiembre de 2001 , el ejército de los Ee.uu. ha conseguido voz y voto desmedidos en la formulación de la política exterior de los Ee.uu. Dos guerras y unos cuantiosos presupuestos para la defensa han aportado al Pentágono fondos y facultades para hacer cosas de las que tradicionalmente se encargaban los diplomáticos .  
+En el Iraq , por ejemplo , jóvenes oficiales americanos se paseaban con manojos de billetes para comprar la lealtad de insurgentes vacilantes .  
+Ningún diplomático podría lograr esa clase de influencia .  
+Algo similar ocurrió también en el nivel más alto .  
+Según las conclusiones de un informe reciente de la Fundación de la sociedad abierta de george soros en el que se analiza el gasto para la defensa de los Ee.uu. en el Asia central a lo largo del pasado decenio , tan sólo en 2007 los Ee.uu. aportaron 145 millones de dólares en ayuda militar a la región , es decir , " seis veces más que la cantidad gastada por el Gobierno de los ee.uu. para fomentar el Estado de derecho , la gestión democrática de los asuntos públicos y el respeto de los derechos humanos fundamentales " .  
+El informe concluye que " el ejército de los Ee.uu. ha conseguido una influencia desmedida en la política exterior de los Ee.uu. en el Asia central " .  
+En ningún sitio resulta más visible esa realidad que en el Uzbekistán .  
+El Pentágono regentó una base militar en ese país hasta 2005 , año en que el régimen del Uzbekistán cometió una matanza con una multitud de personas que protestaban pacíficamente , con lo que colocó al Gobierno de los ee.uu. ante un dilema : hacer la vista gorda y conservar la base o hablar claro y ser expulsado .  
+Aunque algunos halcones pidieron que sólo se hiciera una crítica suave del régimen , los Ee.uu. no tenían otra opción que condenar la matanza y ser expulsados .  
+Una de las enseñanzas que se desprenden es la de que una política de seguridad desconectada de otras preocupaciones humanas en modo alguno es viable .  
+Unas bases dependientes de regímenes volubles no pueden ser un fundamento para la seguridad de los Estados unidos .  
+Durante el año pasado , los Ee.uu. volvieron al Uzbekistán - sin soldados esa vez , sólo con nuevas rutas de suministro para el mantenimiento de la guerra en el Afganistán - y , al parecer , están aplicando la misma política centrada en el ejército de antes de 2005 .  
+Los defensores locales y occidentales de la democracia dicen que los funcionarios de los Ee.uu. en el Uzbekistán han demostrado escaso interés en sus preocupaciones .  

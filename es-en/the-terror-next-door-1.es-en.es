@@ -1,0 +1,33 @@
+El terrorismo a las puertas  
+Nueva Delhi - Las consecuencias de los ataques terroristas de la semana pasada en Mumbai ya han sacudido a la India .  
+La profunda y prolongada furia en todo el país - contra su patente vulnerabilidad al terrorismo y las múltiples fallas institucionales que permitieron la pérdida de vidas - provocó las renuncias del Ministro del interior en el gobierno nacional y del Ministro en jefe y su segundo en el estado de Maharastra , cuya capital es Mumbai .  
+A medida que crecen las evidencias de que los ataques se planearon y dirigieron en Pakistán , se han intensificado los llamados a tomar acciones decisivas .  
+Pero , ¿ qué puede hacer la India ?  
+Los terroristas golpearon varios objetivos en Mumbai , tanto de manera literal como figurada .  
+Causaron muertes y destrucción con una impunidad casi total e hirieron el espíritu de la India al poner de manifiesto las limitaciones de su aparato de seguridad y al humillar a su gobierno .  
+Dejaron en entredicho la imagen de la India en el mundo como un gigante económico emergente , un ejemplo del éxito de la era de la globalización y un imán cada vez más poderoso para atraer inversionistas y turistas .  
+En cambio , se mostró al mundo una India insegura y vulnerable , un Estado blando acosado por enemigos que pueden atacarlo a placer .  
+Eso no fue todo .  
+Al elegir únicamente a estadounidenses , británicos e israelíes para sus actos malignos , los terroristas ampliaron la guerra islamista global contra " judíos y cruzados " a territorio nuevo .  
+Como acapararon la atención de los medios mundiales durante tres espantosos días , los asesinos lograron un éxito notable para su causa , que debe haber estremecido a los expertos antiterroristas en todo el mundo , quienes ahora se dan cuenta de lo fácil que resultaría para diez hombres sin temor a la muerte tomar como rehén a cualquier ciudad del mundo .  
+El interrogatorio del único terrorista que sobrevivió y las evidencias de la interceptación de teléfonos satelitales y otras fuentes de inteligencia han conducido a un incipiente consenso internacional de que los ataques fueron planeados por el grupo terrorista de inspiración wahabí Lashkar-e-taiba , que alguna vez fue patrocinado , protegido y entrenado por los servicios de inteligencia pakistaníes ( Isi , por sus siglas en inglés ) como un instrumento útil en su guerra indirecta contra la India en Cachemira .  
+Si bien el general Pervez musharraf tuvo que prohibir al grupo ante las presiones a que se vio sujeto después de los ataques terroristas del 11 de septiembre de 2001 , el Lashkar ( que considera a los Estados unidos , Israel y la India como " enemigos existenciales del Islam " ) simplemente se reagrupó bajo un nombre distinto y ahora es incluso más poderoso que antes .  
+Para el ejército pakistaní , los grupos de militantes son herramientas útiles para sangrar a sus adversarios en la India y Afganistán , y no ha estado muy dispuesto a tomar medidas enérgicas contra ellos , a pesar de que durante años ha hecho promesas en el sentido de que se emprenderían acciones para frenar sus actividades .  
+En julio de este año , las fuentes de inteligencia estadounidenses revelaron al público que el atentado suicida contra la embajada de la India en Kabul se había llevado a cabo a petición de la Isi .  
+Este episodio , junto con dos ocasiones en que el gobierno dio marcha atrás en sus intentos públicos por controlar a la Isi después de que el ejército los desdeñó , confirmaron que el gobierno en Islamabad es demasiado débil para enfrentarse a los militares todopoderosos .  
+De esta forma , si los Estados unidos y la India exigen , como lo harán , que Pakistán disuelva el Lashkar y otros grupos terroristas similares que han gozado de la protección militar en el pasado , que desmantele sus campos de entrenamiento , que congele sus cuentas de banco ( antes de que las pongan a otro nombre ) y que arreste a sus líderes , se enfrentarán a un rompecabezas típicamente pakistaní : el ejército no quiere y el gobierno civil no puede .  
+El gobierno de la India , que ha reaccionado ante atrocidades terroristas previas con calma y moderación , esta vez no tiene más remedio que responder con decisión .  
+Cualquier cosa que suene a un consentimiento o un intento de apaciguamiento exacerbará más al público a unos meses de que se celebren elecciones nacionales .  
+Pero el gobierno de la India tiene pocas opciones buenas .  
+Un ataque anterior contra el Parlamento de la india en diciembre de 2001 por la organización militante Jaish-e-muhammad basada en Pakistán casi desató una guerra abierta entre los dos países .  
+Al final , la India retiró a sus tropas de la frontera .  
+Si bien algunos radicales piden ahora acciones militares , incluyendo ataques contra las instalaciones terroristas en territorio pakistaní , ello conduciría con seguridad a una guerra que ninguno de los dos podría ganar .  
+Si acaso , tal reacción de la India convendría a los terroristas porque reforzaría el nacionalismo antiindio en Pakistán y distraería tropas de la zona fronteriza de Afganistán , donde ayudan a la Otan en su lucha contra los talibanes y Al qaeda .  Por este motivo , es probable que los Estados unidos presionen a la India para que no recurra a la fuerza puesto que eso socavaría los objetivos estadounidenses en Afganistán .  
+Y dado que tanto la India como Pakistán tienen armas nucleares , el riesgo de que las acciones militares se salgan de control es demasiado grave para que cualquier gobierno responsable las considere .  
+Sin embargo , no es posible no hacer nada .  
+Por lo tanto es probable que la India pida a los Estados unidos que utilicen su indudable influencia sobre Pakistán - los Estados unidos son grandes donantes de asistencia militar y económica para su aliado que está casi en quiebra - para exigir que tome medidas más duras contra los militantes en su territorio .  
+También es probable que los gobiernos de las víctimas de la masacre de Mumbai pidan cuentas a Islamabad .  
+Puede ser que Pakistán se enfrente a consecuencias diplomáticas y económicas desagradables si no hace nada .  
+Pero una presión excesiva tal vez únicamente lograría derrumbar al gobierno del presidente Asif ali zardari , que en lo personal ve con buenos ojos un acercamiento con la India , pero que sabe que todos sus predecesores civiles han sido derrocados .  
+Ante tales opciones , quizá el mundo se vea obligado a admitir su impotencia .  
+Eso tendrá un resultado escalofriante : mientras un Pakistán dominado por los militares siga protegiendo , de grado o por incapacidad , a los actores del terrorismo islamista , lo que sucedió en Mumbai podría volver a pasar - en cualquier parte .  

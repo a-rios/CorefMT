@@ -1,0 +1,38 @@
+The Operating System that Stole Christmas 
+Before asking for a new Windows PC this holiday season , remember the old adage : &quot; Be careful about what you wish for . &quot; 
+In the best of all worlds , we would all benefit from the so-called &quot; network effects &quot; that result from most people using the same software : everyone could easily communicate with each other and teach each other how to use the software efficiently . 
+Unfortunately , since Microsoft uses network effects to maximize its profits rather than to benefit users , the world it delivers is far from the best . 
+Consider Vista , yet another &quot; great &quot; new operating system that Microsoft rolled out this year , together with Office 2007 . 
+The first person at my company to use Vista was our Executive Vice-President . 
+He was furious . 
+Vista and Office 2007 came with his new Dell computer by default . 
+Dell didn &apos;t ask : &quot; Would you prefer the old versions of the operating system and MS Office that you know how to use ? &quot; 
+So our VP got a shiny new computer that he didn &apos;t know how to use : functions were rearranged , and keyboard shortcuts were different . 
+Think of the productivity cost of millions like him having to adjust to a new system . 
+Moreover , his coworkers couldn &apos;t read the Microsoft Word files that he sent them in the new . &quot; docx &quot; format . 
+They wrote back and asked him to resend files in the older . &quot; doc &quot; format - which might not have worked if he had inadvertently used some new-fangled formatting feature . 
+To be sure , Microsoft does provide a patch that allows old versions of Office to read the new . &quot; docx &quot; format . 
+But Microsoft doesn &apos;t publicize it - or warn you if your Office 2007 file is about to become incompatible with older versions . 
+While Microsoft could have kept the traditional . &quot; doc &quot; as its default format for MS Word , this would not have served its purpose : eventually , after enough of the world pays for Office 2007 , holdouts will be dragged along , kicking and screaming . 
+Then , in four or five years , Microsoft will begin our agony all over again . 
+Obviously , Microsoft owns its old software and can decide at what price to sell it - or whether to sell it at all . 
+More subtly , Microsoft can control expectations , which turn out to be self-fulfilling when network economies are substantial , as they are in software markets . 
+If everyone woke up tomorrow expecting that the world would shift to Apple within a year , sales of Windows would plummet . 
+Why buy a Windows machine when all your colleagues will own Macintoshes and can help you on them but not Windows , and when all the independent software developers will be programming for the Mac &apos;s new Leopard operating system ? 
+But that is not our world . 
+Whenever Microsoft rolls out a new operating system , the question is not whether you should switch , but when . 
+Adding new features can speed the transition , but what is necessary is only that the new system be incompatible with existing systems in certain respects , and that a sufficient number of people expect that it will become the new standard . 
+Of course , creating new software is costly . 
+The Nobel laureate Ronald Coase answered that question long ago . 
+According to &quot; the Coase Conjecture , &quot; a monopolist selling a durable good must sell it at marginal cost . 
+For Microsoft , the problem is that the marginal cost of software is zero . 
+As a result , Microsoft cannot extract anything close to its full monopoly rents unless it sells upgrades . 
+After all , even though Microsoft has a monopoly of primary sales of its software , copies sold in 2007 compete with those sold in 2006 . 
+So , by creating incompatibilities , some subtle and some obvious , that make its old software obsolete , Microsoft can sell its operating systems at high profit margins without fear that people will wait until the price drops . 
+The price will never drop , because Microsoft will just roll out a new system , again at high profit margins . 
+Microsoft has been in antitrust trouble for 15 years , and , despite the company &apos;s recent agreement with the European Union to license its source code , it will probably be in trouble again . 
+When that happens , I hope the antitrust authorities will consider a remedy that Ian Ayres , Hal Varian , and I devised . 
+Suppose Microsoft had to license its old software freely whenever it brings out a new version . 
+This would give the company an incentive to ensure that new versions are compatible with and significantly better than old versions - otherwise the new versions wouldn &apos;t sell , or at least not easily . 
+If Microsoft &apos;s new software had to compete successfully at least against its old software , we would know the world was improving . 
+In the meantime , I recommend installing the Microsoft patch to your old computer ( http : / / office.microsoft.com / en-us / word / HA100444731033.aspx ) and just suffering the devil you know . 

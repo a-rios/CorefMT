@@ -1,0 +1,30 @@
+¿ Se sale en dieciocho meses o en cien años ?  
+Bloomington , Indiana - Winston churchill una vez dijo que , en tiempos de guerra , la verdad era tan preciosa que necesitaba estar rodeada por un " guardaespaldas de mentiras " .  
+En la campaña presidencial de Estados unidos - y , tristemente , dentro del propio Irak hoy - la guerra iraquí puede no estar rodeada por un guardaespaldas de mentiras , pero ciertamente se rodeó de un vasto entorno de medias verdades partidarias , indiferencia cínica y testarudez desinformada .  
+Los demócratas de Estados unidos siguen manifestándose a favor de un retiro completo de las fuerzas estadounidenses de Irak en un lapso de 18 meses , a pesar del hecho de que ningún observador racional cree que las fuerzas iraquíes podrán , para entonces , asegurar las fronteras de Irak y enfrentar a las numerosas milicias del país , que siguen armadas hasta los dientes .  
+Por cierto , el plan demócrata ( si se lo puede llamar plan ) ignora la subversión en curso por parte de Irán de las instituciones estatales iraquíes , que seguirán a menos y hasta que se vuelvan lo suficientemente fuertes como para resistir estas maquinaciones .  
+Es más , la insistencia por parte de Barack obama en decir que Irak nunca constituyó un frente central en la guerra contra el terrorismo insulta la memoria de decenas de miles - tal vez cientos de miles - de civiles iraquíes y tropas estadounidenses asesinadas por los atacantes suicidas de Al qaeda desde 2003 .  
+De hecho , en 2004 , los propios terroristas consideraban a Irak como el frente central de su campaña .  
+Tampoco podemos dejarnos animar por los repetidos llamados de Joseph biden a una " partición suave " de Irak , aunque toda la clase política iraquí haya rechazado la idea .  
+En cuanto a los republicanos , dejando de lado los comentarios de Sarah palin de la misión divina de Estados unidos en la guerra contra el terrorismo , es inconcebible que John mccain verdaderamente crea que una presencia estadounidense sea sostenible en Irak en un futuro indefinido .  
+Para ser justos , Mccain nunca sugirió que las tropas estadounidenses entablarán 100 años de guerra , como sostienen algunos de sus críticos .  
+A lo que Mccain hacía referencia era a una presencia pacífica de las fuerzas estadounidenses en el país por un período prolongado , un poco como su presencia continuada en Japón desde 1945 .  
+Aún así , suponiendo incluso que el pueblo norteamericano toleraría una presencia de estas características , el pueblo iraquí no lo haría .  
+Estados unidos cometió demasiados errores en materia de políticas , las fuerzas estadounidenses están demasiado asociadas con una ocupación impopular e incompetente y , hasta hace poco , sus tácticas fueron demasiado agresivas como para que se pueda hablar de una presencia permanente .  
+Si bien la mayoría de los iraquíes entienden la necesidad de que haya fuerzas estadounidenses en su país en un corto plazo , no tolerará un despliegue permanente .  
+Los asesores de Mccain harían bien en considerar un precedente histórico : el fallido intento británico al final de la Primera guerra mundial de mantener una presencia militar prolongada en Irak .  
+Los políticos iraquíes no han estado exentos de adoptar una postura para obtener un rédito político .  
+El gobierno cometió una cantidad de desatinos en sus negociaciones sobre la presencia continua de las tropas estadounidenses .  
+De hecho , este verano se inyectó en las elecciones estadounidenses al respaldar aparentemente el plan de Obama de un retiro temprano .  
+Luego nuevamente , durante tres años consecutivos , el asesor de seguridad nacional de Irak - un médico sin credencial alguna para el trabajo cuando fue nombrado por la autoridad de ocupación estadounidense , excepto que hablaba un inglés tolerable - insistió en que el año siguiente sería el último en el que se necesitarían tropas estadounidenses .  
+El gobierno de Irak exige un cronograma de retiro por parte de Estados unidos , no porque crea que las fuerzas iraquíes vayan a estar listas para asumir el control pronto , sino para sacarles brillo a sus credenciales nacionalistas en vista de las elecciones parlamentarias del año próximo .  
+Por lo tanto , espera desviar la atención pública de otros temas como servicios básicos todavía inexistentes , un continuo sectarismo , una producción petrolera débil , una escasa inversión en infraestructura y un nivel de corrupción y cronismo rampante .  
+Todavía está por verse si esta estrategia logrará o no opacar el historial de fracasos del gobierno en la mente de los votantes .  
+El problema ahora para los políticos iraquíes y estadounidenses es que , para actuar racionalmente , necesitarán enfrentar elementos dentro de sus propios electorados .  
+Deben reconocer que una presencia a largo plazo de las tropas estadounidenses está fuera de discusión , pero que serán necesarias fuerzas de combate estadounidenses en Irak - aunque sea con un papel más reducido - en los próximos cinco años .  
+Sólo una presencia semejante puede consolidar los réditos palpables , pero aún reversibles , obtenidos en el último año .  
+Una fuerza de esas características es necesaria para seguir persiguiendo a Al qaeda y para contrarrestar las actividades pro-iraníes .  
+Poner fin a la participación norteamericana antes de que los iraquíes puedan lograr estos objetivos por su cuenta sería desastroso para los intereses tanto de Estados unidos como de Irak .  
+Mientras tanto , las fuerzas estadounidenses deben respaldar los esfuerzos iraquíes para fortalecer a las propias fuerzas militares y de seguridad del país , desmantelando simultáneamente a todas las milicias .  
+Las milicias de Irak no tendrán una actitud pacífica , pero su disolución es esencial para la estabilidad a largo plazo , en sí misma una condición sine qua non para la estabilidad en la región .  
+Cuando se logren estas misiones - pero no antes - las fuerzas estadounidenses deberían retirarse de Irak .  

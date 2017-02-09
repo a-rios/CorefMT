@@ -1,0 +1,33 @@
+China ante el desafío de las tasas de interés  
+Nueva York - La transformación exitosa de China de un país de medio ingreso a uno moderno y de altos ingresos dependerá en gran medida de las reformas que el gobierno emprenda a lo largo de la siguiente década .  
+Las reformas financieras deberían ser las primeras en la lista , empezando por la liberalización de la tasa de interés .  
+Sin embargo , liberalizar las tasas de interés dummy-nonhum conlleva riesgos y ventajas , y dummy-nonhum creará asimismo ganadores y perdedores , por lo que , los responsables del diseño de políticas deben ser prudentes en la forma de abordarlas .  
+En 2012 , el Banco popular de china ( Bpc ) permitió a los bancos comerciales establecer tasas de interés variables sobre los depósitos superiores a 10 % del nivel de referencia , y sobre los créditos bancarios inferiores al 20 % .  
+Así pues , si el Bpc establece la tasa de interés anual de depósitos al 3 % , los bancos comerciales pueden ofrecer a los depositantes una tasa de hasta 3.3 % .  
+Muchos analistas vieron esta política , que introdujo algo de competencia entre bancos comerciales , como una señal de que China pronto haría una mayor liberalización de las tasas de interés .  
+No obstante , cualquier medida con miras a liberalizar las tasas de interés debe tomar en cuenta todos los costos y beneficios potenciales .  
+Los responsables chinos del diseño de políticas deberían empezar a hacer un análisis minucioso de los efectos de la actual represión financiera ( la costumbre de mantener las tasas de interés por debajo del nivel de equilibrio del mercado ) .  
+El grado de represión financiera en un país se puede estimar calculando la diferencia entre la tasa de crecimiento nominal promedio del Pib y la tasa de interés dummy-I promedio a largo plazo , si la diferencia resultante es mayor indicaría una represión más fuerte .  
+En los últimos veinte años esta diferencia ha sido de ocho puntos porcentuales para China ; de alrededor de cuatro puntos porcentuales promedio para las economías emergentes y de casi cero para gran parte de las economías desarrolladas , en un contexto de tasas de interés totalmente liberalizadas .  
+Los bancos centrales de los países en desarrollo mantienen las tasas de interés artificialmente bajas para asegurar al sector público financiamiento suficiente de bajo costo , y al mismo tiempo , evitar enormes déficits fiscales y una fuerte inflación .  
+Sin embargo , en el largo plazo , estas tasas de interés bajas también pueden desalentar el ahorro en las familias , lo que conduce a una inversión insuficiente del sector privado y en última instancia a una falta de inversión en la economía en general , como dummy-it ocurrió en muchos países de América latina en el pasado .  
+En muchos sentidos , China está rompiendo el molde .  
+A pesar de la severa represión financiera , ha tenido enormes tasas de ahorro e inversión , debido principalmente a la fuerte tendencia de las familias chinas a ahorrar , y a la masiva inversión orientada por el gobierno , en particular de los gobiernos locales .  
+Los efectos perjudiciales de la represión financiera en China se reflejan principalmente en su-pl desequilibrios económicos .  
+Las bajas tasas de interés sobre los depósitos incentivan a los ahorradores , en especial las familias , a invertir en activos fijos , en lugar de dejar su-pl dinero en el banco .  
+Esto conduce a una capacidad excesiva en algunos sectores - que se refleja , por ejemplo , en la creciente burbuja inmobiliaria de China - e inversión insuficiente en otros .  
+Más importante , la represión financiera está contribuyendo a una disparidad creciente entre las empresas propiedad del Estado y las pequeñas y medianas empresas ( Pymes ) , pues las primeras se benefician de tasas de interés artificialmente bajas de los bancos comerciales , pero las pymes se ven obligadas a pagar tasas de interés extremadamente altas en el sistema bancario paralelo ( o sin poder acceder al financiamiento externo ) .  
+La liberalización de las tasas de interés - junto con otras reformas financieras - ayudaría a mejorar la asignación de capital y optimizar la estructura económica .  
+También dummy-it sería un prerrequisito para el fortalecimiento de los mercados financieros chinos , en particular el mercado de bonos , lo que sentaría bases firmes para la flotación de la tasa de cambio del renminbi y una mayor apertura de las cuentas de capital y financieras chinas - condición previa para una posible adopción del renminbi como moneda internacional de reserva .  
+Las pymes y las familias con ahorros netos son los que más se beneficiarían de la liberalización de las tasas de interés .  
+Pero los " ganadores " de la represión financiera - bancos comerciales y empresas propiedad del Estado - dummy-they encararán nuevos desafíos .  
+Bajo el sistema actual , los diferenciales fijos entre las tasas de interés de depósitos y las de los créditos , se traducen en beneficios monopólicos para los bancos comerciales .  
+( Los tres puntos comerciales diferenciales que los bancos chinos han disfrutado están aproximadamente al mismo nivel que su-pl países pares desarrollados ) .  
+Al crear más competencia en los intereses de ingresos y reducir los diferenciales netos de las tasas de interés , la liberalización de las tasas de interés podría disminuir los rendimientos de los bancos , mientras que las empresas propiedad del Estado probablemente serían las más afectadas debido a costos de financiamiento mucho más elevados .  
+Otro riesgo importante de la liberalización de las tasas de interés en China tiene que ver con el aumento de la deuda pública , en particular , la local , que ha crecido significativamente a raíz de la crisis financiera global .  
+Un parámetro clave para determinar la sostenibilidad a largo plazo de la deuda pública es la diferencia entre las tasas de interés y la tasa de crecimiento nominal del Pib .  
+En China , la deuda pública global asciende actualmente a 60%-70 % del Pib - una carga manejable .  
+Pero se prevé que después de la liberalización de las tasas de interés , la proporción de la deuda del sector público con el Pib aumente sustancialmente .  
+Vistos estos desafíos , los dirigentes chinos deben adoptar un enfoque prudente hacia la liberalización de las tasas de interés .  
+La aplicación gradual debe permitir a los perdedores ajustar su-pl conducta antes de que sea demasiado tarde , y al mismo tiempo mantener el impulso de las reformas cruciales , que deberían ser la principal prioridad de los responsables del diseño de políticas .  
+Después de todo , como señaló el primer ministro , Li keqiang , " las reformas darán los mayores dividendos a China " .  

@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="VM" ord="s1.1">Luchar</tree><tree label="cd"><tree label="NP" ord="s1.2">Contra_la_inflación_promueve_el_crecimiento</tree></tree></tree></tree> 

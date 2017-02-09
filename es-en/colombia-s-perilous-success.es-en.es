@@ -1,0 +1,25 @@
+El peligroso éxito de Colombia  
+Los últimos meses han sido muy buenos para el Presidente colombiano álvaro uribe .  
+Su política de " Seguridad democrática " hoy parece haber dado vuelta definitivamente el tablero en la lucha del país contra las Fuerzas armadas revolucionarias de colombia ( Farc ) , ya que varios sus líderes han sido eliminados y una cantidad de rehenes que tenía en su poder han sido liberados .  
+Uribe también ha demostrado ser un sólido administrador económico , atrayendo crecientes flujos de inversión directa a Colombia .  
+Sin embargo , el éxito pone a Uribe ante una nueva serie de retos que arriesgan deshacer la mayor parte de lo que ha logrado .  
+El primer reto , y el más tangible , es que Uribe - con una popularidad de más del 90 % tras el rescate de 15 rehenes de alto perfil , incluida la ex candidata presidencial Ingrid betancourt , a principios de julio - estará expuesto a una mayor tentación de postularse a un tercer periodo .  
+Esto no sería catastrófico per se , pero enmendar la constitución nuevamente para favorecer a uno de los actores socavaría la relativamente sólida institucionalización política del país , que es uno de los factores que han ayudado a atraer inversionistas extranjeros .  
+Cambiar las reglas del juego para impulsar su poder personal contribuiría a perpetuar las debilidades , socavaría la obligación de las autoridades de hacerse responsables de sus actos ante el país , e impediría que importantes políticas de gobierno se conviertan en políticas de estado .  
+Sólo cabe esperar que Uribe haya aprendido las lecciones de los experimentos fallidos que se han intentado en la región para lograr terceros mandatos ( vienen a la mente Alberto fujimori en Perú y Carlos menem en Argentina ) y deje la presidencia con la frente muy en alto .  
+Si lo hace , probablemente se lo recuerde como uno de los presidentes colombianos más influyentes y exitosos , y puede esperar hacer carrera como estadista regional e internacional .  
+Lo que es quizás más importante es que si Uribe dejara el mando tras su periodo actual , todavía tendría un importante poder interno , jugando un papel significativo en la elección de su sucesor - sea quien sea su elegido , tiene una muy buena oportunidad de ganar - y en impulsar las perspectivas de sus partidarios políticos en las elecciones legislativas .  
+Si bien el resultado del primer reto descansa únicamente en los hombros de Uribe , existen dos más que están vinculados a la reacción de las Farc a los últimos acontecimientos : si escoge negociar o prefiere proseguir su lucha armada .  
+Bajo el primer escenario , Uribe se enfrenta al peligro de verse empujado a un proceso de paz " débil " o " sin condiciones " .  
+Por más de seis años , el gobierno se ha resistido a los llamados a negociar con las Farc , negándose a los pedidos del grupo de desmilitarizar una zona , rechazando los intentos de acercamiento y exigiendo la liberación de todos los rehenes y un alto al fuego como condición para iniciar conversaciones .  
+El problema es que unas Farc debilitadas pueden exponer al gobierno a una presión popular para que inicie negociaciones , incluso si no declaran un alto al fuego .  
+En tal caso , las Farc podrían usar las conversaciones de paz - como lo han hecho varias veces en el pasado - para ganar tiempo que les permita rearmarse y reagruparse .  
+Durante los últimos años , las Farc , muchos de cuyos líderes creen que " ganan " simplemente al prolongar el conflicto , han estado buscando maneras - por ejemplo , un intercambio humanitario y el reconocimiento político - de reducir la presión militar que han enfrentado desde que Uribe llegara al poder .  
+El peligro , entonces , es no dar un golpe de gracia en momentos que la organización parece estar desintegrándose .  
+No obstante , continuar la lucha plantea una seria amenaza al principal éxito de Uribe , que es el haber mejorado las percepciones de seguridad , también entre los inversionistas .  
+Las Farc , hoy heridas y arrinconadas , pueden decidir que su única opción es pasar a la ofensiva para demostrar que siguen siendo importantes y fuertes .  
+Aunque sus capacidades han disminuido seriamente en los últimos seis años y su dispersión geográfica las ha alejado de los principales centros poblados , una serie de ataques de alto perfil contra objetivos civiles y económicos en las principales ciudades bastaría para afectar la impresión de seguridad en el país .  
+También es preocupante el hecho de que ésta sea una posibilidad si las Farc se dividen y una parte decide negociar , mientras que los comandantes de línea dura deciden seguir combatiendo .  
+Si Uribe deja el poder , es probable que quienquiera que lo suceda mantenga la mayor parte de sus políticas y prosiga su trabajo de fortalecimiento de la seguridad en el país .  
+Los inversionistas sabrán que Colombia no es un asunto unipersonal y que son reales la tan mentada institucionalización y los contrapesos y equilibrios del sistema político .  
+Fortalecer el estado y promover una economía estable y en crecimiento serían también el mejor varapalo a las Farc y su estrategia de ganar tiempo .  

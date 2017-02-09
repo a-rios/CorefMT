@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">Lo</tree></tree><tree label="AQ">fantasmagórico</tree></tree><tree label="sp"><tree label="SP">de</tree><tree label="sn"><tree label="spec"><tree label="DA">la</tree></tree><tree label="NC">realidad</tree></tree></tree></tree></tree> 

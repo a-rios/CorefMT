@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">La</tree></tree><tree label="NC">oportunidad</tree></tree><tree label="S"><tree label="AQ">perdida</tree></tree></tree><tree label="sp"><tree label="SP">del</tree><tree label="sn"><tree label="NP">Fmi</tree></tree></tree></tree></tree> 

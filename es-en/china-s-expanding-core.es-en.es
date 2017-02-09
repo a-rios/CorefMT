@@ -1,0 +1,32 @@
+El creciente núcleo de intereses fundamentales de China  
+Tokio - China está embarcada en agrias disputas con Filipinas sobre el atolón Scarborough y Japón sobre las islas Senkaku , situados ambos mucho más allá de las 200 millas de aguas territoriales chinas en el Mar de la china meridional .  
+De hecho , hoy en día las alegaciones de China son tan ambicionas que muchos asiáticos se preguntan qué va a satisfacer su deseo de de asegurar sus " intereses fundamentales " .  
+¿ No hay límites , o la China de hoy se concibe a sí misma como un Imperio medio resucitado ante el que el mundo entero debe postrarse ?  
+Hasta ahora , China se ha referido oficialmente a Taiwán , el Tíbet y la provincia de Xinjiang como " intereses fundamentales " , frase que connota una afirmación de la soberanía nacional y la integridad territorial que no admite concesiones .  
+Ahora está tratando de aplicar el mismo término a las Islas senkaku en su disputa con Japón , y está peligrosamente cerca de hacer el mismo reclamo para todo el Mar de la china meridional ; de hecho , algunos altos militares chinos ya lo han planteado así .  
+Las Islas senkaku , ubicadas al oeste de Okinawa en el Mar de la china meridional y actualmente deshabitadas , fueron incorporadas al Japón por el gobierno Meiji en 1895 .  
+Hubo un tiempo en que las habitaron residentes que trabajaban en un centro de secado de bonito .  
+En 1969 , la Comisión económica de las naciones unidas para Asia y el Lejano oriente ( Cealo ) llevó a cabo un estudio del lecho marino de dicho mar e informó de la posible presencia de vastos recursos minerales subterráneos , entre ellos abundantes reservas de petróleo y gas natural cerca de las Senkakus .  
+No pasaron dos años antes de que , en 1971 , Taiwán y China reclamaran la soberanía sobre las islas , pero la postura del gobierno japonés ha sido siempre que su soberanía no está en duda .  
+En abril , Shintaro ishihara , gobernador de Tokio y famoso y elocuente patriota , anunció que el gobierno metropolitano que encabeza tiene la intención de adquirir cuatro de las Islas senkaku , que actualmente son propiedad privada de ciudadanos japoneses .  
+Las donaciones del pueblo japonés para la compra han superado al día de hoy los 700 millones de yenes ( $ 8,4 millones ) .  
+China reaccionó a la propuesta de Ishihara con su susceptibilidad habitual : se negó a recibir la visita programada de su hijo , Secretario general del partido liberal democrático de japón , principal partido opositor del país .  
+Por otra parte , en una reunión en Beijing a principios de este mes entre el primer ministro japonés Yoshihiko noda y el premier chino Wen jiabao , en el marco de una cumbre trilateral con Corea del sur , Wen mencionó juntos el movimiento de independencia en la Región autónoma uigur de xinjiang y las Islas senkaku .  
+" Es importante respetar los intereses fundamentales y los temas de mayor preocupación de China " , enfatizó .  
+Hasta ese momento , el gobierno chino nunca había usado el término " interés fundamental " para las Islas senkaku .  
+Tras la declaración de Wen , la cumbre trilateral se deterioró .  
+Si bien el presidente surcoreano Lee myung-bak sostuvo conversaciones bilaterales con presidente chino Hu jintao , se cancelaron las conversaciones entre Noda y Hu y una reunión prevista entre el presidente de la patronal japonesa Hiromasa yonekura y el canciller chino Yang jiechi .  
+La declaración conjunta emitida en la cumbre se retrasó un día y omitió toda referencia a Corea del norte , una importante preocupación de Japón y Corea del sur .  
+El brusco trato de China a las autoridades japonesas probablemente se pensó como una reprimenda no sólo por las Islas senkaku , sino también por haber acogido en mayo la Cuarta reunión general del congreso mundial uigur en Tokio .  
+Anteriormente , esas reuniones se habían celebrado en Alemania y Estados unidos y este encuentro , que destacó la importancia de proteger los derechos humanos y preservar las tradiciones , la cultura y el idioma del pueblo uigur , no recibió sanción ni aprobación oficial por parte del gobierno japonés .  
+Si una diplomacia no muy fina fuera la única manifestación de las amplias reivindicaciones territoriales de China , los líderes asiáticos podrían dormir con más tranquilidad .  
+Pero el hecho es que la armada china está volviéndose cada vez más activa en el Mar de china meridional , en particular cerca de las islas Senkaku y el atolón Scarborough , y también alrededor de las Islas spratly reclamadas por Vietnam .  
+Teniendo en cuenta el rápido aumento del presupuesto militar de China y su secretismo , esto ha generado alarma entre los demás países ribereños del Mar de la china meridional .  
+Además , la actitud intimidatoria de China hacia Filipinas ha incluido no solo el envío de buques de guerra al atolón Scarborough , sino también la repentina imposición de restricciones a la importación de productos filipinos .  
+Y las reacciones de China hacia Japón son mucho más paranoicas desde que asumiera el poder un gobierno no perteneciente al Pld .  
+Las pugnas de poder dentro del gobernante Partido comunista de china en torno a la purga de Bo xilai y el escape del activista ciego Chen guangcheng tras su detención durante las conversaciones económicas con Ee.uu. han hecho que las declaraciones de los gobernantes nacionalistas chinos sean todavía más estridentes que lo habitual .  
+Ningún funcionario quiere parecer blando cuando se tocan los supuestos " intereses fundamentales " de China .  
+Hasta el momento , China no ha desatado la clase de manifestaciones de masas contra Japón y otros países que ha utilizado en el pasado para expresar su descontento .  
+Pero esto probablemente refleje el nerviosismo de sus gobernantes tras la purga de Bo : no pueden garantizar que una manifestación antijaponesa no acabe por convertirse en una protesta contra el gobierno .  
+Los verdaderos intereses fundamentales de China no están en la expansión territorial y la hegemonía sobre sus vecinos , sino en la defensa de los derechos humanos y la mejora del bienestar de sus propios ciudadanos , que son a su vez los intereses centrales del mundo sobre China .  
+Hasta que acepte que sus reivindicaciones territoriales en el Mar de china meridional se deben discutir multilateralmente , de modo que los países más pequeños como Filipinas y Vietnam no se sientan amenazados , sus cada vez más amplios " intereses fundamentales " no harán más que causar inestabilidad en el este de Asia .  

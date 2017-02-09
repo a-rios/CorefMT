@@ -1,0 +1,28 @@
+El bienestar estadounidense desde 1979  
+Berkeley - Se suele decir que desde 1979 ( el punto cúlmine del último ciclo económico antes de que Ronald reagan asumiera como Presidente ) el crecimiento económico en los Estados unidos ha beneficiado abrumadora y exclusivamente a los ricos y que los salarios reales ( ajustados a la inflación ) , los ingresos y los estándares de vida de sus hogares pobres y de clase media de Estados unidos han aumentado de manera irrelevante , en el mejor de los casos .  
+Si bien el Pgb real per cápita anual ha crecido un 72 % , de $29.000 a $50.000 ( en precios de 2009 ) , casi todo este crecimiento ha beneficiado a quienes ocupan hoy la capa más alta de la distribución del ingreso de Ee.uu.  
+Todo esto es cierto , pero hay algunas consideraciones importantes .  
+Una de ellas se encuentra en el informe Distribución de los impuestos federales y los Ingresos de los hogares , publicado el año pasado por la Oficina presupuestaria del congreso de ee.uu.  
+( Cbo , por su sigla en inglés ) .  
+El ingreso real después de impuestos del quintil más bajo de los hogares estadounidenses fue un 49 % más alto en 2010 que en 1979 , creciendo a un promedio del 1,3 % por año .  
+El ingreso después de impuestos para los tres quintiles medios en 2010 fue un 40 % más alto , equivalente a un crecimiento promedio anual del 1,1 % .  
+No hay duda de que los percentiles 81 al 99 subieron en un 64 % su ingreso después de impuestos y el 1 % superior lo hizo en un 201 % , lo que representa una tasa de crecimiento anual promedio de un 3,6 % , mucho mayor que cualquier otro grupo de ingresos .  
+Y ahora que la recuperación también se concentra en los ricos , es muy probable que el 1 % superior de estadounidenses se esté acercando a un aumento acumulado del 300 % desde 1979 .  
+Pero los aumentos reales del ingreso de un 1,3 % para los quintiles medios y un 1,1 % para el inferior no son exactamente poca cosa , ¿ no ?  
+La brecha con la tasa de crecimiento promedio anual del 1,6 % del Pgb per cápita es pequeña , ¿ no es así ?  
+Sí y no .  
+Los optimistas ( o los partidarios ) podrían argumentar que , aunque el ingreso de mercado se ha vuelto evidentemente más desigual desde 1979 , en un contexto en que partes de la mitad inferior de la distribución del ingreso han perdido posiciones absolutas en cuanto a ingreso real y la tributación se ha vuelto menos progresiva , el crecimiento del estado de bienestar ha moderado sustancialmente este aumento de la desigualdad .  
+Pero si miramos la tasa de crecimiento anual del 1,3 % de ingreso real después de impuestos que calcula el Cbo para el quintil inferior , 0,9 puntos porcentuales se originan en el crecimiento de programas de financiación de la atención de salud , como Medicare , Medicaid y el Programa de estatal de seguros de salud para Niños .  
+El Cbo considera la totalidad de ese crecimiento como un aumento del ingreso real después de impuestos de los hogares pobres estadounidenses , pero no se trata de dinero que ellos puedan gastar , por lo que se debería hacer algún tipo de ajuste a la baja .  
+Más aún , solo la mitad de estos gastos se expresan como más atención de salud recibida por los beneficiarios de los programas ; la otra mitad va al sistema de financiación general de salud estadounidense y cubre servicios que antes no estaban pagados .  
+Y el sistema de atención de salud de Estados unidos exhibe una ineficiencia poco común : otros países de la Ocde obtienen más en términos de salud y servicios de atención sanitaria por cada dólar que gastan que lo que Estados unidos obtiene por cada $2 que gasta .  
+Como resultado , una mejor estimación del aporte de la ampliación de los programas de atención de salud pública estadounidenses al bienestar del país sería apenas 0,02 puntos porcentuales por año .  
+De allí la necesidad de algo como el mandato individual de seguro de salud de la Ley de protección al Paciente y Cuidado de salud asequible ( " Obamacare " ) , o bien hacer de tripas corazón y adoptar un sistema de pago único para financiar la atención de salud .  
+Cualquiera sea la opción que se tome , Estados unidos necesita algo comparable al valor que otros países de la Ocde logran obtener de sus enormes gastos en salud .  
+Francamente , tengo la opinión dividida en lo relacionado con los crecientes programas públicos de salud y la desigualdad .  
+Hay días en que pienso que lo importante es que el bienestar material desde 1979 ha crecido en un 0,5 % al año para los estadounidenses pobres , en comparación con el 4 % al año para los ricos ( y un 6 % para los súper ricos ) .  
+Esto se debe a que la mayor parte de la expansión no equivale a un mayor ingreso para los pobres en ningún sentido razonable y porque Estados unidos saca relativamente poco partido a lo que gasta en salud .  
+Sin embargo , hay otros días en que me parece que lo esencial es algo muy diferente .  
+En 1979 , los estadounidenses pobres estaban tan a la zaga de las democracias sociales de la Ocde en términos sanitarios y de atención de salud que incluso si cada dólar adicional generaba solo $0,25 de servicios de atención de salud reales , equivalía a cerca de un dólar para los pobres en términos de bienestar material .  
+Desde este ángulo , la expansión de los programas estadounidenses de atención de salud ha mantenido ( si se mide adecuadamente ) el bienestar material de sus pobres en una tendencia ascendente desde 1979 , a un ritmo no mucho menor al Pgb per cápita .  
+Pero la cobertura de atención de salud y las brechas de financiación que existían en Estados unidos en 1979 hacían que fuera un lugar mucho más desigual que lo indicado por los datos de distribución del ingreso .  

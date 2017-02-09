@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="NP">Rusia</tree><tree label="S"><tree label="^lS"><tree label="f"><tree label="Fc">,</tree></tree><tree label="VM">conócete</tree></tree><tree label="cd"><tree label="SP">a</tree><tree label="sn"><tree label="NP">tí</tree><tree label="s.a"><tree label="AQ">misma</tree></tree></tree></tree></tree></tree></tree> 

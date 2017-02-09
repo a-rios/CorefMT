@@ -1,0 +1,40 @@
+El año del desarrollo sostenible  
+Nueva York - El año 2015 será la mayor oportunidad de nuestra generación para hacer avanzar el mundo hacia un desarrollo sostenible .  
+Tres negociaciones de alto nivel entre los meses de julio y diciembre pueden reorganizar el programa mundial de desarrollo y dar un importante impulso a cambios decisivos en el funcionamiento de la economía mundial .  
+Con el llamamiento del Secretario general de las naciones unidas , Ban ki-moon , en pro de la adopción de medidas en su informe " La senda a la dignidad " , el Año del desarrollo sostenible ha comenzado .  
+En julio de 2015 , los dirigentes del mundo se reunirán en Addis abeba ( Etiopía ) para formular las reformas del sistema financiero .  
+En septiembre de 2015 , volverán a reunirse para aprobar los Objetivos de desarrollo sostenible ( Ods ) a fin de que guíen las políticas nacionales y mundiales hasta 2030 y , en diciembre de 2015 , los dirigentes se reunirán en Paris para aprobar un acuerdo mundial encaminado a evitar los peligros en aumento del cambio climático inducido por el hombre .  
+El objetivo fundamental de esas cumbres es el de poner el mundo rumbo al desarrollo sostenible o el crecimiento sostenible y no excluyente , lo que quiere decir un crecimiento que aumente los niveles de vida medios , beneficie a la sociedad en toda su distribución de la riqueza , en lugar de hacerlo sólo a los ricos , y proteja - en lugar de destrozar - el medioambiente natural .  
+La economía mundial es bastante válida para lograr el crecimiento económico , pero falla a la hora de velar por que sea medioambientalmente sostenible y se comparta equitativamente la prosperidad .  
+La razón es sencilla : las mayores empresas del mundo persiguen implacable y bastante logradamente sus propios beneficios , con demasiada frecuencia a expensas de la equidad económica y del medio ambiente .  
+La obtención del máximo beneficio no garantiza una distribución razonable de la renta ni un planeta seguro .  
+Al contrario , la economía mundial está dejando atrás a un gran número de personas , también en los países más ricos , mientras que el propio planeta Tierra padece una amenaza sin precedentes , por el cambio climático causado por el hombre , la contaminación , el agotamiento del agua y la extinción de innumerables especies .  
+La premisa de la que parten los Ods es la necesidad de un rápido cambio transcendental .  
+Como dijo John f. kennedy hace medio siglo : " Al determinar nuestro objetivo más claramente , al hacer que parezca más viable y menos remoto , podemos ayudar a todas las personas a verlo , a sentir la esperanza que entraña y a avanzar irresistiblemente hacia él " .  
+ése es el mensaje esencial de Ban a los Estados miembros de las Nn .  
+Los fines principales de los Ods ya están acordados .  
+Una comisión de la Asamblea general de las nn .  
+La Asamblea general en conjunto se ha pronunciado a favor de esas prioridades .  
+El paso decisivo que falta es el de convertirlas en un conjunto viable de objetivos .  Cuando se propusieron los Ods por primera vez en 2012 , los miembros de las Nn .  
+Uu . dijeron que debían " estar orientados a la adopción de medidas " , ser " fáciles de comunicar " y " de número limitado " , y muchos gobiernos se mostraron partidarios de un total de tal vez entre diez y doce objetivos que abarcaban los 17 sectores prioritarios .  
+La consecución de los Ods requerirá una reforma profunda del sistema financiero mundial , objetivo primordial de la Conferencia sobre la Financiación para el Desarrollo .  
+Hay que dedicar los recursos que se emplean en los conflictos armados , los que escapan por los resquicios fiscales para los ricos y los desembolsos respilfarradores destinados al desarrollo de nuevas extracciones de petróleo , gas y carbón a atender prioridades como , por ejemplo , la salud , la educación y la energía con escasas emisiones de carbono , además de adoptar medidas más enérgicas para luchar contra la corrupción y la fuga de capitales .  
+En la cumbre que se celebrará en el próximo mes de julio se intentará conseguir un compromiso de los gobiernos del mundo para asignar más fondos a necesidades sociales .  
+Además , se buscarán formas mejores de velar por que la ayuda para el desarrollo llegue a los pobres , aprovechando las enseñanzas que se desprenden de programas logrados como , por ejemplo , el Fondo mundial de lucha contra el Sida , la Tuberculosis y el Paludismo .  
+Una de esas innovaciones debería ser un nuevo Fondo mundial para la Educación , para velar por que los niños de todas partes puedan asistir a la escuela al menos hasta el final del segundo nivel .  
+También necesitamos formas mejores de encauzar el dinero privado con miras a unas infraestructuras sostenibles , como , por ejemplo , la energía eólica y solar .  
+Esos objetivos están a nuestro alcance .  
+De hecho , son la única forma de que disponemos para poner fin al derroche de billones de dólares en burbujas financieras , guerras inútiles y formas de energía medioambientalmente destructivas .  
+El éxito en los próximos meses de julio y septiembre dará impulso a las decisivas negociaciones sobe el cambio climático que se celebrarán en París el próximo mes de diciembre .  
+El debate sobre el calentamiento planetario inducido por el hombre ha sido aparentemente inacabable .  
+En los 22 años transcurridos desde que el mundo firmó la Convención marco de las naciones unidas sobre el Cambio climático en la Cumbre de la tierra celebrada en Río , ha habido demasiado pocos avances con miras a la adopción de medidas reales .  
+A consecuencia de ello , es probable que 2014 sea el año más cálido en la historia registrada , un año que también ha traído sequias devastadoras , inundaciones , tormentas con graves consecuencias y olas de calor .  
+En 2009 y 2010 , los gobiernos del mundo acordaron mantener el aumento de la temperatura mundial por debajo de dos grados centígrados respecto de la era preindustrial .  
+Sin embargo , el calentamiento va camino de alcanzar entre cuatro y seis grados al final de este siglo , lo bastante alto para devastar la producción mundial de alimentos y aumentar espectacularmente la frecuencia de los fenómenos meteorológicos extremos .  
+Para no superar el limite de los dos grados , los gobiernos del mundo deben adoptar un concepto fundamental : el de la " descarbonización profunda " del sistema energético del mundo , lo que significa un cambio decisivo de las fuentes energéticas que emiten carbono , como el carbón , el petróleo y el gas , para substituirlas por las energías eólica , solar , nuclear e hidroeléctica , además de adoptar las tecnologías de captura y almacenamiento de carbono cuando se sigan utilizando los combustibles fósiles .  
+La sucia energía con altas emisiones de carbono debe ceder el paso a la energía limpia con escasas o nulas emisiones de carbono y se debe utilizar toda la energía mucho más eficientemente .  
+Un acuerdo logrado sobre el clima en el próximo mes de diciembre debe reafirmar el límite de los dos grados de calentamiento , incluir compromisos de " descarbonización " nacional hasta 2030 y " trayectorias " ( o planes ) de descarbonización profunda hasta 2050 , lanzar un empeño mundial en gran escala por parte de los gobiernos y las empresas para mejorar los resultados operativos de las tecnologías energéticas con escasas emisiones de carbono y prestar ayuda fiable y en gran escala a los países más pobres que afrontan problemas climáticos .  
+Los Estados unidos , China y los miembros de la Unión europea y otros países ya están indicando su intención de avanzar en la dirección correcta .  
+Los Ods pueden brindar una vía hacia el desarrollo económico tecnológicamente avanzado , socialmente justo y medioambientalmente sostenible .  
+Un acuerdo en las tres cumbres del año próximo no garantizará el éxito del desarrollo sostenible , pero , desde luego , dichas cumbres pueden orientar la economía mundial en la dirección idónea .  
+No volveremos a tener esa oportunidad en nuestra generación .  

@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="NP" ord="s1.1">Japón</tree><tree label="conj"><tree label="CC" ord="s1.2">y</tree></tree></tree><tree label="sn"><tree label="spec"><tree label="DP" ord="s1.3">su-nonhum-sg</tree></tree><tree label="NP" ord="s1.4">Vecinos_después_de_yasukuni</tree></tree></tree></tree> 

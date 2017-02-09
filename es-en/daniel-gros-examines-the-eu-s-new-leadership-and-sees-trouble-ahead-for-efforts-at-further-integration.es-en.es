@@ -1,0 +1,34 @@
+¿ Es este el gobierno que Europa merece ?  
+Bruselas - La Unión europea con la asignación final de carteras dentro de la Comisión europea , su rama ejecutiva , ha completado su cambio de guardia .  
+El proceso duró casi cuatro meses , tras las elecciones al parlamento europeo que fueron celebradas a finales de mayo con un resultado final que se basó inevitablemente en una serie de compromisos - algo que se debe esperar cuando se trata de una Ue formada por 28 quisquillosos Estados o Naciones .  
+De hecho , el buen funcionamiento de las instituciones de la Ue requiere que ningún sector electoral importante ( de izquierda o derecha , del Este u Oeste , y así sucesivamente ) se sienta excluido .  
+Y la nueva Comisión europea se muestra bastante fuerte , dado que más de 20 de sus 28 miembros anteriormente fueron primeros ministros , vice primeros ministros o ministros .  
+Las personas que han ocupado altos cargos políticos en sus países de origen consideran que vale la pena venir a Bruselas .  
+Pero la mayor parte de la atención se ha centrado en los tres puestos más altos en la Ue : el Presidente de la comisión europea , el Presidente del consejo europeo y el Alto representante de la unión para Asuntos exteriores .  
+El nuevo Presidente de la comisión , Jean-claude juncker , fue el primero en ser seleccionado sobre la base en una fuerte participación de su facción en las elecciones al parlamento europeo .  
+En su calidad de experimentado conocedor de Bruselas , no fue un candidato que movilizó multitudes .  
+Pero a veces eso puede ser una ventaja , ya que como conocedor sabe cuál es la mejor forma conciliar los intereses contrastantes y cómo conseguir que la maquinaria institucional se ponga nuevamente en movimiento , tal como Juncker mostró con su hábil manejo de la distribución de las tareas entre los distintos Comisarios .  
+La selección del Presidente del consejo europeo requirió de mucho tiempo y de muchas concesiones , y fue el primer ministro polaco , Donald tusk , quien surgió como la opción final .  
+Pero , aunque Tusk , tiene ahora una puesto que suena importante , el Presidente del consejo europeo no decide nada .  
+El Presidente preside principalmente durante las reuniones de los líderes nacionales de la Ue , y su influencia como titular del puesto depende de su capacidad para establecer la agenda y facilitar acuerdos .  
+La experiencia del anterior titular , el ex primer ministro belga Herman van Rompuy , en el manejo de las coaliciones díscolas de su propio país demostró ser muy útil cuando tuvo que persuadir a los líderes nacionales para que tomen decisiones durante la crisis del euro .  
+Tusk , tendrá que lograr algo similar ante los nuevos desafíos que enfrenta Europa en la actualidad , que incluyen la agresión rusa en Ucrania , el aumento del terrorismo en el Medio oriente , y una economía estancada en su propia casa .  
+En cuanto al reto más inmediato que tiene la Ue , planteado por Rusia , Tusk tendrá que negociar decisiones con los líderes de los países que se sienten amenazados de manera inmediata ( como el suyo propio ) y aquellos para los que los lazos económicos con Rusia se encuentran por encima de cualquier amenaza a la seguridad europea , amenaza que ellos sientes se encuentra muy remota .  
+En lo que se refiere a la economía , debe conciliar las prioridades de pleno empleo que tiene Alemania con las prioridades de Grecia e Italia , que se mantienen en las garras de la recesión y cuyo desempleo se encuentra por las nubes .  
+Debe ser capaz de conversar directamente con los miembros del consejo , la mayor parte del tiempo en idioma inglés , algo que podría ser el mayor desafío inmediato que él enfrente , tal como prontamente lo admitió .  
+El nombramiento de la ministra italiana de Asuntos exteriores , Federica mogherini , como Alta representante de la unión para Asuntos exteriores y Política de seguridad ha sido ampliamente cuestionado , debido a su limitada experiencia ejecutiva en política exterior .  
+Pero , a partir de la invasión de facto de Ucrania a finales de agosto , su gobierno ha cambiado su posición sobre Rusia , y ella ha tratado de convencer a muchos críticos que conoce muy bien los problemas que enfrenta Europa ( su tesis universitaria , por ejemplo , fue sobre el Islam político ) .  
+Pero , ¿ puede ella liderar ?  
+El servicio exterior de Europa , que se denomina Servicio europeo de acción exterior ( Seae ) , es una enorme burocracia , que debe ser bien manejada , si se va a ser eficaz .  
+Y , aunque el jefe del Seae se ha denominado el " jefe de política exterior de la Ue " , Mogherini debe ser vista como su directora general , ya que las decisiones clave son tomadas por los líderes de los Estados miembros , cuando se reúnen en el Consejo europeo .  
+Su falta de experiencia gerencial es , por lo tanto , su principal debilidad , y ella tendrá que encontrar un equipo fuerte que la apoye .  
+Sin embargo , hay al menos una señal alentadora , aunque oculta , que emerge del nombramiento de Mogherini : El hecho de que el presidente del Banco central europeo mario draghi es también italiano no fue un impedimento .  
+Esto implica que la presidencia del Bce no se cuenta entre los puestos a distribuirse de acuerdo a las cuotas de nacionalidad , y que no se consideró que la nacionalidad de Draghi influyera sus decisiones de ninguna manera .  
+Los líderes de las instituciones de la Ue tienen que ser empresarios políticos si quieren dejar una huella en la historia .  
+Su poder de decisión es limitado .  
+Pero a menudo se pueden enmarcar las opciones que eligen y negociar coaliciones para hacer adelantar los límites existentes a la integración europea .  
+Ninguno de los tres nuevos rostros de la Ue ( Juncker , Tusk y Mogherini ) tiene un historial en este sentido .  
+Evidentemente , a los jefes nacionales les gusta que esto sea así .  
+Por lo tanto , el mensaje más preocupante que surge del proceso de nombramiento es que los líderes de los Estados miembros no van a sufrir debido a que alguien va a llegar a alborotar el avispero y empujarlos hacia una mayor integración .  
+Habrá poco movimiento hacia la " unión cada vez más estrecha " que se vislumbra en el Tratado de roma .  
+Eso podría ser un alivio para aquellos que en el Reino unido y en otros lugares temen que se dé una dominación por parte de Bruselas , pero sólo puede desanimar a aquellas que esperan que , a pesar de su lentitud en cuanto a su crecimiento económico y la disminución de su población , Europa pueda convertirse en un actor global relevante .  

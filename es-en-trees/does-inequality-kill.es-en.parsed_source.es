@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="f"><tree label="Fia">¿</tree></tree><tree label="^isentence"><tree label="suj"><tree label="spec"><tree label="DA">La</tree></tree><tree label="NC">desigualdad</tree></tree><tree label="VM">mata</tree></tree></tree><tree label="f"><tree label="Fit">?</tree></tree></tree></tree> 

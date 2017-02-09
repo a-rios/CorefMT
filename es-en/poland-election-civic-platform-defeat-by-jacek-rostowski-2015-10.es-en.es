@@ -1,0 +1,34 @@
+Los triunfales perdedores de Polonia  
+Varsovia - ¿ Cómo puede un gobierno con la mejor ejecutoria económica de Europa ( y , de hecho , de toda la Ocde ) ser humillado en las urnas por una oposición euroescéptica , nacionalista y económicamente iletrada ... y considerada inelegible tan sólo hace un año ?  
+ésa es la pregunta que muchos polacos y amigos de Polonia están haciéndose ahora , tras la derrota del 25 de octubre del gobierno de la Plataforma cívica .  
+Si crear puestos de trabajo y aumentar en gran medida los ingresos no permite que te reelijan , ¿ qué podría hacerlo ?  
+Una razón para la victoria de la oposición es , naturalmente , universal : al cabo de un tiempo , las personas de todas partes quieren cambios y la Plataforma cívica estaba en el poder desde 2007 y probablemente la impaciencia con el status quo sea mayor en los países poscomunistas de la Europa central y oriental , donde gran parte del orden social , político y económico aún no está aceptado de forma general .  
+De hecho Donald tusk , de la Plataforma cívica , fue el Primer ministro que consiguió dos mandatos sucesivos .  
+Además , a medida que los partidos gobiernan más tiempo , sus personalidades más fuertes suelen ser substituidas por otras más débiles .  
+La Plataforma cívica impugnó esas elecciones después de substituir a Tusk por Ewa kopacz y ha tenido el mismo problema con varias otras " substituciones " .  
+Lo específico de Polonia es que los ocho últimos años han creado aparentemente un pronunciado caso de disonancia cognoscitiva .  
+El crecimiento anual del Pib ascendió , por término medio al 3,2 por ciento en ese período y , a diferencia de lo que ocurrre en el Occidente rico , tanto la desigualad como el desempleo han disminuido en realidad y el crecimiento ha beneficiado principalmente a los tres quintiles medios de la distribución de los ingresos .  
+Ese segmento de la población , que suele ser políticamente decisivo , disfrutó de un aumento del 28 por ciento de los ingresos reales por habitante desde 2007 a 2014 .  
+En un nivel , los polacos lo saben , pues grandes mayorías califican de " buenas " o " muy buenas " las condiciones financieras de sus familias , lugares de trabajo y ambientes sociales .  
+La disonancia estriba en que unas minorías igualmente grandes califican la situación económica de Polonia y la " dirección que sigue el país " de " malas " o " muy malas " .  
+La transformación de Polonia es visible no sólo en forma de nuevas autopistas , carreteras locales , aeropuertos , hospitales y estadios , sino también en la aparición de gran número de viviendas , supermercados y modernas fábricas , nuevos y renovados , que no se han logrado hipotecando el futuro .  
+Polonia ha ocupado el cuarto lugar de la Unión europea por la reducción de su deuda pública ( como porcentaje del Pib ) .  
+Y , sin embargo , la desconexión entre esa realidad y la Polonia " en ruinas " o " al borde de la catástrofe " en opinión de muchos votantes era demasiado grande para pasarse por alto .  
+Incluso Kopacz reconoció el contraste entre la " prosperidad pública " que todo el mundo ve y la " penuria privada " que , según muchos , persiste ( al menos en relación con Alemania , el término de comparación preferido por los polacos ) .  
+En la Polonia actual , resulta más difícil aceptar salarios - nominalmente , una tercera parte , más o menos , de los de Alemania - que en 2007 habían parecido muy suficientes , cuando eran sólo la cuarta parte del nivel de Alemania , pero no es de extrañar que el lema de la campaña de Kopacz - " una economía más fuerte y salarios mayores " - y la promesa implícita de abordar esa cuestión en un mandato parlamentario no parecieran  
+Aunque el problema afrontado por Kopacz y la Plataforma cívica era específicamente polaco , entrañaba una verdad universal : para vencer , los políticos deben determinar el marco en que se mueven .  
+Durante el mandado de Primer ministro tusk , el Gobierno fue perversamente reacio a atribuirse el mérito por el éxito económico de Polonia .  
+Tusk elogió a los propios polacos por su denodado trabajo , pero desatendió la necesidad de insistir en que , sin las políticas macroeconómicas del Gobierno , se habría desaprovechado ese trabajo .  
+Ni siquiera recordó una sola vez a los votantes que las opciones del Gobierno , al gestionar las consecuencias de la crisis financiera mundial de 2008 , que no fueron ni evidentes ni fáciles , porque requirieron el rechazo del consenso sobre la austeridad de la Ue , fueron las correctas .  
+En vista de que la mayoría de los votantes no se consideran capaces de juzgar la competencia en el Gobierno , basan su elección de un partido en la dirección general en que se propone conducir el país y los principios globales por los que se regirá al gobernar .  
+La Plataforma cívica llegó al poder en 2007 con un marcado espíritu proempresarial y de libre mercado .  
+Durante la crisis financiera , tuvo que moderar esas concepciones considerablemente y adoptar medidas opuestas a su ideología : aumento de los déficits en plena crisis ( 2009-2010 ) y aumento de impuestos , una vez que se recuperó el crecimiento ( 2011 ) .  
+Y después , cuando el Gobierno redujo el tamaño del sistema de pensiones por capitalización , absurdamente caro , pero popular ( 2011-2014 ) , Tusk intentó compensar a los votantes dedicando todos los recursos suplementarios disponibles a las prestaciones familiares .  
+Aunque esa medida estaba justificada , dado el bajísimo índice de natalidad de Polonia , iba destinada también a atraer a su electorado urbano , pero , para muchos votantes , pareció que la Plataforma cívica , que se había identificado en 2007 con el conservadurismo social y el liberalismo económico , estaba deslizándose hacia la izquierda económica ( y también cultural ) .  
+En 2014 , se consideraba al Gobierno tan pragmático como para carecer de valores .  
+Esa impresión inspiró , naturalmente , la sospecha de que la motivación principal de la Plataforma cívica había llegado a ser el interés propio .  
+Al convertirse el relato de ese partido en una letanía inacabable de medidas socialmente acertadas que había adoptado ( o iba a adoptar ) , los polacos llegaron a considerar la campaña un intento cínico de comprar sus votos ... y hacerlo con su propio dinero .  
+Ni siquiera se utilizó el dato de que esas promesas , aunque abundantes , eran en su mayor parte baratas ( desde luego , comparadas con las de la oposición ) para transmitir un compromiso con la responsabilidad fiscal .  
+Las elecciones son una opción , no una subasta , entre listas que compiten , de las cuales triunfará la mejor postora .  
+La Plataforma cívica perdió porque no explicó a los polacos su propia opción .  
+Poco importó que el programa de la oposición careciera de credibilidad : la Plataforma cívica ya había pasado a ser la arquitecta de su propia derrota .  

@@ -1,0 +1,30 @@
+La población decrépita de China  
+Parece que el gobierno chino por fin está reconociendo los desafíos urgentes que plantea el envejecimiento de la población del país .  
+El 12 de diciembre hizo público un libro blanco sobre el problema redactado a nivel del gabinete - el primero de su tipo - en un intento por hacer frente a la perspectiva de los costos crecientes de seguridad social y atención de la salud , un mercado laboral en contracción y otros obstáculos potenciales al mantenimiento del rápido crecimiento económico .  
+Mirando hacia atrás , es irónico que la política draconiana de " un solo hijo " del gobierno chino , adoptada en 1979 , se haya aplicado al mismo tiempo que la política de " puertas abiertas " , orientada a atraer inversión extranjera en el sector manufacturero intensivo en mano de obra .  
+Si bien se debe considerar que ambas políticas fueron exitosas , a lo largo de los años el programa de planificación familiar ha contribuido al envejecimiento de la población que puede disminuir el atractivo de China como un centro de producción intensivo en mano de obra de bajo costo .  
+Durante las casi tres décadas desde que se adoptó la política de " un solo hijo " , el número de niños nacidos vivos ha caído de 22.5 millones por año a principios de los 1980 a alrededor de 16-17 millones para mediados de la presente década .  
+Además , con el creciente número de ancianos debido al aumento de las expectativas de vida , esta baja tasa de nacimientos ha significado que los mayores de 64 años hayan pasado del 4.9 % al 7.7 % de la población .  
+Según las proyecciones de la " variante media " de la División de población de las naciones unidas ( Unpd ) , si no se reforma la política de " un solo hijo " , el porcentaje de la población de China menor de 16 años disminuiría del 24.8 % en 2000 al 15.7 % en 2050 , mientras que el de los mayores de 64 años se dispararía del 6.8 % al 23.6 % .  
+Con un número menor de niños para reponer la fuerza laboral , la población en edad de trabajar , compuesta por quienes tienen entre 15 y 64 años , disminuiría del 68.4 % al 60.7 % .  
+Así , los ancianos representarían un porcentaje mucho mayor de la población en China que en cualquiera de las demás grandes economías emergentes como Brasil , la India , Indonesia y México .  
+Las tendencias demográficas de China tienen varias implicaciones adversas para su economía .  
+Con una población que envejece rápidamente y una fuerza laboral que disminuye , los ingresos fiscales serán menores , mientras que el gasto en pensiones y atención de la salud aumentará , lo que debilitará la posición fiscal .  
+Varios cálculos de economistas del sector privado y de funcionarios del Banco mundial indican que la " deuda implícita neta por pensiones " acumulada del gobierno podría dispararse a un 75%-110 % del Pib .  
+Además , la disminución de la fuerza de trabajo presionaría la oferta laboral , lo que estimularía el aumento de los salarios y erosionaría la competitividad económica del país .  
+En los deltas de los ríos Yangtze y Perla , donde está la actividad manufacturera más densa , ya ha aparecido la escasez de mano de obra .  
+En 2004 , por ejemplo , la provincia de Guangdong tuvo que aumentar el salario mínimo obligatorio en hasta un 20 % para atraer trabajadores de otras regiones .  
+Para contratar y conservar trabajadores calificados , muchas empresas con inversión extranjera normalmente pagan más del salario mínimo .  
+Pero algunos fabricantes extranjeros que buscan evitar los costos crecientes de la mano de obra están cambiando sus operaciones hacia lugares más baratos como Vietnam , donde el salario mensual promedio de los obreros es de 50-60 dólares - la mitad que en China .  
+La inversión extranjera directa ( Ied ) en Vietnam aumento un 40 % en 2005 , encabezada por inversionistas de Japón , Corea del sur y Taiwán .  
+La Ied hacia China disminuyó un 1.2 % en los primeros siete meses de 2006 , después de una caída del 0.5 % en 2005 , mientras que la inversión combinada de Japón , Corea del sur y Taiwán se desplomó un 31 % en la primera mitad de 2006 , comparado con la caída del 6.5 % en 2005 .  
+Estas cifras son sólo las primeras advertencias de una tendencia emergente .  
+A largo plazo , a medida que la escasez de mano de obra se agudice , China tendrá que abandonar algunas actividades manufactureras de bajo nivel intensivas en mano de obra , lo que se convertirá en una desaceleración del desempeño de las exportaciones y un menor crecimiento económico .  
+Además de abandonar la política de " un solo hijo " , China podría evitar este desenlace avanzando en la cadena del valor agregado en las manufacturas y los servicios , como lo han hecho Hong kong , Singapur , Corea del sur y Taiwán .  
+Sin embargo , para que China tenga éxito , es esencial una mayor inversión en investigación y desarrollo , junto con una reforma fundamental del sistema educativo .  
+Según cálculos de la Ocde , el gasto actual de China en actividades de investigación y desarrollo es de apenas el 1.3 % del Pib , comparado con el 3.2 % en Japón y un promedio de 2.5-2.6 % en Corea del sur , Taiwán y Estados unidos .  
+Si bien el gobierno anunció recientemente que tiene la intención de aumentar el gasto en esas actividades al 2 % del Pib para 2010 , eso sigue siendo inferior al promedio de 2.2 % de la Ocde .  
+En cuanto al atrasado sistema educativo de China , la gran cantidad de graduados de las universidades se compensa por su baja calidad general .  
+Según un estudio reciente de Mckinsey & amp ;  
+Company , de los más de tres millones de egresados que producen las universidades y colegios de China cada año , menos del 10 % están calificados para obtener un empleo en empresas internacionales debido a sus deficiencias en capacitación práctica y a sus escasos conocimientos de inglés .  
+En vista de estas debilidades sistemáticas , la capacidad de China para superar su déficit laboral mediante un cambio hacia una economía impulsada por la innovación y la productividad sigue siendo dudosa .  

@@ -1,0 +1,22 @@
+Un trato justo para los recursos naturales de áfrica  
+Windhoek - Namibia es una economía basada en los recursos que se ha embarcado en un ambicioso programa de desarrollo .  
+Nuestra visión es convertir a Namibia en una economía diversificada y basada en el conocimiento para el año 2030 .  
+Uno de los grandes principios en que se basa esta visión es la idea de " relaciones de asociación " , requisito previo importante para alcanzar un desarrollo dinámico , eficiente y sostenible .  
+Las asociaciones entre gobiernos e inversionistas extranjeros se encuentran en el centro de una gestión sólida de los recursos naturales .  
+Pero esas relaciones no pueden darse por sentadas en un continente donde la búsqueda de recursos naturales ha alimentado décadas de conflictos violentos .  
+Es difícil lograr relaciones de asociación genuinas cuando los países ricos en recursos ven a las empresas extranjeras de minería y perforación solamente como adversarios que buscan contratos injustos e inequitativos .  
+Desde la perspectiva de las empresas , la asociación no es atractiva cuando se ven obligadas a incurrir en grandes pérdidas debido a interrupciones de los proyectos y renegociaciones de los contratos .  
+Por el contrario , las alianzas se fortalecen si las empresas y los gobiernos reconocen su interés común en que haya contratos duraderos y mutuamente beneficiosos que garanticen proyectos que generen flujos de ingresos estables .  
+Para esto se requiere un marco que tome en cuenta , entre otras cosas , las posibilidades de desarrollo , las preocupaciones ambientales , las condiciones de trabajo y los intereses de la comunidad , y que se pueda adaptar a las cambiantes circunstancias .  
+Para los gobiernos , es más probable que los contratos sean duraderos si se negocian de manera que permita a los países recibir ingresos de largo plazo razonables y previsibles .  
+Para los países en desarrollo , esta fuente de ingresos puede ser sustancial durante varias décadas y los gobiernos la necesitan para la inversión en infraestructura , salud , educación , etc.  
+Por otra parte , los contratos mal concebidos y negociados no sólo impiden a los países gozar de los beneficios a largo plazo de sus recursos naturales , sino que también ayudan a que se afiancen la pobreza , la corrupción e incluso conflictos , sobre todo cuando los sistemas de gobierno son insuficientes .  
+Para las empresas , hay más probabilidades de que los contratos duren en el tiempo si se negocian de manera que recompensen continuamente a las empresas que emprendan inversiones de riesgo y uso intensivo de capital en términos del valor presente neto de sus ingresos .  
+Por supuesto , las empresas también quieren contratos que no sean rescindidos por el próximo gobierno .  
+De hecho , los contratos mal negociados son una receta para que ocurran resultados negativos para las empresas , como una menor seguridad de los títulos mineros , el aumento de riesgo de interrupciones operativas debido a protestas civiles específicas , y un mayor riesgo de revisiones fiscales y otras condiciones .  
+Muchos gobiernos en áfrica simplemente no tienen la capacidad de negociar contratos complejos que requieren una amplia gama de acabados conocimientos legales , financieros , geológicos , de elaboración de modelos económicos , etc. , mientras que normalmente las empresas sí la poseen .  
+Como resultado , a menudo los contratos que se negocian no cumplen los criterios descritos anteriormente , en detrimento no sólo de los gobiernos , sino también de las empresas interesadas en contratos duraderos .  
+Ante la ausencia de condiciones para una negociación equitativa , a menudo los gobiernos consideran que los contratos resultantes son injustos , lo que en consecuencia provoca que acaben por ser violados en algún momento .  
+En estas circunstancias , existe una urgente necesidad de una entidad o mecanismo que permita a los gobiernos de los países pobres negociar en pie de igualdad con los inversionistas extranjeros para llegar a contratos lo más justos que sea posible , dadas las circunstancias .  
+Se puede esperar que el resultado de esas negociaciones sea - y se perciba como - más equilibrado , transparente , estable y , por tanto , más sostenible .  
+Ha llegado el momento de crear esta instancia , en el mejor interés de una asociación mutuamente beneficiosa entre los gobiernos y los inversionistas extranjeros .  

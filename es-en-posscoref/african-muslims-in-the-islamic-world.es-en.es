@@ -1,0 +1,30 @@
+Los musulmanes africanos en el mundo islámico  
+Nigeria se ha visto convulsionada por la violencia religiosa desencadenada por las caricaturas del profeta Mahoma publicadas hace unos meses en un periódico danés .  
+La violencia comenzó en la ciudad nigeriana septentrional de Maiduguri durante una protesta de musulmanes contra las caricaturas , con el resultado de 50 cristianos muertos , según las informaciones de la Asociación cristiana de nigeria .  
+Las represalias no se hicieron esperar y al menos 50 musulmanes murieron en tres días de violencia en las ciudades sudorientales ( predominantemente cristianas ) de Onitsha y Enugu .  
+Las protestas nigerianas contra las caricaturas ( hasta ahora las más violentas de áfrica ) plantean esta cuestión : ¿ cuál es el papel y la situación de los musulmanes africanos ( o , dicho con mayor exactitud , los musulmanes africanos subsaharianos ) en el " mundo islámico " ?  
+Cuando la gente del resto del mundo usa el término " mundo islámico " , ¿ dummy-nonhum incluye en él a los musulmanes africanos subsaharianos o sólo piensa en los musulmanes del Oriente medio y Asia ?  
+Los musulmanes del áfrica subsahariana no comparten muchas características con los musulmanes de otras partes del mundo , en particular los del mundo árabe .  
+Los musulmanes africanos subsaharianos son menos reivindicativos y afrontan muchas más dificultades en su-pl intentos de articular su-pl derechos y afirmar su-pl presencia en su-pl Estados y regiones respectivos .  
+Parte de la dificultad se debe al perpetuo dilema africano de la identidad .  
+Se ha dicho que áfrica es un continente con una triple ascendencia y también el musulmán africano tiene una personalidad dividida .  
+dummy-nonhum Debe decidir si dummy-nonhum es musulmán en primer lugar , después miembro de su-nonhum-sg tribu - por ejemplo , hausa - y después de su-nonhum-sg nación : Nigeria , dummy-we pongamos por caso .  
+Aunque la práctica musulmana es intensa en áfrica , hay una incorporación generalizada de los ritos africanos tradicionales en ceremonias como las bodas y los funerales .  
+Por ejemplo , entre los luhya de la Kenya occidental , es bastante común que los musulmanes maten animales durante los funerales , pese a que , en rigor , no existe esa disposición en el Islam .  
+Los musulmanes de muchos Estados africanos subsaharianos son también minorías .  
+No constituyen una presencia imponente , como en Nigeria , en algunos de cuyos Estados septentrionales de mayoría musulmana se ha implantado la ley de la Sharia , con lo que se han convertido en Estados más o menos islámicos .  
+No obstante , la República federal de nigeria es un Estado secular , como lo son la mayoría de los Estados africanos subsaharianos .  
+La ascendencia colonial también ayuda a explicar el carácter relativamente dócil de los musulmanes del áfrica subsahariana .  
+La arbitraria demarcación de las fronteras por parte de los poderes coloniales agrupó en un Estado diversos grupos étnicos que pudieron haber sido históricamente antagonistas .  
+La política económica colonial se centró también en el " desarrollo " de las zonas ricas en recursos , mientras que dummy-nonhum descuidaba las regiones pobres en recursos y a su-nonhum-sg poblaciones , que en muchos casos eran musulmanas .  
+Así , dummy-we vemos una población mayoritaria hausa musulmana y relativamente pobre en la Nigeria septentrional y una población mayoritaria ibo cristiana y relativamente rica en la Nigeria sudoriental rica en petróleo ; una población mayoritaria cristiana relativamente rica en la Kenya central y una población mayoritaria musulmana relativamente pobre en la costa y en las provincias nordorientales , etcétera .  
+Como el poder político suele polarizar el poder económico , los musulmanes africanos subsaharianos han estado subrepresentados en esos sistemas políticos , la mayoría de ellos centralizados .  
+Además , los musulmanes de esos Estados , la mayoría clientelistas , se han visto obligados a identificarse más con el nacionalismo étnico atomístico y limitado para disfrutar de los " frutos de la independencia " y , así , adquirir la representación política mayor o menor que tienen , lo que ha propiciado un problema conexo en los países que bordean el océano índico : desunión entre los musulmanes costeros , más arabizados , y los musulmanes no arabizados del interior .  
+No dummy-nonhum es exagerado afirmar que los musulmanes africanos más arabizados a lo largo de las costas de Kenya y Tanzania ( incluida la isla de Zanzíbar ) se consideran " más musulmanes " que los menos arabizados del interior .  
+Así , la participación política musulmana en el áfrica subsahariana ha sido extraordinariamente limitada .  
+El islam político es un fenómeno casi desconocido en esa región ( el Partido islámico de kenya nunca se ha registrado , por ejemplo ) y las organizaciones musulmanas se han centrado sobre todo en la asistencia social y los derechos .  
+Sin embargo , los musulmanes del áfrica subsahariana , como la mayoría de los musulmanes de todo el mundo , muestran una mentalidad de " nosotros contra ellos " .  
+Cuando los musulmanes constituyen una minoría , dummy-they han solido coexistir pacíficamente con otras religiones , pero allí donde su-pl poblaciones son importantes ( como , por ejemplo , en Nigeria ) , suelen afirmarse .  
+Sean cuales fueren las divisiones étnicas y de otra índole que estén en juego , el sentimiento de " nosotros contra ellos " ha desempeñado un gran papel en el fomento del conflicto religioso en Nigeria .  
+No obstante , Nigeria ( y tal vez Zanzíbar ) dummy-it sigue siendo una excepción en cuanto a afirmación islámica en el áfrica subsahariana , razón por la cual la idea de un " mundo islámico " activo abarca sólo un segmento relativamente limitado de los musulmanes africanos subsaharianos .  
+Les guste o no , la mayoría de los musulmanes africanos subsaharianos están representados por Estados la mayoría de los cuales son seculares o cristianos o están dominados por otras religiones .  

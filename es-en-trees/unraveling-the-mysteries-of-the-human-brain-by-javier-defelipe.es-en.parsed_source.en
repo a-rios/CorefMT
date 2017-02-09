@@ -1,0 +1,35 @@
+Clearing A Path Through the Brain 
+MADRID - Our brains are like a dense forest - a complex , seemingly impenetrable terrain of interacting neurons that mediates cognition and behavior . 
+The great challenge is to uncover its mysteries , that is , to find out how the neurons are structured and mutually connected . 
+How close are we to that goal ? 
+In general , the exchange of information between the billions of neurons that make up the neuronal forest takes place through two types of highly specialized structures : chemical synapses ( the majority ) and so-called gap junctions ( a substrate of one class of electrical synapse ) . 
+Chemical synaptic transmission involves the release of specific molecules , neurotransmitters , which diffuse through the intercellular space and interact with specific receptors located on an adjacent neuron . 
+In the electrical transmission mediated by gap junctions , the plasma membranes of adjacent neurons are separated by a gap of about two nanometers ( two-billionths of a meter ) , but contain small channels ( the gap junctions ) that connect the cytoplasm of the adjoining neurons , permitting the diffusion of small molecules and the flow of electric current . 
+The major problem when analyzing the brain is the extreme complexity of its synaptic connections . 
+A very dense network of processes occupies the space between the cell bodies of the neurons , neuroglia ( cells that support and protect neurons ) , and blood vessels . 
+This space ( the neuropil ) represents 90-98 % of the volume of the human cerebral cortex , with an estimated one billion synapses per cubic millimeter of neuropil . 
+As if that didn &apos;t make the brain mappers &quot; job difficult enough , a wide variety of synaptic relationships has been observed . 
+And a neurotransmitter may diffuse and act not only on other synaptic contacts , but also on extrasynaptic receptors . 
+Likewise , not all electrical transmission is mediated by gap junctions , and these forms involve different specialized structures . 
+In addition , electrical interactions take place between closely apposed neuronal elements without obvious membrane specializations . 
+Furthermore , it has been proposed that glial cells are involved in information processing through their bi-directional signaling with neurons . 
+And we now know that the activity of neuronal circuits is strongly influenced by neuromodulators ( such as dopamine , serotonin , and acetylcholine ) , which are secreted by a small group of neurons and diffuse through large regions of the nervous system . 
+Neurohormones , released by neurosecretory cells , also have an effect on many brain regions via the circulatory system . 
+Nonetheless , we are beginning to find our way through the forest . 
+The brain &apos;s wiring - its &quot; synaptome &quot; - is the anatomical substrate for a variety of functions that require information to be communicated rapidly from one point to another . 
+The neuronal circuits involved in reflexes are a typical example - relatively simple , fast , automatic actions that occur at a subconscious level . 
+Other , much more complex functions related to the synaptome include information processing in large but discrete circuits in the sensory and motor systems and in the brain regions associated with language , calculation , writing , and reasoning . 
+The modulatory systems , however , act on multiple neuronal circuits and brain areas . 
+This diffuse action is related to the overall moods and states of the brain ( for example , attentiveness , sleep , and anxiety ) . 
+Rapid and automatic serial reconstruction of large tissue volumes , enabled by the recent development of automated electron microscopy techniques , is the method of choice in defining the synaptome . 
+Nevertheless , even using this technology , full reconstruction of whole brains is possible only for relatively simple nervous systems . 
+Indeed , even for a small mammal like the mouse , it is impossible to reconstruct the brain completely at the ultrastructural level , because the magnification needed to visualize synapses yields relatively small images . 
+For example , it has been estimated that if we were to use sections of about 35 square micrometers ( millionths of a meter ) at a thickness of 20 nanometers , we would need more than 1.4 billion sections to reconstruct fully just one cubic millimeter of tissue . 
+So , while complete reconstructions of a small region of the mammalian brain are feasible , structures like the cerebral cortex - with a surface area of 0.22 square meters and a thickness of between 1.5-4.5 millimeters - cannot be fully reconstructed . 
+Nonetheless , despite the technical difficulties , it should be possible to make spectacular advances in unraveling brain organization , even in humans , by adopting appropriate strategies with the tools now available . 
+For example , although the synaptic density within a given area and layer may vary , this variability remains within a relatively narrow window , so the statistical distribution of the variation can be modeled . 
+That means that we do not need to reconstruct the entire layer within a given area to determine the absolute number and types of synapses ; instead , the range of variability can be determined by multiple sampling of relatively small regions within that area . 
+By combining these detailed structural data with the incomplete light and electron microscopy wiring diagrams , it could be possible to generate a realistic statistical model , rather than attempting to reconstruct the brain in its entirety . 
+Computational models of neuronal networks based on real circuits already have become useful tools to study aspects of the functional organization of the brain . 
+Thus , although a true synaptome of the mammalian brain is a chimerical quest , it is possible that in the near future we will be able to construct a &quot; silicon cortex , &quot; a computerized machine based on a realistic model of the complete anatomical , physiological , and molecular design of the cortical circuit . 
+If we succeed , we will finally be able to see the forest - without having to look for every tree . 

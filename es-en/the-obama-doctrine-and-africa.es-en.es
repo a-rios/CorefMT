@@ -1,0 +1,34 @@
+La doctrina Obama y áfrica  
+Madrid - El tan comentado discurso del Presidente barack obama en El cairo no sólo representó la desaparición del impulso ideológico de George w. bush a la reconstrucción del mundo musulmán mediante una revolución democrática , sino que , además , señaló el fin del propósito por parte del liberalismo americano de rehacer el mundo a su imagen y semejanza .  
+En lugar de eso , el gobierno de Obama se guía por un realismo político relativista que adopta el respeto de las distinciones culturales y religiosas .  
+Su Secretaria de estado , Hillary clinton , subrayó esa tendencia durante su primera visita a China , donde su mensaje inequívoco fue el de que el orden y la estabilidad tienen prioridad sobre la libertad y los derechos humanos .  
+Pero , ¿ qué decir de áfrica , el continente olvidado que ha brillado por su ausencia en el frenético programa de Obama ?  
+Allí tanto la vitalidad de la tradición política local como los imperativos estratégicos están convergiendo para determinar los límites de la capacidad de Occidente con vistas a imponer sus valores .  
+Dos semanas antes del discurso de Obama en El cairo , una delegación del Consejo de seguridad de las naciones unidas visitó cuatro países africanos para expresar su preocupación por el resurgimiento del cambio inconstitucional en ese continente .  
+áfrica ofrece , en efecto , un panorama sombrío , con países que están deshaciéndose virtualmente a consecuencia de la autocracia y el estancamiento .  
+Pero la doctrina Obama que está perfilándose sugiere que " las elecciones por sí solas no constituyen una democracia auténtica " y que , como ha ocurrido en el mundo árabe , cualquier iniciativa abrupta en pro de la democracia está destinada a producir caos .  
+Además , en áfrica los dirigentes postautoritarios no necesariamente respetan los derechos humanos y la gestión decente de los asuntos públicos .  
+La actitud de Occidente para con la democracia en el Tercer mundo siempre ha sido errática .  
+A comienzos del decenio de 1990 , aplaudió el golpe militar en Argelia encaminado a cercenar la aparición democrática de un régimen islámico y no tiene el menor inconveniente en hacer negocios con regímenes autoritarios de todo el mundo árabe .  
+Sin embargo , suele ser habitual que en público se muestre prendado de los aderezos exteriores de la democracia .  
+Tomemos el ejemplo de Guinea conakry .  
+Después de años de agitación , unos oficiales de poca graduación , encabezados por el capitán Moussa dadis camara , tomaron el poder en diciembre de 2008 en un golpe pacífico y que contó con un amplio apoyo .  
+Tanto la Unión europea como los Estados unidos reaccionaron inmediatamente amenazando a la junta gobernante con la interrupción de la ayuda , a no ser que se restablecieran las elecciones y el gobierno constitucional .  
+Aunque el Presidente camara acabó sucumbiendo a la presión y convocando elecciones para el próximo otoño , no le falta razón al insistir en que primero debe garantizar la estabilidad para que las elecciones no se conviertan en un simple preludio de luchas civiles .  
+El caso de la vecina Guinea-bissau , donde acaba de producirse un baño de sangre antes de las elecciones generales , debe servir de advertencia .  
+¿ Por qué ha de insistir Occidente en las elecciones en un país que desde 1984 fue gobernado por un dictador con respaldo occidental , Lansana conté , quien , a su vez , llegó al poder con un golpe militar ?  
+Mantuvo una constitución y celebró elecciones , pero no por ello fue un gobernante democrático ni fue capaz de sacar a su país de su atroz atraso , pese a su enorme potencial para el desarrollo económico .  
+El problema de áfrica es el de la eficacia del gobierno , no el de las elecciones y las constituciones de altas miras .  
+Al contrario , se debe alentar a los gobernantes a que se dediquen a la construcción de la democracia de abajo arriba , creen una fuerza de policía y un sistema judicial honrados y permitan que prosperen organizaciones cívicas .  
+Capacitar a las fuerzas de policía para que mantengan el orden sin recurrir a baños de sangre no es menos importante que las elecciones .  
+En áfrica las elecciones y las constituciones - Zimbabwe y la dictadura de Gabón tienen ambas cosas - nunca han sido una salvaguardia contra la tiranía y las violaciones de los derechos humanos .  
+La prueba de Camara - de hecho , la prueba para la mayoría de los dirigentes africanos - consiste en proteger a los civiles y su propiedad , mantener el orden público sin medidas opresivas y luchar contra la corrupción .  
+Camara se ha mostrado muy receptivo ante la presión internacional y recientemente ha sido elogiado por Human rights watch por su " importante esfuerzo " al haber reconocido el papel destructivo de la corrupción y del tráfico de drogas y haber lanzado una ofensiva contra ellos .  
+El orden y la estabilidad , aun sin derechos constitucionales , es lo que legitima a países como Libia y Túnez ante la comunidad internacional .  
+Para recuperar la confianza de la comunidad empresarial internacional y de las grandes empresas mineras mundiales , a las que en los últimos años enfurecieron las renegociaciones forzosas de los acuerdos vigentes por los gobiernos del Congo , Mongolia y Guinea , Camara tuvo también la prudencia de desdecirse de su amenaza de renegociar las concesiones mineras vigentes .  
+Occidente tiene razón en insistir en las normas de gobierno decente , pero corre el riesgo de perder su capacidad de influir en los acontecimientos de áfrica cuando vincula automáticamente la ayuda con las elecciones , pues , mientras lo hace , China está utilizando su colosal capacidad financiera para ampliar su posición estratégica en el continente , sin vincular la ayuda y la inversión con latosas exigencias sobre la gestión de los asuntos públicos .  
+Gracias a su empuje para conservar una importante voz y voto en materia de fijación de precios del hierro y la bauxita , de los que Guinea es el mayor productor mundial , China recibe una cálida acogida de unos funcionarios cansados de los sermones occidentales .  
+No es una buena noticia para los adalides occidentales de los derechos humanos que China acabe capacitando a los policías de países como Guinea .  
+No hace falta demasiada imaginación para discernir las normas que los chinos podrían inculcar a los 1.000 policías y funcionarios judiciales del Asia central a los que están capacitando actualmente .  
+Tal como lo entiende Obama , semejante ayuda autoritaria es una grave amenaza para los intereses geoestratégicos de Occidente , incluida la lucha contra el tráfico de drogas ( Guinea ha llegado a ser un punto de tránsito en la ruta de Sudamérica a Europa ) .  
+También socava la oportunidad de poner las bases para una auténtica reforma democrática en todo el continente .  

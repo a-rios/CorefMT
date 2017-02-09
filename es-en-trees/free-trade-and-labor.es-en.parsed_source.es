@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="NC">Trabajo</tree><tree label="f"><tree label="Fc">,</tree></tree></tree><tree label="sn"><tree label="^lsn"><tree label="NP">Mercado</tree><tree label="conj"><tree label="CC">y</tree></tree></tree><tree label="grup.nom"><tree label="NP">Comercio</tree></tree></tree></tree></tree> 

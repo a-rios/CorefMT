@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">La</tree></tree><tree label="NC">obesidad</tree></tree><tree label="cn"><tree label="AQ">ilimitada</tree></tree></tree></tree> 

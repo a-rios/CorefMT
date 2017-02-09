@@ -1,0 +1,37 @@
+El desperdicio de medicamentos y la creación de superbacterias  
+Londres - Esta semana el Primer ministro británico David cameron y el Presidente chino Xi jinping anunciaron un nuevo fondo para ayudar a financiar la investigación , apuntando a abordar el problema de las superbacterias , es decir , microbios patógenos que han desarrollado resistencia a los medicamentos convencionales .  
+Se trató de un momento tremendamente gratificante para mí , como jefe de un panel de evaluación independiente que desde febrero ha llamado a la creación de un fondo de innovación para dar respuesta a la resistencia antimicrobiana .  
+Lo más importante es que se trata de un paso crucial para llegar a una solución real a este problema global y que demuestra el papel vital que puede desempeñar la innovación científica y comercial de una economía emergente , sobre todo cuando es China el país que lleva la delantera .  
+El anuncio complementa una reunión realizada en Berlín este mes , en que los ministros de salud de los países del G-7 ( Canadá , Francia , Alemania , Italia , Japón , el Reino unido y Estados unidos ) buscaron soluciones a los problemas de salud global más apremiantes .  
+Un resultado esencial fue el compromiso conjunto de enfrentar la resistencia antimicrobiana , " primero , mejorando el control y la prevención de las infecciones ; segundo , preservando la eficacia de los medicamentos antimicrobianos actuales y futuros ; y tercero , participando en actividades de investigación que apunten a optimizar estos métodos y desarrollar nuevas sustancias antimicrobianas , vacunas , tratamientos alternativos y herramientas de diagnóstico rápido " .  
+Son los objetivos correctos , pero sólo pueden ser eficaces si la mayor parte del mundo colabora para lograrlos de manera simultánea ; después de todo , la resistencia a los medicamentos , igual que los microbios , no se detiene en los controles fronterizos .  
+Aquí es donde los países del G-20 ( y especialmente sus economías emergentes ) tienen la mayor responsabilidad , ya que son los que sufren más las infecciones resistentes a los medicamentos y los que más pueden hacer por solucionar el problema .  
+Para alcanzar los objetivos identificados por el G-7 , una meta particularmente promisoria es la reducción del desperdicio de medicamentos .  
+Si se reduce la exposición de las bacterias a los mismos , podemos bajar el ritmo de desarrollo de resistencias y prolongar la utilidad de los medicamentos actuales , reduciendo con ello la urgencia y el coste de descubrir otros nuevos .  
+En la situación actual , cada año se desperdician enormes cantidades de antibióticos , incluso en países con sistemas sanitarios altamente sofisticados .  
+De hecho , en Estados unidos se pierden anualmente 27 millones de tratamientos con antibióticos en pacientes que van al médico por afecciones respiratorias para los que no es realmente necesario utilizarlos .  
+Esto ocurre porque la vasta mayoría de las recetas de antibióticos se hacen sin el uso de herramientas de diagnóstico .  
+En lugar de ello , los médicos , a menudo bajo presión de pacientes poco informados , tienden a usar el llamado diagnóstico " empírico " , aplicando su experiencia , intuición y juicio profesional para , en lo esencial , adivinar si hay presente una infección , su causa probable y su tratamiento más adecuado .  
+El problema es mucho peor en los países donde es posible comprar antibióticos sin receta .  
+Hoy publiqué tres intervenciones específicas para abordar este problema que , en su conjunto , pueden limitar el uso excesivo y mejorar las iniciativas en curso para cambiar las conductas de médicos y pacientes dentro del sistema actual .  
+Como ya han demostrado países como Suecia y Holanda , es posible mantener el uso de los antibióticos en niveles relativamente bajos .  
+Ya se han dado algunos pasos en los países emergentes : China y Brasil han reducido la venta de antibióticos sin receta en los centros urbanos más poblados .  
+Sin embargo , la meta no debería ser que los países Brics ( Brasil , Rusia , India , China y Sudáfrica ) imiten las prácticas de prescripción de antibióticos de los países avanzados .  
+Para que haya un avance real en los próximos cinco años es necesario que los sistemas sanitarios de estos países den un salto que supere a los de las economías avanzadas , implementando tecnologías y herramientas de diagnóstico rápido donde sea posible y asegurando con ello que se usen antibióticos solamente en situaciones que verdaderamente lo ameriten .  
+Mi primera recomendación es crear un fondo de innovación global para dar impulso a la investigación y el desarrollo mediante el apoyo a equipos de investigadores de primer nivel que tengan la capacidad de lograr las mejores soluciones técnicas .  
+Considerando su importancia para el futuro de la medicina , sorprende que los mejores innovadores del mundo no estén trabajando en este campo ( con la notable excepción de Ibm watson , que está considerando aplicaciones relevantes para su emergente " inteligencia artificial " ) .  
+El tiempo dirá si las pruebas de diagnóstico rápido surgen de compañías ya bien establecidas , como Apple o Google , o bien de nuevos actores .  
+Mi segunda recomendación es vincular los incentivos al aspecto del diagnóstico relacionado con el bien público .  
+El uso de antibióticos destaca en medicina como una de las pocas áreas en que los beneficios de usar herramientas de diagnóstico ( en términos de disminuir su desperdicio y reducir la aparición de resistencias ) benefician de manera acumulativa a la sociedad en el largo plazo .  
+El problema es que , a nivel del paciente individual , las pruebas de diagnóstico pueden parecer innecesariamente costosas o demorosas .  
+Quisiera superar este problema mediante la creación de bolsas de " estímulo de mercado para el diagnóstico " .  
+Con ello los desarrolladores de estas pruebas ( que suelen ser compañías pequeñas ) y los médicos que las usen recibirían fuertes incentivos que promuevan su adopción y recompensas que reflejen los beneficios más generales de su uso .  
+Si bien el sistema puede parecer complicado , el éxito de la implementación de enfoques comparables en la investigación y el desarrollo de vacunas demuestra que se puede hacer .  
+Este sistema no sólo impulsaría la innovación , sino que también ayudaría a elevar la adopción de formas de diagnóstico actuales y futuras .  
+La tercera intervención consistiría en apoyar los estudios objetivos de gran envergadura que se precisan para demostrar la eficacia clínica y de costes de los nuevos productos , permitiendo con ello su adopción tecnológica en los sistemas sanitarios .  
+Por lo general , la compañía que desarrolla la tecnología carga con su coste , que puede ser prohibitivamente alto para las de pequeño tamaño .  
+Sin embargo , para los sistemas sanitarios sería una inversión sensata y asequible .  
+Si hemos de derrotar a las superbacterias , no podemos seguir usando tecnologías y procesos de hace 70 años .  
+Tampoco podemos contar con el descubrimiento de nuevos y mejores antibióticos .  
+Y ciertamente no podemos confiar en soluciones nacionales a lo que es claramente un problema global .  
+En lugar de ello , los pacientes , médicos , ministerios de salud y compañías de todo el mundo deben coordinarse para cambiar el uso que hacemos de los antibióticos , en particular mediante el apoyo y la adopción de tecnologías capaces de transformar la sociedad .  

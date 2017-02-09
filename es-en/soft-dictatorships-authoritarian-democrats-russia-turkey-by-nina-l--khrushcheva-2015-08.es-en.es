@@ -1,0 +1,36 @@
+La tentación autoritaria  
+Nueva York - En este mes hace veinticuatro años que los intransigentes soviéticos , deseosos de detener la naciente transición democrática del país , detuvieron a Mijail gorbachev y declararon la ley marcial .  
+Millones de manifestantes reaccionaron invadiendo las calles de Moscú y otras ciudades de toda la Unión soviética .  
+Elementos decisivos del Ejército se negaron a aceptar el golpe y éste no tardó en desplomarse , seguido pronto por la Unión soviética .  
+Aunque las condiciones económicas eran terribles en los últimos meses de la Urss , la población veía las libertades que estaban llegando y , a diferencia de lo que sucede actualmente , estaba dispuesta a defenderlas .  
+De hecho , en los primeros años de la transición democrática que siguieron , la mayoría de los votantes poscomunistas no sucumbieron a la tentación de elegir a extremistas que prometían poner fin a los tiempos difíciles que estaban padeciendo , sino que eligieron al candidato más idóneo a su alcance .  
+Los rusos rechazaron , por ejemplo , a Vladimir zhirinovsky , un payaso nacionalista y antisemita del estilo de Donald trump , en favor de Boris yeltsin , que afrontó los tanques durante el fracasado golpe de 1991 y reconoció que el futuro de su país pasaba por la democracia y Occidente .  
+En Rumania , el poeta extremista Corneliu vadim tudor perdió a favor de una sucesión de pragmáticos corruptos , comenzando por Ion iliescu , que había encabezado el derrocamiento del último dirigente comunista del país , Nicolás ceauşescu .  
+Desde entonces , el mundo ha dado un vuelco .  
+Al resultar más fácil la vida , al quedar satisfechas en gran medida las esperanzas materiales de la población , los votantes han apoyado cada vez más a los neoautócratas que prometen " proteger " al pueblo de esta o aquella amenaza .  
+El Presidente de rusia , Vladimir putin , encabeza , naturalmente , ese grupo , pero tampoco hay que olvidar al Primer ministro de hungría , Viktor orbán , y al Presidente de la república checa , Miloš zeman , y ese tendencia se extiende allende los países ex comunistas para incluir , por ejemplo , al Presidente de turquía , Recep tayyip erdoğan .  
+El filósofo francés Jean-françois revel vio que el ascenso de las dictaduras violentas en el siglo xx se debía a una " tentación totalitaria " .  
+Lo que estamos presenciando actualmente es algo un poco menos siniestro - llamémoslo " tentación autoritaria " - , pero se trata de una amenaza en aumento no sólo para la democracia , sino también para la estabilidad mundial .  
+Al fin y al cabo , lo único que los autócratas actuales tienen en común con sus predecesores totalitarios es el desprecio por el Estado de derecho , tanto nacional como internacionalmente .  
+Una causa de ese cambio hacia el autoritarismo es la de que muchos países ya no consideran a los Estados unidos un faro de democracia y un modelo de estabilidad y prosperidad digno de emulación .  
+La afirmación de Putin de que la democratización es en realidad un complot americano " para conseguir ventajas unilaterales " resuena en muchas sociedades a raíz de la desastrosa invasión del Iraq y las revelaciones sobre el espionaje de ciudadanos y dirigentes de todo el mundo por parte de la Agencia de seguridad nacional .  
+Pero , antes incluso de esa evolución de los acontecimientos , los vencedores de la Guerra fría - y , en particular , los Ee.uu. - estaban exhibiendo una jactancia que probablemente se enajenó a muchos .  
+Cuando incluso los aliados son tratados con falta de respeto - recuérdese el infame grito de George w. bush de " ¡ Eh , tú , Blair ! " , como si el entonces Primer ministro de gran bretaña tony blair fuera un vaquero - , la gente se pregunta , naturalmente , si también se considera sometido a su país .  
+Los dictadores " blandos " en ascenso - los que el periodista Bobby ghosh llama demócratas autoritarios - han recurrido a esas sensaciones de incomodidad y alienación para atraerse a votantes .  
+Sus partidarios no quieren ser oprimidos , sino que desean estabilidad y soberanía nacional , que sus dirigentes les brindan en parte limitando la oposición .  
+En vista del alcance de los medios de comunicación de masas y redes sociales actuales , basta con poner la mira en pocas personas para intimidar al resto de la sociedad a fin de que se ajusten a la visión del dirigente .  
+De modo , que , en lugar de crear gulags , los neoautoritarios promueven causas penales .  
+Los acusados comprenden desde los oponentes políticos y los críticos en Rusia - como , por ejemplo , el oligarca Mijail jodorkovsky y el abogado anticorrupción Alexei navalny - , pasando por los periodistas independientes en la Turquía de erdoğan .  
+Los ciudadanos parecen convencidos .  
+Al menos el 70 por ciento de los rusos convienen con Putin en que esa clase de " democracia dirigida " es superior a la caótica versión practicada en Occidente .  
+Casi la mitad de los ciudadanos de Hungría consideran innecesario formar parte de la Unión europea , de cuyos valores liberales se burla Orbán .  
+Y más del 70 por ciento de los turcos tienen una opinión negativa de los Ee.uu. , a los que Erdoğan acusa del ascenso de los medios de comunicación social ( la " peor amenaza " que afronta Turquía actualmente : peor incluso , al parecer , que los mortíferos ataques del Estado islámico en las ciudades turcas ) .  
+Cuando en 1989 cayó el Muro de berlín , la gente no entendía la vinculación entre capitalismo y democracia .  
+Muchos querían un estilo de vida occidental , con acceso a las clases de empleos y bienes disponibles en los Ee.uu. , pero no parecían reconocer que el acceso a dicho estilo de vida requiere una libertada económica y personal cada vez mayor : la clase de libertad precisamente que sustenta las sociedades democráticas .  
+Si en la situación actual las potencias occidentales intentaran señalárselo a los ciudadanos de Rusia , Hnngría o Turquía , probablemente alimentarían un resentimiento aún mayor .  
+La mejor opción sería influir en los dirigentes de los países .  
+Si los Putin , Erdoğan y Orbán del mundo quieren seguir beneficiándose económicamente del sistema internacional abierto , no pueden , simplemente , inventar sus propias reglas .  
+Se puede ver el poder de ese planteamiento en Rusia , donde las sanciones occidentales , impuestas a raíz de la anexión de Crimea por Putin , son el factor principal que limita la incursión de los rebeldes prorrusos en la Ucrania oriental .  
+Las medidas adoptadas por Putin a fin de reclamar la categoría de " gran potencia " para Rusia pueden encontrar apoyo en su pueblo , pero éste probablemente mermará , si los rusos afrontan la perspectiva de perder todas las comodidades debidas a la economía relativamente abierta que su país ha tenido durante más de dos decenios .  
+En un momento en el que a los rusos se les deniegan cada vez más los pasaportes para viajar fuera del país , los tentados por el autoritarismo harían bien en recordar la elemental afirmación hecha por John f. kennedy en su discurso de 1963 en Berlín .  
+" La libertad representa muchas dificultades y la democracia no es perfecta " , dijo Kennedy , " pero nunca hemos tenido que construir un muro para mantener dentro a nuestra población " .  

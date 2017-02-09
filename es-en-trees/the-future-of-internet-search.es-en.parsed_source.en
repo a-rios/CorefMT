@@ -1,0 +1,48 @@
+The Future of Internet Search 
+NEW YORK - Imagine that Googling an address gave you a list of the closest buildings , ranked by distance . 
+Not exactly what you were looking for , most likely . 
+You don &apos;t get what you actually want to finish your task ; you get a list of pages that might lead you to it . 
+That is beginning to change . 
+Even as the online world has turned its attention from searching to social networking , search is getting interesting again . 
+Consider the development of online search in the broadest terms . 
+First came Yahoo ! , with its carefully cultivated ( by human editors ) catalogue of interesting web pages . 
+Then along came Google , with co-founder Larry Page &apos;s innovative ranking of Web pages not just by their content , but also by the quantity and quality of other pages that link to them . 
+Social networking brings a new insight . 
+People are likely to buy what their friends recommend , which is why marketers should spend time on social networks and join the conversation , rather than interrupt it with traditional advertising . 
+But what happens when , influenced by their friends , people actually go to buy something or take some action ? 
+That long list of blue links to pages that may or may not contain what they want looks pretty old . 
+Now , however , something is happening to fix this , and it &apos;s not just a prettier background . 
+It &apos;s structure - the same sort of context the old Yahoo ! catalogue supplied , but this time automatically generated and deeper - and across more than just a few categories such as sports and travel . 
+For example , what people want ( and are now getting ) in product search is not a list of pages , but a set of products displayed in some meaningful fashion . 
+They want a map of the product space , not a list . 
+The challenge of course , is that each kind of product has a different structure and a different set of attributes . 
+Consider wines : you can sort them by price , year , or region of origin , by red , white , or rosé , or by sparkling or still . 
+For clothes , you want sizes and colors - and perhaps some filters depending on your personal characteristics - and of course a &quot; buy now &quot; button . 
+Some areas , such as travel , are even more complex . 
+To &quot; map &quot; travel properly , the software needs to understand such things as time zones , flight duration , layovers , and the like , along with concepts such as coach or first class , deluxe and standard rooms , double vs. single , and so on . 
+That is why there is a whole separate vertical market for travel , but one that first Bing , and now Google ( with the acquisition of ITA Software ) , may be claiming . 
+For a long time Google didn &apos;t need to do much to remain the leader in Internet search , focusing primarily on the &quot; access &quot; part of its self-proclaimed mission &quot; to organize the world &apos;s information and make it universally accessible and useful . &quot; 
+But runner-up Microsoft went out and bought Medstory in 2007 and then Powerset in 2008 . 
+( I was an investor in both of them , so I have been watching these developments with interest , but I have no inside information on either company since the acquisitions . ) 
+Medstory has a deep understanding of health care , including the relationships between diseases and treatments , drugs and symptoms , and side effects . 
+Powerset , a tool for creating and defining such relationships in any sphere of interest , is broader but less deep . 
+This all happened a couple of years ago - just before Yahoo ! gave up on search entirely and handed that part of its business over to Microsoft . 
+Also around that time , Bill Gates uttered one of the smartest things he has ever said : &quot; The future of search is verbs . &quot; 
+But he said it at a private dinner and it never spread . 
+To me , the meaning was clear : when people search , they aren &apos;t just looking for nouns or information ; they are looking for action . 
+They want to book a flight , reserve a table , buy a product , cure a hangover , take a class , fix a leak , resolve an argument , or occasionally find a person , for which Facebook is very handy . 
+They mostly want to find something in order to do something . 
+As a result , Bing launched a few forays into vertical integration . 
+And in the last few months Google has begun to react . 
+First , it bought ITA Software , which provides the underlying data to several travel-booking sites ( Hotwire and Orbitz ) and to Kayak , as well as to Bing . 
+Most resellers , a little nervous about Bing &apos;s tool that sends users to book directly with airlines and hotels , are even more concerned about what Google might be up to . 
+Then , last month , Google acquired Metaweb and its user-generated database Freebase . 
+While Powerset was a tool for understanding natural language and for structuring it &quot; under the covers &quot; ( where programmers could see it ) , Metaweb lets partners and end-users create data structures or add information to structures created by others . 
+For example , Metaweb / Freebase has an extensive structured database of movies , actors who appear in them , and their directors . 
+You can ask ( and get the answer ) to &quot; movies directed by Roman Polanski &quot; and get only those movies - not those in which he only appeared . 
+Try doing that with Google . 
+You soon will be able to . 
+Other categories include business ( with entities such as employers , industries , and employees ) , biology , space flight , and many more , and include representations - such as graphs , timelines , and tables - of how they are connected . 
+Most things don &apos;t exist in isolation . 
+They have complex relationships to other things , and by representing that information using verbs - for example , &quot; the company that Google acquired &quot; vs. &quot; the company that Google competes with &quot; - we can represent the world more accurately . 
+And that means better , more meaningful responses when we search . 

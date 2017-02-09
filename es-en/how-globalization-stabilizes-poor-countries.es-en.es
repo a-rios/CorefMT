@@ -1,0 +1,35 @@
+La globalización y su efecto estabilizador en los países pobres  
+La globalización no cesa de recibir acusaciones de generar inestabilidad económica en los países en desarrollo y exacerbar notablemente la pobreza , al menos en el corto plazo , que es el periodo más largo al que los pobres del mundo se pueden dar el lujo de prestar atención .  
+Los críticos apuntan a la cadena de crisis económicas en áfrica , Asia y América latina en los últimos años , a menudo atribuyéndolas a los organismos prestatarios multilaterales y sus exigencias de liberalizar completamente el comercio exterior y los flujos de capitales , avanzar con las privatizaciones y demostrar austeridad fiscal .  
+Pero el encarnizado debate acerca de la globalización suele pasar por alto una característica cada vez más importante que en la actualidad hace que la vida sea mejor y más estable para las personas pobres de los países en desarrollo : los millones de migrantes que envían dinero a sus lugares de origen .  
+Los datos sobre las familias de países en desarrollo que reciben dinero de parientes que trabajan en el exterior demuestra en forma directa que al menos un elemento de la globalización , la migración , aumenta la estabilidad económica en los países pobres .  
+Los migrantes de los países en dificultades de América latina , el Sudeste asiático y otras regiones obtienen cada vez más trabajos con salarios que , si bien bajos para los estándares de un país rico , son mucho más altos de lo que pudieran llegar a imaginar en sus países de procedencia .  
+En 2001 , los trabajadores provenientes de países de ingresos bajos y medios enviaron a sus hogares la notable suma de $43 mil millones , lo que significa más del doble del nivel de una década atrás y $5 mil millones más que el total de la ayuda extranjera oficial a estos países .  
+Los trabajadores migrantes pueden enviar dinero a sus países de origen por una variedad de razones : para mantener buenas relaciones familiares , para asegurarse una herencia , o para pagar un préstamo de sus mayores .  
+Cualquiera que sea el motivo , las así llamadas " remesas " ( el dinero que los trabajadores envían a países como Colombia , Haití , Jamaica , México o Bangladesh ) funcionan como una red de seguridad que los gobiernos de estos países por lo general necesitan , pero no pueden proporcionar .  
+Esto es particularmente cierto en el caso de naciones pequeñas y en desarrollo .  
+Allí los ingresos a menudo son considerablemente más volátiles que en los países más ricos , debido a que se depende fuertemente de unos pocos productos básicos o industrias y , por ende , hay una mayor vulnerabilidad al impacto de los cambios externos , incluidos los trastornos climáticos y otros desastres naturales .  
+De hecho , con frecuencia los países pobres carecen de los seguros privados necesarios para ofrecer el tipo de ayuda de emergencia a los que están acostumbrados los ciudadanos de las naciones ricas .  
+En los países en desarrollo , las remesas de quienes trabajan en el exterior funcionan como el mejor sistema de aseguramiento disponible para ellos en la actualidad .  
+Además de proporcionar a los familiares que se quedaron en los países de origen una muy necesaria fuente de ingresos estables , estos trabajadores envían incluso más dinero cuando ocurre una catástrofe .  
+Tales remesas ayudaron a que miles de jamaicanos , por ejemplo , se recuperaran de la devastación del Huracán gilberto en 1988 , cuando los daños del temporal se estimaron en más de un cuarto del Pgb y casi tres de cada cuatro hogares resultaron afectados .  
+Los seguros eran insuficientes y el gobierno ofrecía sólo una ayuda limitada , que representaba una mera fracción de lo que realmente se necesitaba .  
+Las familias jamaicanas recibieron mucha más ayuda de sus seres queridos que viven y trabajan en lugares como Miami , Nueva york y Los ángeles .  
+Lo mismo pasó cuando la economía de Argentina colapsó el año pasado , cuando la violencia asoló a Haití y cuando un huracán devastó Honduras antes que eso , y cada vez que las inundaciones dejan bajo el agua a los pequeños pueblos de Bangladesh .  
+Caso tras caso , los miles de millones de dólares de las remesas de los migrantes han dado a las familias de los países pobres lo que sus gobiernos ( y los donantes extranjeros ) no siempre han podido garantizar : alimento , seguridad , los recursos para recuperarse , y esperanza .  
+En épocas normales , la importancia económica de estas remesas a países pobres es de por sí reveladora .  
+En Jamaica superan , en promedio , el 10 % del Pgb anual , más del doble del nivel de inversión extranjera directa .  
+Después del Huracán gilberto , las remesas aumentaron en 25 centavos por cada dólar de daño sufrido en los hogares a causa de este fenómeno natural .  
+De todos modos , esto implica que el dinero adicional enviado a los lugares de origen proporcionó sólo una reparación parcial .  
+Quizás a los migrantes les preocupe , del mismo modo como lo hacen las compañías de seguros , el que dar demasiada ayuda pueda hacer que los destinatarios se esfuercen menos por protegerse a sí mismos .  
+O tal vez el daño causado por el huracán fue demasiado grande como para que los migrantes lo cubrieran completamente .  
+Después de todo , podrán estar relativamente bien desde el punto de vista de los estándares de sus naciones de origen , pero trabajan duro por ganar un salario decente en los países donde se encuentran .  
+Del modo que sea , incluso si las remesas desde el exterior funcionan como una forma de aseguramiento en el caso de desastres naturales , esto no significa que aumentarán cuando ocurran otros tipos de " shocks " externos .  
+Los daños producidos por los huracanes son relativamente fáciles de observar y no se pueden atribuir a errores humanos .  
+En contraste , sería más difícil para un migrante que se encuentra en un país distante evaluar en qué medida los familiares que viven en la madre patria , sabiendo que siempre pueden confiar en las remesas , son responsables de la pérdida de otras formas de ingreso .  
+De todos modos , la importancia de las remesas para los hogares de los países pobres , especialmente en periodos de " shock " externo , nos enseña dos lecciones .  
+Primero , debería ser fácil y barato que los migrantes enviaran dinero a sus hogares .  
+Hoy en día , los migrantes y sus familias a menudo pagan un 10 % o más de las remesas a las instituciones financieras que transfieren fondos y cambian monedas .  
+Reducir las tarifas que ellas cobran sería , de hecho , una disminución de impuestos para los más pobres del mundo .  
+Lo segundo y quizás más importante es que debemos ver a la migración como un método comprobado de dar alivio y estabilidad de corto plazo para las naciones pobres .  
+Puesto que los miembros de la familia son quienes mejor conocen sus propias necesidades , la migración y las remesas pueden constituir , de hecho , un marco de ayuda extranjera que apunte mejor a sus objetivos y sea más eficaz de lo que cualquier programa de gobierno pueda llegar a ser .  

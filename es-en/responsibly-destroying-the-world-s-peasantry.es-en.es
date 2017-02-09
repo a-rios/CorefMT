@@ -1,0 +1,37 @@
+Destruir responsablemente el campesinado del mundo  
+Bruselas - El Banco mundial , la Organización de las naciones unidas para la agricultura y la alimentación ( Fao ) , el Fondo internacional de desarrollo agrícola ( Fida ) y la Secretaría de la conferencia de las naciones unidas sobre Comercio y Desarrollo ( Unctad ) han presentado recientemente siete " Principios para una inversión agrícola responsable " .  
+Dichos principios van encaminados a velar por que las inversiones en gran escala en tierras den como resultado situaciones favorables para todas las partes , que beneficien tanto a los inversores como a las comunidades afectadas , pero , pese a ser bienintencionados , esos principios son terriblemente inadecuados .  
+Hace varios años que los inversores privados y los Estados empezaron a comprar y alquilar millones de hectáreas de tierras de cultivo en todo el mundo para garantizar su abastecimiento doméstico de alimentos , materias primas y biocombustibles o para obtener subvenciones por el almacenamiento de carbono mediante plantaciones .  
+Los inversores occidentales , incluidos bancos y fondos de cobertura de Wall street , ven ahora las inversiones directas en tierras como un refugio seguro en un ambiente financiero , por lo demás , turbulento .  
+El alcance de ese fenómeno es enorme .  
+Desde 2006 , entre 15 y 20 millones de hectáreas de tierras de cultivo , el equivalente de toda la superficie cultivable de Francia , han sido objeto de negociaciones por parte de inversores extranjeros .  
+Los riesgos son considerables .  
+Con demasiada frecuencia , conceptos como los de " tierras de reserva agrícola " o " tierras incultas " son objeto de manipulación , pues a veces se usan para designar tierras de las que depende el sustento de muchos y que están sujetas a derechos consuetudinarios muy antiguos .  
+La prescripción de que se hagan desahucios sólo para " fines públicos " válidos , con una compensación justa y tras la consulta a los afectados , resulta más violada que observada .  
+En áfrica , las tierras rurales están consideradas por lo general de propiedad estatal y los gobiernos actúan para con ellas como si fueran suyas .  
+En América latina , la distancia entre los grandes terratenientes y los pequeños agricultores está aumentando .  
+En el Asia meridional muchas poblaciones se están viendo expulsadas actualmente de sus tierras ancestrales a fin de hacer sitio para grandes plantaciones de aceite de palma , zonas económicas especiales o proyectos de reforestación .  
+El conjunto de principios propuestos para contrarrestar ese fenómeno sigue siendo puramente voluntario , pero lo que hace falta es insistir en que los gobiernos cumplan plenamente con sus obligaciones en materia de derechos humanos , incluido el derecho a los alimentos , el derecho de todos los pueblos a disponer libremente de su riqueza y recursos naturales y el derecho de no verse privado de los medios de subsistencia .  
+Como dichos principios no tienen en cuenta los derechos humanos , desatienden la dimensión esencial de la rendición de cuentas .  
+También hay una clara tensión entre la cesión de tierras a inversores para la creación de grandes plantaciones y el objetivo de redistribuir la tierra y garantizar un acceso más equitativo a ella .  
+Los gobiernos se han comprometido repetidas veces con esos objetivos : la ocasión más reciente fue en la Conferencia internacional sobre la Reforma agraria y el Desarrollo rural , celebrada en 2006 .  
+El problema subyacente es más profundo que la formulación de dichos principios .  
+El fomento de la inversión en tierras en gran escala se basa en el convencimiento de que , para luchar contra el hambre , hay que intensificar la producción de alimentos y de que el abastecimiento se ha quedado rezagado por una falta de inversión en la agricultura .  
+Así , pues , si se puede atraer la inversión a la agricultura , se debe acogerla con beneplácito y , sean cuales fueren las normas que se impongan al respecto , deben alentarla , no disuadirla .  
+Pero tanto el diagnóstico como el remedio son incorrectos .  
+El hambre y la malnutrición no son primordialmente consecuencia de una insuficiente producción de alimentos , sino de la pobreza y la desigualdad , en particular en las zonas rurales , donde aún reside el 75 por ciento de los pobres del mundo .  
+En el pasado , el desarrollo agrícola ha concedido prioridad a las formas capitalizadas y en gran escala de agricultura y ha desatendido a las pequeñas explotaciones , que alimentan a las comunidades locales , y los gobiernos no han protegido a los trabajadores agrícolas de la explotación en un ambiente cada vez más competitivo .  
+No debe extrañar que las pequeñas explotaciones y los trabajadores agrícolas representen , juntos , el 70 por ciento de quienes no pueden alimentarse suficientemente en la actualidad .  
+Acelerar el cambio hacia las formas de agricultura en gran escala y muy mecanizada no resolverá el problema .  
+De hecho , lo empeorará .  
+Las explotaciones mayores y mejor equipadas son muy competitivas , en el sentido de que pueden producir para los mercados a bajo costo , pero también crean costos sociales que no se tienen en cuenta en el precio de mercado de su producción .  
+En cambio , las pequeñas explotaciones producen con mayor costo .  
+Con frecuencia son muy productivas por hectárea , pues aprovechan al máximo el uso del suelo y logran la mejor utilización complementaria de las plantas y los animales , pero la forma de agricultura que practican , que depende menos de los insumos exteriores y la mecanización , requiere gran intensidad de mano de obra .  
+Si las pequeñas explotaciones compiten con el mismo mercado que las grandes , pierden .  
+Sin embargo , prestan servicios inestimables , desde el punto de vista de la preservación de la diversidad agraria y biológica , la resistencia de las comunidades locales a las fluctuaciones de los precios o los episodios relacionados con el tiempo atmosférico y la conservación medioambiental .  
+La llegada de la inversión en gran escala a la agricultura alterará la relación entre esos mundos agrícolas .  
+Exacerbará una competencia muy desigual y podría causar alteraciones sociales en masa en las zonas rurales del mundo .  
+Desde luego , la inversión agrícola se debe desarrollar responsablemente , pero , si bien muchos han visto los temores provocados por las subidas bruscas de los precios de los alimentos en los últimos años como una oportunidad para la inversión , no se deben confundir las oportunidades con las soluciones .  
+Para relanzar la agricultura en el mundo en desarrollo , harían falta unos 30,000 millones de dólares al año , lo que representa el 0,05 por ciento del Pib mundial , pero cuánto se invierta en la agricultura importa menos que el tipo de agricultura que apoyemos .  
+Al apoyar una mayor consolidación de los monocultivos en gran escala en manos de los agentes económicos más poderosos , corremos el riesgo de agrandar aún más la distancia que la separa de la agricultura familiar y en pequeña escala e impulsar un modelo de agricultura industrial que ya causa una tercera parte de las emisiones de gases causantes del efecto de invernadero en la actualidad .  
+Es lamentable que , en lugar de estar a la altura del imperativo de desarrollar la agricultura de un modo que sea social y medioambientalmente más sostenible , actuemos como si se pudiera acelerar responsablemente la destrucción del campesinado mundial .  

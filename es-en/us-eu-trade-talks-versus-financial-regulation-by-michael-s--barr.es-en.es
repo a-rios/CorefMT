@@ -1,0 +1,29 @@
+Hay que mantener la regulación financiera fuera de las conversaciones comerciales de Estados unidos y la Ue  
+Ann Arbor - Estados unidos y la Unión europea se han embarcado en una nueva ronda de conversaciones comerciales , que ofrece la promesa de fortalecer la ya robusta relación económica que existe entre ambas partes .  
+Pero no se deberían utilizar las conversaciones para debilitar las reformas financieras estadounidenses que recién empiezan a echar raíces .  
+El Comisionado del mercado interno y Servicios de la ue , Michel barnier , ha estado recorriendo todo Estados unidos en busca de apoyo para incluir los servicios financieros como parte de las negociaciones sobre la propuesta Asociación transatlántica de comercio e Inversión .  
+Mientras tanto , la industria financiera está impulsando las conversaciones como una manera de anular las reglas fastidiosas - y altamente efectivas - que se están implementando en Estados unidos bajo la Ley dodd-frank .  
+Las nuevas reglas estrictas sobre derivados , requerimientos de capital , estructura financiera , protecciones al consumidor y al inversor y otras por el estilo podrían resultar amenazadas en las conversaciones sobre comercio , y el Congreso de estados unidos podría tener sólo un voto positivo o negativo sobre un acuerdo final , que incluiría una amplia variedad de temas .  
+Y otros analistas ven las conversaciones como otro foro para la cooperación , con la esperanza de que las negociaciones comerciales mejoren la coordinación entre los reguladores financieros .  
+Estados unidos haría bien en rechazar esta visión .  
+Ahora no es el momento de poner en riesgo las reformas financieras por las que tanto se luchó en Estados unidos .  
+El sistema bancario paralelo está saliendo a la luz ; la nueva regulación sobre derivados está entrando en vigor ; los requerimientos de capital van a ser mayores ; las reformas estructurales y la autoridad de resolución están reduciendo los subsidios ; y los inversores y consumidores están mejor protegidos .  
+La industria financiera batalló contra esta nueva legislación .  
+Hizo lobby entre los organismos regulatorios y el Congreso para demorar o debilitar las reformas una vez implementadas ; instó al Congreso a bloquear candidatos clave y frenar financiamientos esenciales ; y lanzó demandas judiciales agresivas para impedir la implementación de reglas importantes .  
+Lo último que Estados unidos ( y la Ue ) necesita es permitir que la industria financiera obtenga otro mordisco de la manzana .  
+Y eso es exactamente lo que las conversaciones comerciales - y los subsiguientes votos parlamentarios - harían .  
+Sin duda , ha habido fuertes desavenencias entre Estados unidos y Europa sobre algunos elementos de la reforma .  
+Hasta este mes , la Comisión de comercio en Futuros sobre Materias primas de estados unidos había estado en desacuerdo con Barnier sobre el alcance territorial de las reglas sobre derivados de Estados unidos .  
+De la misma manera , los requerimientos de capital y holdings propuestos por la Reserva federal para las empresas extranjeras que operan en Estados unidos - aunque mejores que el régimen nacional y , en mi opinión , prudentes - enfurecieron profundamente a la Comisión europea .  
+Y a Estados unidos le preocupó otorgar un régimen nacional en las reglas europeas que gobiernan los derivados , así como las reglas vinculadas a los gestores de fondos de cobertura .  
+Sin embargo , existen otros muchos foros en los cuales resolver los desacuerdos entre los reguladores estadounidenses y europeos , incluido el proceso bilateral que resultó en el reciente acuerdo entre Estados unidos y Europa sobre un marco para la regulación sobre derivados .  
+El G-20 ha estado impulsando las reformas financieras a nivel global ; el Consejo de estabilidad financiera está detrás de un acuerdo entre los reguladores ; y los equipos técnicos en el Comité de supervisión bancaria de basilea , la Organización internacional de comisiones de valores y la Asociación internacional de supervisores de seguros debaten para resolver las reformas relevantes para la industria .  
+Lo último que necesitamos es otro proceso , particularmente si no está centrado en cómo impedir otra crisis financiera como aquella de la cual Estados unidos y Europa todavía intentan recuperarse .  
+Las conversaciones comerciales terminarían siendo un mecanismo para dar marcha atrás con las reformas en lugar de impulsarlas .  
+En términos globales , no hay duda de que todavía hay mucho trabajo por hacer .  
+En materia de resolución bancaria , Estados unidos ya cuenta con un marco sólido , pero todavía se está trabajando para encontrar la manera de hacer factible la reducción de una firma financiera importante ; en Europa , existe consenso sobre la necesidad de una autoridad de resolución , pero todavía hay mucho más por hacer para que esta autoridad funcione dentro del contexto de los marcos legales y políticos de los estados miembro de la Ue .  
+En materia de derivados , hoy existe un acuerdo general sobre cómo abordar el comercio , la compensación y la transparencia , pero hay mucho más trabajo por hacer en cuanto a requerimientos de capital , requerimientos de márgenes , supervisión de las cámaras de compensaciones y otras cuestiones .  
+Las reglas de capital y liquidez están cobrando forma , pero un acuerdo final todavía está en el horizonte y no al alcance de la mano .  
+Yo estoy a favor de un esfuerzo más fuerte y más firme para alcanzar un acuerdo global sobre las reformas nucleares .  
+De hecho , un acuerdo así es esencial para poder reducir las posibilidades de otra crisis financiera global devastadora .  
+Pero no hay motivos para intentar lograrlo a través de conversaciones comerciales que muy probablemente no fortalecerían sino más bien debilitarían las fuerzas de la reforma .  

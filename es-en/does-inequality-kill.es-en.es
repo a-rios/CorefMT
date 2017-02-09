@@ -1,0 +1,1 @@
+¿ La desigualdad mata ?  

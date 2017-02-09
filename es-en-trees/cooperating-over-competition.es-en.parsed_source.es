@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">La</tree></tree><tree label="NC">cooperación</tree></tree><tree label="cn"><tree label="SP">sobre</tree><tree label="sn"><tree label="spec"><tree label="DA">la</tree></tree><tree label="NC">competencia</tree></tree></tree></tree></tree> 

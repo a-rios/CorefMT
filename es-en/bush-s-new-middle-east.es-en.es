@@ -1,0 +1,29 @@
+El nuevo Oriente medio de bush  
+La declaración del Presidente george w. bush sobre la " misión cumplida " en el Iraq hace cinco años fue tan ensoberbecida como fantasiosa es su actual evaluación de que el reciente aumento repentino de tropas " ha obtenido una importancia victoria estratégica en la guerra , más en general , al terror " .  
+La aventura en el Iraq no sólo es la guerra más larga y más cara de la historia de los Estados unidos - el premio Nobel de economía Joseph stigltz ha ofrecido un asombroso cálculo aproximado de 3 billones de dólares - , sino que , además , es la menos concluyente .  
+La guerra ha pulverizado la sociedad iraquí , al disolverla en un centón etnosectario .  
+El efecto del citado aumento de tropas se acabará tarde o temprano y los iraquíes , deshechos por la violencia y la corrupción , seguirán incapacitados para unir su sistema de gobierno y , dada la incapacidad de su ejército para tomar el relevo de los americanos , la violencia yihadí e interétnica volverá por fuerza a estallar .  
+Como ha dicho recientemente el coronel iraquí Omar alí , comandante del batallón iraquí en Mosul , foco principal de la insurgencia en la actualidad , " sin los americanos , nos resultaría imposible controlar el Iraq " .  
+Las guerras , tal como las definió Winston churchill , son siempre " un catálogo de meteduras de pata " .  
+Así , pues , el juicio de la Historia sobre la guerra del Iraq versará , desde luego , más sobre si ha alcanzado sus objetivos estratégicos de " reconstrucción " de un Oriente medio muy desestructurado a imagen y semejanza democráticas de los Estados unidos y consolidación de su posición hegemónica en la región que sobre su precio en sangre y dinero .  
+Estratégicamente , la guerra fue un completo fracaso .  
+La guerra , ejemplo claro de exagerada ambición imperial , forzó demasiado al ejército de los Estados unidos , socavó el prestigio moral de este país en el mundo entero y su reputación en el Oriente medio , amenazó gravemente a su economía y mostró a amigos y enemigos los límites del poder americano .  
+La más grave consecuencia no deseada de la guerra es el surgimiento de un poderoso desafío chií a los aliados suníes de Occidente en el Oriente medio .  
+La destrucción por parte de los Estados unidos del iraq como potencia regional entregó en bandeja de plata la hegemonía en el golfo Pérsico , cuya decisiva importancia para los intereses occidentales no se puede exagerar , al régimen islamista chií del Irán .  
+Sobre los escombros de la dictadura de Sadam husein los americanos contribuyeron a crear en el Iraq el primer Estado árabe dominado por los chiíes , que podría ponerse al servicio de las ambiciones regionales del Irán , calamidad de dimensiones históricas para los aliados suníes de los Estados unidos .  
+La reciente visita al Iraq del presidente mahmoud ahmedinejah transmitió a los americanos un mensaje inequívoco : la perspectiva de que los Estados unidos alcancen jamás un mínimo de estabilidad en el Iraq ha pasado a depender de las fuerzas alineadas con el Irán .  
+Las dificultades de los Estados unidos en el Iraq y en un ámbito más amplio contribuyeron decisivamente a las ambiciones nucleares del Irán .  
+Los iraníes se ven ahora inmunes a un ataque americano a sus instalaciones nucleares , pues los problemas de los Estados unidos en el Iraq y la oposición en aumento a la guerra en los Ee.uu. son una señal para ellos de que la estrategia de guerras preventivas por parte de los Ee.uu. ha fracasado .  
+Pero , por radical que sea el régimen iraquí , no es suicida .  
+Por eso , la amenaza de un Irán nuclear podría consistir menos en su propensión a iniciar una guerra nuclear con Israel que en su capacidad para proyectar eficazmente su poder regional .  
+Un Irán nuclear podría amenazar incluso la capacidad de los Ee.uu. para proyectar fuerzas convencionales en el Golfo en momentos de crisis , como tampoco se puede descartar la posibilidad de que el Irán sienta la tentación de reforzar sus ambiciones regionales suministrando material nuclear a grupos terroristas delegados suyos .  
+Si acaso , el desastre de los Estados unidos en el Iraq no ha hecho sino envalentonar a quienes desafían el status quo en la región .  
+ése ha sido también el resultado de la mal concebida cruzada democrática en el mundo árabe .  
+Bush descubrió , para consternación suya , que cualquier ejercicio de democracia árabe ha de abrir las puertas a los islamistas antioccidentales , ya se trate de los Hermanos musulmanes en Egipto , los partidos chiíes en el Iraq o Hamas en Palestina .  
+Al final , los Ee.uu. tuvieron que abandonar sus fantasías sobre una democracia árabe al estilo occidental , pero dejaron a los iraníes - lo que resulta irónico-enarbolando la antorcha de la democracia en la región .  
+Al fin y al cabo , el Irán se apresuró a reconocer que las elecciones libres son la vía más segura para socavar los regímenes proamericanos del Oriente medio .  
+A la guerra del Iraq se debió también que los Estados unidos no atendieran al proceso de paz palestino-israelí .  
+Ahora las posibilidades de que el gobierno de Bush pueda agrupar a los aliados suníes " moderados " de los Estados unidos en la región para que ayuden a salvar la paz palestino-isaelí están secuestradas por un eje regional encabezado por el Irán del que forman parte Hamas , Hizbolá y Siria .  
+Todos ellos están unidos en su rechazo de una Pax americana en el Oriente medio y han demostrado hasta ahora una notable resistencia al desestimar las condiciones previas impuestas por los Estados unidos para un diálogo .  
+La incapacidad de los Estados unidos para inspirar a los pueblos del Oriente medio , gobernados todos ellos por autocracias respaldadas por ese país , no es una novedad precisamente .  
+En cambio , sí que lo es que el poder americano podría estar perdiendo su capacidad para intimidarlas .  

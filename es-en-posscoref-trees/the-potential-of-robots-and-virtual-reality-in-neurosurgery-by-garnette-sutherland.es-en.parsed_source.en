@@ -1,0 +1,37 @@
+Robots on the Brain 
+CALGARY - When Harvey Cushing and William Bovie introduced electrocautery ( which uses a high-frequency current to seal blood vessels or make incisions ) in 1926 , their innovation transformed neurosurgery . 
+Given the precision required to operate on an organ as delicate as the brain , the convergence of mechanical technologies with the art of surgery catalyzed progress in the field . 
+Neurosurgical advances always pursue minimalism . 
+As in any other surgical field , the less the procedure interferes with the body , the less likely it is to affect the patient &apos;s quality of life adversely , and the sooner the patient will be able to return to normal activity . 
+This imperative is even more pronounced when it comes to sensitive neurological procedures . 
+Tasks like maneuvering small blood vessels that are 1-2 millimeters in diameter , or removing a brain tumor without damaging the surrounding tissue , require technologies , such as the operating microscope and multimodal imaging tools , that complement surgeons &quot; skills and augment their abilities . 
+A step further would be to allow a human-controlled robot to enter the brain . 
+Robots are capable of performing repetitive tasks with a higher degree of precision and accuracy than are humans , and without muscle fatigue . 
+And they can be upgraded periodically to integrate new features seamlessly . 
+What robots lack is the human brain &apos;s executive capacity . 
+Given that comprehending - and reacting appropriately to - the immense number of variables that can arise during surgery would require enormous computing power , surgical robots aim to integrate human experience and decision-making ability with mechanized accuracy . 
+One example of this convergence is neuroArm , developed by my research team at the University of Calgary in conjunction with engineers at MacDonald , Dettwiler and Associates . 
+The neuroArm actually has two arms , which can hold various surgical tools while the surgeon maneuvers them from a remote workstation . 
+The workstation provides a multitude of data - including magnetic resonance imaging ( MRI ) , a three-dimensional image of the surgical field , sonic information , and quantifiable haptic ( or tactile ) feedback from tool-tissue interaction - that enable the surgeon to experience the surgery through sight , sound , and touch . 
+Because the human brain makes decisions based on sensory input - and , of course , experience - such data are essential for the surgeon to make the most informed choices possible during surgery . 
+Technologies like MRI can help in surgical planning , resection control , and quality assurance . 
+Magnetic-resonance-compatible robotics allow for real-time imaging , providing information about anatomical structures and changes in the brain relative to surgical pathology while operating , thereby minimizing risk . 
+Given that the robot receives the MRIs and provides haptic feedback , electronic highways or surgical corridors can be established before the procedure , as can &quot; no-go &quot; zones . 
+Tool manipulation can thus occur only within the predetermined corridor , preventing unintended injury to the brain . 
+Furthermore , robotic surgery has the potential to progress beyond the scope of unaided human capability . 
+Motion scaling - which allows the robotic arms to mimic the exact movements of the surgeon &apos;s hands , but on a much smaller scale - will enable surgeons to manipulate tissue that is too small for the naked eye to detect . 
+With the development of smaller microsurgical tools and high-performance cameras and monitors , operating at the cellular level will be possible . 
+A related area with important implications for neurosurgery is virtual reality . 
+Building on simulation technology , virtual reality will allow surgeons to rehearse procedures , including with surgical robots , in a digital environment . 
+The ability to map out complex cases and practice rare procedures before performing them on a patient will undoubtedly lead to better surgical performance and improved medical outcomes . 
+Virtual reality will also enhance surgical training , by providing students with a wider range of experience and enabling quantification of their performance . 
+Surgeons operating manually know how much force they exert only by the way it feels ; a surgical simulator , by contrast , could measure that force and indicate when a trainee is applying excessive or insufficient pressure . 
+Moreover , instructors will be able to program controlled scenarios to assess how a trainee copes in challenging circumstances . 
+The ability to reset and retry surgeries without any risk or additional cost will enhance neurosurgical training significantly . 
+After all , practice makes perfect . 
+To be sure , virtual reality remains a relatively young technology . 
+Given that realistic neurosurgical simulations , which must account for a large number of variables and potential outcomes , are particularly difficult to develop , virtual reality is not yet being used widely in the field . 
+But surgical-simulation technology is advancing rapidly , bolstered by developments in parallel computing . 
+As these simulations become more realistic , their training value will increase . 
+The merging of human surgical experience with machines and computerized technologies is driving neurosurgical advancement , with robotic surgery serving as an important model of the benefits of the human-machine interface . 
+Add virtual reality to the equation and the future of neurosurgery takes shape - a future in which the discipline is elevated to new levels of excellence . 

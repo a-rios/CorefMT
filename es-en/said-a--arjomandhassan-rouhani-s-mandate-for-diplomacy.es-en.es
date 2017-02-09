@@ -1,0 +1,30 @@
+¿ Cumplirá Ruhaní ?  
+Nueva York - Mientras las potencias del mundo se reúnen en Ginebra para comenzar conversaciones con Irán sobre su programa nuclear , el mundo aguarda la segunda parte de la conversación telefónica que tuvieron el presidente iraní , Hasán ruhaní , y el de los Estados unidos , Barack obama , tras la visita de Ruhaní a la Asamblea general de las naciones unidas , el mes pasado .  
+Esa breve conversación ( la primera entre presidentes de los dos países desde 1979 ) nos hace pensar en el último intento de revivir la diplomacia bilateral , que tuvo lugar 12 años atrás por iniciativa del entonces presidente Mohammad jatamí .  
+En ambos episodios , el abismo abierto entre ambos países quedó simbolizado en la ausencia de un apretón de manos entre los presidentes .  
+En aquella ocasión , Jatamí y el ministro de asuntos exteriores , Kamal jarazi , eligieron " salir de compras " en vez de asistir a un evento cultural en la Asia society , donde correrían riesgo de cruzarse ( y tener que darse la mano ) con la secretaria de estado de los Estados unidos , Madeleine albright .  
+Esta vez , a pesar de que Irán también evitó el apretón de manos presidencial en la Onu , Ruhaní pronunció un importante discurso en la Asia society , en el que aseguró que su gobierno seguirá políticas de " moderación y sentido común " y que está dispuesto a colaborar con Occidente para la solución de las cuestiones referidas a su programa nuclear .  
+Además , sí hubo un apretón de manos entre los ministros de asuntos exteriores de ambos países , John kerry y Yavad zarif , durante la reunión formal que ambos mantuvieron junto con la jefa de diplomacia de la Unión europea , Catherine ashton , para organizar las inminentes negociaciones de Ginebra sobre el programa nuclear .  
+Gesto que repitieron más tarde en una reunión aparte entre los dos .  
+Algo cambió , pero ¿ qué ?  
+En aquella primera ocasión , el líder supremo iraní , el ayatolá Alí jamenei , había prohibido a Jatamí hablar con los estadounidenses .  
+Pero esta vez , Ruhaní actuó con la bendición de Jamenei .  
+El ayatolá , preocupado por reparar el daño que causó su aceptación de la fraudulenta reelección del ex presidente Mahmud ahmadineyad en 2009 , aceptó la victoria en junio de este año de Ruhaní , un conservador reformista en quien confía .  
+Habrá calculado que el nuevo presidente tendrá que subsanar las consecuencias del diletantismo de Ahmadineyad en política exterior y de su mala administración económica , que tanto ha hecho por el derrumbe de la economía iraní como las sanciones internacionales patrocinadas por Estados unidos .  
+No es este el primer intento de mejorar las relaciones con los estadounidenses .  
+Akbar hashemí rafsanyaní , quien asumió la presidencia de Irán tras la muerte del ayatolá Ruhollah jomeini en 1989 , intentó hacer lo mismo .  
+En 1995 , envió claras señales de un deseo de restaurar las relaciones diplomáticas ; pero el gobierno del presidente Bill clinton ignoró el intento de acercamiento y cedió la iniciativa al Congreso de los estados unidos ; este respondió con la adopción unánime de la ley de sanciones a Libia e Irán de 1996 .  
+Rafsanyaní estaba en una posición mucho más fuerte respecto de Jamenei ( que acababa de ser elegido como sucesor de Jomeini para la función de Líder supremo ) que cualquier otro presidente iraní después de él .  
+El problema lo tenía con sus poderosos oponentes en el aparato de seguridad de Irán , que sabotearon sus iniciativas pragmáticas de política exterior organizando atentados terroristas en Francia , Alemania y Argentina .  
+La propuesta que hizo Jatamí en 2000 de mantener un " diálogo entre civilizaciones " fue un intento de abrir una fisura en lo que describió como un muro de desconfianza alzado entre Irán y Estados unidos .  
+Hubo que esperar al último año del segundo mandato de Clinton para que el presidente de Estados unidos hiciera un intento serio de responder a Jatamí .  
+Pero a Jatamí le faltó apoyo de Jamenei , que se oponía firmemente a sus reformas .  
+La agresiva retórica del sucesor de Clinton , George w. bush , quien antes de la invasión a Irak liderada por Estados unidos incluyó a Irán dentro de un " eje del mal " , generó preocupación en Jamenei , y en 2003 este avaló una iniciativa de diálogo con los estadounidenses .  
+Pero el gobierno de Bush , aferrado a la idea de un cambio de régimen , ignoró el intento y rechazó el " Gran acuerdo " sobre energía nuclear negociado con Francia , Alemania y el Reino unido y firmado en París en noviembre de 2004 por Ruhaní , quien era por entonces representante de Jamenei y presidente del Consejo de seguridad nacional de irán .  
+El rechazo formal del acuerdo nuclear entre Irán y la Unión europea , en febrero de 2005 , fue un regalo en bandeja para los halcones iraníes , liderados por Ahmadineyad .  
+El regreso de los halcones tras el dominio de los moderados es un rasgo que , a pesar de ser poco comprendido , es bastante típico de las revoluciones del siglo xx .  
+La victoria electoral de Ahmadineyad en 2005 significó un retroceso al populismo de la Revolución islámica y al culto de los mártires revolucionarios .  
+Fue de la mano con una política exterior agresiva y una decidida estrategia nuclear de enriquecimiento de uranio , que provocó reiteradas frustraciones a los negociadores de la Unión europea y obligó a los líderes mundiales a encolumnarse detrás del paralizante régimen de sanciones impuesto por Estados unidos .  
+Es indudable que antes de venir a Estados unidos , el nuevo presidente de Irán estudió la carta de Obama a Jamenei , quien prometió " flexibilidad heroica " en las negociaciones .  
+Con el apoyo de Jamenei , Ruhaní podrá controlar a las fuerzas recalcitrantes de la estructura de poder de Irán como no pudieron hacerlo sus pragmáticos predecesores , Rafsanyaní y Jatamí .  
+Más que ningún otro presidente iraní desde 1979 , Ruhaní puede cumplir su parte del acuerdo ( siempre , claro está , que haya algún acuerdo que cumplir ) .  

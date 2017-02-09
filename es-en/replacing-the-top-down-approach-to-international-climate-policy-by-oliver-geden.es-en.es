@@ -1,0 +1,30 @@
+Un nuevo paradigma de políticas para hacer frente al cambio climático  
+Berlín - Hablemos en serio : es probable que fracasen las negociaciones que se están llevando a cabo en las Naciones unidas sobre el cambio climático .  
+Sin duda , como ocurrió con el encuentro que hace poco se realizó en Bonn , las expectativas para la conferencia de noviembre en Varsovia son tan bajas que casi no hay margen para el fracaso .  
+Pero , dado que los negociadores están prometiendo llegar al acuerdo global que no lograron en Copenhague en 2009 , es casi seguro que la cumbre de diciembre de 2015 en París será otra debacle .  
+Para la Unión europea , principal autoridad en materias de políticas internacionales para enfrentar el cambio climático , el resultado de la cumbre de Copenhague fue particularmente decepcionante .  
+Tras años de negociaciones y numerosos informes científicos de evaluación , había un alto nivel de expectativas entre las delegaciones de llegar a un tratado climático de gran alcance .  
+Resultaron ser ilusorias .  
+Esta vez no será diferente .  
+Si bien en 2015 se podría llegar a un acuerdo , lo más probable es que no abarque a todos los grandes emisores y definitivamente no será lo bastante ambicioso como para lograr el objetivo general de una cooperación internacional que pueda evitar que las temperaturas globales se eleven más de 2 ° Celsius por sobre los niveles preindustriales .  
+Más aún : los negociadores no tendrán otra oportunidad .  
+Después de más de dos décadas de debates en gran medida infructuosos en que las emisiones de Co2 han seguido aumentando , otra cumbre que acabe en el fracaso no hará más que producir una profunda crisis en la diplomacia climática internacional , obligando a sus impulsores a cambiar las reglas del juego o aceptar que no es posible ganarlo .  
+La primera víctima de una crisis así sería el enfoque verticalista de políticas climáticas impulsado por la Ue y muchos científicos destacados .  
+El punto de comienzo de este modelo es el límite acordado para un cambio climático tolerable ; el presupuesto mundial de las emisiones restantes hasta el año 2050 se calcula a partir de este límite y luego se divide entre los 193 estados miembros de la Onu .  
+En caso de que la cumbre de París fracase ( como es probable ) , el colapso en la confianza sobre este enfoque podría llevar a dos resultados .  
+En el peor de ellos , el concepto mismo de control global del cambio climático perdería todo valor : décadas de alarmismo climático darían paso a un estado de fatalismo .  
+Puesto que la Onu aceptó formalmente en 2010 el límite de 2°c como punto de partida del enfoque verticalista , se volvería insostenible la afianzada estrategia de disimular los fracasos actuales con anuncios de iniciativas más ambiciosas en el futuro .  
+En ese punto , quedaría debilitado el papel de la Ue como líder mundial de políticas climáticas , así como su énfasis en desarrollar una economía compatible con el medio ambiente .  
+En una situación en que la Ue se viera obligada a promover estrategias de segunda o tercera clase , los países perderían confianza en el potencial de solución de problemas climáticos a nivel internacional y disposición a buscar soluciones en común .  
+Como consecuencia , las políticas climáticas internacionales se volverían irreconocibles , ineficaces y , en último término , irrelevantes .  
+Los países comenzarían a centrarse casi por completo en mejorar sus propias capacidades de adaptación al cambio climático ; los ambiciosos acuerdos de reducción de emisiones cederían paso a iniciativas exclusivamente nacionales en áreas tan diversas como las políticas normativas o la ingeniería climática .  
+Todo esto dejaría a la Ue sin otra opción que cambiar sus planes internos , socavando su capacidad de ir avanzando hacia el cumplimiento de sus aspiraciones de reducciones de emisiones para el año 2050 y debilitando la voluntad de los estados miembros de acordar objetivos ambiciosos y legalmente vinculantes sobre energía y cambio climático para el año 2030 .  
+Más aún , la pérdida de continuidad legislativa más allá de 2020 generaría un nivel de inseguridad importante para las empresas en la Ue , haciendo decrecer la inversión e interrumpiendo ( si es que no poniéndole fin ) al avance de Europa hacia una economía con bajas emisiones de carbono .  
+Una vez iniciado ese proceso , la fragilidad política de la Ue la haría incapaz de detenerlo , al menos en el futuro previsible .  
+El otro escenario posible es más promisorio e implica un cambio fundamental de perspectiva sobre el cambio climático y cómo se pueden encuadrar sus soluciones .  
+Recién está comenzando a surgir y definirse un enfoque " desde abajo hacia arriba " , sobre el principio básico de que conviene emitir la menor cantidad posible de emisiones .  
+Para asegurar este resultado , la Ue debe comenzar a preparar un Plan b que tome en cuenta el próximo cambio de paradigma de políticas climáticas , en el que se debería dar prioridad a los avances mensurables hacia la reducción de emisiones de carbono de las principales economías del mundo , a través de tratados climáticos u objetivos de largo plazo globales .  
+Si bien el nuevo paradigma protegería la legitimidad de los actuales instrumentos normativos y diplomáticos , como el comercio de emisiones , la Ue tendría que reconsiderar su marco de aplicación .  
+Cobrarían cada vez mayor importancia los planes para una cooperación flexible e impulsada por incentivos entre países desarrollados y en desarrollo ( los llamados " clubs " ) , y el grado de avance dependería de la cooperación entre emisores importantes , como Estados unidos , China e India .  
+En el futuro , la Ue tendrá que encarar el cambio climático principalmente como un asunto político , en lugar de hacerlo en términos de objetivos definidos científicamente .  
+únicamente si se ajusta a las limitaciones prácticas del sistema internacional podrá seguir el rumbo de la transformación económica , al tiempo que preserva su relevancia internacional y ayuda a contener el calentamiento global .  

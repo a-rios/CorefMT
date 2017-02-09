@@ -1,0 +1,23 @@
+El dilema energético de la Argentina  
+Buenos Aires - L expropiación de casi todas las acciones de la compañía española Repsol en la productora de energía Ypf de la argentina , anunciada en un vehemente discurso por la Presidenta cristina fernández de kirchner , ha disparado las alarmas legales en todo el mundo , En realidad , esa iniciativa no resolverá los problemas energéticos del país , a falta de enormes entradas de inversión en el sector .  
+Repsol adquirió el control completo de Ypf en 1999 ; en febrero de 2008 , transfirió parte de sus acciones al Grupo petersen , que actualmente cuenta con el 25 por ciento .  
+Actualmente Repsol cuenta con el 57 por ciento y el resto es propiedad de inversores en el mercado de valores .  
+El Gobierno de la argentina se propone expropiar el 51 por ciento y dejar a Repsol con una participación del seis por ciento .  
+En la venta de acciones de 2008 , los dos accionistas mayoritarios acordaron distribuir al menos el 90 por ciento de los beneficios futuros en efectivo .  
+Esa decisión iba destinada a permitir al Grupo petersen pagar las deudas a los bancos y al propío Repsol , contraídas con la compra de acciones , que no pagó inicialmente .  
+Se trata de un dividendo extraordinariamente elevado en el mundo de la industria petrolera .  
+En el pasado decenio , las reservas de Ypf disminuyeron en gran medida , junto con las de la mayoría de las compañías petroleras que funcionan en la Argentina , porque la inversión en exploración se redujo en gran medida .  
+Al mismo tiempo , el gas natural representa el 51 por ciento del consumo de energía , frente al 32 por ciento en el caso del petróleo y apenas el 17 por ciento en el del carbón , las renovables y las energías hidroeléctrica y nuclear .  
+A escala mundial , el gas representa apenas una cuarta parte del consumo energético total : por ejemplo , el 27 por ciento en los Estados unidos y tan sólo el 9 por ciento en el vecino Brasil .  
+La Argentina tiene la mayor flota de vehículos que funcionan con gas natural comprimido ; las familias utilizan el gas intensivamente ; la mayoría de la electricidad se genera con gas y la industria petroquímica está basada en él .  
+Naturalmente , en unos pocos países ( Qatar , Argelia , los Emiratos árabes unidos , el Irán y Rusia ) , el gas representa también más de la mitad - o incluso más del 60 por ciento - del consumo de energía , pero hay una diferencia enorme : todos esos países tienen reservas que durarán entre 70 y 100 años más .  
+En cambio , la Argentina es un país muy dependiente del gas y con reservas cada vez menores : equivalentes a menos de ocho años de producción .  
+Compensar esa disminución de las reservas - más de la mitad de las reservas de gas y una quinta parte de las de petróleo se han consumido - con importaciones supone un costo anual de más de 300.000 millones de dólares .  
+De hecho , después de dos decenios de energía barata y abundante y exportaciones del excedente de producción , ha comenzado un nuevo ciclo de energía cara , escasa e importada , pues la producción de petróleo se ha reducido en una tercera parte desde 1998 y la producción de gas en un 15 por ciento desde 2004 .  
+El imperativo más importante para la Argentina actualmente es el de intentar recuperar la autosuficiencia energética mediante una importante inversión en exploración de la tierra , además de en el océano Atlántico .  
+Al mismo tiempo , el país debe modificar su modelo de consumo mediante una mayor dependencia de las energías hidroeléctrica , nuclear y eólica .  
+Si bien hay grandes posibilidades en materia de recursos no tradicionales , todo ello es caro y requiere una inversión anual de un tres por ciento , aproximadamente , del Pib a lo largo de los cinco próximos años .  
+Es muy probable que , a corto plazo , unas importaciones cada vez mayores de un caro gas natural licuado y otros combustibles seguirán ejerciendo una presión en pro del cambio .  
+El año pasado , el déficit energético exterior ascendió a más de 3.000 millones de dólares y este año se espera que se duplique .  
+La cuestión importante es si la decisión del Gobierno de la argentina de nacionalizar el 51 por ciento de las acciones de Ypf es la forma mejor de recuperar la autosuficiencia en la producción de petróleo y gas y atraer el capital necesario para la explotación y el desarrollo de las reservas tradicionales .  
+La Argentina tiene también unas posibilidades particularmente grandes para la producción de recursos no tradicionales de gas , en vista de que el nivel de sus reservas es el tercero del mundo , después de China y los Estados unidos , pero , como ocurre en el caso de los recursos tradicionales del país , dichas reservas no se producirán solas .  

@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="SP">A</tree><tree label="sn"><tree label="spec"><tree label="DA">la</tree></tree><tree label="NP">Sombra_del_marco_alemán</tree></tree></tree></tree> 

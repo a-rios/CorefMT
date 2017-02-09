@@ -1,0 +1,31 @@
+El impotente poder de la socialdemocracia europea  
+A primera vista , la democracia social europea parece estar en crisis .  
+El desplome de Gordon brown en el Reino unido , la brutal conmoción de la recesión económica de España , las dificultades para renovar la dirección socialista en Francia , el desplome de la coalición de centro izquierda en Italia y las graves luchas intestinas dentro del Psd alemán son , todos ellos , ejemplos de la aparente incapacidad de la socialdemocracia para aprovechar la oportunidad , que la actual crisis financiera debería brindar , de ejercer una mayor influencia .  
+Pero la simultánea aparición y el carácter palmario de esos problemas son menos importantes de lo que parecen .  
+Los errores o torpezas en el gobierno no son exclusivos de la izquierda : Bélgica está paralizada por la amenaza de ruptura , Austria sigue intentando consolidar una improbable coalición conservadora , Polonia está esforzándose por lograr un equilibrio estable para su-nonhum-sg numerosos impulsos reaccionarios y el Presidente de francia está alcanzando niveles de impopularidad sin precedentes .  
+Dos factores ayudan a explicar las incertidumbres europeas actuales : en primer lugar , la crisis económica y financiera internacional , que dummy-we estamos superando bastante lentamente ; en segundo lugar , la forma como los medios de comunicación están presentándola .  
+A la combinación de los dos dummy-nonhum es , a mi juicio , a la que se debe la sensación de impotencia que está afectando ahora a toda Europa y puede parecer que dummy-nonhum caracteriza a la socialdemocracia en particular .  
+Al informar sobre la crisis , los medios de comunicación han insistido demasiado en la situación financiera y no han prestado la atención suficiente a la marcada desaceleración del crecimiento económico , pero es la recesión económica la que vuelve a todos los países desarrollados menos resistentes a las conmociones financieras resultantes del problema de las hipotecas de riesgo elevado y de los planes de préstamos mixtos a los que se recurre después para diluir los riesgos que entraña la deuda de aquéllas .  
+De hecho , la combinación de incertidumbres bancarias , crecimiento más lento , mayor riesgo de desempleo y trabajo precario es la causante de la debilidad política que ahora vemos en el Reino unido , España , Italia y otros países .  
+En eso dummy-nonhum estriba un problema ideológico real .  
+En la segunda mitad del siglo xx se produjo la victoria de la economía de mercado sobre la economía colectivista .  
+La izquierda , que antes había recurrido a Marx , quedó desorientada .  
+Incluso la socialdemocracia , que era una excelente reguladora del capitalismo , en particular en Escandinavia , se quedó muda en la controversia entre keynesianos y monetaristas y éstos vencieron en todo el mundo desarrollado .  
+El principio aceptado actualmente es el de que los mercados se equilibran óptimamente , sea cual fuere su-pl estado , lo que quiere decir que ninguna intervención o regulación gubernamental sería eficiente ni deseable .  
+La crisis actual es un castigo severo por ese inmenso error intelectual .  
+No sólo el declive de las regulaciones sociales y financieras antes aceptadas se refleja en la relativa , pero importante , reducción en los treinta últimos años de los ingresos procedentes de los salarios como porcentaje del Pib - y , por tanto , el gasto de los consumidores - en todos los países desarrollados , sino que , además , la abolición deliberada de los controles permite al sector bancario hacer lo que le plazca .  
+Aun así , a juzgar por la mayoría de las informaciones de los medios de comunicación , las crisis paralelas de las hipotecas de riesgo elevado y de los planes de préstamos mixtos , que están paralizando las finanzas mundiales , son enteramente atribuibles a la " inmoralidad " de los bancos y en modo alguno se deben a un fracaso sistémico .  
+Dicho de forma sencilla , la desregulación , la privatización , la reducción de los servicios públicos y la conversión de los ingresos en el centro de la gestión de las empresas son fenómenos que vienen bien a demasiadas personas .  
+A consecuencia de ello , la batalla política para recuperar el sentido del interés general - de las reglas y del equilibrio - será larga y dura .  
+Lo que también está claro , aun cuando no se reconozca lo suficiente , dummy-it es que dicha batalla será primordialmente de carácter intelectual : se debe devolver la legitimidad a la idea de que debe haber ciertas reglas fundamentales y organismos públicos de regulación .  
+ésa debe ser la tarea de los socialdemócratas .... pero ahí es donde aprieta el zapato .  
+Nosotros , los socialdemócratas , ya no podemos reñir esas batallas , porque el problema no es sólo ideológico , sino también cultural .  
+Los medios de comunicación han dejado de ser comentaristas y han pasado a ser participantes que han secuestrado la política con imaginería lingüística .  
+Ya dummy-nonhum sea accidental o intencionadamente , los medios de comunicación eligen solo las batallas que ofrecen el espectáculo más vistoso : choques de personalidades , violencia y represión , luchas por la identidad nacional y disputas sobre actitudes morales y sexuales .  
+Para los medios de comunicación contemporáneos , las controversias técnicas sobre políticas carecen de interés , porque el auditorio que se interesa por ellas es limitado .  
+Por ejemplo , en la preparación de su-nonhum-sg próximo congreso , el Partido socialista francés ha sucumbido a esa realidad .  
+Ya dummy-we sabemos que habrá fuegos artificiales de los medios de comunicación , pero se hablará poco de regulación económica .  
+El caso de España , donde un gobierno competente y respetado está cargando con toda la culpa de una crisis financiera que comenzó en otras partes , es idéntico .  
+En lugar de centrarse en la crisis exclusivamente , no cesa de agitarse delante de los medios de comunicación .  
+Todo lo que amenace la estabilidad gubernamental dummy-nonhum vende periódicos y espacio publicitario , al tiempo que dummy-nonhum complica la resolución de los problemas subyacentes .  
+Dicho con la mayor sencillez , un sistema en el que los medios de comunicación se comportan así dummy-nonhum coloca no sólo la economía , sino también la democracia , en riesgo .  

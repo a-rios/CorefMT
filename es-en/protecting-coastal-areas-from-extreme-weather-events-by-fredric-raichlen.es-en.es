@@ -1,0 +1,38 @@
+Seguridad en sentido " litoral "  
+Pasadena - En 2011 , la región costera de Japón sufrió los efectos devastadores del terremoto y el tsunami que golpearon la región de Tohoku .  
+El año pasado , el huracán Sandy levantó una pared de agua que inundó áreas costeras de baja altura en la Costa este de los estados unidos , particularmente en Nueva york y Nueva jersey .  
+Eventos catastróficos como estos nos muestran la vulnerabilidad de las regiones costeras de todo el mundo ante fenómenos meteorológicos extremos capaces de producir intensas marejadas ciclónicas ( aumentos del nivel del mar en la costa ) y olas de gran tamaño y poder .  
+Si bien el huracán Sandy , en su cúspide , llegó al territorio de Estados unidos convertido apenas en un ciclón postropical , sus vientos cubrieron un área de 1800 kilómetros ( 1100 millas ) y provocaron una intensa marejada ciclónica y olas que diezmaron la costa de Nueva jersey , arrasando pueblos y destruyendo los casinos y paseos marítimos de los que depende en gran medida la economía local .  
+En Battery park ( extremo sur de Manhattan ) , la marejada alcanzó una altura de 4,2 metros , inundó casas y negocios y dejó a millones de personas a oscuras .  
+También fue extrema la altura de las olas : una boya situada cerca de la entrada del puerto de Nueva york llegó a medir una ola con una diferencia de diez metros entre la cresta y el valle .  
+Siete años antes , el huracán Katrina había golpeado la costa estadounidense del golfo de México convertido en una tormenta de categoría 3 .  
+Con una altura de marejada de entre 7 y 10 metros e inundaciones que en algunos lugares llegaron 20 kilómetros tierra adentro , Katrina causó en esa región daños catastróficos que todavía no terminaron de repararse .  
+En 1989 , el huracán Hugo se abatió cerca de Charleston ( Carolina del sur ) provocando una marejada de casi cuatro metros de altura .  
+Y esta lista no es completa .  
+Cuando las áreas costeras no estaban densamente habitadas como ahora , estas tormentas ( a pesar de su violencia ) no causaban daños significativos y duraderos a las economías y los estilos de vida de la gente .  
+Pero ahora que todas las costas del mundo son escenario de numerosas actividades comerciales y recreativas , ya no es posible mantener la actitud pasiva de otros tiempos .  
+Además , el potencial destructivo de las tormentas extremas ha crecido enormemente , debido al aumento de nivel de los mares que se produce como consecuencia del cambio climático .  
+Aunque esta elevación pueda parecer pequeña en el corto plazo ( especialmente en comparación con el incremento inmediato de nivel que causan las grandes tormentas ) , sus efectos a largo plazo no se pueden ignorar .  
+Es evidente que la combinación de marejadas ciclónicas y grandes olas expone las áreas costeras a una gran devastación , pero estos problemas no son insuperables .  
+De hecho , desde la ingeniería se han propuesto soluciones para proteger a los residentes ribereños de los efectos de tormentas extremas .  
+Los intentos que ya se han hecho para mejorar las protecciones costeras pueden servir de inspiración para trazar planes de reconstrucción que eviten daños futuros en áreas vulnerables .  
+Una de las propuestas es dejar deshabitada una extensión intermedia de terreno a lo largo de la costa , hasta cierta distancia tierra adentro .  
+Por ejemplo , tras los tsunamis devastadores que afectaron a la ciudad de Hilo ( Hawái ) en 1946 , 1960 y 1964 , las autoridades declararon parque municipal a la zona vulnerable cerca de la ciudad y prohibieron que se construyeran estructuras allí .  
+En cambio , Japón se confió casi por completo a una larga serie de malecones y rompeolas dispuestos a lo largo de la costa este de la isla de Honshu .  
+Pero en muchos lugares , el tsunami de Tohoku pasó por encima de esas estructuras protectoras e incluso destruyó algunas , entre ellas el malecón de la planta de energía nuclear Fukushima daiichi al norte de Honshu ( como consecuencia , los tres reactores activos de la planta estuvieron cerca de fundirse , lo que condujo a una acumulación de gas hidrógeno , una serie de explosiones e incendios y la fuga de material radioactivo a la atmósfera ) .  
+Nadie niega que defensas costeras como las de Japón pueden ayudar a proteger estructuras de vital importancia , pero se las debería combinar con áreas de protección intermedias donde esté prohibido construir casas , escuelas y hospitales .  
+Construir barreras defensivas no demanda necesariamente una gran inversión ; basta disponer una serie de montículos de arena de varios metros de altura a lo largo de la línea de costa , cerca del borde del agua .  
+De hecho , en algunos lugares de Estados unidos y otros países , la única separación entre los edificios y la línea de costa consiste en amplias extensiones de dunas y zonas de vegetación .  
+La idea de los montículos es particularmente ventajosa en vista del valor económico de las áreas costeras , ya que ofrecen protección inmediata en la temporada de tormentas , pero se los puede quitar en épocas del año en que es improbable que haya tormentas extremas , cuando lo más importante es el uso recreativo de la playa .  
+Para mejorar la protección de la economía local , después de tormentas grandes se deberían reparar las playas trayendo arena de otros lugares para sustituir la arena perdida ( " relleno de playa " ) .  
+Pero para áreas urbanas cerca del océano que no tienen playas que las protejan es necesario algún otro método .  
+Una opción es construir malecones o enrocados de defensa ( o ambas cosas ) con suficiente altura para prevenir inundaciones tierra adentro .  
+Sin embargo , como estas estructuras pueden restar atractivo al área , es posible que los residentes se opongan .  
+Y la experiencia reciente de lo sucedido en Japón demuestra que para lograr protección contra amenazas más serias ( como el terremoto de 9 grados de magnitud y el posterior tsunami de tres metros de la región de Tohoku ) se necesitarán proyectos de construcción masivos y costosos .  
+Para un lugar con estas características ( la ciudad de Nueva york ) hay una propuesta alternativa : construir a lo largo de la entrada al puerto unas enormes barreras contra la marejada que se podrían cerrar al aproximarse una tormenta de gran intensidad .  
+Hay ejemplos de estas estructuras en el río Támesis en Londres ; también está en marcha un proyecto para construir una barrera similar en Venecia , Italia .  
+Pero además de demandar una inversión sustancial , esta solución plantea dudas importantes que tienen que ver con los posibles efectos del flujo de los ríos sobre los puertos , las consecuencias ambientales del cierre de una bahía y el impacto sobre el tráfico marítimo .  
+En cualquier caso , es indispensable que las edificaciones construidas en áreas costeras se rijan por códigos de edificación más estrictos ; por ejemplo , exigir que el nivel de calle de los edificios cercanos a la costa esté diseñado para permitir el paso de la marejada ciclónica sin que se inunden los pisos más bajos y así minimizar el daño potencial a oficinas y casas .  
+Además , se puede tomar el ejemplo de Hilo ( Hawái ) y prohibir la construcción en áreas costeras dañadas por fenómenos extremos .  
+Las regiones costeras son las más expuestas a muchas clases de fenómenos meteorológicos extremos , pero se pueden tomar medidas para proteger a las comunidades afectadas .  
+Analizando los aspectos de seguridad , económicos y estéticos será posible elaborar la solución más apropiada para cada lugar y así defender a sus ciudadanos , a sus empresas y al medio ambiente .  

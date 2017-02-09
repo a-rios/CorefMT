@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">Las</tree></tree><tree label="NC">guerras</tree></tree><tree label="sp"><tree label="SP">de</tree><tree label="sn"><tree label="spec"><tree label="DA">los</tree></tree><tree label="NC">velos</tree></tree></tree></tree></tree> 

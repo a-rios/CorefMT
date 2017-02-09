@@ -1,0 +1,27 @@
+Los Brics y América latina se equivocan  
+Ciudad De México - En la votación celebrada en las Naciones unidas hace 64 años sobre lo que se conoció como la partición , a raíz de la cual se creó el Estado de israel , y posteriormente se le otorgó la condición de miembro de pleno derecho , varios países latinoamericanos - Brasil , El salvador , Argentina , Colombia , Chile y Honduras - se abstuvieron o , en el caso de Cuba , votaron en contra de las resoluciones pertinentes .  
+En el tema de la partición México se abstuvo , pero votó a favor de admitir a Israel en las Naciones unidas unos meses después , y más tarde reconoció al Estado judío , pues comprendió que no tomar ninguna postura en el embrollo de Medio oriente servía más a su interés nacional .  
+En las siguientes semanas la mayoría de los países latinoamericanos votarán a favor de alguna forma de membresía en las Naciones unidas o reconocimiento como Estado que la Autoridad palestina está solicitando .  
+Sin embargo , algunos países no lo harán .  
+No es un asunto sencillo para Brasil y Colombia , los dos países latinoamericanos que son miembros no permanentes del Consejo de seguridad , ni para Cuba , Nicaragua , Venezuela , Costa rica , Argentina , Bolivia , Chile , Ecuador , Perú , Uruguay y Honduras , que ya reconocieron a Palestina , pero aún no han votado para darle la condición de " observador " en las Naciones unidas .  
+Para ser miembro de pleno derecho de las Naciones unidas , el Consejo de seguridad debe hacer una recomendación a la Asamblea general ; pero igualar la categoría de la Autoridad nacional palestina a la del Vaticano - que en teoría le permitiría participar en muchos organismos de las Naciones unidas , incluida la Corte penal internacional - requiere solamente dos tercios de los votos de la Asamblea general .  
+En cualquier caso , las consecuencias políticas relegan a segundo plano los asuntos legales o burocráticos .  
+Obligar a los Estados unidos a usar su veto en el Consejo de seguridad u obtener el apoyo de más de 150 de los 193 Estados miembros de las Naciones unidas en la Asamblea general sería una gran derrota para Israel y los Estados unidos , por lo que el voto latinoamericano es importante .  
+Brasil ha señalado que tiene la intención de votar en el Consejo de seguridad a favor de recomendar la admisión de Palestina a la Asamblea general ;  
+Colombia ha dicho que planea abstenerse .  
+La mayoría de los otros países latinoamericanos votarán probablemente a favor de alguna forma de estatus ampliado de la Autoridad nacional palestina .  
+La comunidad judía de los Estados unidos , y en menor medida la administración del Presidente barack obama , han intentado convencer a Chile y a México , que aún no han dado a conocer su postura , que de nada serviría aislar a Israel ( o , para ese caso , a los Estados unidos ) en este asunto .  
+En efecto , el que la Autoridad nacional palestina fuera un Estado de pleno derecho no cambiaría nada en la práctica si Israel y los Estados unidos no lo aceptan - y México y Chile podrían perder mucho al distanciarse de un aliado en un asunto de gran importancia para él .  
+En resumen , como hace más de medio siglo , la región no se ha expresado con una sola voz en estos asuntos cruciales .  
+Ahora como entonces , la mayoría de los países de América latina no han tomado una posición de principio - a favor o en contra de Israel o de los palestinos .  
+En cambio , han seguido un camino de conveniencia en función de la influencia y fuerza relativa de sus comunidades judías o árabes , y de la insistencia de Washington o del llamado bloque Alba , compuesto por Cuba , Venezuela , Nicaragua , Bolivia y Paraguay .  
+La falta de convicción de los latinoamericanos en asuntos tan serios como ese - a excepción de los países del Alba , que tienen ideales equivocados , pero al menos creen en ellos casi religiosamente - ha marginalizado a la región en otros asuntos internacionales importantes , como la reciente crisis en Libia , y la que se desarrolla en Siria .  
+En cuanto a la resolución de las Naciones unidas que establece una zona de exclusión aérea y la protección de civiles en Libia , Brasil , junto con los otros tres " Brics " ( y aspirantes a potencias mundiales ) - Rusia , India y China - se abstuvieron .  
+El cuarto , Sudáfrica , aceptó pero a regañadientes .  
+Y ahora , en lo que se refiere al intento estadounidense y europeo de imponer sanciones aprobadas por las Naciones unidas al Presidente de siria , Bashar al-assad , los Brics han ido de mal en peor .  
+Primero , enviaron una misión de tres países ( Brasil , India y Sudáfrica ) a Damasco para " persuadir " a Assad de que no mate a su pueblo .  
+Huelga decir que no les contestó que , en efecto , había asesinado unos cuantos miles , pero que ahora que lo mencionaban trataría de tener más cuidado .  
+Hicieron declaración tras declaración argumentando que Siria no era Libia y que no permitirían otra intervención occidental para cambiar el régimen en otro país árabe sólo porque su pueblo parecía molesto con el dictador local .  
+Un alto funcionario de una Ong de derechos humanos dijo que : " Están castigando al pueblo sirio porque no les agradó que la Otan transformara el mandato de protección a los civiles en Libia en uno para cambiar al régimen " .  
+Dada su creciente participación en la economía global , es comprensible que los países latinoamericanos más grandes , junto con los demás Brics , estén buscando un papel mundial de mayor influencia .  
+Esta no es la forma de lograrlo .  

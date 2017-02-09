@@ -1,0 +1,29 @@
+Una plataforma mundial para asuntos mundiales  
+Davos - Cuando el mundo entra en 2013 , se está hablando mucho de una " comunidad mundial " , pero seguimos viendo señales - y , lo que es más importante , comportamientos - contrarios a esas afirmaciones .  
+Se debe a muchas razones , pero la principal es la velocidad , la interconectividad y la complejidad del cambio mundial , nacional e incluso individual .  
+En un complejo sistema mundial en el que no hay un mecanismo para librarse del riesgo , persisten y se incuban unos cambios sin precedentes y unos desequilibrios en aumento : entre el consumo y la producción , los ahorros y la inversión , la economía y la ecología , la integración social y la marginación y la igualdad y la disparidad .  
+Durante más de cuarenta años , los dirigentes mundiales se han reunido anualmente en Davos para examinar los problemas más graves del panorama mundial y hacer propuestas para solucionarlos .  
+Este año , la lista de los que se examinarán es larga y consta , entre otras cosas , de los problemas irresueltos en materia de deuda en los Estados unidos y Europa , las preocupantes perspectivas económicas mundiales , la agitación en Oriente medio y áfrica septentrional y el pronunciado aumento del desempleo juvenil .  
+Es evidente que la necesidad de cooperación mundial nunca había sido tanta y los gobiernos , las empresas o la sociedad civil no pueden afrontar nuestros imperativos por sí solos .  
+Al repasar dichos problemas , parece que el mundo sigue inmerso en la crisis y muchos son los que expresan pocas esperanzas de que la situación - en particular , la economía - vaya a mejorar , pero olvidamos lo mucho que ha mejorado el estado del mundo .  
+Cuando se creó el Foro económico mundial en 1971 , la población mundial ascendía a unos cuatro mil millones de personas , la mitad de las cuales vivían en la pobreza .  
+Hoy viven en el mundo unos siete mil millones y el número de los que se encuentran en condiciones inaceptables es el mismo .  
+La esperanza de vida media es diez años mayor - de 60 a 70 - desde 1970 .  
+Asimismo , piénsese en el número de regímenes autoritarios que se han desplomado y de democracias que han nacido en los cuarenta últimos años .  
+Y la economía mundial aún creció un cuatro por ciento a lo largo de los tres últimos años , pese a haber experimentado la recesión mundial más profunda desde 1945 .  
+Todavía hay mucho por hacer , pero no debemos olvidar los avances reales que se han logrado en términos relativos .  
+Para detener la actual espiral de pesimismo y evitar la consunción de la gestión de la crisis , debemos mirar hacia el futuro de forma mucho más positiva , constructiva y dinámica y adquirir la capacidad de resistencia para adaptarnos a los marcos en transformación , soportar las sacudidas repentinas y recuperarnos de ellas , sin por ello deja de perseguir objetivos decisivos .  
+La combinación de una actitud dinámica y optimista - pensamiento audaz y acciones aún más audaces - con las medidas necesarias para fortalecer la capacidad de resistencia ante el riesgo es decisiva para un futuro logrado .  
+Así , pues , el tema de la reunión anual de este año en Davos es " Un dinamismo resistente " .  
+En términos generales , me gustaría que en la reunión de este año se lograran dos objetivos suplementarios .  
+En primer lugar , la crisis económica ha engendrado una actitud más defensiva , más egocéntrica y - en el nivel de los Estados - más proteccionista .  
+Faltan grandes concepciones unificadoras y la presión en pro de la separación , en lugar de la unión , sigue aumentando , lo que ha paralizado los avances sobre muchas cuestiones que requieren atención : entre ellas la reducción de las emisiones de carbono , la adopción de medidas de regulación financiera mundial y la conclusión de la Ronda de doha de conversaciones comerciales mundiales , por citar sólo algunas .  
+Los debates de Davos , conforme al lema del Foro - " El espíritu de empresa en pro del interés público mundial " - se rigen por un auténtico espíritu de ciudadanía mundial , lo que significa el examen de soluciones que redunden en provecho de la comunidad mundial ( sin por ello dejar de complementar los intereses nacionales y locales ) , en particular pensando en las futuras generaciones .  
+El Foro ha fomentado siempre el concepto de responsabilidad social de las empresas o , expresado de otro modo , de que los dirigentes empresariales deban rendir cuentas no sólo ante sus empleados y accionistas , sino también a sus comunidades y sociedad en sentido más amplio .  
+Por eso , mi segundo objetivo para Davos este año es el de que todos los dirigentes reconozcan que sus responsabilidades económicas deben ir acompañadas de obligaciones morales o sociales .  
+El criterio para calibrar la responsabilidad es el de que las empresas mejoren las condiciones de sus empleados , accionistas , comunidades y medio ambiente , pero la responsabilidad moral es más amplia , pues refleja la necesidad de que las grandes empresas aborden las cuestiones éticas fundamentales , como , por ejemplo , la dignidad , la igualdad y la lucha contra la exclusión .  
+Abrigo la esperanza de que la reunión anual haga de catalizadora e integradora para las iniciativas encaminadas a lograr avances en relación con las cuestiones decisivas del panorama mundial .  
+Como advirtió Einstein , " el mundo , tal como lo hemos creado , es un proceso de nuestro pensamiento .  
+No se puede cambiarlo sin cambiar nuestro pensamiento " .  
+Todos y cada uno de nosotros debemos asumir la responsabilidad en nuestra esfera de actuación - haciéndola más dinámica y resistente al riesgo - y actuar como auténticos administradores mundiales , respaldados por una rendición moral de cuentas para la Humanidad .  
+éste es el mundo en el que vivimos ; todos tenemos un papel que desempeñar en él .  

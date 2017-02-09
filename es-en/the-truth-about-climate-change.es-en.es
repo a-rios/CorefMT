@@ -1,0 +1,25 @@
+La verdad sobre el cambio climático  
+Exeter - Mucha gente pregunta cuán seguros estamos sobre la ciencia del cambio climático .  
+El análisis más definitivo de la evidencia científica ha de encontrarse en el trabajo del Panel intergubernamental sobre el Cambio climático ( Ipcc , tal su sigla en inglés ) y su último informe de relevancia publicado en 2007 .  
+Yo tuve el privilegio de presidir o copresidir las evaluaciones científicas del Panel entre 1988 y 2002 .  
+Muchos cientos de científicos de diferentes países participaron como colaboradores y revisores de estos informes , que probablemente sean las evaluaciones internacionales más integrales y minuciosas sobre cualquier tema científico que alguna vez se hayan llevado a cabo .  
+En junio de 1995 , justo antes de la cumbre del G-8 en Escocia , las Academias de ciencia de las 11 economías más grandes del mundo ( el G-8 más India , China y Brasil ) emitieron un comunicado respaldando las conclusiones del Ipcc e instando a los gobiernos mundiales a emprender una acción urgente para abordar el cambio climático .  
+Los principales científicos del mundo no podrían haberse expresado de manera más contundente .  
+Desafortunadamente , fuertes intereses personales han invertido millones de dólares en difundir desinformación sobre el cambio climático .  
+Primero , intentaron negar la existencia de cualquier evidencia científica sobre el calentamiento global .  
+Más recientemente , en gran parte han aceptado la realidad del cambio climático antropogénico ( fabricado por el hombre ) , pero sostienen que sus impactos no serán grandes , que podemos ampquot ; esperar a verampquot ; y que , en cualquier caso , siempre podemos solucionar el problema si resulta ser sustancial .  
+La evidencia científica no respalda estos argumentos .  
+Se necesita una acción urgente tanto para adaptarse al cambio climático que es inevitable como para reducir las emisiones de gases de tipo invernadero , especialmente Co2 , para impedir un mayor deterioro en la medida de lo posible .  
+En la Cumbre de la tierra en Río de janeiro en 1992 , las naciones del mundo adhirieron a la Convención marco sobre el Cambio climático ( Cmnucc ) , cuyo objetivo es ampquot ; estabilizar la concentración de gases de tipo invernadero en la atmósfera a un nivel que no cause una peligrosa interferencia con el sistema climático ... , que permita que los ecosistemas se adapten naturalmente al cambio climático , que asegure que la producción de alimentos no resulte amenazada , y que le permita al desarrollo económico proceder de manera sustentableampquot ; .  
+Llegado el caso , este tipo de estabilización incluso frenaría un mayor cambio climático .  
+Hoy se admite que un daño generalizado debido , por ejemplo , a un aumento del nivel del mar y a olas de calor , inundaciones y sequías más frecuentes e intensas ocurrirá incluso aunque se trate de pequeños aumentos de la temperatura promedio global .  
+Por lo tanto , es necesario que se hagan grandes esfuerzos para mantener el incremento de la temperatura global promedio por debajo de los 2°c en relación a su nivel preindustrial .  
+Si queremos tener una buena posibilidad de alcanzar este objetivo , no debe permitirse que la concentración de Co2 supere las 450 partes por millón ( hoy está cerca de 390 ppm ) .  
+Esto implica que antes de 2050 las emisiones globales de Co2 deben reducirse a menos del 50 % del nivel de 1990 ( actualmente están 15 % por sobre ese nivel ) , y que las emisiones promedio en los países desarrollados tienen que reducirse en por lo menos el 80 % del nivel de 1990 .  
+El Reino unido ya se ha comprometido a un objetivo vinculante de reducción de las emisiones en esos valores , y el presidente Barack obama ya ha manifestado su intención de que Estados unidos también se proponga ese objetivo .  
+Un requerimiento claro es que se interrumpa la deforestación tropical , responsable del 20 % de las emisiones de gases de tipo invernadero , en la próxima década o dos .  
+Con respecto a las emisiones resultantes de la quema de combustibles fósiles , la Agencia internacional de energía ( Aie ) en sus ampquot ; Perspectivas de tecnología energéticaampquot ; describió en detalle las tecnologías y acciones que son necesarias en los diferentes países y sectores para alcanzar estos objetivos .  
+En el corto plazo , la Aie señala que será necesaria una acción muy fuerte y determinada para asegurar que las emisiones globales de Co2 dejen de aumentar ( el incremento actual es más del 3 % por año ) , alcancen un pico aproximadamente en 2015 y luego declinen sostenidamente hacia el objetivo de 2050 .  
+La Aie también señala que los objetivos se pueden alcanzar sin un perjuicio económico inaceptable .  
+De hecho , la Aie enumera muchos beneficios que pueden materializarse si se siguen sus recomendaciones .  
+Lo que se requiere ahora es reconocer que el cambio climático antropogénico afectará seriamente a nuestros hijos y nietos , a los ecosistemas mundiales y a las comunidades más pobres del mundo , y que la gravedad del impacto puede aliviarse sustancialmente si se emprende una acción hoy mismo .  

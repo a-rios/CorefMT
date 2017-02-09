@@ -1,0 +1,35 @@
+Después de Ahmadinejad  
+Washington , Dc - Esfandiar rahim mashai , el sucesor preferido del Presidente del irán , Mahmoud ahmadinejad , no va a presentarse a las elecciones del 14 de junio .  
+Tampoco lo hará el ex Presidente akbar hashemi rafsanjani .  
+La descalificación de los dos es un mensaje contundente del Dirigente supremo , Ayatolá ali hoseini jamenei .  
+Dicho sencillamente , Jamenei no está dispuesto a tolerar disminución alguna de su poder y está decidido a evitar la clase de fricciones que ha caracterizado sus relaciones con presidentes anteriores , en particular Ahmadinejad .  
+La descalificación de Mashai y Rafsanjani revela una vez más el cisma inherente a la estructura política del Irán por la existencia de un ejecutivo doble : el Dirigente supremo y el Presidente .  
+Cuando Jamenei apoyó públicamente la polémica reelección de Ahmadinejad en 2009 , nadie podía haber previsto las tensiones sin precedentes que surgirían posteriormente entre las dos autoridades principales del país .  
+Pero la de apoyar a Ahmadinejad resultó ser una decisión costosa para Jamenei y para la República islámica .  
+En lugar de alinearse con Jamenei , como se esperaba , Ahmadinejad empezó a promover un programa nacionalista y anticlerical utilizando , en realidad , los recursos de Jamenei para desafiar la autoridad del dirigente supremo y establecer sus propias red económica y esfera de influencia .  
+A lo largo de los cuatro últimos años , Ahmadinejad ha intentado repetidas veces socavar el control de las decisiones políticas y normativas por parte de los clérigos gobernantes .  
+En 2011 , intentó destituir a Heider moslehi , aliado de Jamenei , de su cargo de jefe de la inteligencia , pero en seguida fue desautorizado .  
+También ha reducido los recursos destinados a ciertas instituciones religiosas , ha ayudado a miembros de su círculo a crear bancos privados aligerando la reglamentación y ha desafiado a la institución económica y militar más poderosa del Irán , el Cuerpo de guardias revolucionarios islámicos .  
+Pero , al intensificarse la desavenencia entre Jamenei y Ahmadinejad , el apoyo al Presidente ha disminuido en gran medida , hasta el punto de que incluso los medios de comunicación estatales se refirieron a los leales a Ahmadinejad como " círculo desviacionista " .  
+Además , a diferencia de lo ocurrido durante el primer mandato de Ahmadinejad , ahora los medios de comunicación no estatales critican públicamente su programa económico y político .  
+Como falta muy poco para el fin del segundo y último mandato de Ahmadinejah , parece improbable que el desacreditado e impopular Presidente abandone sus intentos de desestabilizar a la clase gobernante del Irán .  
+En realidad , llevaba mucho tiempo promocionando a Mashai como su sucesor , pero Jamenei puso coto a sus gestiones ilegales y ahora ha suprimido enteramente la candidatura de Mashai .  
+Mashai es una de las figuras más polémicas del Irán , denigrado de forma generalizada entre los dirigentes conservadores por sus opiniones reformistas y anticlericales .  
+En 2009 , después de que Jamenei rechazara la decisión de Ahmadinejad de nombrar a Mashai primer Vicepresidente suyo , Ahmadinejad lo nombró , con el mayor descaro , Jefe de estado mayor , iniciativa que enfureció a Jamenei .  
+Ahmadinejad no es el primer alto cargo político del Irán que desafía al Dirigente supremo .  
+El Gran ayatolá hosein ali montazeri , uno de los clérigos más importantes del Irán , habría sido Dirigente supremo él mismo , si no hubiera tenido desavenencias insalvables con el Gran ayatolá ruhollah jomeini , fundador de la República islámica , unos meses antes de la muerte de éste .  
+Montazeri , una de las figuras más influyentes del Irán durante el primer decenio de la República , expuso una exhaustiva justificación de la autoridad absoluta del Dirigente supremo , que muchos alatoyás consideraron herética , pero no tardó en desafiar a los dirigentes intransigentes de la República islámica y siguió haciéndolo hasta que murió en 2009 .  
+Montazeri , cuya condición de Gran ayatolá ( el grado superior de los teólogos musulmanes chiíes ) le confería mayor autoridad religiosa que a Jamenei , impugnó las facultades para emitir fatwas ( resoluciones religiosas islámicas ) o para suceder a Jamenei como Dirigente supremo .  
+Montazeri estuvo sometido a detención domiciliaria durante seis años , se reprimieron las manifestaciones de apoyo a él y muchos de sus discípulos y amigos íntimos fueron encarcelados , torturados o muertos o se vieron obligados a huir del país .  
+Asimismo , Abulhasan banisadr , primer Presidente de la república islámica , tuvo desavenencias insalvables con Jomeini sobre la división de la autoridad .  
+En 1981 , fue destituido de su cargo , después de haberlo ocupado tan sólo un año , y huyó a Francia , donde sigue residiendo .  
+Los choques violentos en las calles entre partidarios y oponentes de Banisadr causaron muertes en los dos bandos .  
+En muchos sentidos , la historia de Ahmadinejad se parece a la de Banisadr .  
+Los dos eran relativamente desconocidos antes de ser presidentes ; los dos dependieron del respaldo del Dirigente supremo parea conseguir el poder y los dos fueron perdiendo apoyo a medida que intentaron reducir la influencia de la jerarquía clerical y del Cuerpo de los guardias revolucionarios islámicos .  
+Lo más importante es que ninguno de los dos consiguió crear una organización exterior en la que confiar , si perdían su protección oficial .  
+El hecho de que se haya permitido a Ahmadinejad seguir en su cargo durante su segundo mandato , resultado que los medios de comunicación pusieron en duda con frecuencia , refleja la importancia para Jamenei del mantenimiento de la imagen de un Irán estable , pero , para lograr ese objetivo , Jamenei habrá de tener en cuenta el carácter imprevisible de Ahmadinejad .  
+Como nada tiene que perder , Ahmadinejad podría decidir desestabilizar la República islámica , si lo considera necesario para su supervivencia .  
+De hecho , ahora que el Consejo de guardias revolucionarios ha descalificado a Mashai para la carrera presidencial , el resentimiento de Ahmadinajad probablemente se manifieste antes y después de las elecciones , haciendo pública , por ejemplo , información sobre la corrupción en las altas esferas .  
+También podría oponerse directamente a Jamenei presentándose como una figura patriota y anticlerical , pero esa actitud sería peligrosa ; de hecho , podría costarle la vida .  
+Después de las elecciones , es probable que persista la clase de disputas que ha paralizado durante mucho tiempo la formulación de políticas en el Irán , pero un estancamiento respecto de la política nuclear del Irán podría tener consecuencias graves .  
+De hecho , la falta de un gobierno fuerte y unificado y capaz de forjar un consenso podría hacer que incluso a Jamenei le resultara imposible cambiar de rumbo , con lo que no quedaría otra opción al Irán que la de persistir en su punto muerto diplomático con Occidente .  

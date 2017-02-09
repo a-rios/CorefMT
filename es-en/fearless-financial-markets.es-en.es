@@ -1,0 +1,28 @@
+Mercados financieros intrépidos  
+Varios observadores serios - como Robert rubin de citigroup , Larry summers de harvard y Martin wolf de the financial times - expresaron consternación en los últimos meses frente a las percepciones de riesgo de los mercados financieros .  
+Mientras que los mercados juzgaron que el mundo de hoy - especialmente el dólar y los títulos asociados a esta moneda - tiene un nivel de riesgo bajo si se lo analiza desde una perspectiva histórica , los riesgos geopolíticos , en realidad , parecen ser grandes .  
+Wolf , por ejemplo , sostiene que la actitud de los mercados financieros fue la de no querer confrontar el problema del " período extenso de ganancias reducidas " , ignorando la " calamidad ocasional " con antelación , mientras que , después del hecho , se atribuirán las pérdidas a una " mala suerte imprevisible " .  
+Pero si un inversor hoy sí quisiera asegurarse contra una catástrofe geopolítica , ¿ cómo lo haría ?  
+En la generación anterior a la Primera guerra mundial , se creía que los activos seguros eran la deuda de gobiernos asociada con el patrón oro , lo cual supuestamente ofrecía protección contra los virus populistas inflacionarios que afligían a países como México , Francia o Estados unidos .  
+Pero los inversores en deuda pública británica enfrentaron grandes pérdidas cuando el compromiso de Gran bretaña con la Primera guerra mundial produjo inflación , y los inversores en bonos zaristas los utilizaron para empapelar sus baños después de la Revolución de octubre .  
+Después de las inflaciones de la Primera guerra mundial , un inversor prudente podría haber pensado que el oro - fácilmente gravable , portátil y real - era un activo atractivo .  
+Pero el oro es estático , mientras que el capital es productivo .  
+En cualquier caso , los tenedores de oro norteamericanos descubrieron , contra su voluntad , que la administración Roosevelt transformó su riqueza en dólares billete en el momento más crítico de la Gran depresión .  
+Después de la Segunda guerra mundial , las inversiones en Estados unidos parecían más seguras que cualquier otra alternativa .  
+Pero , en los 70 , los inversores en acciones y bonos a largo plazo norteamericanos perdieron la mitad de su capital , y hasta los inversores en deuda norteamericana a corto plazo perdieron el 20 % en términos reales al final de la década .  
+Los inversores que temen una catástrofe geopolítica de alguna manera podrían hacerle frente aumentando su gasto en consumo .  
+Pero esta opción tiene un límite .  
+Quienes temen una catástrofe geopolítica venderán activos , provocando una pérdida de su valor , sólo si hay otros activos más seguros que consideren que pueden comprar .  
+Como señaló recientemente Robert barro de harvard , el miedo de una catástrofe general o impredecible - incluso una catástrofe que perdone a un subgrupo de activos que no se pueden especificar con anticipación - no afectará los precios relativos de activos , porque los inversores no tienen motivo para vender o comprar algún activo en particular .  
+Según Barro , las consecuencias de un mayor miedo a una catástrofe general o impredecible dependen de cómo afecte a la masa global de ahorros .  
+El miedo tanto como los bloqueos institucionales pueden ser la causa de lo que o bien es una saturación global de ahorros , o bien una escasez global de inversiones , según cómo se lo mire .  
+Si la gente le tiene la suficiente aversión al riesgo como para que un mayor miedo al futuro la lleve a ahorrar más , la creciente incertidumbre global hará aumentar los precios de los bonos y las acciones , y reducirá las tasas de interés y los rendimientos de dividendos y ganancias .  
+Crear nuevos activos para los inversionistas cuesta recursos y , cuanto mayor la demanda de este tipo de activos , mayor el costo marginal de crearlos .  
+Tal vez ésta sea la situación en la que se encuentra hoy el sistema financiero mundial .  
+El principal temor , al menos en los círculos en los que yo me muevo , es a que se desaten repentinamente " desequilibrios globales " : un fin rápido y desestabilizador para el gran déficit comercial de Estados unidos y el enorme excedente comercial de Asia .  
+En una crisis financiera global de estas características , si la Reserva federal se ajusta a la inflación y acelera la devaluación para impedir que el empleo en caída en los sectores anteriormente financiados por capital externo entre en una espiral camino a una depresión , ¿ la deuda norteamericana estará entre los activos más afectados ?  
+Pero si la Fed se niega a ajustarse a la inflación producida por un colapso del dólar y acepta una depresión con la convicción de que los beneficios a largo plazo de mantener su credibilidad como garante de la estabilidad de precios llegarán antes de que todos estemos muertos , las acciones norteamericanas sufrirán .  
+Los valores de la propiedad y los activos industriales de China también serían vulnerables , si Estados unidos abandona su papel de importador de último recurso y la estrategia de desarrollo de exportaciones costeras de China resulta ser un callejón sin salida .  
+No me malinterpreten : más de la mitad de mi cerebro coincide con Rubin , Summers , Wolf y compañía .  
+El principal riesgo que veo hoy es el que asumen los inversores en deuda denominada en dólares - y no creo que estén cobrando un precio justo por lo que están haciendo - .  
+Pero una cuarta parte de mi cerebro se pregunta qué deberían hacer los inversores para intentar asegurarse contra los peores resultados de la distribución económico-política , y esa cuarta parte de mi cerebro no puede ver qué debería hacer alguien para asegurarse contra ese riesgo .  

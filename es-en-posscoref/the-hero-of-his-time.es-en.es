@@ -1,0 +1,34 @@
+El héroe de su-masc-sg tiempo  
+Borís yeltsin fue absolutamente excepcional .  
+dummy-hum Fue el primer dirigente de Rusia elegido democráticamente y también el primer dirigente ruso que-hum cedió el poder voluntaria y constitucionalmente a un sucesor , pero también dummy-hum fue un dirigente ruso profundamente característico .  
+Pedro el grande , Catalina la grande , Alejandro ii , Peter stolypin ( primer ministro del último zar ) , Lenin y Stalin , recurriendo , todos ellos , a diversas combinaciones de carisma , habilidad política y terror , intentaron hacer de Rusia no sólo una gran potencia militar , sino también una igual , económica y culturalmente , de Occidente .  
+Yeltsin aspiró al mismo objetivo , pero dummy-hum sobresale de entre ellos en un sentido : dummy-hum entendió que el imperio era incompatible con la democracia y , por esa razón , estuvo dispuesto a abandonar a la Unión soviética para intentar construir un orden democrático en su-hum-sg país .  
+En el momento culminante de la carrera de Yeltsin , muchos rusos se identificaron con su-pl franqueza , impulsividad y susceptibilidad ante las ofensas e incluso con su-pl debilidad por el alcohol y , sin embargo , en los últimos años de su-pl gobierno , su-pl reputación se desplomó .  
+Sólo en los últimos meses de su-pl segundo mandato presidencial , después de lanzar la segunda guerra en Chechenia en septiembre de 1999 , dummy-they recuperaron cierta legitimidad él y su-pl lugartenientes ante el público ruso , al tiempo que dummy-they causaban repugnancia entre muchos de los admiradores occidentales que-hum les quedaban .  
+Sin embargo , pese a su-pl caprichos , Yeltsin mantuvo a Rusia con un rumbo de amplia cooperación estratégica con los Estados unidos y su-hum-sg aliados .  
+Aunque se opuso al uso de la fuerza por parte de los Ee.uu. contra el Iraq y Serbia en el decenio de 1990 , su-hum-sg gobierno nunca abandonó oficialmente el régimen de sanciones contra esos dos países .  
+Además , no se recurrió ni deliberada ni accidentalmente a las armas nucleares y ninguna guerra en gran escala - del tipo de las que asolaron la Yugoslavia poscomunista - dummy-hum estalló entre Rusia y su-hum-sg vecinos , aunque varios de éstos estuvieron inmersos en conflictos internos o regionales en los que la mano de Rusia resultó visible .  
+Las tareas que afrontó Yeltsin cuando alcanzó el poder en 1991 fueron monumentales .  
+En varios momentos decisivos , llegó a ser la única persona que-hum pudo afrontar los empeños de transformar a Rusia de una dictadura a una democracia , de una economía planificada a una de libre mercado y de un imperio a una potencia media .  
+En 1992 , cuando la naciente Federación de rusia se tambaleaba al borde de un desplome económico y monetario , dummy-nonhum optó por la reforma radical , lo que provocó una reacción contraria de los grupos de intereses creados .  
+En los años siguientes , se inclinó hacia la economía liberal , siempre que se sintió con suficiente poder para hacerlo .  
+Yeltsin fue un producto quintaesencial del sistema soviético , por lo que su-hum-sg viraje hacia la democracia y el mercado libre , aunque imperfecto , resulta aún más milagroso .  
+Fue hijo de un trabajador pobre de la construcción y dummy-he tuvo un ascenso meteórico por la jerarquía comunista hasta llegar a jefe del partido en la ciudad industrial de Sverdlovsk ( ahora Yekaterimburgo ) en los Urales .  
+A diferencia de muchos otros dirigentes del partido , tenía facilidad para hablar con las personas comunes y corrientes , habilidad que lo ayudó a obtener apoyo y más adelante poder , pero dummy-he no dio muestras de poner en entredicho la jerga burocrática marxista-leninista que se debía recitar en los actos públicos .  
+Sólo después de que Mijail gorbachov convocó a Yeltsin en Moscú en 1985 comenzó este último a diferenciarse de las docenas de antiguos apparatchiks del partido .  
+Al sentir la profunda frustración de la clase media en potencia de Moscú , Yeltsin no tardó en ganarse fama de crítico severo , aunque no siempre coherente , de la vieja guardia del partido .  
+Quienes hacían campaña en pro de la democracia dummy-they admiraban la lucha de Yeltsin contra los conservadores del politburó : en particular , desde que dummy-hum fue expulsado del círculo del poder en el partido en noviembre de 1987 .  
+Decidido a superar a Gorbachov como reformador , dummy-hum convenció a los liberales para que dummy-they vencieran su-hum-sg desconfianza de su-hum-sg modales provincianos .  
+Ellos le dieron lecciones de teoría democrática , mientras él les daba consejos tácticos .  
+A medida que la Unión soviética iba desintegrándose , al esforzarse su-nonhum-sg 15 repúblicas por escapar de ella .  
+En junio de 1991 , tras sofocar varios desafíos a su-nonhum-sg dirección , dummy-nonhum llegó a ser el primer Presidente democráticamente elegido de Rusia ; dos meses después , el poder real pasó a su-nonhum-sg manos , tras el fracasado golpe contra Gorbachov de agosto de 1991 por parte de los conservadores que-hum intentaban impedir la desintegración de la Unión soviética .  
+Para la mayoría de los occidentales y para muchos rusos , su-pl mejor momento dummy-nonhum llegó el 19 de agosto de aquel año , cuando se subió a un tanque fuera del parlamento ruso y desafió a los extremistas que habían tomado el poder .  
+Pero el propio Yeltsin nunca logró deshacerse totalmente de los grilletes intelectuales del pasado .  
+Como Presidente , dummy-hum hablaba de los resultados económicos como si se pudieran aumentar por decreto .  
+Como la mayoría de los rusos , quería las ventajas materiales del capitalismo , pero no respetaba demasiado ni dummy-hum entendía el Estado de derecho y la dispersión del poder , gracias a los cuales funcionan las instituciones capitalistas .  
+Aun así , durante la mayor parte de su-hum-sg presidencia , Yeltsin mantuvo vivo - aunque con muchas retiradas tácticas - el objetivo de la reforma económica .  
+En determinado momento , dummy-hum tuvo la sensación de que sólo se podría dar rienda suelta al potencial de Rusia , si el Gobierno se enfrentaba - o ampquot ; comprabaampquot ; - a los intereses creados - militares , industriales y agrarios - que-hum se interponían en su-pl camino .  
+La ortodoxia económica aplicada después del desplome de 1998 puso los cimientos para el sostenido auge ruso de la actualidad .  
+La tragedia de Yeltsin - y de Rusia - consistió en que , cuando el país necesitaba un dirigente inspirado y decidido , con lo que se encontró , en realidad , fue con un agente político ágil .  
+Al no permitir que Rusia se desintegrara en la anarquía o retrocediera hasta el autoritarismo , Yeltsin mantuvo el camino abierto para que algún día surgiera esa clase de dirigente .  
+Por desgracia , ese hombre no es su-masc-sg sucesor elegido a dedo , Vladimir putin , que-hum se ha limitado a perpetuar los círculos viciosos de la historia rusa .  

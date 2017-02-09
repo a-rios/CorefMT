@@ -1,0 +1,31 @@
+Juicio a los tribunales militares de Bush  
+Gran bretaña sigue siendo el aliado más incondicional en la guerra del Iraq , encabezada por los Estados unidos , y el Primer ministro tony blair sigue prestándole un apoyo inquebrantable , pero no por ello deja su gobierno de tener un motivo grave de disputa con el de Bush .  
+La designación por el Presidente estadounidense de dos británicos para que figuren entre los seis primeros de los 680 prisioneros mantenidos en la base estadounidense de la bahía de Guantánamo , en Cuba , para que sean sometidos a un juicio militar ha sido condenada por los políticos del Reino unido de todas las tendencias .  
+Los británicos no están solos .  
+A escala mundial , las detenciones en la bahía de Guantánamo y los tribunales militares del Presidente bush han pasado a ser símbolos de la propensión de los Estados unidos a abandonar la preocupación por los derechos en nombre de la lucha contra el terrorismo .  
+De hecho , se nota cierta satisfacción en algunos países que han sido blanco de las críticas en materia de derechos humanos por parte de los Estados unidos ; ahora advierten una oportunidad para devolverles la pelota .  
+Ya estén las denuncias de las detenciones en Guantánamo y de los tribunales militares previstos inspiradas por preocupaciones auténticas por los derechos humanos o por la alegría de señalar la hipocresía estadounidense , el efecto es el mismo .  
+Como los Estados unidos son unos defensores tan declarados de los derechos humanos internacionalmente , su falta de respeto de los derechos cobra un significado suplementario y contribuye al antiamericanismo en aumento en gran parte del mundo .  
+El gobierno de Bush es el único culpable de ese estado de cosas .  
+La creación del campamento X-ray en Guantánamo y el decreto-ley del Presidente bush por el que se crean las comisiones militares para juzgar a las personas allí detenidas van encaminados a ventilar el asunto de los prisioneros detenidos durante la guerra del Afganistán a los que los Estados unidos consideraron " combatientes ilegales " , es decir , que el gobierno de Bush consideró que todos ellos eran miembros de Al qaeda u otros grupos que no respetaban las reglas de la guerra en los combates y , por tanto , no tenían derecho a la condición de prisioneros de guerra .  
+En principio , hay tres cuerpos de leyes por las que se podría regir el trato a dichos prisioneros :  
+· la legislación interna estadounidense de conformidad con los derechos garantizados por la Constitución de los estados unidos ;  
+· la legislación internacional en materia de derechos humanos en la que los Estados unidos son parte por ser miembros de las Naciones unidas y haber ratificado el Pacto internacional de derechos civiles y Políticos ;  
+· el derecho humanitario internacional - también conocido como " leyes de la guerra " - , del que los Estados unidos son también parte por haber ratificado los Convenios de ginebra de 1949 y haber aceptado que ciertas disposiciones del Primer protocolo adicional de 1977 tienen el carácter de derecho consuetudinario internacional , vinculante para los Estados unidos como para todos los demás gobiernos .  
+En la práctica , el gobierno de Bush rechaza la aplicación a los prisioneros de Guantánamo de ninguno de esos cuerpos de ley .  
+Al contrario , el Presidente bush se declara facultado para retenerlos indefinidamente en Guantánamo o - con su inapelable arbitrio - llevarlos a juicio ante comisiones militares que les deniegan la debida protección procesal a la que , si se siguiera alguno de los tres sistemas legales , tendrían derecho .  
+El argumento del gobierno de Bush para no aplicar la legislación interior es el de que los prisioneros no son ciudadanos estadounidenses y no están detenidos en territorio estadounidense .  
+Guantánamo fue seleccionado como lugar para encarcelarlos con la deliberada - y lograda - intención de impedir a los tribunales estadounidenses hacer valer su jurisdicción .  
+Por lo que se refiere a los derechos humanos internacionales , el gobierno de Bush nada ha dicho .  
+Pero su posición fundamental es la de que tratados como el Pacto internacional de derechos civiles y Políticos no tienen fuerza de ley .  
+Por tanto , al no haber una legislación de ejecución , no conceden derechos a los prisioneros de Guantánamo .  
+Los Convenios de ginebra y el Primer protocolo adicional son los que plantean mayores dificultades al gobierno de Bush .  
+Los Convenios prescriben que en caso de duda se debe celebrar una audiencia ante un tribunal imparcial para determinar si un detenido en un conflicto armado tiene derecho a la condición de prisionero de guerra .  
+Como no se han celebrado audiencias de esa clase , el gobierno de Bush afirma , en efecto , que no hay duda en el caso de ninguno de los detenidos .  
+Como en otros casos en que funcionarios gubernamentales afirman la existencia de unanimidad - como la afirmación de Sadam husein de que había obtenido el apoyo del 100 por ciento de los iraquíes en el plebiscito que celebró poco antes de la guerra - , la posición de América resulta , sencillamente , indigna de crédito .  
+Equivale a la resolución de que todos los detenidos en Guantánamo son culpables por haber sido combatientes ilegales sin que se haya celebrado un proceso ni se les haya brindado la oportunidad de defenderse .  
+Además , aun cuando resulten ser combatientes ilegales , el Primer protocolo adicional de 1977 prescribe que se les concedan ciertas protecciones procesales debidas de las que no disfrutarán quienes sean llevados ante las propuestas comisiones militares .  
+Dichas comisiones pueden condenar incluso a muerte a los detenidos sin posibilidad de apelación a tribunal civil alguno .  
+No es de extrañar , por tanto , que el gobierno de Tony blair esté irritado porque dos de sus ciudadanos vayan a ser juzgados ante las comisiones militares del Presidente bush .  
+Hasta ahora las críticas del resto del mundo no han tenido efecto en los planes del gobierno Bush .  
+Está por ver si las protestas de un aliado que se ha mantenido tan lealmente al lado de los Estados unidos y con tan grandes costos para su propia posición política tendrán mayores repercusiones .  

@@ -1,0 +1,28 @@
+La trampa de los tratados sobre derechos humanos  
+En momentos en que Eeuu se prepara para iniciar la guerra contra el terrorismo a las puertas de Saddam hussein , la administración Bush repetidamente ha llamado la atención sobre las violaciones a los derechos humanos en Irak .  
+Nos dice el Presidente bush que el régimen iraquí es responsable de torturas y ejecuciones extrajudiciales y que priva al pueblo iraquí de libertades civiles y políticas básicas .  
+Sin embargo , ni una sola vez el Presidente ha sugerido que estos problemas se puedan enfrentar a través del sistema de tratados sobre derechos humanos de la Onu , un sistema que Irak se ha comprometido a obedecer en virtud de los mismos principios de cuya violación que se le acusa .  
+Tal vez esto se deba a que la administración Bush , que acaba de marginarse del tratado que crea el Tribunal penal internacional , en estos momentos preferiría no concentrar la atención en los tratados de la Onu .  
+O quizás se deba a que Irak no es de ningún modo un caso aislado en cuanto al incumplimiento de sus compromisos derivados de los tratados sobre derechos humanos .  
+Sea cual sea la razón , la obvia falta de relevancia del sistema de tratados sobre derechos humanos en los debates actuales es un signo preocupante .  
+En los cincuenta años que han transcurrido desde la creación de la Declaración universal de los derechos humanos , la comunidad mundial ha creado cerca de 100 acuerdos universales y regionales en este campo , que cubren temas tan diversos como la discriminación contra la mujer , la tortura impulsada por el estado , y el derecho a la negociación colectiva .  
+Si bien estas iniciativas son claros símbolos del constante compromiso mundial con la protección de los derechos humanos , llama la atención lo poco que se sabe acerca de su verdadera eficacia en cuanto al logro de sus objetivos .  
+Mi propia investigación reciente sugiere que los tratados a menudo no son tan efectivos como podríamos esperar .  Aunque en general los países que ratifican los tratados tienen mejores historiales de derechos humanos que los países que no lo hacen , en realidad los países con los peores historiales ratifican muchos tratados tan frecuentemente como las naciones que tienen las mejores prácticas .  
+De hecho , la mitad de los países responsables de los casos más recientes de genocidio generalizado , incluidos Ruanda en 1994 y Yugoslavia a principios de los años 90 , habían ratificado la Convención sobre Prevención y Castigo del crimen de genocidio .  
+En lo esencial , esta fue la misma proporción de ratificación de los países que no habían cometido genocidio .  
+Es más , las violaciones a los tratados sobre derechos humanos abundan .  
+Irak , que acaba de tener elecciones en las que Saddam hussein fue reelegido sin rivales con un 100 % de los votos , hace tiempo que ha ratificado el Convenio internacional sobre Derechos civiles y Políticos .  
+Y Afganistán , que bajo los talibanes prohibió la participación de las mujeres en la vida política o cívica , fue y es miembro de la Convención sobre Derechos políticos de la mujer .  
+Por supuesto , el que algunos estados canallas ratifiquen los tratados de derechos humanos no debería poner en cuestión la validez del sistema de tratados como un todo .  
+Los tratados de derechos humanos sirven para promover mejoras graduales en las prácticas de derechos humanos , tanto en los países que los ratifican como en los que no lo hacen , mediante cambios en una visión común acerca de qué comportamientos son aceptables .  
+La tortura se consideraba en el pasado una práctica estatal aceptable .  
+Ya no lo es , en parte gracias a la creación de varios tratados que prohíben su uso .  
+Los tratados sobre derechos humanos también pueden tener efectos positivos en el largo plazo en los países que los ratifican , creando compromisos políticos en que los activistas de derechos humanos se pueden apoyar a medida que presionan a las naciones a que hagan mejoras graduales , aunque sea a regañadientes , en esa dirección .  
+Sin embargo , tras examinar las prácticas de 166 países a lo largo de un periodo de 40 años , no he encontrado evidencias claras de que los tratados sobre derechos humanos de la Onu tengan un impacto positivo directo y medible en las prácticas de derechos humanos de los países particulares que los ratifican .  
+Tal vez esto no debería sorprender .  
+En su mayoría , los tratados sobre derechos humanos tienen escasas formas de monitoreo y aplicación , y los países que se unen a ellos enfrentan pocos o ningún castigo si su retórica no corresponde a los hechos .  
+En este contexto , es quizás esperable que algunos países se sientan tentados a usar la ratificación para intentar aplacar a quienes presionan por mejoras en el campo de los derechos humanos , convirtiendo de este modo a la ratificación en un sustituto de las mejoras reales que deberían poner en práctica .  
+Entonces , ¿ qué debería hacerse para lograr que el sistema de tratados sobre derechos humanos sea más eficaz ?  
+Esta pregunta exige la atención internacional .  Un primer paso hacia el fortalecimiento del sistema sería aumentar la confianza en el establecimiento interno de políticas , con un sistema más fuerte de monitoreo de expertos independientes .  
+Mientras más información tengamos acerca de las prácticas de derechos humanos de los países , más difícil será para ellos cometer abusos impunemente .  
+Por sobre todo , los guardianes de los derechos humanos deben permanecer vigilantes , viendo la ratificación de los tratados no como el fin de la lucha por la dignidad humana , sino como el comienzo de una campaña en constante evolución .  

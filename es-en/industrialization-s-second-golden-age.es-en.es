@@ -1,0 +1,32 @@
+La segunda época dorada de la industrialización  
+Washington , Dc - El economista Barry eichengreen afirmó : " la época dorada de las finanzas ha terminado " .  
+Si eso es cierto - y esperemos que así sea - lo que sigue será muy probablemente una nueva época dorada de industrialización .  
+Desde tiempos históricos , ningún país se ha vuelto rico , excepto por unas cuantas economías exportadoras de petróleo , sin haberse industrializado .  
+Por lo tanto , actualmente todas las miradas deberían estar en los sectores reales de nuestras economías .  
+Confrontados por la crisis financiera global que ahora acecha a Europa , los dirigentes políticos en todo el mundo están abriendo los ojos a una nueva y cruda realidad : si los países desarrollados no dejan de depender desmesuradamente de los arreglos financieros y empiezan a reconstruir desde sus fundamentos , empezarán a perder sus estándares actuales de vida .  
+La comunidad global debe ver más allá de las crisis de la eurozona y de la deuda soberana y poner atención a las oportunidades de transformación estructural de los sectores reales del mundo en desarrollo .  
+Al hablar de transformación estructural quiero decir el proceso mediante el cual los países progresan en sus procesos de industrialización - sus fuerzas laborales pasan a sectores manufactureros de mayor valor agregado a medida que sus fuentes de producción avanzan .  
+En lo que va de 2011 me ha llamado la atención el potencial de los países menos desarrollados - incluida el áfrica subsahariana - para emular a los exitosos países de Asia oriental como Japón , Corea del sur , Singapur , Malasia , China y Vietnam .  
+En efecto , al centrar los esfuerzos de desarrollo en las ventajas comparativas de los países más pobres , podemos reconstruir la confianza en el sector empresarial y reanimar la inversión en la creación de empleos - no solo en los países en desarrollo , sino también en las economías avanzadas .  
+La actual crisis financiera global , que está arraigada en los problemas estructurales de los países avanzados , requiere de políticas de inversión e innovación , aunado a medidas monetarias o fiscales .  
+En los países avanzados , las actividades de investigación y desarrollo tienen costos muy altos porque sus tecnologías e industrias ya están a la vanguardia .  
+En contraste , los países en desarrollo , incluidos los del áfrica subsahariana , tienen el potencial de expandir sus sectores industriales rápidamente porque pueden solicitar tecnología de bajo riesgo y a bajo costo a los países avanzados .  
+Así pues , el retraso de los países en desarrollo en términos de tecnología e industria significa que pueden crecer durante décadas a una tasa anual varias veces mayor que la de las de los países de altos ingresos antes de que cierren la brecha del ingreso .  
+En mayo , en Maputo , Mozambique , impartí la conferencia anual sobre desarrollo del Instituto wider de la universidad de las naciones unidas .  
+Expliqué que la receta del éxito para los países en desarrollo es construir las mismas industrias comercializables que han estado creciendo durante décadas en los países más ricos que tienen estructuras de financiamiento similares a las suyas .  
+El patrón de los " gansos en vuelo " es una metáfora útil para explicar esta idea .  
+A principios del siglo xviii , los países menos desarrollados de Asia oriental y Europa occidental siguieron a sus vecinos más exitosos : emulando el patrón de los gansos en vuelo se vieron favorecidos por la estela de los países que iban a la cabeza , pues primero se industrializaron y después se convirtieron ellos mismos en países avanzados .  
+Las grandes y dinámicas economías de mercado emergentes ( en particular , Brasil , Rusia , India , China y Suráfrica ) que se han industrializado rápidamente , ofrecen oportunidades sin precedentes para que otras economías en desarrollo emulen su éxito , y por lo tanto , arranquen sus propios procesos de industrialización .  
+China - alguna vez " ganso seguidor " - está a punto de convertirse en uno líder , que tiene el potencial de deslocalizar 85 millones de empleos en el sector de la manufactura poco calificada en la próxima década .  
+La magnitud de este desplazamiento es enorme cuando se compara con los 9.7 millones de empleos que creó Japón en el sector moderno en los años sesenta , o con los 2.3 millones de empleos que generó Corea del sur en los años ochenta en el mismo sector .  
+Además , una tendencia similar surgirá en otras economías de mercado emergentes .  
+De hecho , ya está sucediendo : las salidas de inversión extranjera directa de China ascendieron a 68 mil millones de dólares en 2010 , superando las de Japón y las de Reino unido .  
+India , Brasil , Rusia y Corea del sur van muy de cerca .  
+Además , la inversión extranjera directa saliente de India está fuertemente concentrada en el sector manufacturero , que representó el 42.7 % del total , de 1999 a 2008 .  
+Para que los países en desarrollo se beneficien al máximo de una mayor industrialización de China y de otras grandes economías de mercado emergentes , sus gobiernos deben identificar las industrias comercializables que son compatibles con sus ventajas comparativas latentes .  
+También deben ayudar a las empresas privadas a resolver cuestiones relacionadas con la información , la coordinación y con los factores externos en el proceso de la modernización industrial .  
+La rápida industrialización de los países en desarrollo requerirá de grandes importaciones de bienes de capital de los países avanzados .  
+Dado que los países en desarrollo han representado hasta dos terceras partes del crecimiento mundial del Pib y de las importaciones en los últimos cinco años , centrarse en la forma de estimular el desarrollo de sus sectores industriales podría favorecer a los países avanzados porque se impulsaría la demanda , y de ese modo se aliviarían las dificultades económicas del mundo .  
+En resumen , la inminente época de oro de la industrialización en los países en desarrollo ayudará a crear empleos e impulsar la recuperación en los países avanzados .  
+Los beneficios de esta nueva era serán duales : contribuirá a alcanzar los Objetivos de desarrollo del milenio de las naciones unidas - el plan para reducir a la mitad la pobreza mundial para 2015 - y también a estimular la recuperación mundial .  
+Entonces , quizá veamos una época dorada para todos .  

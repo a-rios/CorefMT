@@ -1,0 +1,28 @@
+La nueva configuración de la economía china  
+Beijing - La transición de China hacia el liderazgo en 2012 atrajo la atención del mundo , merecidamente , dada la importancia global que tiene ese país .  
+Sin embargo , lo que es más importante , las transformaciones estratégicas actuales sin duda dummy-they tendrán una influencia en el patrón futuro de crecimiento chino .  
+Durante tres décadas , los beneficios de la decisión inicial de Deng xiaoping de abrir la economía china a las fuerzas del mercado , y mundiales , han estimulado un rápido crecimiento .  
+Hasta hace poco , el elemento clave era la abundante oferta de mano de obra barata china , que ofreció la base del modelo orientado a las exportaciones .  
+Concentrado en la zona costera de China , este modelo generó una distribución desigual de la producción y estableció un patrón único de ahorro elevado y bajo consumo .  
+En efecto , la tasa de ahorros china aumentó progresivamente después del inicio de las reformas de mercado , de 38 % del Pib en 1978 a 51 % del Pib en 2007 .  
+El crecimiento económico está determinado no solamente por factores de producción como la mano de obra , el capital y la tecnología , sino también por los acuerdos institucionales .  
+En treinta años de reforma , China ha completado exitosamente la transición institucional de una economía de planificación altamente centralizada a un sistema dinámico basado en el mercado .  
+Empezando por la gestión rural jerarquizada basada en el sistema de contratos de las familias , los reformadores chinos complementaron la propiedad pública con otras numerosas formas , en las que la participación esencial del mercado en la asignación de recursos crecía cada vez más bajo un gran control del Estado .  
+Las reformas coincidieron con una creciente globalización y desataron las fuerzas que reestructuraron no solo la industria china , sino también los procesos de producción en todo el mundo , pues China se convirtió en un desafío para los fabricantes establecidos y en parte de la cadena global de suministro .  
+La masiva deslocalización de las economías desarrolladas de la manufactura tradicional , la de alta tecnología , e incluso de algunos servicios de baja calidad han ofrecido oportunidades increíbles a los mercados emergentes que , como China , tienen ventajas en lo que se refiere a costos y recursos , un fuerte potencial de mercado y capacidades de apoyo industrial .  
+Sin embargo , ahora , el poder catalítico de los cambios iniciales de Deng se ha esfumado , pues los salarios van en aumento , una demanda externa que pierde dinamismo y una creciente competitividad de otras economías emergentes , que indican el agotamiento de un modelo de crecimiento basado en las exportaciones y la inversión .  
+En particular , en 2008 , la crisis financiera global y la subsiguiente crisis de deuda de la eurozona han obligado a las autoridades chinas a forjar un nuevo camino de futuro crecimiento .  
+Lo que es más importante , el crecimiento impulsado por las exportaciones debe ceder su-nonhum-sg lugar a los motores económicos internos .  
+Esto implica la necesidad de actualizar la estructura industrial de China , acelerar la formación de capital humano , facilitar el progreso tecnológico y emprender más reformas institucionales .  
+Si se aplica con éxito , dummy-it es probable que esta agenda invierta los patrones globales de ahorro y consumo que-hum han sido la base de los grandes desequilibrios en años recientes .  
+China es responsable del lado del ahorro , mientras que los Estados unidos representan desproporcionadamente el lado del consumo , lo que en última instancia ha convertido a los chinos en acreedores de los estadounidenses .  
+Por supuesto , los patrones globales de ahorro y dummy-I consumo han cambiado significativamente desde la crisis financiera y tanto occidente como China están tratando de restablecer el equilibrio interno .  
+La duplicación del ingreso de los hogares para 2020 - la meta que se fijó durante el 18º congreso del Partido comunista chino , celebrado en noviembre - liberará probablemente 64 billones de renminbi ( 10.3 billones de dólares ) de poder adquisitivo , y el enorme mercado interno de China gradualmente se convertirá en un nuevo motor de crecimiento interno e internacional a largo plazo .  
+Este modelo supone que China desarrollará un capital nacional , en lugar de depender simplemente de la inversión extranjera .  
+Sin duda , la capacidad de atraer y absorber financiamiento externo dummy-it ha sido una causa importante de la acelerada industrialización , comercialización e integración de China a la economía global .  
+Hace treinta años , esta era la opción estratégica más eficiente y práctica para China debido a su-nonhum-sg carencias de capital y tecnología avanzada .  
+Sin embargo , el desarrollo económico de un país depende en última instancia de su-nonhum-sg capacidad para acumular capital y asignarlo de manera eficiente .  
+China , que tiene 90 billones de renminbi en activos bancarios y 3.2 billones de dólares en reservas de divisas , desempeña ahora un papel importante en las finanzas globales .  
+No obstante , el gran volumen y la calidad inferior de estos activos también han planteado desafíos a la capacidad del país para completar la transición de una potencia comercial a una potencia financiera y , de ese modo , explotar las ventajas competitivas del capital chino .  
+Tras tres décadas de crecimiento a una escala sin precedentes en la historia , los nuevos líderes de China se enfrentan a una encrucijada histórica .  
+Las perspectivas no solo de mayor crecimiento sino de estabilidad sostenida dependerán de que China pueda cambiar con éxito su-nonhum-sg modelo económico .  

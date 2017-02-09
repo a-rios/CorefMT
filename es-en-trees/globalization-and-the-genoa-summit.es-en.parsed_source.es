@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">La</tree></tree><tree label="NP">Globalización</tree></tree><tree label="conj"><tree label="CC">y</tree></tree></tree><tree label="sn"><tree label="spec"><tree label="DA">la</tree></tree><tree label="NP">Cumbre_de_génova</tree></tree></tree></tree> 

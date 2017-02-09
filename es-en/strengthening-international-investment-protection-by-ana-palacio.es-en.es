@@ -1,0 +1,31 @@
+Cómo promover la inversión extranjera  
+Madrid - Como consecuencia de la globalización económica y del nuevo equilibrio de poder entre Norte y Sur , los países en vías de desarrollo y sus empresas se han convertido en actores económicos globales de primer nivel .  
+Esta nueva realidad abunda en la necesidad de fortalecer el marco internacional de protección de la inversión extranjera .  
+Antes , la inversión extranjera directa ( Ied ) fluía de unas pocas fuentes : los estados tradicionalmente ricos de Europa , Norteamérica y Japón .  
+Hoy , la inversión transfronteriza de países como Brasil , India y China fluye no sólo a otras economías emergentes y en transición , sino también a los " antiguos " Estados exportadores de inversión extranjera directa ( Ied ) .  
+En el corazón del actual sistema de protección de inversiones se encuentra el Banco mundial , que creó el Centro internacional de arreglo de diferencias relativas a Inversiones ( Ciadi ) en 1966 en respuesta a las solicitudes que se presentaban requiriendo el arbitraje por el presidente del Banco de controversias de inversión .  
+Sin embargo , institucionalmente , el Ciadi ha evolucionado con menos éxito que los demás miembros del Grupo del banco mundial - en particular la Corporación financiera internacional - como consecuencia de un prejuicio profundamente arraigado en la cultura del Banco que ve en el Ciadi un instrumento al servicio de los esfuerzos de las empresas occidentales de prevalecer sobre los estados en vías de desarrollo .  
+Esta fisura interna no fue un problema durante las primeras décadas de su existencia , cuando el Ciadi con sólo 38 casos registrados entre 1966 y 1996 carecía de trascendencia .  
+Pero la situación cambió con la rápida proliferación de los Tratados bilaterales de inversión ( Tbi ) que en su mayoría otorgan a los inversores privados una acción ante el Ciadi , lo que ha provocado un importante aumento de los casos registrados ( 386 desde 1996 ) .  
+El Ciadi y su jurisprudencia se erigen así en el elemento clave tanto del marco jurídico como de la política de inversiones internacionales .  
+Sin embargo , la ambivalencia del Banco mundial hacia el Ciadi sigue viva .  
+Esta situación tiene especial relevancia en materia de cumplimiento y ejecución de los laudos dictados por la institución , llegando a un punto crítico con la avalancha de casos presentados contra Argentina a raíz de la crisis económica de este país de los años 2001-2002 .  
+Confrontada a un gran número de reclamaciones , Argentina optó por alargar los procedimientos mediante el uso sistemático - y abusivo - de recursos de anulación contra cualquier decisión desfavorable y estableció unilateralmente una revisión judicial interna previa al cumplimiento del laudo - un procedimiento que viola tanto la letra como el espíritu del Convenio del ciadi y los Tbis - .  
+Y Argentina no ha realizado , por el momento , ningún pago a sus acreedores en este marco .  
+Pero los beneficios a corto plazo para Argentina conllevan un alto precio .  
+La no ejecución de los laudos debilita el cumplimiento de los Tbis y beneficia a los reincidentes como Argentina , que ha sido llevada al Ciadi en más casos que ningún otro estado .  
+De hecho , Argentina ha desarrollado una actitud general de incumplimiento cuyo ejemplo más reciente es la expropiación de Ypf , filial de la empresa española Repsol , hace un año .  
+El subproducto desafortunado de este ciclo de auto-refuerzo de incumplimiento y deslegitimación daña la economía mundial en general , y en particular a los países en desarrollo que más necesitan la Ied , al negárseles una herramienta fundamental para atraer la Ied , ya que existen pruebas empíricas de que la mera firma de un Tbi no produce por sí misma un aumento en la recepción de inversiones .  
+Por el momento , el único país que ha acometido acciones concretas eficaces es Estados unidos , que suspendió el año pasado su programa de comercio preferencial con Argentina , debido al impago por ésta de los laudos del Ciadi favorables a dos compañías estadounidenses .  
+En cuanto a Europa , el Tratado de lisboa confiere a la Unión europea la competencia exclusiva en materia de inversiones , pero hasta la fecha no se han implementado los mecanismos para ejercerla .  
+El próximo inicio de las negociaciones del Tratado de libre comercio transatlántico constituye una oportunidad que no podemos dejar pasar para progresar en la protección de inversiones , ya que los Ee .  
+Uu y la Unión europea son las dos mayores fuentes y destinos de la inversión extranjera con un total combinado del 56 % de las salidas mundiales de Ied y el 42 % de las entradas .  
+Así , se debería establecer normas internacionales que garanticen la seguridad jurídica de los inversores al tiempo que proporcionan un margen suficiente para los intereses regulatorios legítimos de los gobiernos .  
+Las conversaciones tendrían un impacto aún mayor si las partes acordasen un enfoque unificado para hacer frente a los estados que no cumplan con sus obligaciones .  
+Asimismo , en la reflexión sobre el fortalecimiento del Ciadi , sería útil considerar el Sistema de solución de diferencias de la organización mundial del comercio ( Ssd ) que goza de un excelente historial de cumplimiento .  
+Más allá de la evidente disponibilidad de los derechos compensatorios como herramienta de cumplimiento , varias de las características institucionales del Ssd , que están ausentes en el Ciadi , ayudarían a reforzar su legitimidad .  
+Por ejemplo , la existencia de un órgano de apelación permanente ha dado lugar a una jurisprudencia consistente y predecible .  
+Pero , lo que es más importante , al Ciadi le beneficiaría enormemente el nivel de apoyo institucional que el Ssd tiene en la Omc .  
+Reforzar el Ciadi es uno de los mayores desafíos actuales del Banco mundial y de la Comunidad internacional .  
+Sin inversión extranjera directa no hay desarrollo , y sin seguridad jurídica no habrá inversión extranjera directa .  
+Si realmente queremos ver flujos mundiales de Ied , en particular a los países que más lo necesitan , tenemos que empezar a hacer frente a las deficiencias institucionales del actual régimen de protección .  

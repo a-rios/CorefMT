@@ -1,0 +1,28 @@
+El mundo onírico de Ben bernanke  
+Berkeley - El Presidente de la junta de la reserva federal , Ben bernanke , no está considerado un oráculo , como ocurría con su predecesor , Alan greenspan , antes de la crisis financiera , pero los mercados financieros estuvieron muy atentos al discurso que pronunció en Jackson hole ( Wyoming ) el 26 de agosto .  
+En primer lugar , Bernanke no propuso ninguna otra flexibilización de la política monetaria para apoyar la estancada - o , mejor dicho , inexistente - recuperación .  
+En segundo lugar , aseguró a sus oyentes que " esperamos que continúe - y , de hecho , se intensifique - una recuperación moderada " , porque " las familias han logrado algunos avances en la reparación de sus balances ahorrando más , endeudándose menos y reduciendo sus cargas en forma de pago de intereses y de deuda " .  
+Además , la bajada de los precios de los productos básicos " contribuye a aumentar el poder adquisitivo de las familias " .  
+Por último , Bernanke afirmó que " los factores fundamentales del crecimiento de los Estados unidos no parec [ ía ] n haber resultado alterados permanentemente por las sacudidas de las cuatro últimos años " .  
+Francamente , no entiendo cómo puede hacer Bernanke cualquiera de esas afirmaciones en este momento .  
+Si él y el resto del Comité para las Operaciones de mercado abierto de la reserva federal pensaban que el aumento proyectado del gasto nominal en los Ee.uu. estaba en la senda apropiada de la recuperación hace dos meses , hoy no pueden creerlo .  
+Dos meses de malas noticias económicas , junto con importantes revalorizaciones de los contratos de futuro , que también causan un aumento menor de sus contrataciones , pues las bajadas de los precios de los activos incitan a las empresas a reducir sus inversiones , hacen que una política que era apropiada hace sesenta días sea demasiado austera hoy .  
+Pero voy a centrarme en la cuarta afirmación de Bernanke .  
+Aun cuando se prevea una recuperación económica relativamente rápida , cuando esta depresión menor haya acabado , los Ee.uu. habrán experimentado una reducción de la inversión de al menos cuatro billones de dólares .  
+Hasta que desaparezca esa reducción de la inversión , la falta de capital contribuirá a deprimir el nivel de Pib real en los Ee.uu. en dos puntos porcentuales .  
+La trayectoria del crecimiento de este país estará un dos por ciento por debajo de como habría estado , si se hubiera logrado superar la crisis financiera y se hubiese evitado la depresión menor .  
+Y no es eso todo : los recortes de los presupuestos estatales y locales han reducido el ritmo de inversión en capital humano e infraestructuras , lo que añade otro punto porcentual a la tendencia descendente de la trayectoria de crecimiento a largo plazo del país .  
+Después de la Gran depresión del decenio de 1930 , la enorme oleada de inversión en capacidad industrial durante la segunda guerra mundial compensó la reducción del decenio perdido .  
+A consecuencia de ello , la Depresión no hizo sombra al crecimiento futuro ... o , mejor dicho , la sombra fue arrollada por los cegadores reflectores de cinco años de movilización para la guerra total contra la Alemania nazi y el Japón imperial .  
+No se está desplegando un conjunto análogo de reflectores para acabar con la sombra que arroja actualmente la depresión menor .  
+Al contrario , la sombra se está alargando cada día que pasa , por la falta de políticas eficaces para lograr que la corriente de gasto nominal a escala de la economía vuelva a su trayectoria anterior .  
+Además , hay otro factor que hace de lastre .  
+Un factor potente que disminuyó la sensación de riesgo y fomentó la inversión y la iniciativa empresarial en el período posterior a la segunda guerra mundial fue el llamado " impulso de Roosevelt " .  
+Países industriales de todo el mundo asignaron entonces la primera y máxima prioridad a la lucha contra la depresión , por lo que los ahorradores y las empresas no tenían motivo para preocuparse por que volvieran los tiempos difíciles que siguieron a 1873 , 1884 o 1929 .  
+Ya no se puede decir lo mismo de la actualidad .  
+En el futuro , el mundo será un lugar más peligroso de lo que pensábamos , no porque el Estado ya no ofrezca garantías que , para empezar , no debería haber ofrecido , sino porque ha vuelto el riesgo real de que los clientes se esfumen en una depresión prolongada .  
+No sé hasta qué punto ese riesgo suplementario impedirá el crecimiento de las economías americana y mundial .  
+Un rápido cálculo aproximado indica que una depresión menor que se prolongue durante cinco años cada cincuenta años y reduzca la economía otro diez por ciento por debajo de su potencial disminuiría los beneficios medios de la inversión y retrasaría la inversión privada lo suficiente para que se perdieran dos décimas de punto porcentual de crecimiento económico al año .  
+A consecuencia de ello , los Estados unidos no sólo estarían al final de ese episodio un tres por ciento mas pobres de lo que podrían haber sido , sino que , además , el desfase aumentaría : al siete por ciento en 2035 y al 11 por ciento en 2055 .  
+ésa será la situación futura , si no se adoptan ahora las medidas para lograr la recuperación rápidamente de este depresión menor y después para aplicar políticas que impulsen de nuevo el capital privado y la inversión en infraestructuras y educación hasta su nivel normal .  
+Tal vez eso fuera suficiente para tranquilizar a todo el mundo , en el sentido de que la aquiescencia actual de las autoridades ante un recesión prolongada fue un error horrible que no se repetirá .  

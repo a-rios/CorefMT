@@ -1,0 +1,32 @@
+La tormenta después de la calma  
+París -- ¿ Podría volver a suceder la crisis financiera del período 2007-2008 ?  
+Desde que estalló la crisis , no han faltado las ocasiones - en forma de conclusiones y decisiones inadecuadas por parte de las autoridades - para que aumentara nuestra preocupación ante esa perspectiva .  
+Durante las tres cumbres del G-20 celebradas desde el comienzo de la crisis , los dirigentes mundiales han acordado endurecer ligeramente la reglamentación financiera , pero sólo para los bancos , con lo que han dejado a los demás participantes en el mercado funcionar sin restricciones ni fiscalización .  
+Como ocurría antes de la crisis , nadie está vigilando el casi ilimitado mercado " virtual " de derivados , en el que el dinero se mueve con libertad sin normas oficiales ni contacto con la economía real .  
+Y los grandes participantes tienen abundante dinero en efectivo con el que especular , en particular dada la decisión de la Reserva federal de los estados unidos de inundar el mundo con un mar de liquidez .  
+El resultado no ha sido la inversión en activos productivos que impulsaran el empleo en los Ee.uu. , como deseaba la Reserva federal , sino un aumento de los precios mundiales de los productos básicos y una burbuja en aumento en los mercados inmobiliarios de las más importantes economías en ascenso .  
+Dicho de forma sencilla , no hay frenos que pudieran detener la economía mundial en su rumbo hacia otra crisis financiera provocada por semejantes errores .  
+Los paraísos fiscales siguen siendo numerosos y su regulación anárquica .  
+Las exiguas medidas adoptadas por los reguladores de los bancos a raíz de la crisis para imponer el cumplimiento de la reglamentación no son ni mucho menos apropiadas para lo que está en juego .  
+Los gobiernos se han negado a restablecer la divisoria absoluta entre los bancos comerciales y los de inversión , con lo que las consecuencias de la obligación de pagar los depósitos asegurados han recaído sobre los contribuyentes cuando las burbujas , a cuya creación es propenso el sector financiero , estallan .  
+De hecho , no está claro que los gobiernos impidieran un desplome en gran escala del sistema financiero en 2008 al transformar la deuda privada tóxica en deuda pública .  
+Ese mecanismo funcionó entonces , pero no puede hacerlo ahora , en gran medida porque ha contribuido a la nueva crisis que se cierne en los mercados financieros , provocada por las cargas de la deuda pública - que se han puesto por las nubes - de los países .  
+No podemos achacar la crisis que está surgiendo actualmente sólo a las medidas recientes y actuales adoptadas por los gobiernos .  
+Durante más de veinte años , se ha incitado a las economías capitalistas más importantes del mundo a endeudarse enorme y despreocupadamente , en gran medida mediante una nueva norma , aprobada a escala mundial a partir de los decenios de 1970 y 1980 , que vinculó la política monetaria a los objetivos en materia de aumento de los precios .  
+Esa peligrosa idea , propuesta en Francia por Jacques rueff en 1958 , adoptada en toda Europa durante los dos decenios siguientes y heredada por el Banco central europeo , iba encaminada a limitar la tendencia de las economías capitalistas a intensificar la inflación en cuanto consiguen el pleno empleo .  
+Pero esa norma tuvo , en última instancia , el aterrador resultado de obligar a los países a endeudarse con los bancos privados a precios de mercado para garantizar la integridad de sus tesoros , lo que creó grandes obstáculos a la inversión pública , al desviar el gasto estatal hacia los beneficios en masa de los bancos y sus accionistas .  
+Con la posible excepción de los cuatro países escandinavos , ninguna sociedad con economía de mercado encontró - ni buscó siquiera - el equilibrio necesario entre el Estado y el mercado para mantener un nivel suficiente de servicios públicos .  
+Pero ni siquiera la austeridad monetaria institucionalizada ha impedido que los niveles de deuda pública ascendieran a entre el 50 y el 100 por ciento del Pib en Europa ( y mayores aún en países como Grecia e Italia ) y superaran el 100 por ciento en los Ee.uu. resulta claro que la reacción oficial ante la crisis de 2008 fue perversa y perjudicial en todos los niveles .  
+Además , los 17 países europeos que actualmente utilizan el euro no pueden devaluar su divisa unilateralmente .  
+El euro es un importante paso adelante colectivo , pero , para asegurar su solvencia como divisa verdaderamente común , se debe considerarlo la encarnación de una solidaridad verdadera e incondicional .  
+El Gobierno de alemania sigue sin admitirlo , como si Francia , antes de la creación del euro , hubiera ofrecido Seine-saint-denis o Córcega para pagar sus deudas exteriores y mantener así el valor del franco .  
+Grecia , miembro de la zona del euro , se encuentra ahora en semejante situación insostenible .  
+Si suspende pagos , habrá unas enormes posibilidades de especulación .  
+De hecho , no es probable que los mercados financieros diferencien entre la deuda griega y la de otras economías enormemente endeudas , incluidas las de Portugal , Irlanda , España e incluso Italia , los miembros de la zona del euro que han padecido ataques especulativos más recientemente .  
+Así podría producirse un maremoto financiero por importe de billones de dólares , lo que explica la energía con la que el Banco central europeo y su Presidente , Jean-claude trichet , han intentado evitar lo peor .  
+Gran bretaña , Bélgica e incluso Francia se encuentran con un nivel de deuda que inspira pocas esperanzas de que salgan indemnes de esa situación .  
+Entretanto , los Ee.uu. no pueden cumplir con su próximo pago de la deuda , a no ser que el Congreso y el Presidente lleguen a un acuerdo para aumentar el límite máximo de deuda nacional .  
+Con razón se han expuesto , con una alarma cada vez mayor a medida que aumentaba el riesgo , las consecuencias de una suspensión de pagos de los Ee.uu.  
+Aún es posible remediar toda esta situación , pero ya no se pueden aplicar las medidas financieras necesarias para ello y al tiempo respetar la tradicional y completa soberanía de los Estados .  
+Los Ee.uu. deben renunciar al imperialismo del dólar y Alemania debe abandonar su sueño de un " deutscheuro " , administrado como si los otros 16 miembros de la zona del euro fueran extensiones históricas y culturales de la nación alemana .  
+La tormenta que se acerca y las medidas que se deben adoptar para afrontarla traerán consigo un cambio enorme .  

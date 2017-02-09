@@ -1,0 +1,30 @@
+La política de estira y afloja de Irán  
+Ginebra - El problema con la actual política arriesgada iraní sobre su programa nuclear es que es demasiado fácil caer al precipicio .  
+En las primeras dos rondas de conversaciones que mantuvieron Irán y los P5+1 ( los cinco miembros permanentes del Consejo de seguridad de la onu más Alemania ) en Estambul y en Bagdad durante abril y mayo , respectivamente , ambas partes por lo menos llegaron a quedarse al borde del abismo .  
+Ahora , después de haber celebrado la tercera ronda en Moscú están pendiendo de un hilo .  
+Ninguna de las partes ha estado preparada para comprometerse en ningún asunto .  
+Apenas lograron ponerse de acuerdo en organizar una reunión de expertos de bajo nivel a principios de julio , pero nadie espera que ello conduzca a un avance .  
+Para entonces , las nuevas sanciones europeas y estadounidenses a las exportaciones de petróleo iraníes estarán en vigor , y el Congreso de los estados unidos está presionando para aplicar más sanciones , además , voces influyentes dicen que el juego de las negociaciones terminó .  
+Los rumores de guerra siguen presentes en Israel y crece la ansiedad de que no se logre contener la intensificación del conflicto en un clima político cargado en un año de elecciones en los Estados unidos .  
+Aunque las posturas de negociación de las dos partes a lo largo de las conversaciones actuales no han sido tan divergentes como en el pasado , sus principales demandas hasta ahora han sido irreconciliables .  
+Actualmente las seis potencias mundiales están insistiendo en tres cuestiones .  
+En primer lugar , Irán debe detener sus actividades de enriquecimiento de uranio de un nivel de pureza del 20 % ( nivel necesario para los reactores de investigación , aunque en términos prácticos solo a un paso del uranio enriquecido para producir armas ) .  
+En segundo lugar , Irán debe intercambiar el 20 % de sus reservas actuales por combustible que pueda usarse exclusivamente en el Reactor de investigación de teherán o para otros usos manifiestamente pacíficos .  
+La demanda final es que Irán cierre su instalación subterránea altamente protegida de enriquecimiento de uranio en Fordow , cerca de Qom .  
+A cambio de ello no se impondrían nuevas sanciones y se facilitaría el acceso a partes de recambio para las aeronaves .  
+Sin embargo , Irán quiere más : como mínimo un reconocimiento formal de su " inalienable derecho a enriquecer " uranio , que no se clausuren las instalaciones actuales y la eliminación significativa de las muchas sanciones que se le han impuesto ( por negarse a cumplir con las Resoluciones del consejo de seguridad en el sentido de que suspenda toda actividad de enriquecimiento ) .  
+En un informe publicado este mes por el " International crisis group " , figura un magnífico análisis de los varios textos subyacentes en el actual punto muerto .  
+En el P5+1 , ciertamente en opinión de las autoridades estadounidenses y de sus socios europeos , Irán está tambaleándose debido a las sanciones - incapaz de soportar más y desesperado por tener un respiro - y tiene un profundo temor de un inminente ataque militar israelí .  
+No obstante , para Irán , Occidente - en el contexto de convulsión económica en Europa , y los esfuerzos del presidente Barack obama para ganar la reelección - está igualmente ansioso por evitar un conflicto que dispararía los precios del petróleo .  
+Los líderes iraníes ven su propio poder de negociación fortalecido por las nuevas instalaciones y reservas del país , y si bien las sanciones les perjudican , hay mucho orgullo en juego como para rendirse ante ellos .  
+La realidad es que cada parte está exagerando mutuamente sus propias fortalezas y las debilidades del contrario .  
+En particular , las potencias globales están subestimando la resistencia iraní , y a su vez , Irán esta sobrestimando la capacidad de los Estados unidos , en un año de elecciones , para frenar una posible aventura militar de Israel .  
+Es necesario que modifiquen sus respectivas posturas .  
+No hay duda de que Irán - con su larga historia de secretos y disimulo - merece la intensa hostilidad y desconfianza que su programa nuclear continúa engendrando .  
+Sin embargo , la opinión más común entre los expertos en temas de inteligencia y seguridad en todo el mundo es que si bien Irán quisiera tener la capacidad técnica para construir un arma nuclear que ahora tiene Japón , todavía le falta mucho para construir un arma nuclear utilizable , y no ha tomado decisiones con ese fin .  
+En efecto , los dirigentes iraníes han sopesado los costos y beneficios y por ello tienen muchas razones para no ir más allá de ese límite .  
+Sin embargo , esas evaluaciones podrían resultar ingenuas a menos que Irán suspenda de manera verificable toda actividad de enriquecimiento que vaya más allá del 5 % , vuelva inutilizable para la aplicación militar el 20 % de sus reservas y escuche las inquietudes sobre las instalaciones en Fordow mediante un cambio de su papel y permitiendo la supervisión intrusiva .  
+A cambio , el P5+1 debe estar preparado para modificar significativamente sus propias demandas básicas actuales , independientemente de las dificultades políticas que ello conlleve , sobre todo para Obama en un año electoral .  
+Las potencias globales deberían reconocer abiertamente que - nos guste o no , y sea o no una buena política - la postura jurídicamente correcta de acuerdo con el Tratado de no proliferación nuclear es que Irán sí tiene derecho a enriquecer uranio con fines exclusivamente civiles .  
+Además , lo que es todavía más importante , el P5+1 tiene que estar preparado no solo para abandonar nuevas sanciones sino para dar marcha atrás a las existentes a medida que Irán tome cada una de las medidas razonables que se le exijan .  
+Eso no significa pactar con el diablo , sino reconocer que la situación actual es insostenible ; una confrontación incendiaria está más cerca de lo que pensamos ; y solo se podrá evitar una catástrofe mediante una diplomacia serena que , hasta el momento , lamentablemente no ha aparecido .  

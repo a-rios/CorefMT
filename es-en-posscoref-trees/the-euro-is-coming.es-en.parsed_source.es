@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA" ord="s1.1">El</tree></tree><tree label="NP" ord="s1.2">Euro</tree></tree><tree label="sn"><tree label="pass"><tree label="PP" ord="s1.3">se</tree></tree><tree label="NP" ord="s1.4">Acerca</tree></tree></tree></tree> 

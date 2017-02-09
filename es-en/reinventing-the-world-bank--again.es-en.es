@@ -1,0 +1,29 @@
+Reinventar el Banco mundial .  
+Madrid - Con tres candidatos a ser el próximo presidente del Banco mundial - la ministra de Finanzas de nigeria , Ngozi okonjo-iweala , el exministro de Finanzas de colombia , José antonio ocampo , y el candidato de Estados unidos , que es el rector de Dartmouth college , Jim yong kim - , es momento de tomar distancia y analizar la trayectoria del Banco y su proyección futura .  
+El próximo presidente deberá tener una visión clara del camino a seguir y el peso necesario para soportar las presiones internas de la institución .  
+La opinión pública centra su atención en la trayectoria y especialidades profesionales de cada candidato , en particular sus credenciales económicas y financieras .  
+Pero el verdadero reto está en dar al Banco mundial una dirección que refleje el mundo tal como es y adaptar las herramientas del Banco en consecuencia .  
+Es inevitable que el nuevo rumbo dependa , en parte , de la capacidad de reconocer que la economía y las finanzas , pese a ser elementos fundamentales de todas y cada una de las áreas de actividad del Banco , han de dejar de ser los principales motores de la institución .  
+Los instrumentos tradicionales del Banco mundial han sido ( y siguen siendo ) los préstamos a bajo interés , los créditos sin intereses y los subsidios .  
+Pero la filosofía central de la institución ha consistido siempre en prestar dinero con intereses a países de renta media y canalizar los fondos obtenidos hacia los países más pobres que cumplen los requisitos de elegibilidad .  
+Hoy , debido a la condicionalidad de sus préstamos , el Banco está perdiendo competitividad frente a los numerosos actores públicos y privados que pueblan el ámbito del desarrollo .  
+Paralelamente , por contra , el Banco emerge como fuente vital - indispensable - de experiencia , conocimientos y asistencia técnica , además de cómo proveedor de bienes públicos globales .  
+Desde estas premisas , el Banco debe esforzarse por entender las realidades de los países que son sus clientes , en lugar de pontificar , y por mantener el equilibrio entre su trabajo país por país y su papel a escala mundial .  
+Mientras su función crediticia , que progresivamente se centra en los países más pobres se agosta , el Banco debe adoptar la estructura de plataforma versátil de servicios , consultoría estratégica o " banco del conocimiento " .  
+La organización debe reformular su misión y alejarse de la idea de ser el " Banco de occidente " , el " Banco de los bric " o , sencillamente , un banco .  
+Lo que hoy resulta innegable es que cada vez hay más intolerancia hacia el mal gobierno y la corrupción , un rechazo colectivo que se ve en países tan distintos como Birmania , Congo , Rusia y Bolivia , por no hablar de los países árabes , desde Siria hasta Marruecos .  
+Al tiempo , la mayor amenaza al orden internacional la representan los Estados en declive , fallidos , que han sufrido conflictos o que aún los sufren .  
+Desde hace dos décadas , en el contexto de la introspección desencadenada por la caída del comunismo , el Banco mundial ha introducido la gobernanza y la lucha contra la corrupción en sus programas de crecimiento económico y reducción la pobreza en el mundo en vías de desarrollo .  
+Sin embargo , sin perjuicio de la retórica elocuente , estos cambios lo han sido por adición , superponiéndose a las actividades tradicionales del Banco , sin incorporarse en su Adn organizativo .  
+El Banco se ha centrado demasiado en sí mismo y su reputación , más que en los países a los que asesora y en los que trabaja , y ha abordado el fortalecimiento institucional como parte intrínseca de la agenda de crecimiento .  
+Como consecuencia , el Derecho , que constituye el fundamento de la construcción institucional , se ha considerado como una mera caja de herramientas .  
+Así , & el derecho de propiedad , el cumplimiento de los contratos , las condiciones para el establecimiento de negocios y los mercados libres y competitivos de productos y de trabajo , se han venido considerando instituciones fundamentalmente económicas ; idea equivocada que recientemente volvía a expresar el execonomista del Banco mundial y actual gurú del desarrollo , William easterly .  
+Además , la interpretación tradicional del Tratado constitutivo supone una " neutralidad " que se ha venido traduciendo en la voluntad de pasar por alto el carácter de los regímenes de los países receptores y la falta de responsabilidad de sus gobernantes ante el pueblo .  
+Irónicamente , el mismo Banco mundial cuyo antiguo presidente , Robert mcnamara , transformó hace casi 50 años , en el apogeo de la descolonización , en instrumento clave de la lucha contra el comunismo , ve hoy el " Consenso de pekín " , que se fundamenta en el control férreo del Partido comunista chino sobre el país , como un modelo alternativo de desarrollo .  
+Desde estos planteamientos , un " banco del conocimiento " debe abordar tres retos .  
+Debe mejorar el apoyo al sector privado y dar prioridad a las infraestructuras , en sentido amplio , que son el sustrato necesario para el florecimiento de la iniciativa individual .  
+Debe apostar por la excelencia en materia de formación , en particular formación de cuadros administrativos , marcando énfasis en los aspectos legales e institucionales .  
+Por último , la lucha contra la corrupción y para el buen gobierno debe constituirse en núcleo de su misión .  
+La comunidad internacional no puede permitirse un Banco mundial anclado en el pasado y progresivamente irrelevante .  
+Ninguna otra institución puede equipararse en las inmensas posibilidades del Banco como centro de conocimiento y coordinador de políticas de desarrollo .  
+El mandato del próximo presidente será crucial para la consolidación del éxito o la decadencia de una institución que el mundo necesita desesperadamente en este nuevo siglo .  

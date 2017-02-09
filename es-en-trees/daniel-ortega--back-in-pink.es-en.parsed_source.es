@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="suj"><tree label="NP">Ortega</tree></tree><tree label="VM">retorna</tree></tree><tree label="cc"><tree label="SP">en</tree><tree label="s.a"><tree label="AQ">rosado</tree></tree></tree></tree></tree> 

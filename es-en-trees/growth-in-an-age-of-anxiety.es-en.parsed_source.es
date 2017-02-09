@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">El</tree></tree><tree label="NP">Crecimiento</tree></tree><tree label="sp"><tree label="SP">en</tree><tree label="sn"><tree label="Z">una</tree></tree></tree></tree><tree label="sn"><tree label="NP">Era_de_ansiedad</tree></tree></tree></tree> 

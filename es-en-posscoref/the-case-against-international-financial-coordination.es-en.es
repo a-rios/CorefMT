@@ -1,0 +1,44 @@
+Las razones contra la coordinación financiera internacional  
+Cambridge - Cuando el presidente de los Estados unidos , Barack obama , anunció a finales de enero su-masc-sg intención de establecer nuevas reglas más estrictas para los bancos , no esperaba con ello conseguir amigos en Wall street .  
+De ahora en adelante dummy-we vamos a impedir que los bancos comercien por propia cuenta y crezcan demasiado , decía Obama .  
+La batalla interna en su-masc-sg administración la parecía haber ganado Paul volcker , el franco e impresionante ex presidente de la Reserva federal que durante mucho tiempo ha sido crítico de la innovación financiera .  
+No sorprende que Goldman sachs y otras firmas de Wall street tengan reservas sobre las " normas Volcker " .  
+También las tienen los republicanos en el Congreso , al igual que algunos demócratas que-hum sienten que el plan llega demasiado tarde y puede interferir con otras iniciativas de reforma en curso , por muy poca fuerza que tengan esas iniciativas .  
+Tal oposición interna debilita la posibilidad de que las propuestas de Obama lleguen a convertirse en ley .  
+Sin embargo , la reacción internacional fue menos esperada .  
+El anuncio de Obama tuvo una recepción muy poco calurosa entre los europeos , quienes percibieron la propuesta como una medida unilateral que socavaría la coordinación internacional de la regulación financiera .  
+El anuncio se hizo sin consulta internacional .  
+También parecía que infringía acuerdos anteriores para cooperar con otras naciones a través del G-20 , la Junta de estabilidad financiera y el Comité de supervisión bancaria de basilea .  
+En el Foro económico mundial de davos , el miembro del Congreso estadounidense , Barney frank , se sorprendió al descubrir que la principal oposición a los planes de su-masc-sg país viniera de los reguladores internacionales .  
+Las medidas propuestas por la administración Obama simplemente crearán ampquot ; confusión normativaampquot ; , se quejó uno de ellos .  
+Esta es una opinión ampliamente compartida .  
+El columnista del diario Financial times , Martin wolf , acusó a los Estados unidos de meter " nuevas e inquietantes ideas " en las discusiones sobre la reforma financiera .  
+A los países europeos continentales les gustan los bancos grandes , y por lo tanto nunca aceptarán las normas " Volcker " , dummy-he opinó el columnista .  
+Por consiguiente , estas reformas ampquot ; no podrán aplicarse fuera de los Estados unidos y crearán así dificultades de coordinación internacional . ampquot ;  
+Dominique strauss-kahn , director-gerente del Fondo monetario internacional , fue atípicamente directo tratándose de un funcionario internacional .  
+Refiriéndose directamente a las propuestas de Obama , dummy-he señaló que la reforma del sistema financiero mundial no debería depender de lo que cada país considere conveniente para sí mismo . ampquot ; Necesitamos tener coordinaciónampquot ; , dummy-he señaló . ampquot ; No podemos permitirnos tener diferentes soluciones en diferentes partes del mundo " .  
+Los directores de los principales bancos europeos , como Deutsche bank , Barclays , y Société générale naturalmente también fueron unánimes en su-nonhum-sg hostilidad .  
+La regulación que no se coordina globalmente , advirtieron , dummy-nonhum crearía una incertidumbre innecesaria , dummy-I prolongaría las dificultades financieras y pondría en riesgo la recuperación .  
+¡ Ah ! , y por supuesto , dummy-nonhum reduciría su-nonhum-sg ganancias también .  
+La coordinación global , al igual que la gobernanza global , suena muy bien .  
+No obstante , en la práctica no dummy-nonhum puede ofrecer las regulaciones estrictas , hechas a la medida de los requerimientos políticos y económicos internos , que los mercados financieros necesitan urgentemente en el periodo posterior al peor trastorno financiero que la economía mundial ha experimentado desde la Gran depresión .  
+En un mundo de soberanía política dividida y preferencias nacionales diversas , exigir una armonización internacional dummy-it es la receta de normas inefectivas y débiles .  
+Esa es una razón por la que los banqueros internacionales les encantan la coordinación internacional .  
+Muchos estudiosos de las relaciones internacionales consideran al Comité de supervisión bancaria de basilea , el organismo internacional de reguladores encargado de diseñar un nuevo conjunto de normas globales , como el apogeo de creación de normas internacionales .  
+Sin embargo , dummy-it es seguro que esta será la tercera versión de su-nonhum-sg directrices en tres décadas .  
+La última gran idea del Comité de basilea es que los bancos grandes calibren su-pl requerimientos de capital basados en su-pl propios modelos internos de riesgo .  
+Pero los riesgos de permitir a los bancos que se regulen a sí mismos fueron bastante claros en la crisis más reciente .  
+Cuando las regulaciones financieras están diseñadas por un grupo de reguladores globales en sedes distantes , son los banqueros y los tecnócratas los que-hum ganan el control .  
+Regresar el proceso a las capitales nacionales dummy-nonhum transferiría el balance de poder a las legislaturas internas y los accionistas nacionales .  
+Los banqueros y su-pl aliados económicos pueden lamentar esto , pero dummy-it es como dummy-nonhum debería de ser .  
+La politización es el antídoto necesario para la tendencia de los tecnócratas a ser controlados por los bancos .  
+La rendición de cuentas en la democracia también resultaría en una diversidad normativa - diferentes países haciendo lo que les corresponde - y eso no es algo malo tampoco .  
+Si los Estados unidos quieren establecer límites de tamaño y requisitos más estrictos de capital a los bancos , dummy-nonhum debería tener la libertad de hacerlo .  
+Si Europa quiere diseñar su-nonhum-sg propias reglas para las agencias calificadoras de crédito y fondos especulativos , simplemente dummy-nonhum debería seguir adelante .  
+Naturalmente , la diversidad normativa requeriría de controles financieros transfronterizos para asegurar que los bancos no evadan las regulaciones nacionales al operar en jurisdicciones extranjeras .  
+La regla tendría que ser : si dummy-you quieres servir a mi mercado , dummy-you tienes que hacerlo bajo mis reglas .  
+Es fácil dejarse convencer por los argumentos sobre lo costoso que sería tal fragmentación del mercado .  
+El director del Deutsche bank , Josef ackermann , ha ido tan lejos como para advertir que avanzar hacia esa dirección " dummy-he nos dejará pobres a todos " .  
+En efecto , la diversidad normativa es realmente costosa para los banqueros , que-hum tendrían que ajustarse a las diferencias en las regulaciones a través de las fronteras nacionales .  
+Pero el resto de nosotros sufrimos por demasiada globalización financiera , no por muy poca .  
+Algo de segmentación financiera es un precio que vale la pena pagar por regulaciones más estrictas que dummy-they estén sólidamente respaldadas por la política interna .  

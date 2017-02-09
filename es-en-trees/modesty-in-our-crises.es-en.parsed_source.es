@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="NC">Modestia</tree><tree label="cn"><tree label="SP">en</tree><tree label="sn"><tree label="spec"><tree label="DA">las</tree></tree><tree label="NC">crisis</tree></tree></tree></tree></tree> 

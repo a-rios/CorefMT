@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">La</tree></tree><tree label="NP">Democracia</tree></tree><tree label="sp"><tree label="SP">en</tree><tree label="sn"><tree label="NP">América_latina</tree></tree></tree></tree></tree> 

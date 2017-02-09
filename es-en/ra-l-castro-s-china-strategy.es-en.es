@@ -1,0 +1,25 @@
+Raúl castro's china strategy  
+Ciudad De México - La renuncia de Fidel castro a dos de sus tres cargos , junto con el nombramiento de su hermano menor , Raúl , como sucesor marca el fin de una era ... de algún modo .  
+Raúl reemplazó a Fidel como Presidente de los consejos de ministros y del Estado , pero no como Primer secretario General del partido comunista cubano .  
+Y , en una escena digna de los años gloriosos del estalinismo , Raúl recibió el permiso unánime del " parlamento " cubano para consultar con Fidel acerca de todos los temas de importancia .  
+Mientras Fidel siga dando vueltas alrededor - escribiendo , reuniéndose con dignatarios extranjeros y manifestando su opinión en todo tipo de temas , desde el etanol a la campaña presidencial estadounidense - dos cosas seguirán claras .  
+En primer lugar , Raúl apenas será capaz de iniciar las reformas modestas y estrictamente normativas y económicas con las que espera , con cierta ingenuidad , volver a poner comida en las mesas de los cubanos .  
+En segundo lugar , si bien el plan de sucesión creado por los Castro hace algunos años tiene la ventaja de dar estabilidad y predecibilidad , Raúl no podrá reemplazar la vieja guardia con líderes más jóvenes ( su sucesor en las Fuerzas armadas tiene 72 años y el vicepresidente tiene 77 ) .  
+Hacerlo daría a quien sea que escoja una ventaja cuando Raúl , que tiene 76 años , se jubile y él y Fidel no necesariamente estén de acuerdo en quién debería ser el próximo .  
+La estrategia de Raúl es seguir una solución similar a la de Vietnam o China : reformas económicas pro-mercado bajo un régimen comunista , sin avances en temas de democracia o derechos humanos .  
+Para quienes en los Estados unidos han llegado , con razón , a la conclusión de que el embargo que ya lleva medio siglo ha sido contraproducente , se trata de una respuesta intermedia atractiva que abre una oportunidad a la moderación : un día las reformas económicas producirán cambios políticos .  
+Para los pragmáticos latinoamericanos , siempre temerosos de la quinta columna cubana , ofrece una manera de lograr la cuadratura del círculo : estimular el cambio en Cuba sin ir demasiado lejos .  
+Y para algunos gobiernos europeos , se trata de un típico remedio no intervencionista que les permite poner el problema en el campo de los Estados unidos .  
+Sin embargo , los caminos vietnamita o chino son inaceptables en América latina , que ha avanzado enormemente en cuanto a transformaciones democráticas y respeto por los derechos humanos , en pos de un orden regional legal que vaya más allá de la soberanía nacional o el sacrosanto principio de la no intervención .  
+Tras décadas de golpes de estado , dictaduras , tortura y desapariciones , hoy América latina , que si bien no está del todo libre de estas plagas , ha creado una serie de recursos para precaverlas .  
+Aceptar una excepción en Cuba sería un enorme retroceso .  
+¿ Qué disuadirá al próximo dictador y asesino centroamericano si se les da un pase libre a los cubanos ?  
+Invocar el pragmatismo para justificar la continuación de las violaciones a los derechos humanos en Cuba meramente porque las reformas económicas podrían evitar un éxodo masivo a México y Florida es una mala idea .  
+México ha parecido estar particularmente tentado a volver a la complicidad que en el pasado tenía con Cuba .  
+Parece , que en una próxima visita a La habana , el ministro de relaciones exteriores mexicano no se reunirá con los disidentes locales , rompiendo los precedentes que existían desde 1993 .  
+Hay sólidas razones para definir un calendario para el regreso de Cuba a la comunidad de países latinoamericanos en democracia , sin imponer que haya elecciones como condición previa .  
+De hecho , unas elecciones libres y justas y el respeto pleno de los derechos humanos pueden fijarse al final del camino , si es que el camino se define con claridad .  
+Lo que sería inaceptable son los dos extremos : hacer de una transición inmediata a un régimen democrático una condición previa para la normalización de relaciones con Estados unidos y reingresar a la comunidad latinoamericana , o eximir a Cuba de la obligación de adherir a principios y prácticas democráticas con el argumento de que , de alguna manera , es un país diferente .  
+En 1953 , Fidel castro , en el que es probablemente el discurso político mejor conocido de la historia política latinoamericana , proclamó ante un tribunal que la historia lo absolvería .  
+De hecho , la historia lo juzgará a él y a su cerca de 50 años en el poder sólo cuando los resultados estén bien claros : cuando los logros iniciales en salud y educación y en el combate contra la desigualdad se evalúen según estándares internacionales y con la transparencia a la cual están sujetos los demás países de la región .  
+Sólo entonces sabremos si el trueque valió la pena , incluso si para muchos era inaceptable : auténtica justicia social y progreso a cambio de un régimen autoritario , ostracismo internacional y un desierto cultural .  

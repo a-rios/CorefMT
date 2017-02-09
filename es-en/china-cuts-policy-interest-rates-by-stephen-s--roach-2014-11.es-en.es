@@ -1,0 +1,34 @@
+La sorpresa de la política monetaria de China  
+New Haven - En política económica , como en la mayoría de las esferas , las acciones dicen mucho más que las palabras .  
+Al reducir sus tipos de interés oficiales y de referencia , el Banco popular de china ( Bpc ) ha puesto de relieve el enfoque táctico de la política de estabilización del Gobierno , encaminada a establecer un límite mínimo del siete por ciento al crecimiento del Pib .  
+La consecución de ese objetivo no será una pequeña hazaña precisamente .  
+La economía de China afronta vientos estructurales en contra debidos al paso a un nuevo modelo de crecimiento impulsado por los servicios y el consumo y una presión cíclica , pues unas duras condiciones mundiales ejercen una presión reductora del antiguo modelo impulsado por la inversión y las exportaciones .  
+Las dificultades cíclicas , en particular , están resultando más graves de lo previsto .  
+Aunque las exportaciones han disminuido considerablemente desde su punto máximo anterior a la crisis del 35 por ciento del Pib , siguen representando el 24 por ciento , aproximadamente , lo que deja a China expuesta al ciclo de crecimiento mundial , en particular en los mercados del mundo desarrollado , donde la demanda es excepcionalmente débil .  
+De hecho , el 42 por ciento de las exportaciones chinas van dirigidas a Europa , los Estados unidos y el Japón , economías que están coqueteando con el estancamiento persistente , y Europa , el mayor mercado para las exportaciones de China , es la que más problemas ha padecido .  
+Como las estrategias de desarrollo comienzan a fallar cuando las economías alcanzan la posición de renta media , umbral al que China está acercándose rápidamente , este país no puede permitirse el lujo de dejar que los riesgos en aumento socaven su transformación estructural .  
+La historia moderna muestra que la forma mejor de que un país en desarrollo quede preso en la temida " trampa de la renta media " es la de aferrarse a su modelo antiguo durante demasiado tiempo .  
+El caso es que sólo la transformación estructural puede elevar un país en desarrollo de renta media a una posición desarrollada de renta elevada .  
+Por fortuna , los dirigentes de China lo reconocen y están comprometidos con su consecución .  
+El Presidente xi jinping ha encabezado el empeño de sacar adelante la reforma y la reequilibración .  
+Hace un año , en la Tercera sesión plenaria del décimo octavo comité central del partido comunista chino ( Pcc ) , Xi y su equipo formularon el programa de reformas económicas más ambicioso en 35 años , que , junto con el Duodécimo plan quinquenal de 2011 , pone de relieve el compromiso de las autoridades con el fortalecimiento del sector de los servicios y el consumo interno .  
+Al mismo tiempo , China ha estado atribuyendo el cometido en materia de aplicación de la reforma a un mecanismo basado en el mercado , más eficaz e integrado en la estructura del Pcc ( el Pequeño grupo directivo para una Amplia profundización de las reformas ) , que ha substituido al anticuando aparato de la planificación ( la Comisión nacional de desarrollo y Reformas ) .  
+Súmese a ello la campaña anticorrupción sin precedentes de Xi y se comprenderá que no hay vuelta atrás en la vía de China a la reequlibración y al cambio estructural .  
+Pero el riesgo de perturbaciones cíclicas , como , por ejemplo , una disminución inesperada del crecimiento económico mundial , sigue existiendo , lo que representa una importante dificultad táctica para China .  
+¿ Cómo puede mantenerse en la vía de la reforma sin padecer una importante desaceleración del crecimiento a corto plazo ?  
+No es la primera vez que China ha afrontado esa amenaza ; de hecho , la " gran recesión " del período 2008-2009 colocó a China al borde de la recesión .  
+En vista de que el comercio mundial se desplomó y la demanda de exportaciones de China se hundió de un 26 por ciento de crecimiento anual a mediados de 2008 a una contracción del 27 por ciento a comienzos de 2009 , el Gobierno se apresuró a inyectar cuatro billones de yuanes ( 586.000 millones de dólares ) en la economía .  
+Si bien logró con ello que el crecimiento se recuperara a finales de 2009 , también contribuyó a crear nuevos problemas , incluidos un endeudamiento excesivo en el mercado inmobiliario , una deuda excesiva y un riesgo financiero en aumento en las administraciones locales .  
+Lo último que China necesita es más estímulo financiero .  
+La perturbación cíclica actual es muy inferior a la del período 2008-2009 y , a diferencia de las economías desarrolladas fiscalmente imprudentes , China reconoce que el exceso de deuda es una amenaza para el crecimiento y el desarrollo sostenibles .  
+Además , a diferencia de las más importantes economías desarrolladas , la mayoría de las cuales ha agotado toda su munición en materia de política monetaria , al reducir sus tipos de interés oficiales a cero , China tiene mucho estímulo monetario en reserva para abordar las perturbaciones cíclicas .  
+En esas circunstancias , tiene sentido que China se incline más por la política monetaria que por la expansión fiscal .  
+No obstante , la decisión táctica del Bpc no está libre de posibles riesgos , entre otras cosas porque estimula el aumento del crédito en un momento en el que China está intentando abandonar el crecimiento basado en un elevado nivel de deuda .  
+Un problema fundamental será el de evitar un aumento del riesgo crediticio , que podría socavar el proceso de reforma y reequilibracion .  
+Desde el principio , los dirigentes de China supieron que la interacción entre la transformación estructural y el ciclo económico sería complicada .  
+Como observó Wen jiabao hace casi ocho años , el crecimiento económico de China había llegado a ser cada vez más " inestable , desequilibrado , descoordinado e insostenible " .  
+Cuanto más retrasara China la decisión de abordar sus problemas , más ardua resultaría la solución .  
+Xi y sus colegas están decididos a mantenerse por la vía de la reequilibración de la economía china , sin por ello dejar de prestar la máxima atención a los riesgos cíclicos a corto plazo .  
+Al fin y al cabo , la vulnerabilidad de China ante dichos riesgos está en la raíz de su antiguo modelo de crecimiento , mantenido durante demasiado tiempo .  
+Con la reciente relajación monetaria , las autoridades de China parecen estar trazando una raya en la arena para prevenir una reducción excesiva del crecimiento , lo que indica que consideran una perturbación cíclica como una amenaza real para el programa de reforma estructural a largo plazo del país .  
+Stephen s. roach , miembro del profesorado de la Universidad de yale y ex Presidente de morgan stanley asia , es autor deunbalanced : The codependency of America and China ( " Desequilibrados .  La codependencia de los Estados unidos y China " ) .  

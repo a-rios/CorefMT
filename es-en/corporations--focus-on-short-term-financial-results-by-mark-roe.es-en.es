@@ -1,0 +1,39 @@
+Cortoplacismo corporativo a la sombra del precipicio fiscal  
+Cambridge - Las tendencias económicas a veces están más interrelacionadas de lo que se ve en las noticias .  
+Por ejemplo , habitualmente nos encontramos con informes sobre los problemas financieros de los gobiernos , como el " precipicio fiscal " en Estados unidos y la crisis de la deuda en Europa .  
+Y se ha prestado mucha atención , a menudo en artículos de opinión próximos entre sí , a la visión de que los hiperactivos mercados de acciones , en especial en Ee.uu. y el Reino unido , obligan a las grandes corporaciones a centrarse desproporcionadamente en los resultados financieros de corto plazo a costa de las inversiones de largo plazo en las economías de sus países .  
+Ambas situaciones no están desconectadas .  
+Y examinar esa conexión proporciona una buena oportunidad para evaluar las debilidades y ambigüedades del argumento - esgrimido desde hace mucho tiempo - sobre la reducción de los horizontes temporales corporativos que generan las furiosas operaciones de alto volumen en los mercados de valores .  
+El pensamiento convencional indica que a medida que al aumentar la frecuencia de la compra y venta de acciones , los operadores inducen a los gerentes a planificar considerando horizontes cada vez más cortos .  
+Si los inversionistas institucionales se rehúsan a mantener las acciones durante más de unos pocos meses , se cree , los horizontes temporales de los directores ejecutivos para la planificación corporativa deben reducirse hasta aproximadamente el mismo marco temporal .  
+Se urge a los responsables de políticas en Europa y Ee.uu. a actuar según este pensamiento convencional : Algo hay que hacer para aislar a los directores ejecutivos , las juntas directivas y los gerentes de la continua reducción de los horizontes temporales que generan los mercados financieros .  
+La Kay review ( Revisión kay ) oficial del Reino unido en julio pasado y el Green paper ( Libro verde ) de la Unión europea sobre la gestión corporativa , adoptado por el Parlamento europeo a principios de este año , diagnosticaron el cortoplacismo corporativo como un grave problema e indicaron soluciones a los responsables de políticas .  
+Los comentaristas estadounidenses - y , cada vez más , los jueces de ese país - desean en mayor medida a las juntas y los directores corporativos de los accionistas de sus empresas que efectúan operaciones bursátiles .  
+Pero resaltar las operaciones de corto plazo en los mercados de valores oculta algunas otras poderosas fuentes de cortoplacismo en los horizontes temporales corporativos , como la incertidumbre sobre las políticas fiscales gubernamentales de largo plazo a ambos lados del Atlántico .  
+Lo que es más importante , cierto cortoplacismo corporativo puede no ser tan intenso como se cree .  
+Consideremos , en primer lugar , la elevada capitalización de mercado de Apple y otras empresas tecnológicas , que demuestra que describir a los mercados financieros de Ee.uu. como incorregiblemente orientados al corto plazo no es tan correcto .  
+La capacidad para apreciar el potencial de ingresos en el largo plazo de Silicon valley y empresas como Apple , Amazon y Facebook sugiere que los mercados de valores estadunidenses no se rigen solo por un despiadado foco sobre el desempeño financiero de corto plazo .  
+De hecho , la sobrevaluación intermitente de sectores económicos completos - recuerden la burbuja de las punto com de hace una década - indica que los mercados financieros a menudo se centran excesivamente en el largo plazo .  
+Durante la burbuja , muchas empresas no tenían la mínima posibilidad de producir suficiente dinero en el corto plazo para justificar los valores siderales de sus acciones .  
+Además , existen ambigüedades en las líneas de tendencia para los períodos de tenencia de acciones .  
+Mientras que el tiempo promedio general de tenencia de las acciones se ha reducido , el impacto sobre los directivos principales no está claro , ya que el periodo de tenencia para los inversionistas institucionales principales , como Vanguard y Fidelity , ha mantenido durante las últimas dos décadas sus valores de referencia , de dos o tres años .  
+Las rápidas operaciones asistidas por computadora reducen el período promedio general de tenencia .  
+Pero no resulta tan claro como muchos creen que el período de tenencia de los accionistas tradicionales se haya reducido en gran medida - o incluso en absoluto .  
+La reducción del promedio se debe en parte a un conjunto extremo de furiosas operaciones .  
+El cortoplacismo excesivo puede provenir tanto de los ejecutivos como de los mercados financieros , en especial de los directores ejecutivos , quienes en Ee.uu. mantienen sus puestos durante un promedio de 6 o 7 años .  
+Es absolutamente comprensible - y ha sido confirmado en gran medida por evidencia empírica - que estos directores ejecutivos desean que los buenos resultados lleguen durante su gestión y no cuando sus sucesores ocupen el puesto .  
+Aislar más aún a las juntas y los directores ejecutivos de los mercados financieros puede generar una perversa libertad que los lleve a concentrarse en mayor medida todavía en los resultados de corto plazo .  
+En todo caso , si bien la preocupación por el cortoplacismo corporativo ha llegado a la agenda judicial estadounidense , los jueces en Ee.uu. ( y en otras partes , ya que estamos ) no están bien posicionados para sopesar evidencia económica que dista de ser clara sobre las fuentes , la duración e incluso la dirección del pensamiento cortoplacista en las grandes corporaciones .  
+Otras instituciones políticas y administrativas están en mejor situación para determinar si el cortoplacismo corporativo es un problema grave y cuál sería la mejor solución .  
+Por ejemplo , el llamado impuesto Tobin a las transacciones financieras se propone frecuentemente como solución , pero no es una política que podrían implementar los jueces dedicados al derecho societario .  
+Finalmente , las empresas más orientadas hacia el desempeño en el corto plazo pueden estar reaccionando a su entorno real y no al financiero .  
+Bien pueden estar adaptándose a nuevas realidades económicas , políticas y tecnológicas en vez de esconderse del futuro .  
+Los críticos del pensamiento cortoplacista , como los autores del Kay review y el Green paper de la ue , debieran considerar que la vida económica ha reducido , de hecho , sus plazos .  
+Eso nos lleva al vínculo entre el cortoplacismo corporativo y la debilidad de las finanzas públicas .  
+Las empresas a ambos lados del Atlántico podrían verse perjudicadas por el precipicio fiscal estadounidense y la crisis de la deuda soberana en la Ue .  
+Si las políticas regulatorias y gubernamentales que definen la economía se han tornado inestables en el corto y el largo plazo , las empresas deben ajustarse a esa realidad .  
+De manera similar , si la innovación tecnológica puede actualmente transformar a las grandes industrias en unos pocos años , o incluso en meses , la inversión de largo plazo tiene menos sentido que antes .  
+La elevada relación entre el precio y los ingresos de Amazon indica que los inversores no temen financiar su futuro en el largo plazo .  
+Pero , ¿ implica el éxito de Amazon que los minoristas tradicionales son unos vagos por no mejorar sus tiendas , o no construir otras mejor ubicadas ?  
+Si los inversores entienden que la distribución en línea está revolucionando el sector minorista , aislar a los directores ejecutivos de los mercados financieros solo empujaría más recursos hacia un modelo de negocios que está deteriorándose y reduciéndose .  
+En este sentido ( y solo en este sentido ) el pensamiento de corto plazo que induce al cambio y el alejamiento de las tecnologías obsoletas - en este caso y en toda la economía - bien puede facilitar la prosperidad en el largo plazo .  

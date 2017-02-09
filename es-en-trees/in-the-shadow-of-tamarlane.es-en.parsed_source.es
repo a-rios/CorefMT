@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="SP">Bajo</tree><tree label="sn"><tree label="spec"><tree label="DA">la</tree></tree><tree label="NP">Sombra_de_tamerlán</tree></tree></tree></tree> 

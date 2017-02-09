@@ -1,0 +1,32 @@
+Una oportunidad de oro desperdiciada  
+Palo Alto - Un grupo multinacional de científicos europeos ha utilizado técnicas de empalme genético para crear un tomate extraordinario .  
+Su piel y pulpa son de un color púrpura oscuro y contiene niveles de antioxidantes superiores en 200 % a los de los tomates no modificados .  
+Cuando se incluyó en la dieta de ratones muy susceptibles al cáncer , el tomate aumentó significativamente la vida de los animales .  
+Estos estudios han recibido mucha atención , pero un logro igualmente trascendente de la modificación genética ha pasado inadvertido en gran medida durante casi una década .  
+Esa innovación es el " arroz dorado " , una serie de nuevas variedades de arroz biofortificado , o enriquecido , con genes que expresan betacaroteno , el precursor de la vitamina a , que el cuerpo convierte , según sus necesidades , en su forma activa .  
+La mayoría de los médicos de América del norte o de Europa nunca ven un caso de deficiencia de vitamina a en toda su vida profesional .  
+Pero la situación es muy distinta en los países pobres , donde la deficiencia de vitamina a es epidémica entre la población más desfavorecida , cuya dieta consiste principalmente de arroz ( que no contiene betacaroteno ni vitamina a ) o de otras fuentes de calorías ricas en carbohidratos y pobres en vitaminas .  
+En los países en desarrollo , entre 200 y 300 millones de niños en edad preescolar están en riesgo de sufrir una deficiencia de vitamina a que puede ser devastadora e incluso fatal .  
+Aumenta la susceptibilidad a infecciones infantiles como el sarampión y a las enfermedades diarreicas y es la principal causa de ceguera infantil en los países en desarrollo .  
+Cada año , alrededor de 500,000 niños se quedan ciegos como resultado de la deficiencia de vitamina a , y el 70 % muere en los doce meses siguientes a la pérdida de la vista .  
+En teoría podríamos simplemente incluir cápsulas de suplemento de vitamina a en las dietas de los niños o añadirla a algunos alimentos básicos , como se añade yodo a la sal de mesa para prevenir el hipotiroidismo y el bocio .  
+Desafortunadamente , no hay ni los recursos - cientos de millones de dólares al año - ni la infraestructura para la distribución .  
+La biotecnología ofrece una solución mejor , más barata y más factible : el arroz dorado , que incorpora betacaroteno al arroz genéticamente modificado .  
+El concepto es sencillo .  
+Si bien las plantas de arroz normalmente no sintetizan betacaroteno en el endospermo ( las semillas ) , sí lo hacen en sus parte verdes .  
+Mediante técnicas de empalme genético para introducir los dos genes que expresan estas enzimas , se restablecen las vías y los granos de arroz acumulan cantidades terapéuticas de betacaroteno .  
+El arroz dorado ofrece el potencial de contribuir a la salud y el bienestar del ser humano de forma tan enorme como el descubrimiento y la distribución de la vacuna contra la polio de Salk .  
+Con un uso generalizado , podría salvar cientos de miles de vidas al año y mejorar la calidad de vida de millones de personas .  
+Pero hay algo que mancha esta brillante historia .  
+La oposición intransigente de activistas que están contra la ciencia y la tecnología - Greenpeace , Amigos de la tierra y algunos otros grupos - ha provocado que las autoridades de reglamentación , que ya de por sí rehuyen a los riesgos , adopten un enfoque exageradamente cauteloso que ha retrasado las aprobaciones .  
+El arroz dorado no tiene nada que exija interminables estudios caso por caso y vacilaciones burocráticas .  
+Como afirmó la revista británica Nature en 1992 , un amplio consenso científico sostiene que " las mismas leyes físicas y biológicas regulan la respuesta de los organismos modificados mediante métodos moleculares y celulares modernos y las de los producidos por métodos clásicos ... [ Por lo tanto ] no existe una distinción conceptual entre la modificación genética de plantas y microorganismos por métodos clásicos o por técnicas moleculares que modifican el Adn y transfieren los genes " .  
+Dicho de otra forma , la reglamentación gubernamental de las investigaciones de campo sobre plantas debería concentrarse en las características que podrían relacionarse con el riesgo - probabilidad de invasión , condición de hierba mala , toxicidad , etc. - y no en la técnica de manipulación genética que se haya utilizado .  
+Nueve años después de su creación , a pesar de su enorme potencial benéfico para la humanidad - y de una probabilidad insignificante de daño a la salud humana o al medio ambiente - el arroz dorado sigue atrapado en la burocracia de la reglamentación y no parece que se vaya a librar pronto .  
+( Sirva esto de advertencia para los tomates que previenen el cáncer . )  
+En contraste , las plantas creadas con técnicas menos precisas como la hibridación o la mutagénesis generalmente no son objeto de ningún escrutinio o de condiciones impuestas por el gobierno ( o de oposición por los activistas ) .  
+Esto sucede incluso en el caso de las numerosas obtenciones vegetales nuevas que han resultado de las " cruzas amplias " , hibridaciones que transfieren genes de una especie o género a otro - atravesando lo que se solía considerar como las barreras naturales de la reproducción .  
+Judith rodin , presidenta de la Fundación rockefeller , anunció en octubre pasado que su organización facilitaría financiamiento al Instituto internacional de investigación sobre el Arroz para ayudar al arroz dorado a superar los procesos de aprobación de las reglamentaciones nacionales de Bangladesh , la India , Indonesia y Filipinas .  
+Esas son buenas noticias , pero lo que realmente se necesita es una reforma polivalente y agresiva de los procesos de reglamentación de manera que todas las creaciones genéticas tengan oportunidad de prosperar .  
+En una editorial publicada en abril en la revista Science , Nina fedoroff , una eminente genetista que trabaja con plantas y que es asesora científica de la Secretaria de estado de los eu , Condoleezza rice , escribió : " Una nueva revolución verde exige el compromiso global de crear una infraestructura agrícola moderna en todas partes , una inversión adecuada en capacitación e instalaciones de laboratorio modernas , y avances hacia enfoques de reglamentación simplificados que respondan a las crecientes evidencias de seguridad " .  
+El caso del arroz dorado pone de manifiesto que todavía no tenemos la sabiduría ni la voluntad para que eso suceda .  

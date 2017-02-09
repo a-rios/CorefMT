@@ -1,0 +1,27 @@
+Un momento especial para los derechos especiales de giro  
+Nueva York - En las recientes reuniones anuales del Fondo monetario internacional y el Banco mundial , celebradas en Lima ( Perú ) , se habló mucho de la debilidad de varias economías en ascenso y en desarrollo , pero el debate se centró muy poco en una causa fundamental : el sistema monetario mundial .  
+Mucho más se hablara al respecto el próximo mes en la reunión de la Junta del fmi , si bien está por ver lo que éste hará .  
+El problema que afrontan las economías en ascenso y en desarrollo se debe a que sus entradas de capital tienen una marcada tónica procíclica .  
+Cuando estaban aumentando rápidamente - sobre todo en comparación con las economías avanzadas - , atrajeron cantidades enormes de capital , pero , al multiplicarse los riesgos , el capital empezó a regresar a un país emisor de reservas : a saber , los Estados unidos .  
+Al fin y al cabo , los Ee.uu. van a aumentar los tipos de interés y el dólar se ha apreciado frente a todas las divisas del mundo .  
+En el pasado , esa tónica ha propiciado en última instancia una corrección y el déficit en aumento de los Ee.uu. por cuenta corriente acabó provocando una depreciación del dólar , pero esas correcciones - en 1979-1980 , 1990-1991 y 2007-2008 - han estado siempre relacionadas con una desaceleración o una crisis mundiales .  
+Así se pone de relieve el problema inherente a la utilización del dólar de los Ee.uu. , moneda nacional , como divisa de reserva internacional primordial de la economía mundial .  
+El economista belga Robert-triffin fue el primero en determinar ese problema - denominado el " dilema Triffin " - en el decenio de 1960 , al subrayar el conflicto fundamental entre los objetivos nacionales , como , por ejemplo , la limitación del tamaño del déficit exterior , y los imperativos internacionales , como , por ejemplo , la creación de liquidez suficiente para satisfacer la demanda de activos de reserva .  
+Además , ese sistema somete a la economía mundial a ciclos de confianza en el dólar de los Ee.uu. , al tiempo que pone la economía mundial a merced de una autoridad nacional ... que adopta decisiones con escasa consideración para con sus repercusiones internacionales .  
+Así , pues , la única forma de estabilizar el sistema sería la de colocar en su centro una verdadera divisa mundial .  
+ésa fue la idea en la que se basaba la propuesta de John maynard keynes en el decenio de 1940 de crear una divisa supranacional , llamada " bancor " , y ésa fue la motivación en la que se basó la creación en 1969 de los derechos especiales de giro ( Deg ) del Fmi , que debían llegar a ser " el principal activo de reserva del sistema monetario internacional " .  
+Las asignaciones generales de Deg deben basarse en " una necesidad mundial a largo plazo de complementar los activos de reserva " con decisiones adoptadas en períodos sucesivos de hasta cinco años .  
+Hasta ahora , se han hecho dichas asignaciones sólo en tres ocasiones - en 1970-72 , en 1979-81 y en 2009 - y la última ascendió a 250.000 millones de dólares , como parte del plan de recuperación aprobado por el G-20 para gestionar la crisis financiera mundial .  
+últimamente se ha hablado de los Deg en los noticiarios a raíz del debate sobre si el Fmi debería añadir el renminbi chino a la cesta de divisas que determina el valor de la unidad .  
+En vista del papel internacional en aumento del renminbi , parece más que evidente que esa divisa debería formar parte de la cesta de los Deg .  
+Ahora bien , el debate debería centrarse en cómo permitir a los Deg alcanzar su capacidad máxima como instrumento de cooperación internacional .  
+El primer paso para hacer de los Deg una fuerza más activa en las finanzas mundiales sería el de anular la división entre las cuentas de Deg y las operaciones normales del Fmi .  
+Mientras siga existiendo esa división , los Deg funcionarán , en el mejor de los casos , como una línea de crédito que puede utilizar incondicionalmente su titular : algo así como un descubierto en una cuenta bancaria y no un verdadero activo de reserva .  
+Un método mejor sería el de permitir a los países " depositar " Deg no utilizados en el Fondo a fin de que se puedan usar para financiar operaciones de préstamo del Fmi .  
+Dicho de otro modo , la emisión de más Deg permitiría al Fmi financiar más préstamos .  
+Si se emitieran dichos Deg durante crisis , como la que afrontan actualmente las economías en ascenso y en desarrollo , el resultado sería una política monetaria mundial de verdad anticíclica .  
+Se podría incluso dar un paso más asignando los Deg conforme a una nueva formula que no sólo tenga en cuenta las cuotas del Fmi , sino también la demanda ( o necesidad ) de reservas de divisas .  
+Con la fórmula actual , los países más necesitados de divisas - es decir , los de renta media o baja ( excluida China ) - percibirían tan sólo un poco más de la tercera parte de la asignación total .  
+No es suficiente .  
+Aun sin ese cambo , los Deg pueden y deben adquirir una posición más prominente en las reservas mundiales Como los países en ascenso y en desarrollo padecen problemas cada vez mayores , no hay tiempo que perder .  
+Unos cinco decenios después de que Triffin determinara por primera vez los problemas debidos a la condición de divisa de reserva del dólar de los Ee.uu. , es de esperar que haya llegado por fin el momento de los Deg .  

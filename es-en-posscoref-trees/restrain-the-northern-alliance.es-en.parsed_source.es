@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="VM" ord="s1.1">Restringir</tree><tree label="cd"><tree label="SP" ord="s1.2">a</tree><tree label="sn"><tree label="spec"><tree label="DA" ord="s1.3">la</tree></tree><tree label="NP" ord="s1.4">Alianza_del_norte</tree></tree></tree></tree></tree> 

@@ -1,0 +1,37 @@
+La Universidad empresarial  
+por Henry etzkowitz by henry etzkowitz  
+Las universidades han interpretado un papel esencial en el desarrollo económico desde hace mucho tiempo , suministrando la capacitación , el entrenamiento , las ideas y la investigación básica que todos los países necesitan para asegurar el progreso y el crecimiento .  
+¿ Pero qué tan directamente debe involucrarse una institución académica en actividades que generan ganancias ?  
+Si establece sus propios negocios o apoya a aquellos fundados por sus miembros ¿ se arriesgaría la universidad a minar su tradicional independencia y su compromiso con el libre intercambio intelectual ?  
+Durante las últimas dos décadas la investigación académica realizada en un creciente número de países se ha convertido en una empresa que busca ganancias .  
+Según la Asociación de gerentes tecnológicos universitarios , en el año 2000 se crearon por lo menos 300 nuevas compañías en base a invenciones que tuvieron lugar en universidades estadounidenses .  
+Lo que inició como un modelo único estadounidense en 1980 , cuando el Congreso de los estados unidos canalizó a las universidades los derechos intangibles de propiedad intelectual generados por la investigación académica fondeada por el gobierno federal , se ha extendido a países tan diversos como el Reino unido , Suecia y Zambia .  
+Inevitablemente , la ciencia académica con tendencia a las ganancias se ha convertido en un proceso cada vez más asistido , contando con el soporte de oficinas universitarias de transferencia de tecnologías , de centros empresariales y de facilidades de incubación .  
+Lo típico es que los miembros de las facultades establescan compañías privadas , a menudo con estudiantes y empleados de apoyo , mientras mantienen sus puestos académicos , y las administraciones universitarias invierten en compañías de incubación legalmente independientes , por lo general en el ámbito de la biología molecular , la ciencia informática , la química combinatoria y otros campos .  
+Hacer valer los derechos de patente de la investigación académica , acusan los opositores , equivale a un conflicto de intereses muy similar al del funcionario público que utiliza su oficina para obtener ganancias personales , o al de un abogado que representa a los clientes de ambos lados de un caso legal .  
+Según este argumento , los científicos académicos deberían publicar su investigación abiertamente o dejar la universidad antes de perseguir intereses comerciales .  
+De forma similar , las universidades que los emplean deberían dejar el desarrollo de productos a las compañías existentes .  
+Pero es de utilidad recordar que la universidad ha sido acusada de destruir sus propios ideales y su rol social desde tiempos inmemoriales , aunque lo que en el pasado inicialmente le pareció a muchos un conflicto de intereses con frecuencia fue después visto como confluencia de propósitos .  
+Por ejemplo , conforme las universidades estadounidenses empezaron a localizar la investigación en el corazón mismo de la misión académica , a finales del siglo xix , fueron acusadas de abandonar su tradicional papel pedagógico .  
+Muchos profesores argumentaron que las demandas de la investigación harían que sus obligaciones docentes fueran imposibles de cumplir .  
+Claro , una de las razones principales para esa ampliación del papel de la universidad fue su efectividad de costos : combinar la investigación con la docencia era mucho menos caro que mantener instituciones separadas para cada propósito , como se volvió común en Europa .  
+No obstante , aunque hay quienes todavía se lamentan del énfasis que las universidades ponen ahora en la investigación , los proponentes de una expansión de la misión de la universidad han sido en su mayor parte reivindicados a partir de fundamentos pedagógicos .  
+El conocimiento generado por la investigación que realizan los miembros de las facultades le dá relevancia y vitalidad a su docencia .  
+Lo más probable es que la oposición contra el nuevo papel empresarial de las universidades tenga la misma evolución .  
+Puesto que , como en el pasado , las acusaciones sobre un inherente conflicto de intereses son sintomáticas de un profundo cambio en la misión académica .  
+Esto no significa que tales conflictos no existan y que nunca aparecerán ; más bien , lo más probable es que se vuelvan manejables conforme las universidades y los miembros de las facultades descubran la forma de dedicarse a la investigación básica en paralelo con la capitalización del conocimiento .  
+Mientras esto sucede , las actitudes se modificarán de nuevo y la oposición se disipará .  
+De hecho , insistir en mantener la tradicional división del trabajo entre la ciencia pública y la investigación del sector privado es ya una cuestión fútil .  
+Las actividades académicas y empresariales ocurren cada vez con mayor frecuencia a lo largo de una constante y no puede haber retorno .  
+En cambio , las universidades están aprendiendo a balancear sus papeles académico y comercial sobre el decrecientemente breve intervalo entre el descubrimiento y la comercialización de los hallazgos de la investigación .  
+Una vez que la investigación es definida como un bien mercable y tratada como propiedad intelectual , las formas tradicionales de diseminación , como la publicación en diarios académicos y la presentación en conferencias , siguen , aunque aquí aplica un nuevo conjunto de condiciones , retrasando con un " limitado sigilo " la publicación , para así permitir que haya tiempo de registrar una patente .  
+Pero incluso en estos casos , si las universidades asumen una fuerte actitud en favor de ser abiertas , las compañías por lo general están de acuerdo y las oficinas de transferencia de tecnología han reducido dramáticamente el tiempo necesario para registrar una intención de patente .  
+Además , el proceso de transferencia de tecnología académica a menudo resulta a favor de la franqueza científica .  
+Después de todo , tener un reporte publicado en un diario importante puede ayudar a una compañía a buscar los fondos para apoyar el desarrollo del producto e impulsar el valor de sus acciones .  
+Las licencias , las " joint ventures " y el marketing de productos que resultan de la investigación ofrecen avenidas adicionales para una amplia diseminación de los nuevos conocimientos más allá de la publicación .  
+La típica universidad empresarial contendrá o estará rodeada por una penumbra de firmas que se originaron en la investigación académica , quizá incluso compartiendo la infraestructura .  
+Los cursos podrían incluir internados en el sector privado y las firmas podrían usar los recursos académicos como las bibliotecas y las instalaciones computacionales .  
+Este tipo de utilización cruzada ha ido más lejos en las industrias más nuevas , como la biotecnología , la cual ya ofrece posiciones de postdoctorado que se aproximan a las condiciones existentes en las universidades .  
+Conforme la universidad se sumerja más profundamente en un mayor rango de actividades económicas , es casi seguro que emergerán nuevas relaciones institucionales , a menudo con el fomento y el apoyo del gobierno .  
+Estos cambios siguen siendo muy incipientes y su impacto final en la universidad , como ahora la conocemos , es imposible de pronosticar .  
+Sin embargo , entre más pronto nos adaptemos a la nueva misión académica que ya ha empezado a redefinir a la universidad , más capaces seremos de aislar y minimizar los riesgos identificados por quienes la critican .  

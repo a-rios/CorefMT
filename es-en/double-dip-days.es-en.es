@@ -1,0 +1,39 @@
+Una época de dobles caídas  
+Nueva York - La economía mundial , artificialmente impulsada desde la recesión de 2008-2009 por un estímulo fiscal y monetario en gran escala y rescates financieros , va camino de una profunda recesión este año , al ir desapareciendo los efectos de esas medidas .  
+Peor aún , no se han abordado los tremendos excesos que alimentaron la crisis : demasiada deuda y demasiado apalancamiento en el sector privado ( familias , bancos y otras entidades financieras e incluso en gran parte del sector empresarial ) .  
+El desapalancamiento del sector privado apenas ha comenzado .  
+Además , ahora hay un enorme reapalancamiento del sector público en las economías avanzadas , con enormes déficits presupuestarios y una acumulación de deuda pública impulsada por los estabilizadores automáticos , los estímulos fiscales anticíclicos keynesianos y los inmensos costos de la socialización de las pérdidas del sistema financiero .  
+En el mejor de los casos , afrontamos un período prolongado de crecimiento anémico y por debajo de la tendencia general en las economías avanzadas , al empezar el desapalancamiento por parte de las familias , las entidades financieras y los gobiernos a repercutir en el consumo y la inversión .  
+En el nivel mundial , los países que gastaron demasiado - los Estados unidos , el Reino unido , España , Grecia y otros - deben ahora desapalancarse y están gastando , consumiendo e importando menos .  
+Pero los países que ahorraron demasiado - China , el Asia en ascenso , Alemania y el Japón - no están gastando más para compensar la reducción del gasto en los países que se están desapalancando .  
+Así , pues , la recuperación de la demanda agregada mundial será débil , con lo que impulsará mucho menos el crecimiento mundial .  
+La desaceleración mundial , ya evidente en los datos correspondientes al segundo trimestre de 2010 , se acelerará en la segunda mitad del año .  
+El estímulo fiscal desaparecerá , cuando empiecen a entrar en vigor los programas de austeridad en la mayoría de los países .  
+Los ajustes de inventario , que impulsaron el crecimiento durante algunos trimestres , se acabarán .  
+Los efectos de las políticas tributarias que robaron la demanda al futuro - como , por ejemplo , los incentivos a compradores de coches y viviendas - disminuirán , al expirar esos programas .  
+Las condiciones del mercado laboral siguen siendo débiles , con poca creación de empleo y una sensación de malestar que va extendiéndose entre los consumidores .  
+La situación previsible en las economías avanzadas es una mediocre recuperación en forma de U , aun cuando evitemos la doble caída en forma de W. en los estados unidos , el crecimiento anual ya estaba por debajo de la tendencia general en la primera mitad de 2010 ( 2,7 por ciento en el primer trimestre y se calcula que en el período abril-junio será un mediocre 2,2 por ciento ) .  
+El crecimiento va a aminorarse aún más : hasta el 1,5 por ciento en la segunda mitad de este año y avanzado 2011 .  
+Sea cual fuere la letra del alfabeto que los resultados económicos de los Ee.uu. representen en última instancia , lo que viene será como una recesión .  
+Una mediocre creación de empleo y un mayor aumento del desempleo , mayores déficits presupuestarios cíclicos , una nueva bajada de los precios de las viviendas , mayores pérdidas de los bancos con las hipotecas , el crédito al consumo y otros préstamos y el riesgo de que el Congreso apruebe medidas proteccionistas contra China contribuirán a ello .  
+En la zona del euro , las perspectivas son peores .  
+El crecimiento puede estar próximo a cero al final de este año , cuando la austeridad fiscal haga efecto y los mercados de valores bajen .  
+Unos marcados aumentos en los márgenes soberanos , empresariales y de la liquidez interbancaria aumentarán los costos de capital y los aumentos de aversión al riesgo , volatilidad y riesgo soberano socavarán aún más la confianza de las empresas , los inversores y los consumidores .  
+El debilitamiento del euro será positivo para la balanza exterior de Europa , pero los beneficios resultarán más que contrarrestados por el daño a las exportaciones y las perspectivas de crecimiento en los Ee.uu. , China y el Asia en ascenso .  
+Incluso China está dando muestras de desaceleración , debidas a los intentos de su Gobierno de controlar el recalentamiento económico .  
+La desaceleración en las economías avanzadas , junto con un euro más débil , minarán aún más el crecimiento chino , con lo que su tasa de crecimiento pasara de más del 11 por ciento al 7 por ciento al final de este año .  
+Se trata de una mala noticia para el aumento de las exportaciones en el resto de Asia y entre los países ricos en materias primas , que cada vez dependen más de las importaciones chinas .  
+Una importante víctima será el Japón , donde el anémico crecimiento de la renta real está deprimiendo la demanda interna y las exportaciones a China mantienen el poco crecimiento que hay .  
+El Japón padece también un bajo crecimiento potencial , debido a la falta de reformas estructurales y a unos gobiernos débiles e ineficaces ( cuatro primeros ministros en cuatro años ) , un gran volumen de deuda pública , tendencias demográficas desfavorables y un yen fuerte que se aprecia durante los períodos de aversión al riesgo .  
+Una previsible situación en la que el crecimiento de los Ee.uu. se desplome hasta el 1,5 por ciento , la zona del euro y el Japón estén estancados y el crecimiento de China se reduzca hasta por debajo del 8 por ciento puede no entrañar una contracción mundial , pero , como en los Ee.uu. , lo parecerá , y cualquier sacudida posterior podría inclinar de nuevo esa inestable economía mundial hacia una recesión propiamente dicha .  
+Las posibles causas de semejante sacudida son legión .  
+Los problemas de la zona del euro con los riesgos de la deuda soberana podrían empeorar , con lo que propiciarían otra ronda de correcciones de los precios de los activos , aversión mundial al riesgo , volatilidad y contagio financiero .  
+Un circulo vicioso de corrección de los precios de los activos y un crecimiento más débil , junto con contratiempos inesperados que actualmente no están reflejados en los precios , podría propiciar nuevas bajadas de los precios de los activos y un crecimiento aún menor , dinámica que condujo a la economía mundial a la recesión en primer lugar .  
+Y no podemos excluir la posibilidad de un ataque militar israelí al Irán en los doce próximos meses .  
+Si sucediera eso , los precios del petróleo podrían aumentar rápidamente y , como en el verano de 2008 , desencadenar una recesión mundial .  
+Por último , los encargados de la adopción de decisiones se están quedando sin instrumentos .  
+Otra relajación monetaria cuantitativa no cambiará gran cosa , porque hay poco margen para un estimulo fiscal suplementario en la mayoría de las economías avanzadas y la capacidad para rescatar a las entidades financieras que son demasiado grandes para quebrar - pero también para ser salvadas - quedará profundamente limitada .  
+De modo que , a medida que se evaporen las ilusorias esperanzas optimistas de una rápida recuperación en forma de V , el mundo avanzado se encontrará en el mejor de los casos en una larga recuperación en forma de U , que en algunos casos - la zona del euro y el Japón - puede ser lo suficientemente larga para extenderse en una casi depresión en forma de L. será difícil evitar la recesión con caída doble .  
+En un mundo así , la recuperación en los más fuertes mercados en ascenso - la gran esperanza de la economía mundial - también se verá afectada , porque ningún país es una isla económicamente .  
+De hecho , el crecimiento de muchas economías con mercados en ascenso - empezando por la de China - depende en gran medida de unas economías avanzadas entregadas a la reducción de gastos .  
+Abróchense los cinturones para un viaje muy accidentado .  

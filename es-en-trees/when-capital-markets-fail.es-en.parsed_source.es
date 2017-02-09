@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="NC">Fallas</tree><tree label="sp"><tree label="SP">en</tree><tree label="sn"><tree label="spec"><tree label="DA">los</tree></tree><tree label="NP">Mercados_de_capital</tree></tree></tree></tree></tree> 

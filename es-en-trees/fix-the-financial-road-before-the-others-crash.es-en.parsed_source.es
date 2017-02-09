@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="VM">Reconstruyan</tree><tree label="cd"><tree label="spec"><tree label="DA">el</tree></tree><tree label="NP">Camino_financiero_antes_de_que_otros_caigan</tree></tree></tree></tree> 

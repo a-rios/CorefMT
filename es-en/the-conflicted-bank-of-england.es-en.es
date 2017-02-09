@@ -1,0 +1,30 @@
+El contradictorio Banco de inglaterra  
+Oxford - Andrew sentance , miembro saliente del Comité de política monetaria del banco de ingleterra , ha expuesto un panorama hipotético que menoscabaría la credibilidad del Banco de inglaterra .  
+Hay dos fuerzas contradictorias que podrían mantener la inflación muy por encima de su objetivo del dos por ciento no sólo este año y el próximo , sino también en 2013 incluso .  
+El dilema consiste en que cualquier depreciación de la libra esterlina aumenta el nivel de inflación importada que no queda compensada por la capacidad disponible en la economía .  
+Dicho de otro modo , el Reino unido tiene una capacidad disponible - la producción disminuyó el 6,4 por ciento durante la recesión y no se ha recuperado totalmente - , pero no suficiente .  
+De modo que la inflación ha superado el objetivo del Banco durante todo el período de recuperación respecto de la crisis financiera de 2008 y , según Sentance , podría permanecer por encima de dicho objetivo durante el período de dos años de previsión a medio plazo del Banco .  
+Peor aún : si el Gobernador del banco de inglaterra , Mervyin king , está en lo cierto al sostener que la inflación superior al objetivo se debe a la inflación importada , aumentar los tipos de interés tendrá pocos efectos , a no ser que induzca una apreciación de la libra esterlina , lo que reduciría el costo de las importaciones , pero su depreciación ha de reequilibrar la economía al aumentar las exportaciones .  
+De hecho , el Gobierno británico cuenta con eso .  
+Su nueva Oficina de responsabilidad presupuestaria prevé que en los próximos años el comercio contribuirá tanto como el consumo al crecimiento del Pib .  
+Naturalmente , eso significa acabar con el déficit por cuenta corriente , que ha sido de entre uno y tres por ciento , aproximadamente , del Pib y eso entraña , a su vez , un mayor debilitamiento de la libra esterlina .  
+Evidentemente , ésta no puede apreciarse y depreciarse simultáneamente .  
+Teóricamente , la libra esterlina podría mantenerse en el tipo actual de unos 1,60 dólares y mejorar la situación comercial , si el aumento del volumen de exportaciones baratas superara el valor de unas importaciones más caras : el llamado efecto de la curva en J. en ese caso , la balanza comercial mejoraría con el tiempo , después de un deterioro inicial .  
+Ocurrió a comienzos del decenio de 1990 , cuando la libra esterlina se debilitó tras salir del Mecanismo de tipos de cambio , pero ahora las condiciones económicas mundiales son menos sólidas .  
+Otro problema es el de que las exportaciones británicas ( en particular , las de servicios ) compiten en calidad y no en precio y , como el Reino unido ya no produce manufacturas de gama baja , hay que importarlas .  
+Dicho de otro modo , la demanda de importaciones y exportaciones no es muy elástica en materia de precios y sólo hay un margen limitado para substituir los productos de fabricación nacional .  
+Hasta ahora , el déficit comercial ha mejorado , pero , al haber estado la libra esterlina un 25 por ciento , aproximadamente , más baja , ponderada en función del comercio , durante cuatro años , la parte alta de la J parece un poco lejana .  
+Además , hay otro dilema : el desfase de la producción .  
+Gran bretaña ha recobrado sólo una tercera parte de su producción perdida a consecuencia de una recesión profunda .  
+Al haber crecido la economía sólo el 1,5 por ciento el año pasado y el desempleo el 7,8 por ciento ( casi el punto máximo en 17 años ) , debería haber factores de producción inactivos listos para ponerse en marcha .  
+Pero , ¿ y si ha quedado dañado el potencial de producción de la economía ?  
+¿ Y si , como ha ocurrido en otras crisis financieras , el aumento de la producción sigue siendo flojo durante varios años , mientras los bancos rehacen sus balances generales y el desapalancamiento se produce lentamente ?  
+En ese caso , el Reino unido podría no seguir creciendo un 2,75 por ciento anual , sino más cerca - pongamos por caso - del dos por ciento .  
+De ser así , hay un desfase menor en la producción : un nivel menor de potencial de producción junto con un nivel mayor de desempleo significa que el crecimiento irá acompañado de inflación .  
+Naturalmente , el desfase en la producción resulta difícil de computar , pero la inflación básica ( la que excluye los precios de la energía y de los alimentos ) ha superado el dos por ciento durante gran parte del período de recuperación y los impuestos indirectos , como el Iva , destinados a reducir el déficit fiscal , han contribuido a la presión al alza de los precios .  
+Por otra parte , el aumento anual de los salarios , que ha sido de sólo el dos por ciento , significa que , aun después de 16 meses de una inflación mayor que el objetivo , siguen existiendo sólo efectos mínimos de segundo orden .  
+El Banco de inglaterra parece en verdad contradictorio .  
+La mayoría está votando a favor de mantener sin cambios los tipos de interés , pero hay dos votos a favor de un aumento de 0,25 de los tipos , un voto a favor de un aumento del 0,50 por ciento e incluso un voto a favor de más relajación cuantitativa .  
+Esa inhabitual división en cuatro opciones de los nueve miembros de su Comité de política económica refleja diferencias en cómo se evalúan las influencias contradictorias en la estabilidad de los precios .  
+Además , con una cuarta parte de la economía en contracción ( o estancamiento , después de descontar los efectos del tiempo atmosférico ) , no resulta difícil entender por qué los miembros del Comité no consiguen ponerse de acuerdo .  
+Pero la inacción del Banco - justo cuando el Bce ha aumentado sus tipos de interés para empezar a normalizar la política monetaria - podría enviar una señal inapropiada , según Sentance y , como éste advierte también , si la inflación se mantiene por encima del objetivo del Banco de inglaterra durante otros dos años , una abrupta y profunda restricción monetaria socavaría la recuperación ... y podría menoscabar la credibilidad del propio Banco de ingleterra .  

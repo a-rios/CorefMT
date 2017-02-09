@@ -1,0 +1,35 @@
+Putin explicado con sencillez  
+Moscú - Tres semanas antes de la primera victoria en las elecciones del Presidente de rusia , Vladimir putin , en marzo de 2000 , se publicó , como parte de su campaña , el libro Primera persona .  
+Con citas como " la vida es algo muy simple , en realidad " , el libro revelaba una creencia fundamental que subyacería al estilo de dirección de Putin : se puede y se debe imponer la sencillez a un mundo complejo .  
+Esa concepción del mundo , que hoy es omnipresente en la clase dirigente de Rusia , no fue concebida por el propio Putin ; la introdujo un grupo de estudios creado en diciembre de 1999 y encabezado por German gref , quien más adelante llegaría a ser ministro de Desarrollo económico y Comercio en el gobierno de Putin .  
+Adelantándose a la victoria de Putin , el Centro de investigaciones estratégicas de gref pidió a unos expertos que formularan dos programas - uno centrado en la economía y el otro en la reforma de las administraciones públicas - basados en una dirección fundamental : la de no complicar las cosas .  
+Quince años después , la ideología , las políticas y las actividades de Putin reflejan esa obsesión por la simplificación de los sistemas y las estructuras .  
+La separación de poderes en el Estado es demasiado ineficiente , por lo que la presidencia debe dominar todas las demás ramas .  
+El gran número de partidos políticos , todos con su propio programa , es demasiado complicado , por lo que se debe substituirlo por una lista corta de unos pocos partidos aceptados , con una representación principal ( y permanente ) del poder .  
+La libertad de expresión facilita una improductiva cacofonía de protestas , por lo que los medios de comunicación deben recibir directrices claras para que guíen sus informaciones .  
+Según el régimen de Putin , había también demasiadas instituciones públicas dedicadas a demasiadas actividades y con una supervisión insuficiente , por lo que se las redujo y se les asignaron tareas concretas de entre una corta lista de prioridades centralizada .  
+Los múltiples tribunales superiores eran demasiado difíciles de mantener , por lo que se los substituyó por uno solo .  
+Como los sistemas y las instituciones , también se simplificó la solución de problemas .  
+En lugar de concebir una solución muy matizada de un problema multifacético , planteamiento que requeriría pensar con detenimiento , por no hablar de los posibles errores y ajustes , se consideró unidimensional cada una de las cuestiones , desde la corrupción oficial hasta la gestión .  
+La aversión del régimen de Putin a la complejidad se ha intensificado con el tiempo y ha pasado de la creencia , relativamente inocua , de que la sencillez se plasma en claridad , viabilidad , previsibilidad y seguridad a la peligrosa conclusión de que la propia complejidad , imprevisible por naturaleza y con frecuencia impenetrable , es una amenaza .  
+Se deben acallar a toda costa las ideas e instituciones complejas o intricadas , concebidas como producto de expertos deseosos de imponer su voluntad y deliberadamente concebidas por el enemigo para desconcertar y perjudicar a Rusia .  
+Esa simplista perspectiva puede parecer una continuación de la concepción del mundo de la era soviética , pero , en el decenio de 1990 , Rusia había logrado avances importantes hacia la modernización y no sólo porque comenzara a adoptar las instituciones estatales de estilo occidental .  
+En realidad , el motor principal de la modernización de Rusia fue la formación de un nuevo orden social basado en la libertad , la diversidad y el reconocimiento de que el mundo moderno ofrecía abundantes oportunidades para la autoactualización , ya se tratara de las artes , los negocios , la ciencia o la política .  
+Pero , antes de que se estableciera plenamente una moderna sociedad abierta o se afianzara la mentalidad correspondiente , se impuso el criterio de Putin de que " lo sencillo es mejor " .  
+La opinión de que la oportunidad individual y la heterodoxia deben estar subordinadas a la previsibilidad general permitió a la minoría política dominante afirmar su omnisciencia y citar la interferencia procedente del exterior como la amenaza principal para el futuro de Rusia .  
+Una unión de " liberales " , impulsada por esas creencias , intentó llevar a cabo algo así como una modernización burocrática , tras haberse convencido de que una burocracia corrupta podría en cierto modo orquestar resultados políticos mediante instituciones democráticas limitadas .  
+No es de extrañar que fracasara .  
+Al cabo de pocos años , resultó claro no sólo que en un mundo inevitablemente complejo las soluciones " sencillas " no dan resultados , sino también que las limitaciones de la democracia , junto con el jerárquico control burocrático , crean condiciones ideales para el enriquecimiento personal .  
+Entonces la destrucción de las instituciones democráticas estaba impulsada por el deseo de sencillez y también por pura avaricia .  
+El proverbio ruso " la simpleza es peor que el robo " resultó curiosamente profético .  
+La más reciente víctima de la búsqueda de la sencillez por el régimen de Putin es la ciencia .  
+Si bien en un principio no se consideró que la ciencia fuera una amenaza , en el orden político y social actual , estrechamente limitado , ha surgido como un símbolo de la autonomía y la diversidad .  
+ésa es la razón por la que , después de ser elegido para su ( ilegal ) tercer mandato como presidente , Putin impuso su control total de la Academia de ciencias de rusia .  
+Más recientemente , el Ministerio de justicia añadió la Fundación dinastía , creada en 2002 por el conocidísimo científico y magnate de las telecomunicaciones Dmitry zimin , a su lista de " agentes extranjeros " , muy probablemente con el objetivo de sofocar los intentos por parte de esa organización de construir una comunidad científica moderna .  
+( La " financiación extranjera " que recibe la fundación - la razón por la que fue censurada - procede , según Zimin , de sus propias cuentas bancarias . )  
+Esa represión ha tenido graves repercusiones en la comunidad científica , pues , al no estar dispuestos los principales talentos científicos a permanecer en un ambiente en el que la avaricia y la corrupción sofocan la creatividad y la exploración , se han sumado a los inversores y los capitales en su huida del país .  
+De 1990 a 2010 , en torno al 70 por ciento de los principales matemáticos de Rusia y la mitad de sus físicos teóricos abandonaron el país definitivamente .  
+Biólogos , químicos , ingenieros y otros expertos han ido emigrando también en busca de mejores oportunidades .  
+Esas tendencias no harán sino acelerarse , al intensificar el régimen de Putin su asalto a la ciencia .  
+La opresiva atmósfera de simpleza gris impuesta por el Gobierno se ha introducido finalmente en todas las esferas de la vida rusa .  
+Es de esperar que , cuando se acabe el reino de Putin - como sin falta y tal vez pronto ocurrirá - , los rusos entiendan que la vía hacia la sociedad moderna y abierta nunca es sencilla .  

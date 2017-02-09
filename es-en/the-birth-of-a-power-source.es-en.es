@@ -1,0 +1,40 @@
+El nacimiento de una fuente de energía  
+Oxford - Alemania acaba de cruzar el umbral del 20 % de energía renovable ; honrando ocho años antes de lo previsto el compromiso que contrajo con la Unión europea y que debía cumplir hasta el año 2020 .  
+Como beneficio adicional , hasta el final de esta década , el mundo también agradecerá a Alemania por la obtención de energía solar asequible , no porque dicha tecnología hubiese sido inventada allí , sino porque los ciudadanos alemanes han pagado por la crítica fase de reducción de costos al ofrecer un amplio mercado para dicha energía .  
+La década de apoyo a la implantación de la tecnología solar fotovoltaica ( Pv ) ha empujado a ritmo acelerado a esta tecnología hacia posiciones más bajas en la curva de costos .  
+Antes del año 2015 , será esta tecnología será totalmente comercial para países soleados como ser Sudáfrica , Grecia o México , y un poco después para la propia Alemania .  
+Sin la política energética de Alemania , esta reducción en costos hubiese sido lograda en un tiempo mucho mayor .  
+Pero , la política alemana no es simplemente una cuestión de altruismo : es una combinación de una buena política industrial y de la aceptación de la responsabilidad en cuanto a asumir la parte que toca a Alemania en las metas de reducción de emisiones de carbono de la hoja de ruta Ue 2050 .  
+La historia , a veces , se narra de la siguiente manera : " Alemania ha subsidiado la energía solar fotovoltaica ( Pv ) durante años mediante tarifas de alimentación artificialmente altas .  
+El resultado ha sido una gran cantidad de paneles solares - muchos de ellos importados desde China - en un país con poco sol , y 100.000 puestos de trabajo caros " .  
+Los costos son sin duda importantes , incluso son mayores que la cifra estimada de €4000 millones en subvenciones anuales que , al presente , Alemania reparte a su industria nuclear , y sin tomar en cuenta la subvención de € 2000 millones para carbón .  
+Sin embargo , las historias reflejan a menudo el marco contextual del narrador , así que aquí se presenta una versión alternativa : " Reconociendo que las nuevas tecnologías requieren de apoyo para ser competitivas , Alemania , ideó un sistema de tarifas de alimentación decrecientes .  
+Y cuando la energía solar alcance la paridad de costos , Alemania tendrá un clúster industrial bien posicionado .  
+También habrá realizado una contribución sustancial al bien común mundial al pagar la cuenta por todos los demás " .  
+Algunos argumentan que los gobiernos no tienen un papel en la selección de quienes son los ganadores y quiénes son los perdedores en la economía , y que el mercado debe decidir qué tecnologías salen primero en la carrera por eliminar el carbono del sistema energético .  
+Sin embargo , el mercado puede hacer funcionar su magia sólo cuando las empresas individuales son lo suficientemente grandes como para financiar la curva de aprendizaje temprano de una nueva tecnología hasta que se convierta en competitiva ( y por lo tanto sea rentable ) .  
+La escala del sistema energético y los periodos prolongados necesarios para desarrollar una nueva tecnología hacen que el cambio radical sea incompatible con los intereses de corto plazo de los accionistas de las empresas .  
+Como mínimo , un enfoque basado en el mercado requeriría que se establezca un precio para el carbono y que se detengan los subsidios a algunas de las antiguas fuentes de energía ; al presente , ambas de estas acciones políticamente se encuentran fuera del alcance .  
+Pero , incluso con un precio del carbono bastante alto , es poco probable que el mercado por sí solo ofrezca energía baja en carbono .  
+La razón es que el costo de los bienes y servicios , incluyendo el costo de la energía baja en carbono , se reduce de dos maneras : mediante la investigación , como por ejemplo a través de la tecnología de película delgada para sustituir a los paneles solares basados en silicio , y las mejoras incrementales en el diseño , logística , u operaciones a medida de que se implementen nuevas tecnologías .  
+El costo de los paneles solares se ha reducido en 10 a 20 % por cada duplicación del volumen de fabricación .  
+Sólo se ha logrado que la tecnología sea más barata cuando , en los hechos , se fabrica más .  
+Esto es lo que las autoridades ignoran cuando indican , como por ejemplo en palabras del primer ministro holandés Mark rutte , que " las turbinas de viento son impulsadas ​ ​ por los subsidios " .  
+Como Alemania lo ha demostrado , se necesitan subsidios decrecientes y con plazos determinados para lograr que cualquier nueva fuente de energía sea competitiva frente a la antigua .  
+No obstante , debido a que los beneficios se acumulan a nivel mundial , pude ser difícil vender esta idea dentro de una agenda doméstica estrecha , sobre todo porque se podría necesitar una década de apoyo .  
+Alemania , en los hechos , no es el único país que actúa como partera de una nueva tecnología energética .  
+Brasil ha conseguido apostar en una industria de etanol de caña de azúcar , y Dinamarca ha tomado el liderazgo en la energía eólica en tierra .  
+El empuje a gran escala del Reino unido en cuanto a la energía eólica marina toma un significado distinto cuando se lo ve como una contribución equilibrada al bien común mundial .  
+Según las cifras de la Agencia internacional de energía , la energía eólica marina no sería competitiva hasta los inicios de la década del 2020 ; sin embargo , la escala de los planes del Reino unido podría cambiar esta situación , al lograr que dicha energía sea competitiva mucho antes , como también que la industria de dicho país tome una ventaja inicial de importancia crítica .  
+Y los beneficios van mucho más allá de Gran bretaña : de la misma forma en la que el Reino unido se beneficiará de empuje de Alemania en el ámbito de energía solar , Alemania cosecharía los beneficios del esfuerzo británico .  
+Esto no siempre funciona de la forma antes descrita : el denominado plan Messmer del año 1973 de Francia bien podría haber conducido hacia energía nuclear segura y barata para todos .  
+Pero , las cosas salieron de otra manera , y la energía nuclear se ha convertido en una opción cada vez menos atractiva .  
+Este es el corazón del aprendizaje : a veces funciona y a veces no .  
+El verdadero fracaso es no realizar ningún intento y aprovechar de forma parásita los esfuerzos de los demás .  
+Una vez que alguien se compromete a financiar la primera fase del despliegue de una nueva tecnología energética , lo que viene a continuación es elegir un área donde se tenga ya establecido algún conocimiento especializado .  
+Gran bretaña ha sido capaz de utilizar como base sus conocimientos sobre astilleros e ingeniería para capitalizar las oportunidades de la energía eólica marina .  
+Del mismo modo , fueron los amplios conocimientos que Brasil tiene en el ámbito de agricultura y su clima favorable , y no únicamente sus políticas visionarias , los que convirtieron a este país en el líder de los combustibles de etanol .  
+Muchas otras tecnologías energéticas están a la espera de similares paladines para poder alcanzar su máximo potencial .  
+Estas incluyen la energía solar concentrada , el secuestro y almacenamiento de carbono , los automóviles eléctricos sin conductor , las redes troncales de corriente continua , los edificios de energía cero , y los biocombustibles de segunda generación .  
+Los gobiernos deben investigar los méritos y las posibles dificultades de cada una de estas tecnologías , evaluar sus propias fortalezas domésticas , y tomar decisiones estratégicas a largo plazo acerca de si se desea tomar la vanguardia de una o más de dichas tecnologías .  
+En una época de dificultades económicas , tomar tales riesgos no sólo proporcionaría puestos de trabajo , sino que también podría ofrecer enormes beneficios económicos .  

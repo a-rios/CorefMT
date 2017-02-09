@@ -1,0 +1,25 @@
+El nuevo status quo del Líbano  
+Beirut - La insurrección armada de Hezbollah en mayo , que afectó a Beirut y otras partes del Líbano , le asestó otro golpe más a las esperanzas de una verdadera soberanía estatal en el país , fortaleciendo a Hezbollah y debilitando al gobierno respaldado por Occidente .  
+Pero también trajo aparejado un nuevo acuerdo , negociado en Doha , Qatar , que dio lugar a una elección presidencial después de un prolongado estancamiento , a la formación de un gobierno de unidad nacional , a una nueva ley electoral y a la reanudación de un diálogo nacional sobre las relaciones entre el Estado y otros actores no estatales , particularmente Hezbollah .  
+Existe mucha especulación respecto de la motivación detrás de la decisión del gobierno , en el mes de mayo , de despedir al jefe de seguridad aeroportuaria pro-hezbollah e investigar la red de telecomunicaciones privada de Hezbollah , lo cual desató las confrontaciones .  
+El gobierno había soportado una prolongada presión internacional para cumplir al menos con algunos de sus compromisos internacionales para contener a Hezbollah , y erróneamente calculó que el grupo sólo respondería de una manera acotada .  
+Más importante aún , el gobierno calculó equivocadamente que Hezbollah no se arriesgaría a choques entre chiítas y sunitas en Beirut .  
+Interrogantes similares rodean a los motivos de Hezbollah para perpetrar una acción en gran escala que amenazó con un conflicto armado sectario y puso en peligro su ventajosa posición moral .  
+Pero Hezbollah , en gran medida , alcanzó sus objetivos .  
+Militarmente , echó por tierra cualquier potencial milicia armada en Beirut occidental que pudiera entorpecer sus movimientos más allá de los suburbios del sur .  
+También aseguró rutas clave al sur y al este de Beirut dominadas anteriormente por el líder druso Walid junblat , a la vez que reaseguró su acceso al aeropuerto y puertos marítimos de la capital .  
+Desde un punto de vista político , Hezbollah abandonó su política de esperar la acción del gobierno y , en cambio , lo presionó hasta el punto de ruptura , generando rápidamente un nuevo status quo .  
+Ahora ejerce una fuerte influencia sobre el nuevo presidente a quien ayudó a llegar al poder y cuenta con un veto de bloqueo en el próximo gobierno , a la vez que logró trazar una línea clara en la arena con respecto al carácter intocable de sus armas y su infraestructura de comunicaciones y operaciones .  
+Hezbollah y su principal promotor , Irán , estaban motivados por dos preocupaciones : el miedo del próximo ataque israelí , que Hezbollah cree inevitable , y el temor por las conversaciones de paz sirio-israelíes que , si resultaran exitosas , podrían dejar a Hezbollah sin su principal puente a Irán .  
+Al reafirmar su acceso al aeropuerto y los puertos marítimos , y al consolidar la situación política en el país , Hezbollah puede sobrevivir mejor a un giro en la política siria : Estados unidos e Israel ya no pueden pedirle a Siria que " entregue " a Hezbollah como parte de un acuerdo de paz sobre el Golán .  
+Es más , al resucitar las débiles instituciones del Estado libanés , Hezbollah gana una importante protección política frente a un ataque externo .  
+A Israel le resultará difícil lanzar un ataque de gran escala contra Hezbollah si éste participa en un Estado libanés semi-estable liderado por un presidente reconocido internacionalmente , con un primer ministro pro-occidental y un parlamento elegido democráticamente , plagado de turistas y protegido por 10.000 tropas Finul en el sur .  
+En otras palabras , la estrategia de supervivencia de Hezbollah depende en parte de la coraza protectora de un Estado libanés desvencijado .  
+Las maniobras de Hezbollah fueron claramente una derrota para Estados unidos y Arabia saudita .  
+Sin embargo , cuando vieron que Hezbollah había limitado las demandas y quería que la coalición respaldada por Occidente en el Líbano continuara liderando el gobierno , optaron por sacar ventaja de la adversidad .  
+Estados unidos y Arabia saudita le dieron la bienvenida al Acuerdo de doha y la elección del nuevo presidente , mientras que la secretaria de Estado condoleeza rice voló a Beirut para expresar el apoyo norteamericano al presidente y al Estado libanés .  
+El rol de Qatar respecto de generar una resolución , junto con el de Turquía a la hora de mediar en las conversaciones sirio-israelíes , señala un retorno al pragmatismo en las relaciones en Oriente medio .  
+También indica el punto muerto al que ha conducido la política ideológica de Estados unidos , Irán y Arabia saudita .  
+El Líbano ahora avanza con dificultad acarreando consigo las contradicciones de la política interna y regional .  
+El acuerdo de Doha podría permitir una cantidad de meses , o años , de relativa calma .  
+Pero hasta que el Estado libanés pueda integrar o dominar a las milicias no estatales , y hasta que se calmen algunas de las confrontaciones enfervorizadas en el entorno inmediato libanés , es muy probable que el Líbano no conozca la verdadera estabilidad .  

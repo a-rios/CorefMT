@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">Los</tree></tree><tree label="NC">idus</tree></tree><tree label="sp"><tree label="SP">de</tree><tree label="sn"><tree label="W">agosto</tree></tree></tree></tree></tree> 

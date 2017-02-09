@@ -1,0 +1,30 @@
+¿ Ha fallado a México el neoliberalismo ?  
+Hace seis años , yo estaba dispuesto a concluir que el Tratado de libre comercio de américa del norte ( Tlcan ) era un gran éxito .  
+El argumento principal a favor del Tlcan había sido el de que era la vía más prometedora que los Estados unidos podían seguir para aumentar las posibilidades de que México llegara a ser democrático y próspero y los Ee.uu. tenían a un tiempo un poderoso interés egoísta y un importante deber de vecindad para intentar contribuir al desarrollo de México .  
+Desde la creación del Tlcan , el Pib real de México ha aumentado un 3,6 por ciento al año y las exportaciones han experimentado un auge , al pasar del 10 por ciento del Pib en 1990 y del 17 por ciento del Pib en 1999 al 28 por ciento del Pib en la actualidad .  
+El año próximo , las exportaciones reales de México se habrán quintuplicado desde 1990 .  
+En eso - en el rápido desarrollo de las industrias exportadoras y el espectacular aumento de los volúmenes de exportación - es en lo que la situación ha cambiado gracias al Tlcan .  
+éste garantiza a los productores mexicanos el acceso libre de aranceles y contingentes al mercado de los Ee .  
+Uu , el mayor mercado de consumo del mundo .  
+Sin esa garantía , habría habido pocas inversiones con vistas a satisfacer el mercado de los Ee.uu. el comercio en aumento entre los Ee.uu. y México hace avanzar a los dos países hacia un mayor grado de especialización y una mejor división del trabajo en industrias importantes , como la automovilística , en la que las tareas para las que se requiere gran cantidad de mano de obra se hacen cada vez más en México , y la textil , en la que el hilado y el tejido mediante tecnología avanzada se hacen en los Ee.uu. , mientras que México se encarga del corte y confección mediante tecnología menos compleja .  
+Semejantes ganancias en eficiencia debidas a la ampliación del mercado y el fomento de la especialización deberían haber producido un rápido aumento de la productividad mexicana .  
+Asimismo , una mayor eficiencia debería haberse visto reforzada por un auge en la formación de capital , que debería haber acompañado la garantía de que ninguna ola futura de proteccionismo en los Ee.uu. provocaría el cierre de fábricas en México .  
+La palabra decisiva en este caso es " debería " .  
+Los 100 millones de mexicanos actuales tienen ingresos reales - con paridad de poder adquisitivo - de unos 10.000 dólares al año , la cuarta parte del nivel estadounidense actual .  
+Están invirtiendo tal vez una quinta parte del Pib en la formación bruta de capital fijo - una cantidad substancial - y han ampliado en gran medida su integración en la economía mundial ( es decir , norteamericana ) desde la creación del Tlcan .  
+Pero con una tasa de crecimiento del Pib de 3,6 por ciento y una tasa de aumento de la población de 2,5 por ciento , la renta media de los mexicanos representa apenas el 15 por ciento más que en la época anterior al Tlcan y ha aumentado el desfase entre su renta media y la de los Ee.uu. .  
+Con el aumento de la desigualdad , la inmensa mayoría de los mexicanos no viven mejor que hace quince años .  
+( De hecho , el único componente del desarrollo mexicano que ha sido un gran éxito ha sido el aumento de ingresos y de nivel de vida debido al aumento de la inmigración a los Ee.uu. y de las transferencias a México . )  
+Se trata de un gran enigma intelectual : creemos en las fuerzas del mercado y en los beneficios del comercio , la especialización y la división internacional del trabajo .  
+Vemos el enorme aumento de las exportaciones mexicanas a los Ee.uu. en el pasado decenio .  
+Vemos grandes virtudes en la economía mexicana : un medio macroeconómico estable , prudencia fiscal , baja inflación , poco riesgo de país , una mano de obra flexible , un sistema bancario fortalecido y solvente , programas logrados de reducción de la pobreza , grandes ingresos procedentes del petróleo y demás .  
+Y , sin embargo , las políticas neoliberales no han dado como resultado los rápidos aumentos en productividad y en los salarios de los trabajadores que neoliberales como yo habríamos predicho sin miedo a equivocarnos , si en 1995 hubiéramos sabido que las exportaciones mexicanas se multiplicarían por cinco en los doce años siguientes .  
+Desde luego , sigue habiendo abundantes deficiencias en México .  
+Según la Ocde , son , entre otras : un número de años de escolarización muy bajo por término medio , con lo que los trabajadores jóvenes casi no tienen una formación escolar mayor que sus colegas mayores ; poca formación en el puesto de trabajo ; pesadas cargas burocráticas , que recaen sobre las empresas ; jueces y policía corruptos ; tasas elevadas de delincuencia y un gran sector no estructurado con baja productividad que reduce la base impositiva y aumenta las tasas impositivas al resto de la economía , pero dichas deficiencias no deberían bastar para neutralizar las importantes ventajas geográficas de México y los importantes beneficios resultantes de las políticas neoliberales , ¿ verdad ? .  
+Pues sí que lo hacen , al parecer .  
+La carga demográfica de una mano de obra que aumenta rápidamente parece haberse incrementado en gran medida , cuando resulta que dicha mano de obra carece de la formación idónea y , en particular , cuando unas infraestructuras insuficientes , la delincuencia y la corrupción oficial hacen estragos .  
+Los neoliberales señalamos que el Tlcan no ha sido la causa de las infraestructuras deficientes , la elevada delincuencia y la corrupción oficial .  
+Así , indicamos implícitamente que los mexicanos vivirían mucho peor en la actualidad , si el Tlcan y sus efectos no pesaran en el platillo positivo de la balanza .  
+Esa historia neoliberal puede ser cierta , pero es una excusa .  
+Puede que no sea cierta .  
+Tras haber comprobado el lento crecimiento de México a lo largo de los quince últimos años , no podemos repetir la antigua cantinela de que la vía neoliberal del Tlcan y las reformas conexas sean clara y evidentemente las correctas .  

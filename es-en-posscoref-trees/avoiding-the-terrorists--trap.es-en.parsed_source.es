@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="VM" ord="s1.1">Evitando</tree><tree label="cd"><tree label="spec"><tree label="DA" ord="s1.2">la</tree></tree><tree label="NP" ord="s1.3">Trampa_de_los_terroristas</tree></tree></tree></tree> 

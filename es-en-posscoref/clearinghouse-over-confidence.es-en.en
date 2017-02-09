@@ -1,0 +1,45 @@
+Clearinghouse Over-Confidence 
+CAMBRIDGE - To reduce the chance that a financial meltdown like that of 2007-2008 will recur , regulators are now seeking to buttress institutions for the longer-run - at least when they can turn their attention from immediate crises like those of Greece &apos;s debt , America &apos;s ceiling on governmental borrowing , and the potential eurozone contagion from sovereign debt to bank debt . 
+Central to their effort has been to bolster clearinghouses for derivatives - instruments that exacerbated the implosion at AIG and others in the last financial crisis . 
+But a clearinghouse is no panacea , and its limits , although easy to miss , are far-reaching . 
+When a company seeks to protect itself from currency fluctuation , it can reduce its exposure to the target currency with a derivative ( for example , it promises to pay its trading partner if the euro rises , but gets paid if it falls ) . 
+Although the company using the derivative reduces its exposure to the risk of a failing euro , the derivative comes packaged with a new risk - counterparty risk . 
+The company risks that if its trading partner fails - as AIG , Bear Stearns , and Lehman did - it won &apos;t be paid if the euro falls . 
+Worse , as we saw in the financial crisis , if many financial institutions have many such contracts , a rumor of insolvency can induce all of one institution &apos;s derivative counterparties to demand collateral or payment simultaneously , triggering a run that resembles a classic bank run , which could then spread to other firms . 
+To reduce the risk of runs in derivatives markets , regulators around the world are poised to require that derivatives trades be carried out through clearinghouses or exchanges . 
+The clearinghouses will have many advantages , but not as many as regulators might think . 
+But , first , how does a clearinghouse work ? 
+After the company needing currency-risk protection makes its euro-dollar trade with a bank , each of them turns its side of the trade over to the clearinghouse . 
+The resulting obligations between the company and bank become obligations to and from a middleman , the clearinghouse . 
+The clearinghouse protects itself by getting an up-front deposit from the bank ( in case the bank fails in , say , 2015 ) , and by monitoring the bank &apos;s total &quot; book &quot; with the clearinghouse . 
+When the bank wins on a derivatives trade , the clearinghouse pays the bank ; when the bank loses , it pays the clearinghouse . 
+When the bank has many trades on the clearinghouse &apos;s books , the clearinghouse is fine if these trades net out to about zero ; systemic risk , regulators insist , is thereby reduced , because the financial system needn &apos;t worry about collecting the debts , one-by-one . 
+This is true , but only for as far as the netting process goes . 
+The clearinghouse also enhances transparency , because it can report its aggregate exposures to the regulator , who is better positioned to regulate a central clearinghouse than to regulate many opaque banks . 
+This , too , this should strengthen the financial system . 
+But risks - many of them systemic , and many of them big - remain . 
+Unfortunately , the clearinghouse structure obscures them . 
+Most obviously , as many trades move from the banks to the clearinghouse , the clearinghouse itself will become a systemically vital institution . 
+It will be too big to fail . 
+Equally problematic is the fact that , while the clearinghouse and its participants can net wins and losses to reduce risk for those inside the clearinghouse , the clearinghouse does not assuredly eliminate the basic risk facing the entire financial system . 
+Often , it merely transfers that risk to creditors outside the clearinghouse . 
+Here &apos;s why : Let &apos;s imagine that a weak financial institution ( say , Bank of America ) , has two separate contracts , one with AIG and one with Citibank . 
+BofA owes $ 100 million to each . 
+The contract with AIG is a derivatives contract , which goes through the clearinghouse ; but the contract with Citibank is another kind of contract , maybe just a regular loan , and does not go through the clearinghouse . 
+BofA also has a contract with , say , Bear Stearns through the clearinghouse for $ 100 million , with Bear Stearns on the losing end . 
+Without a clearinghouse , BofA has a $ 100 million asset ( the $ 100 million that Bear owes it ) and owes $ 200 million . 
+Having only $ 100 million ( if these obligations are its only assets and liabilities ) , BofA would have to pay AIG and Citibank $ 50 million each . 
+Each would suffer a $ 50 million loss . 
+If AIG is systemically vital , its inability to collect the full $ 100 million could cause it to fail . 
+This is where the clearinghouse protects AIG , whose winning contract with BofA nets out against Bear &apos;s losing contract with BofA . 
+The clearinghouse here eliminates counterparty risk for these three , but only by transferring the risk to Citibank , which , instead of losing $ 50 million , ends up losing the full $ 100 million . 
+In this stripped-down example , AIG , Bear Stearns , and BofA - as well as their attorneys , lobbyists , and supportive policymakers - promote the clearinghouse on the grounds that it reduces risk for its participants . 
+And , as advertised , it does - but only for its participants . 
+Citibank , however , now loses $ 50 million more , because it can &apos;t crack into the clearinghouse &apos;s assets . 
+If that extra loss pushes a systemically vital Citibank over the precipice , the clearinghouse has not reduced systemic risk as advertised . 
+Whether the clearinghouse reduces systemic risk depends on the relative systemic importance of those inside and those outside the clearinghouse - AIG versus Citibank in this basic example - not on the clearinghouse &apos;s capacity to reduce risk among its members . 
+In this example , if Citibank is precarious and is as systemically vital as AIG , the clearinghouse has obscured that it has saved AIG only by transferring risk from the clearinghouse to Citibank , which then fails . 
+Much recent regulatory activity has focused on enabling , enhancing , and requiring clearinghouses for these kinds of financing arrangements . 
+Yes , clearinghouses offer many benefits , including greater transparency , better pricing , and better regulatory focus , and we should try to make them viable . 
+But regulators around the world have overestimated their overall benefit . 
+Too much of what is justified as reducing systemic risk is really just offloading risk onto others . 

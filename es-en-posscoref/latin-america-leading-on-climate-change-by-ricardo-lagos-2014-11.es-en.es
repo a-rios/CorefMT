@@ -1,0 +1,30 @@
+La vanguardia climática latinoamericana  
+Santiago - Es posible que Latinoamérica haya capeado la desaceleración del crecimiento económico mundial pero , para muchos , el posible impacto del calentamiento global y de las medidas necesarias para evitar lo peor de su-nonhum-sg efectos puede socavar el frágil equilibrio político , económico y social de la región , y desandar años de avances .  
+Pero la prosperidad económica y las acciones para mitigar el cambio climático no tienen por qué ser mutuamente excluyentes .  
+De hecho , el actual ciclo electoral latinoamericano , junto con la Conferencia de las naciones unidas sobre el Cambio climático ( que tendrá lugar en diciembre , en Lima , Perú ) dummy-they proporcionan una oportunidad para que la región muestre cómo los países pueden beneficiarse de una economía con bajas emisiones de carbono , reducir los riesgos climáticos y crear prosperidad a largo plazo .  
+Los países latinoamericanos no empiezan de cero .  
+La mayoría de su-pl gobiernos ya están diseñando políticas y redactando legislación sobre el cambio climático .  
+México fue el primer país emergente en aprobar una ley integral sobre el cambio climático , en 2012 , con el objetivo de reducir para 2020 el 30 % las emisiones de gases de efecto invernadero .  
+Brasil recientemente logró disminuir la deforestación amazónica y las emisiones netas de dióxido de carbono dummy-they han caído significativamente gracias a ello .  
+Uruguay planea generar el 90 % de su-nonhum-sg electricidad a partir de fuentes renovables en 2015 , mientras que Chile busca hacer lo propio con el 20 % de su-nonhum-sg consumo eléctrico para 2025 .  
+A medida que el ciclo electoral latinoamericano de 2014 se acerca a su-nonhum-sg fin , los nuevos gobiernos en Bolivia , Brasil , Colombia y Costa rica , y los candidatos presidenciales en Uruguay , estarán en condiciones de liderar las acciones relacionadas con el cambio climático .  
+Como mínimo , deben abstenerse de estrategias que socaven innecesariamente las políticas existentes sobre clima y medio ambiente .  
+En el mejor de los casos , los líderes latinoamericanos pueden facilitar activamente la próxima conferencia en Lima , que encomendará a su-nonhum-sg delegados la producción de un borrador de acuerdo para un nuevo tratado mundial , que será finalizado en París el año próximo .  
+El acuerdo debe ser tanto ambicioso como justo , para constituir la base de una respuesta global al cambio climático , que no ponga en peligro la prosperidad futura de ningún país .  
+Pero la conferencia de Lima puede lograr mucho más que ser el marco de un nuevo tratado climático : dummy-nonhum puede dar inicio a un gran impulso para promulgar legislación relacionada con el clima en toda Latinoamérica , que crearía sociedades con bajas emisiones de carbono y una buena capacidad de recuperación económica .  
+Lejos de entorpecer el crecimiento económico , una campaña legislativa coordinada debe entenderse como un requisito esencial para el desarrollo sostenible , especialmente en América latina .  
+Esa fue una premisa central de nuestro informe bandera para la Comisión global sobre la Economía y el Clima , dirigida por el expresidente mexicano Felipe calderón , que-hum hizo un convincente llamado a la lucha contra el cambio climático y la reducción del riesgo climático .  
+La legislación relacionada con el cambio climático también proporciona una forma de reflejar preocupaciones más amplias de los ciudadanos latinoamericanos y lograr su-nonhum-sg apoyo .  
+La legislación también puede transmitir señales positivas al sector privado ( incluidos los inversores extranjeros ) que puede desempeñar un papel decisivo para lograr cambios de gran alcance .  
+Adecuadamente motivados , los inversores pueden impulsar las energías renovables ; invertir en transporte urbano sostenible ; fomentar la innovación ; crear empleos con tecnologías más limpias ; aumentar la productividad y ayudar a que la región abandone su-nonhum-sg dependencia de los recursos naturales finitos .  
+El proceso legislativo también puede reforzar la influencia diplomática de la Asociación independiente de latinoamérica y el Caribe en la conferencia de cambio climático de la Onu .  
+La Ailac , que incluye a Chile , Colombia , Costa rica , Guatemala , Panamá y Perú , puede convertirse en una voz crítica en favor de los recortes mundiales a la emisión de gases de efecto invernadero basados en las responsabilidades diferenciales de los países .  
+La " tercera vía " de la Ailac está ganando impulso y puede resultar fundamental para lograr un acuerdo mundial .  
+Sin embargo , para que este nuevo enfoque sea creíble , la retórica progresista de la Ailac en la Onu debe verse apoyada por acciones de los países relacionadas con el cambio climático .  
+dummy-it Es fundamental que los gobiernos no perciban que la lucha contra el cambio climático y el apuntalamiento del crecimiento económico son metas contradictorias .  
+No es necesario desmantelar la legislación ambiental existente , debilitar políticas climáticas incipientes ni favorecer a los combustibles fósiles por sobre las energías limpias para garantizar la prosperidad .  
+La reciente aprobación del impuesto a las emisiones de carbono en Chile sugiere que los políticos son cada vez más conscientes de esto .  
+Un obvio indicador de progreso será la capacidad del gobierno para aumentar el ingreso per cápita y simultáneamente reducir las emisiones per cápita .  
+A medida que dummy-we nos acercamos a la convención en Lima , los países latinoamericanos tienen una enorme oportunidad para mostrar su-pl compromiso con los cambios legislativos locales y lograr ambiciosas metas climáticas globales .  
+Si los nuevos líderes de la región realmente desean mostrar su-pl compromiso con el cambio , ¿ qué mejor que disipar los temores económicos asociados con las acciones vinculadas al cambio climático ?  
+Si dummy-they actúan ahora , dummy-they darán a su-pl países - y al mundo en general - un nuevo rumbo , que producirá sociedades prósperas , inclusivas y fuertes en esta década y el futuro .  

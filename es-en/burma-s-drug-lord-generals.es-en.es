@@ -1,0 +1,31 @@
+Los capos militares de las drogas de Birmania  
+La censura a los medios impuesta por la junta militar de Birmania en cuanto a su decisión de ceder su turno como Presidente de la asociación de países del sureste asiático ( Asean por sus siglas en inglés ) el próximo año muestra que ha recibido un severo golpe a su prestigio .  
+En efecto , la decisión estuvo lejos de ser voluntaria .  
+El líder de la Junta , el General than shwe se desprestigió y pronto desapareció completamente de la vista del público al grado que algunos birmanos pensaron que había muerto .  
+Los actores que presionaron al régimen a renunciar a la presidencia de la Asean no fueron los tradicionales defensores de derechos humanos de occidente sino los vecinos más cercanos a Birmania de la asociación .  
+Esto debe de haber hecho que el retiro fuera doblemente doloroso para los generales ya que la Asean había sido uno de los escudos más fuertes de la junta en contra de la presión internacional .  
+Para la Asean el episodio fue una lección de afirmación .  
+Mostró que la presión constante funciona mejor que " el compromiso constructivo " que emprendió , sin resultado , durante los ocho años desde que Birmania se adhirió a la organización .  
+Este cambio ha estado dirigido por una agrupación embrionaria de legisladores regionales electos conocida como el Grupo interparlamentario de la asean sobre la Democracia en Myanmar ( Aipmc por sus siglas en inglés ) del cual yo soy miembro .  
+Se estableció en noviembre pasado para estimular el desarrollo de la democratización en Birmania , por legisladores de Tailandia , Indonesia , Malasia , Filipinas , Singapur y Camboya que dieron el paso , sin precedentes , de atravesar las líneas nacionales y de partidos para revisar críticamente la política de la Asean sobre Birmania , buscar la liberación de Aung san suu kyi y descalificar a Birmania para la presidencia .  
+Ahora , pediremos la suspensión de la membresía de Birmania en la Asean a menos que Aung san suu kyi y otros prisioneros políticos sean liberados y haya un claro avance hacia la democracia a través de negociaciones que involucren a la Liga nacional por la Democracia de aung y a los representantes de los distintos grupos étnicos .  
+Como legisladores electos de democracias establecidas e incipientes de la Asean , los miembros de la Aipmc sentimos que nuestras voces tienen mérito y legitimidad .  
+Sabemos que el destino político de Birmania está unido de manera inextricable al de nuestros propios países .  
+Cuando Birmania se adhirió a la Asean en 1997 , había sólo 210,000 refugiados y solicitantes de asilo político birmanos en toda la región .  
+Ahora , cerca de un millón de personas han huido del caos político y económico de Birmania hacia países vecinos , y al interior otro millón de personas siguen desplazadas .  
+Nuestra juventud se enfrenta al mayor riesgo de la historia de hacerse adicta a las drogas por el flujo masivo de narcóticos , particularmente estimulantes del tipo de las anfetaminas ( Ats por sus siglas en inglés ) de Birmania , mientras que ahí los generales mantienen buenas relaciones con capos de las drogas conocidos .  
+A mediados de septiembre , la Oficina de naciones unidas para las Drogas y el Delito admitió que Birmania y China eran los primeros productores de Ats del mundo .  
+Parece que las anfetaminas producidas en el este de Birmania se transportan con tal facilidad que se han encontrado cantidades significativas en el noreste de India , en la frontera occidental de Birmania .  
+Eso , junto con la heroína que se trafica desde Birmania a la India , China , Tailandia y otros países de la región , plantea una grave amenaza a nuestra seguridad política y económica .  
+Es al mismo tiempo trágico e inevitable que las áreas de India y China que rodean a Birmania ahora sufren de la mayor concentración de adicción a las drogas e infección de Vih que se registran en esos países .  
+Si este es el impacto en Tailandia , ¿ qué será de los jóvenes y niños birmanos , a quienes se les ha restringido el acceso a la educación , la información y la atención a la salud ?  
+Es escandaloso que los capos de las drogas gocen de más libertad para operar que las propias agencias de asistencia , mientras que el acceso básico a la alimentación , la educación y la atención a la salud padece de muchas restricciones , cuando el 70 % de los niños birmanos sufren desnutrición crónica en algunas áreas de la frontera .  
+En efecto , en agosto , el Director del programa mundial de la alimentación , James morris , reveló que se entregaron sólo 430 de las 5,500 toneladas de arroz destinadas a la gente vulnerable en el estado norteño de Arakan en Birmania debido a las restricciones impuestas por el régimen .  
+Dos semanas más tarde , el Fondo mundial para el Vih / Sida , la tuberculosis y la malaria retiró los fondos para los programas de alimentación , haciendo referencia a restricciones del gobierno que habían creado " un ambiente insoportable " .  
+El evitar que la ayuda llegue a aquéllos que la necesitan es malo en sí mismo .  
+Pero el régimen de Birmania de hecho perpetúa las condiciones que mantienen y empeoran la epidemia del Vih / Sida al restringir el acceso a la atención , los medicamentos y otros servicios de apoyo .  
+A fin de que los programas contra el Vih / Sida sean efectivos y sostenibles , las comunidades afectadas deben tener la libertad para organizarse y potenciarse a sí mismas .  
+Sólo así podrán asegurar el acceso a los recursos esenciales para los tratamientos .  
+La elocuente súplica de Aung san suu kyi , " Por favor usen su libertad para promover la nuestra " resuena de forma especial entre nosotros , los miembros de Aipmc , quienes disfrutamos de los beneficios de la democracia representativa .  
+Por eso nos sentimos obligados a hacer un llamado a los niveles más altos de la comunidad internacional -- incluyendo al Consejo de seguridad de las naciones unidas -- para que aborden el asunto de Birmania , ya que debemos demostrar que tomamos en serio la paz , la democracia y los derechos humanos .  
+El valiente pueblo de Birmania , como todos los pueblos del mundo , merecen lo que muchos de nosotros damos por hecho .  

@@ -1,0 +1,37 @@
+La defectuosa unión bancaria europea  
+París - La Unión europea es ahora la orgullosa titular de un premio Nobel de la paz .  
+Cuando la elección recayó en Barack obama hace tres años , el Comité noruego del nobel fue criticado por haber concedido esa distinción a alguien cuyos logros estaban aún por ver .  
+El Comité se tomó a pecho la crítica y esta vez ha premiado a una institución con un pasado brillante , pero un futuro cubierto de nubarrones .  
+La zona del euro es diferente de la Ue , desde luego , pero es la empresa más ambiciosa de la Unión hasta la fecha y sigue esforzándose para equiparse con las estructuras necesarias a fin de reforzar una unión monetaria .  
+Una política fiscal común sigue siendo un sueño lejano , como también una unión política auténtica .  
+Pero las autoridades de Europa afirman seguir logrando avances hacia una supuesta " unión bancaria " , que significa una supervisión bancaria colectiva y no una fusión de los propios bancos .  
+En septiembre , la Comisión europea anunció un plan para hacer del Banco central europeo el supervisor de los 6.000 bancos de Europa .  
+La reacción entre políticos nacionales , bancos centrales y los propios bancos no fue universalmente favorable .  
+Los alemanes quieren que el Bce se centre sólo en grandes bancos sistémicos y deje los pequeños bancos de ahorro ( como los que invirtieron intensamente en las hipotecas de gran riesgo ) a cargo de las autoridades nacionales .  
+El Reino unido y Suecia sostienen que no pueden quedar sometidos a un banco central del que son , en el mejor de los casos , miembros semiseparados .  
+Existe una aceptación generalizada de un supervisor bancario paneuropeo , sobre todo porque la Autoridad bancaria europea ( el organismo regulador de la banca de la Ue ) demostró ser deficiente al llevar a cabo las pruebas de resistencia : las primeras pruebas fueron tan deficientes , que incluso los bancos de ahorro de España , ahora en quiebra , pudieron aprobarlas con la máxima calificación .  
+Europa debe romper el círculo vicioso que vincula a prestatarios soberanos con bancos que están obligados - o al menos se los alienta - a comprar sus bonos , lo que , a su vez , proporciona la financiación para los rescates de los bancos .  
+Pero el método elegido por la Comisión para aplicar una unión bancaria es fatalmente defectuoso .  
+Además , conforme a una opinión filtrada del jefe de los asesores jurídicos del Consejo de la ue , la reforma propuesta es ilegal , porque , según el Financial times ( el que recibió la filtración ) , rebasa " las competencias permitidas por la legislación para cambiar las normas de gobierno del Banco central europeo " .  
+A lo largo de toda la crisis , los dirigentes europeos han intentado reaccionar ante las lagunas de la unión monetaria sin proponer un nuevo tratado , porque temen que cualquier nuevo tratado que propusiera más centralización de la autoridad en Bruselas fuese rechazado , ya fuera por los parlamentos nacionales o por los votantes en un referéndum .  
+Así , pues , han intentado actuar mediante un acuerdo intergubernamental o recurriendo a las disposiciones del tratado vigente .  
+En el caso de la unión bancaria , se proponen recurrir al apartado 6 del artículo 127 del Tratado de lisboa , que permite al Consejo europeo autorizar al Bce para desempeñar funciones específicas en materia de " políticas relativas a la supervisión cautelar " de ciertas entidades financieras de la Unión .  
+Se trata de un fundamento jurídico endeble para establecer un supervisor paneuropeo con el cometido directo de abordar la situación de las entidades particulares y está claro que no se lo concibió para ese fin .  
+De hecho , Alemania aceptó esa redacción sólo con la condición de que el Bce no podría ser un supervisor directo .  
+Las consecuencias de elegir ese rumbo inadecuado , pero conveniente , son graves .  
+Para empezar , no se puede recurrir al tratado vigente para crear un único organismo con facultades decisorias , lo que dejaría una difícil interfaz entre el Bce y las autoridades nacionales .  
+Tampoco se puede recurrir a él para establecer un plan europeo de protección de depósitos , que probablemente sea la necesidad más urgente , para poner freno a las salidas de capitales de los bancos de la Europa meridional .  
+Además , habrá posibles consecuencias peligrosas para el propio Bce .  
+El recurso a la cláusula del Tratado de lisboa significa que se le deben conceder cometidos suplementarios , pero es imposible crear una entidad supervisora de los bancos distinta dentro de él , como se ha hecho en Francia , por ejemplo , con la Autoridad de control cautelar o en el Reino unido con la nueva Autoridad reguladora cautelar , que tiene su propio Consejo de gobierno y disposiciones de rendición de cuentas dentro del Banco de inglaterra .  
+La importancia de esas estructuras es la de que protegen la independencia de la política monetaria del banco central contra la corrupción mediante los requisitos en materia de rendición de cuentas que acompañan inevitablemente a la supervisión bancaria .  
+Como las decisiones de los supervisores afectan a los derechos de propiedad de las personas - y sus acciones u omisiones pueden poner a los contribuyentes en la difícil tesitura de tener que rescatar a bancos - los gobiernos , los parlamentos y los tribunales han de ejercer una vigilancia muy estricta .  
+ésa es la razón por la que el Bundesbank de alemania , que siempre fue muy celoso de su independencia en materia de política monetaria , se ha encontrado una vez más en el bando de los que se oponen a la propuesta que nos ocupa , al expresar poderosas dudas sobre el rumbo que la Comisión se propone seguir .  
+Esta vez está en lo cierto .  
+Además , hay otras cuestiones graves .  
+Según el modelo de la Comisión , la Autoridad bancaria europea seguirá en pie y se le ha encargado que prepare un único reglamento de organización interna para los 27 Estados miembros de la Ue , pero , si bien lleva a cabo su labor conforme al sistema normal de votación por mayoría cualificada , los 17 países de la zona del euro tendrán un solo supervisor , por lo que contarán con un voto en bloque .  
+La Comisión está intentando encontrar formas de proteger los derechos de los países que no forman parte de la zona del euro , pero la propia complejidad de lo que se propone revela lo inadecuado que es el plan .  
+A los no europeos , en particular , puede parecerles todo el asunto impenetrablemente abstruso , pero ilustra una cuestión sencilla : Europa está intentando lograr un modelo más federal que aborde las deficiencias reveladas por la crisis de la zona del euro , pero está hacíéndolo sin atender la necesidad crucial de que vaya acompañada en ese proceso por sus ciudadanos .  
+De hecho , los mecanismos que la Ue está adoptando están concebidos específicamente para no tener que consultarlos .  
+La propuesta creación de una unión bancaria revela ese defecto fundamental en el núcleo del proyecto europeo actual .  
+Resulta difícil ser optimista sobre el éxito de una iniciativa basada en fundamentos jurídicos tan endebles y carente de legitimidad democrática .  
+Los bancos de Europa y sus clientes merecen algo mejor .  

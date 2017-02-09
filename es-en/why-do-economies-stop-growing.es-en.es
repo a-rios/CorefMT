@@ -1,0 +1,39 @@
+¿ Por qué dejan de crecer las economías ?  
+Milán - Con el transcurso de los años , tanto en países avanzados como en vías de desarrollo se han puesto a prueba ( algunas veces en forma deliberada , pero muchas otras sin darse cuenta ) diversas metodologías para la búsqueda del crecimiento .  
+Lo que por desgracia se descubrió es que muchas de esas estrategias tienen incorporados ciertos frenos o limitaciones , que podríamos llamar elementos de insostenibilidad .  
+Para evitar graves daños que obliguen a difíciles períodos de recuperación , necesitamos aprender a reconocer mucho mejor y desde antes estas pautas de crecimiento autolimitadoras .  
+Menciono a continuación algunos ejemplos tomados de una colección cada vez más numerosa de modelos que se caracterizan por un crecimiento desacelerado .  
+Para comenzar , cuando los países en desarrollo apelan a la sustitución de importaciones para estimular la diversificación económica , esto puede funcionar por un tiempo ; pero , a la larga , conforme el aumento de la productividad resulta insuficiente y se anulan las ventajas comparativas , el crecimiento termina deteniéndose .  
+Es natural que las economías pequeñas y abiertas tengan cierto grado de especialización , lo cual las hace vulnerables a cualquier perturbación económica y a la volatilidad .  
+Pero en términos de crecimiento y nivel de vida , buscar la diversificación económica protegiendo a las industrias locales de la competencia extranjera supone un costo que en algún momento llega a ser mayor que los beneficios .  
+Es mejor permitir la especialización y crear un entramado eficaz de redes de seguridad social y sistemas de ayuda que proteja a las personas y a las familias durante las transiciones económicas .  
+Esta " flexibilidad estructural " se adapta mejor a los grandes cambios que se necesitan para hacer frente a la rápida evolución de las fuerzas tecnológicas y económicas globales .  
+Otro modelo de crecimiento y desarrollo con una capacidad autolimitadora especialmente intensa es el que se deriva de una riqueza de recursos naturales mal administrada .  
+Cuando los ingresos provenientes de estos recursos se invierten en infraestructura , educación y activos financieros externos , pueden acelerar el crecimiento .  
+Pero muy a menudo , obran como elementos que distorsionan los incentivos económicos de modo que terminan favoreciendo la búsqueda de rentas e interfiriendo con la diversificación que es esencial para el crecimiento .  
+Más acá en el tiempo , muchos países avanzados descubrieron un conjunto " nuevo " de modelos de crecimiento con limitaciones estructurales incorporadas , caracterizados por un exceso de consumo privado o público ( o ambas cosas a la vez ) , a menudo acompañado y facilitado por un endeudamiento en ascenso y una exagerada apreciación de los activos , con la consiguiente disminución de la inversión .  
+Al principio este modelo parece funcionar bien , pero llega un momento en que la demanda agregada interna ya no puede sostener el crecimiento y el empleo ; entonces , el proceso termina , o bien en un estancamiento gradual o bien en una violenta crisis financiera y económica .  
+( Es algo que muchos países en desarrollo tuvieron que aprender de la peor manera , pero parece que la lección no llegó a oídos de los países avanzados . )  
+Lo opuesto al modelo de consumo excesivo es la dependencia excesiva de las inversiones como forma de generar demanda agregada ; pero esta pauta de crecimiento también resulta autolimitadora .  
+Una vez que el rendimiento privado y social de la inversión disminuye más allá de cierto límite , se torna imposible mantener el crecimiento , aun si el aumento de las tasas de inversión puede sostener por algún tiempo la demanda agregada .  
+Modificar este modelo de crecimiento es una parte importante del desafío que enfrenta China en la actualidad .  
+Otro riesgo para la sostenibilidad de los modelos de crecimiento se deriva del aumento de la desigualdad de oportunidades o resultados ( y a menudo , de ambas cosas a la vez ) .  
+Aunque en muchos países la gente está dispuesta a aceptar cierta diferenciación de los ingresos determinada por el mercado según la disparidad de talentos y las preferencias personales , esto es así siempre que no se superen ciertos límites ; de lo contrario , normalmente se produce una sensación de injusticia , tras la cual llega la resistencia y , finalmente , la preferencia por opciones políticas que hagan frente a la desigualdad , aunque a menudo sus métodos sean contraproducentes y pongan trabas al crecimiento .  
+Puede ser que a largo plazo , la cuestión más importante en relación con la sostenibilidad sea la suficiencia de la base de recursos naturales con que cuenta la economía mundial : en las próximas dos o tres décadas , la producción se triplicará , o más , conforme cuatro mil millones de habitantes de economías de alto crecimiento se pongan a la par de los niveles de ingresos y las pautas de consumo de los países avanzados .  
+Hacer lugar a esta clase de crecimiento demandará importantes cambios en las estrategias de desarrollo económico de la actualidad .  
+Algunas adaptaciones se producirán espontáneamente , a medida que el aumento de los precios de la energía y de otras materias primas genere incentivos para ahorrar o buscar alternativas .  
+Pero hay externalidades medioambientales que no tienen precio ( por ejemplo , el calentamiento global y el agotamiento de los recursos hídricos ) a las que será preciso prestar atención en serio , en vez de encararlas con mentalidades y metodologías miopes y reactivas .  
+En todos estos modelos de crecimiento autolimitadores suele haber tres elementos en común .  
+En primer lugar , hay un proceso de declinación , en una o en varias dimensiones , de algún componente de la base de recursos tangibles , intangibles y naturales de la economía .  
+Me permito incluir dentro de la base de activos la cohesión social , que es el activo que se desvaloriza como consecuencia de la desigualdad excesiva .  
+En todo esto la medición cumple un papel importante .  
+Es más fácil permitir la disminución de algo parcialmente invisible por falta de una medición regular o eficaz .  
+Aumentar la conciencia respecto de los desafíos de la sostenibilidad demanda extender a otras dimensiones la medición del desempeño económico , social y medioambiental .  
+En segundo lugar , seguir un modelo de crecimiento autolimitador y no descubrirlo a tiempo produce muy malos resultados , porque las expectativas terminan superando las realidades y llega un momento en que resulta difícil retrotraer el sistema hacia una senda de crecimiento sostenible .  
+Al fin y al cabo , la economía se ve obligada a compensar el déficit de inversiones del pasado y emprender al mismo tiempo inversiones de cara al futuro , lo que constituye una doble imposición a cuenta de la generación actual .  
+La incapacidad de resolver el problema de la distribución y la justicia puede llevar a un callejón sin salida , a la parálisis y al estancamiento prolongado .  
+Por último , muchos de estos modelos de crecimiento defectuosos implican dificultades presupuestarias .  
+Contra lo que es opinión generalizada hoy en día , cierto grado de administración keynesiana de la demanda durante la transición a un modelo de crecimiento más sostenible no es incompatible con resolver los desequilibrios fiscales en un plazo razonable .  
+Por el contrario , tanto el estímulo fiscal como la consolidación fiscal , aplicados por separado o en conjunto , son elementos necesarios del proceso de adaptación .  
+Pero por sí solos no bastan .  
+Se necesitan también otros elementos insustituibles : una modificación de la estructura de la demanda agregada accesible y la recuperación de los componentes agotados de la base de activos de la economía .  

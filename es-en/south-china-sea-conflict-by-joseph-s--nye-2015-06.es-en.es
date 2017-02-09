@@ -1,0 +1,35 @@
+Evitar el conflicto en el Mar de china meridional  
+Oxford - Cuando una aeronave estadounidense de reconocimiento , P8-a , volaba recientemente cerca del Arrecife fiery cross en las Islas spratly en el Mar de china meridional , la armada china le instó ocho ocasiones a irse del área .  
+El ministro de asuntos exteriores de China , Wang yi , señaló que " la determinación de China de salvaguardar la soberanía e integridad de su territorio es firme como una roca " .  
+El Secretario de defensa estadounidense , Ashton carter , respondió que " [ N ] o debe haber duda sobre esto : los Estados unidos seguiremos haciendo actividades por aire , mar u otros medios que las leyes internacionales nos permitan como hacemos en otros lugares del mundo " .  
+¿ Esto quiere decir que es inminente un conflicto entre China y los Estados unidos en el Mar de china meridional ?  
+En 1995 , cuando yo trabajaba en el Pentágono , China empezó a construir estructuras en el Arrecife mischief , que las Filipinas reivindican y que está mucho más cerca de sus costas que de las de China .  
+Los Estados unidos emitieron un comunicado de no tomar partido sobre las reivindicaciones convergentes acerca de las alrededor de 750 rocas , atolones , islotes , cayos y arrecifes que integran las Islas spratlys , que cubren una área significativa -425,000 kilómetros cuadrados ( 164,000 millas ) - del Mar de china meridional .  
+Instamos a que las partes involucradas resolvieran sus disputas de forma pacífica .  
+Sin embargo , los Estados unidos tomaron una postura firme en cuanto a que el Mar de china meridional , que incluye importantes rutas marítimas de embarques de petróleo desde Medio oriente y transporte de contenedores de Europa , y sobre el que aeronaves militares y comerciales vuelan normalmente , era un tema que debía tratarse en el seno de las Naciones unidas con arreglo al Tratado de derecho internacional del mar , ( Unclos , por sus siglas en inglés ) .  
+Para sustentar su reivindicación territorial , China recurre a un mapa que data del periodo nacionalista - la delimitación con la llamada línea de nueve puntos , que se extiende casi 1600 kilómetros al sur de China continental y en ocasiones se acerca a la línea costera , entre 64 y 80 kilómetros , de países como Vietnam , Malasia , Brunei y las Filipinas .  
+Todos estos países reivindican las 200 millas de la zona económica exclusiva que se establece Unclos .  
+Cuando la disputa por el Arrecife mischief estalló , las autoridades chinas no pudieron aclarar el significado de la línea de 9 puntos , pero cuando se les presionó para dar una explicación , reconocieron que los puntos significaban los lugares que China reclamaba .  
+Al mismo tiempo , aceptaron que el Mar de china meridional no era un lago chino , y que estaba regido por el Tratado de las naciones unidas .  
+Sobre esta base , los Estados unidos y China evitaron el conflicto por este asunto durante casi dos décadas .  
+Sin embargo , China no evitó conflictos con sus vecinos marítimos .  
+Aunque se comprometió a adherirse al Código de conducta negociado por la Asociación de naciones del asia sudoriental en 2002 , recurrió a su poder militar superior en disputas con las Filipinas y Vietnam .  
+En 2012 , buques de vigilancia chinos persiguieron a barcos pesqueros filipinos para expulsarlos de Scarborough shoal en la zona de las costas filipinas , con lo que el gobierno filipino llevó la disputa ante el Tribunal internacional del derecho del mar ( Itlos , por sus siglas en inglés ) , pero China clama que esta instancia no tiene jurisdicción .  
+En 2014 , después de que China instalara una plataforma petrolera en aguas reivindicadas por Vietnam , barcos de los dos países se embistieron y enfrentaron con cañonazos de agua en el mar ; más tarde se produjeron rebeliones contra China en Vietnam .  
+Los países más pequeños de la región pidieron el apoyo de Estados unidos .  
+Sin embargo , este país trató de mantenerse al margen de reclamaciones convergentes sobre temas de soberanía ; y algunos son de menor dimensión , en otros China tiene una postura jurídica mucho más fuerte .  
+Asimismo , los Estados unidos tenían que enfocarse en asuntos más importantes de su relación con China .  
+Esto empezó a cambiar cuando China inició una política activa de dragar arena para cubrir los arrecifes y construir islas en al menos cincos ubicaciones .  
+Temprano este año , analistas publicaron imágenes de lo que se piensa será una pista de aterrizaje de 3000 metros en el Arrecife de fiery cross .  
+Los Estados unidos sostienen que Unclos garantiza a barcos y aeronaves extranjeros acceso libre más allá del límite territorial , mientras que China argumenta que los vuelos militares no pueden atravesar su zona económica exclusiva de 200 millas sin su permiso .  
+Si China reclamara dicha zona por cada uno de los sitios que ocupa , podría abarcar todo el Mar de china meridional .  
+Como señala un funcionario estadounidense , parece que China está tratando de " crear hechos sobre el terreno " - lo que el almirante y comandante de los Estados unidos en el Pacífico , Harry harris , llama una nueva " gran Muralla de arena " .  
+China declaró correctamente que en el marco de sus derechos de soberanía podía dragar , y que solo estaba siguiendo el ejemplo de sus vecinos , cuyos gobiernos también habían estado creando estructuras para fundamentar sus reclamaciones .  
+Sin embargo , las hipótesis de los Estados unidos se confirmaron en 2013 cuando una disputa separada entre China y Japón por las islas Senkaku / Daiyou en el Mar de china oriental , el gobierno chino declaró unilateralmente una zona de identificación de defensa aérea sin previo aviso .  
+La respuesta estadounidense fue de enviar dos bombarderos B-52 sobre la zona no reconocida .  
+Esto sienta precedente en el caso del vuelo de reconocimiento actual reciente ( que llevaba a bordo un equipo de reporteros de Cnn ) .  
+El diseño de la respuesta de los Estados unidos es para evitar que China creara un hecho consumado que pudiera bloquear grandes partes del Mar de china meridional .  
+No obstante , la política original de no estar enredado en la disputa de soberanía sigue siendo lógica .  
+La ironía es que la incapacidad del senado de los Estados unidos para ratificar Unclos significa que dicho país no puede llevar a China ante Itlos para responder por sus esfuerzos de convertir los arrecifes en islas y reclamar zonas exclusivas que podrían interferir con el derecho de libre paso - un interés clave de los Estados unidos .  
+Sin embargo , como China ha ratificado Unclos y los Estados unidos respetan el derecho internacional consuetudinario , hay bases para llevar a cabo negociaciones directas a fin de clarificar la ambigua línea punteada y preservar la libertad de los mares .  
+Mediante una diplomacia bien llevada , el conflicto sino-estadounidense en el Mar de china meridional debe y tiene que evitarse .  

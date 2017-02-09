@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">El</tree></tree><tree label="NC">reequilibrio</tree></tree><tree label="sp"><tree label="SP">de</tree><tree label="sn"><tree label="spec"><tree label="DA">las</tree></tree><tree label="NC">prioridades</tree></tree></tree></tree></tree> 

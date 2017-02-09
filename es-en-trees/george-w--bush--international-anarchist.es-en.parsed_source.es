@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="NP">George_w._bush</tree><tree label="sn"><tree label="^lsn"><tree label="f"><tree label="Fc">,</tree></tree><tree label="NC">anarquista</tree></tree><tree label="s.a"><tree label="AQ">internacional</tree></tree></tree></tree></tree> 

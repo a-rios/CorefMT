@@ -1,0 +1,32 @@
+Hacia la curación del cerebro deprimido  
+Los científicos y profesionales de la salud mental han dado grandes pasos en la comprensión y el tratamiento de la depresión severa , lo que incluye el descubrimiento del papel que juegan los desequilibrios en el cerebro de sustancias químicas como la serotonina y la noradrenalina .  
+Pero cada vez hay más evidencia de que hay más en juego : la depresión también implica cambios estructurales en áreas del cerebro que participan en los estados de ánimo , la memoria y la toma de decisiones .  
+A menudo la depresión ocurre como consecuencia de experiencias estresantes .  
+El cerebro interpreta nuestras experiencias y decide si son amenazadoras , y luego controla nuestras respuestas conductuales y sicológicas a ellas .  
+Los datos obtenidos de experimentos con animales muestran que se producen cambios fisiológicos dañinos como resultado de la incapacidad del cerebro y el cuerpo de responder a un estrés repetido con modificaciones adaptativas de estructuras y funciones .  
+Tres áreas del cerebro ( el hipocampo , el córtex prefrontal y la amígdala ) son particularmente susceptibles a cambios patológicos en términos de tamaño y función .  
+Estas áreas son instrumentales para la interpretación de lo que es estresante y la determinación de las respuestas correspondientes .  
+En este proceso participan muchos mediadores químicos , como el cortisol y la adrenalina de las glándulas adrenales , otras hormonas y neurotransmisores ( como la serotonina y la noradrenalina ) y respuestas de los sistemas autónomo e inmune .  
+Por tanto , la depresión produce cambios en el resto del cuerpo , debido a desequilibrios químicos de largo plazo en los sistemas que controlan el corazón , el sistema inmune y el metabolismo .  
+El hipocampo , una estructura clave en la formación de recuerdos de sucesos y contextos , posee receptores que le permiten responder con la liberación de hormonas en el torrente sanguíneo .  
+Ahora sabemos que se atrofia en el caso de varios desórdenes siquiátricos .  
+Dentro del hipocampo ( una saliente curva y alargada , ubicada en cada uno de los dos lóbulos temporales del cerebro ) se encuentra una estructura llamada girus dentado , que produce nuevas neuronas durante la vida adulta .  
+El estrés crónico inhibe la neurogénesis y también hace que se muchas neuronas del hipocampo reduzcan su tamaño , un proceso llamado " remodelamiento " .  
+Los estudios en animales han demostrado que el cortisol , la hormona del estrés , también juega un importante papel junto con los neurotransmisores del cerebro en el remodelamiento de las neuronas .  
+De manera similar , hay evidencia de que el córtex prefrontal , una estructura fundamental en la regulación de las emociones , así como en la toma de decisiones y en la memoria de trabajo , reduce su tamaño en casos de depresión severa .  
+Por otra parte , la amígdala , donde se asientan los recuerdos emocionales , en lugar de atrofiarse se vuelve hiperactiva tanto en el estrés post-traumático como en la enfermedad depresiva , y los estudios con animales aportan evidencias de una hipertrofia de las células nerviosas tras un estrés repetido .  
+Una amígdala hiperactiva , junto con una actividad anormal en otras regiones del cerebro , produce una interrupción de los patrones de sueño y actividad física , así como patrones irregulares de secreción de hormonas y otros mediadores químicos que controlan varias de las estructuras del cuerpo .  
+Por ejemplo , los niveles de cortisol aumentan en la noche , cuando normalmente deberían ser bajos .  
+Si no se corrige , con el tiempo la depresión severa puede causar condiciones tales como la pérdida progresiva de los minerales de los huesos , la acumulación de grasa abdominal , un aumento de la reactividad de las plaquetas de la sangre y un aumento del riesgo de sufrir enfermedades cardiovasculares .  
+Más aún , ciertos tipos de antidepresivos pueden contribuir a algunas de estas condiciones .  
+No obstante , una de las características más interesantes de estos cambios estructurales es que se pueden prevenir con medicamentos , y potencialmente revertirse .  
+De hecho , en ciertos aspectos fundamentales la depresión es comparable con la enfermedad de Cushing , un desorden causado por el exceso de producción de cortisol .  
+Los elevados niveles de cortisol en los pacientes con esta enfermedad son mayores que los que se encuentran en la depresión severa , pero las características siquiátricas y somáticas de la enfermedad de Cushing son sorprendentemente similares : melancolía , depresión , obesidad abdominal , pérdida de minerales en los huesos y aumento del riesgo de sufrir enfermedades cardiovasculares , junto con una atrofia del hipocampo y el deterioro de la memoria .  
+Las buenas noticias que nos da la enfermedad de Cushing es que la atrofia del hipocampo y el deterioro de la memoria son al menos parcialmente reversibles varios años después de la corrección del exceso de cortisol .  
+Esto refuerza la creencia de que los cambios estructurales en el cerebro que se relacionan con la depresión severa se pueden prevenir e incluso revertir con las medicaciones correctas y otros tratamientos .  
+Por ejemplo , la neurogénesis en el girus dentado , suprimida por el estrés agudo y crónico , se puede elevar mediante varios tratamientos contra la depresión .  
+Pero todavía uno de los problemas con muchos de los medicamentos actuales es el hecho de que , incluso con tratamiento , la recurrencia de la depresión severa es muy alta , cerca de un 70-80 % .  
+Esto sugiere que los procesos fisiológicos que subyacen a la depresión ( y que también pueden producir cambios estructurales en el cerebro ) no se están pudiendo detener por completo , y esa es la razón por que se necesita con urgencia una nueva generación de medicamentos antidepresivos .  
+Los nuevos antidepresivos tendrán que tratar lo que parecen ser cambios neurodegenerativos progresivos en el cerebro , e inferimos que éstos están teniendo lugar debido a que la recurrencia de la depresión es tan alta bajo los tratamientos actualmente disponibles .  
+El litio , un estabilizador del ánimo y agente neuroprotector , posee las propiedades que estamos buscando , aunque su toxicidad lo hace menos que ideal .  
+Más que nunca , el desafío que enfrentan los investigadores médicos es desarrollar tratamientos más eficaces sin reducir su seguridad .  

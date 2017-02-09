@@ -1,0 +1,42 @@
+Las razones por las que la Reserva federal enterró el monetarismo  
+Londres - La decisión de la Reserva federal de aplazar una subida de los tipos de interés no debería haber sorprendido a nadie que haya prestado atención a las observaciones de su Presidenta , Janet yellen .  
+Dicha decisión no hizo sino confirmar que no es indiferente a la tensión financiera internacional y que su criterio en materia de gestión del riesgo sigue siendo marcadamente favorable a que los tipos permanezcan " más bajos durante más tiempo " .  
+Entonces , ¿ por qué los mercados y los medios de comunicación actuaron como si la intervención de la Reserva federal ( o , mejor dicho , la falta de ella ) fuera inesperada ?  
+Lo que de verdad dejó perplejos a los mercados no fue la decisión de la Reserva federal de mantener los tipos de interés cero durante unos meses más , sino la declaración que la acompañaba .  
+La Reserva federal reveló que en modo alguno le preocupaban los riesgos de una mayor inflación y estaba deseosa de reducir el desempleo por debajo de lo que la mayoría de los economistas consideran su " tasa " natural " de un cinco por ciento , aproximadamente .  
+Esa relación - entre la inflación y el desempleo - es la que constituye el núcleo de todas las controversias sobre la política monetaria y la banca central y casi todos los modelos económicos modernos , incluidos los utilizados por la Reserva federal , se basan la teoría monetarista de los tipos de interés encabezada por Milton friedman en su discurso presidencial de 1967 ante la Asociación económica americana .  
+Según la teoría de Friedman , una vez que el desempleo bajara por debajo de un nivel mínimo de seguridad , que calificó de tasa de desempleo " natural " , la inflación se aceleraría automáticamente y sin límite .  
+En la obra original de Friedman , la tasa de desempleo natural era una conjetura puramente teórica , basada en una hipótesis denominada " esperanzas racionales " , aun cuando fuera contraria a toda definición normal de comportamiento racional .  
+La publicación de dicha teoría en un momento de alarma mundial respecto de la inflación de dos dígitos ofreció a los bancos el pretexto que precisamente necesitaban para adoptar medidas sumamente impopulares .  
+Al aumentar espectacularmente los tipos de interés para combatir la inflación , las autoridades desbarataron la capacidad de los trabajadores organizados y al tiempo se libraron de la culpa por el enorme desempleo que la austeridad monetaria había de producir .  
+Unos años después , se substituyó la tasa " natural " de Friedman por la " tasa de inflación que no acelera el desempleo " ( Nairu , por sus siglas en inglés ) , menos cargada de valor y de apariencia más erudita , pero la idea fundamental fue siempre la misma .  
+Si se utiliza la política monetaria para intentar reducir el desempleo por debajo de un nivel predeterminado , la inflación se acelerará sin limite y destruirá puestos de trabajo .  
+Así , pues , se debe evitar a toda costa una política monetaria encaminada a conseguir un desempleo por debajo de la Nairu .  
+Según una versión más extrema de esa teoría , no es posible un equilibrio duradero en la disyuntiva entre la inflación y el desempleo .  
+Todas las medidas encaminadas a estimular la creación de puestos de trabajo o el crecimiento económico con dinero fácil no harán sino impulsar el aumento de los precios , lo que contrarrestará todo efecto en el desempleo .  
+Así , pues , la política monetaria debe centrarse exclusivamente en obtener los objetivos de inflación y se debe exonerar a los banqueros centrales de culpa alguna por el desempleo .  
+La teoría monetaria que justificaba la reducción del cometido de los bancos centrales a la fijación del objetivo de inflación tenían muy poco respaldo empírico cuando Friedman la propuso .  
+Desde entonces , ha sido refutada por la experiencia política y las muestras estadísticas . , Lejos de quedar anulada por el aumento de los precios , como predecía la teoría , la política monetaria resultó tener unos efectos mucho mayores en el desempleo que en la inflación , en particular en los veinte últimos años .  
+Pero , pese a la refutación empírica , el atractivo ideológico del monetarismo , apoyado por la supuesta autoridad de las esperanzas " racionales " , resultó abrumador .  
+A consecuencia de ello , el planteamiento de la política monetaria puramente orientado a la inflación cobró un predominio total tanto en la banca central como en la economía académica .  
+Eso nos devuelve a los acontecimientos financieros recientes .  
+Todos los modelos de fijación del objetivo de inflación por la Reserva federal ( y otros bancos centrales e instituciones oficiales como el Fondo monetario internacional ) dan por sentada la existencia de un límite predeterminado del desempleo no inflacionista .  
+El modelo más reciente de la Reserva federal calcula que la Nairu es de entre el 4,9 por ciento y el 5,2 por ciento .  
+Y ésa es la razón por la que muchos economistas y participantes en los mercados se quedaron perplejos ante la aparente complacencia de Yellen .  
+Como ahora el desempleo en los Estados unidos asciende al 5,1 por ciento , la teoría monetaria normal dicta la necesidad de subir urgentemente los tipos de interés .  
+De lo contrario , la consecuencia inevitable será una desastrosa explosión inflacionista o resultará totalmente equivocado el corpus de teoría económica que ha dominado la formulación de políticas y el pensamiento académico desde que se publicó el trabajo de Friedman sobre las esperanzas " racionales " y el desempleo " natural " .  
+Entonces , ¿ qué debemos concluir de la decisión de la Reserva federal de no subir los tipos de interés ?  
+Una posible conclusión es trivial .  
+Como la Nairu es un concepto puramente teórico , los economistas de la Reserva federal pueden simplemente cambiar sus cálculos de ese número mágico .  
+En realidad , la Reserva federal ya ha reducido su cálculo de la Nairu tres veces en los dos últimos años .  
+Pero puede haber una razón más profunda para la tolerancia de la Reserva federal .  
+A juzgar por los discursos recientes de Yellen , la Reserva federal podría dejar de creer en versión alguna de la tasa " natural " de desempleo .  
+Las hipótesis de Friedman de una inflación cada vez más acelerada y unas esperanzas irracionalmente " racionales " que propiciaran una fijación resuelta de la estabilidad de los precios sigue inserta en los modelos económicos oficiales como si fuera un mito bíblico de la Creación , pero la Reserva federal , junto con casi todos los bancos centrales , parece haber perdido la fe en esa teoría .  
+En cambio , ahora los bancos centrales parecen estar volviendo implícitamente ( y tal vez inconscientemente ) a las opiniones premonetaristas : las disyuntivas entre la inflación y el desempleo son reales y pueden durar muchos años .  
+La política monetaria debe volver a calibrar gradualmente el equilibrio entre esos dos indicadores económicos durante el desarrollo del ciclo económico .  
+Cuando la inflación esté baja , la prioridad máxima debe ser la de reducir el desempleo hasta el nivel más bajo posible y no hay una razón convincente para que la política monetaria limite la creación de puestos de trabajo ni el crecimiento del Pib hasta que una inflación excesiva llegue a ser un peligro inminente .  
+Eso no quiere decir que en los Estados unidos deba haber unos tipos de interés permanentes próximos a cero .  
+La Reserva federal comenzará casi con toda seguridad a subirlos en diciembre , pero el endurecimiento monetario será mucho más lento que en ciclos económicos anteriores y estará motivado por las preocupaciones por la estabilidad financiera , no por la inflación .  
+A consecuencia de ello , los temores - rayanos en el pánico en algunos mercados en ascenso - sobre las repercusiones del endurecimiento de la Reserva federal en las condiciones económicas mundiales resultarán probablemente injustificados .  
+Lo malo es que la inmensa mayoría de los analistas de mercados , por seguir aferrándose al antiguo marco monetarista , acusarán a la Reserva federal de " haberse quedado a la zaga " al permitir que el desempleo de los Ee.uu. se reduzca demasiado y no se adelante a la amenaza de un aumento de la inflación .  
+La Reserva federal debe simplemente hacer caso omiso a las protestas atávicas , como hizo - y con razón - la semana pasada .  

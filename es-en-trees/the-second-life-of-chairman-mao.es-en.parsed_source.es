@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">La</tree></tree><tree label="^isentence"><tree label="s.a"><tree label="AO">segunda</tree></tree><tree label="NC">vida</tree></tree></tree><tree label="sp"><tree label="SP">de</tree><tree label="sn"><tree label="NP">Mao</tree></tree></tree></tree></tree> 

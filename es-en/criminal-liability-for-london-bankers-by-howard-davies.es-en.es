@@ -1,0 +1,39 @@
+La tasa Libor desatascada  
+Londres - El escándalo de la tasa Libor del año pasado fue un shock para el cuerpo político en Londres .  
+A pesar de todo lo que había pasado anteriormente , el público y sus representantes se sorprendieron al saber que los banqueros , con el fin de obtener beneficios personales , habían socavado sistemáticamente las bases de un punto de referencia en el mercado mundial - un punto de referencia que además de todo lo que representa incluye el nombre de Londres en su denominativo en inglés .  
+El Ministro de hacienda británico , George osborne , se vio obligado a poner en marcha una investigación parlamentaria .  
+El 19 de junio , después de un año de trabajo , la Comisión parlamentaria sobre Estándares bancarios finalmente presentó sus resultados , este hecho metafóricamente se puede describir indicando que dicha Comisión puso un gran huevo ( a large egg ) .  
+Sin duda , los banqueros consideran estos resultados como lo que en Inglaterra nos gusta llamar un " huevo de cura " ( se dice que cuando se preguntó a un joven clérigo , a quien su obispo le había servido un huevo podrido si el huevo era de su agrado , respondió que el huevo tenía " partes buenas " ) .  
+Los banqueros se atragantarán con la recomendación de la Comisión sobre la creación de un nuevo delito penal que castiga la conducta imprudente que lleva a rescates de la banca con fondos de los contribuyentes , delito que se vería reforzado por un nuevo régimen sobre " personas sénior " que atribuiría todas las funciones bancarias a una persona específica , quien a su vez sería considerado personalmente responsable si las cosas van mal .  
+La Comisión sostiene que " los principales banqueros esquivaron la responsabilidad por fallas que ocurrieron mientras ellos estaban a cargo , alegando ignorancia o escondiéndose detrás de la toma de decisiones colectivas " .  
+Los miembros de la Comisión procuran que esto nunca más se vuelva a repetir .  
+Si los miembros se la Comisión consiguen lo que quieren , comportarse imprudentemente con los activos bancarios llevará a una pena de prisión , sin que exista una tarjeta al estilo del juego de mesa " Monopolio " que diga que estos banqueros pueden " salir libre de la cárcel " .  
+Ya puedo escuchar a los abogados afilando sus lápices : el delito debe definirse con la suficiente especificidad como para resistir una impugnación basada en los derechos humanos .  
+Sin embargo , en caso de aplicarse el régimen propuesto por la Comisión , no cabe duda que será más estricto que los regímenes que ahora se tienen a disposición en Nueva york y en otros centros bancarios .  
+Asimismo , los parlamentarios británicos se muestran notablemente más impacientes con lo que ellos consideran el ritmo glacial de cambio de las regulaciones a nivel mundial , ellos quieren que se tomen acciones ahora .  
+Si el Reino unido realmente procede de esta manera unilateral , ¿ cuáles serían las consecuencias para el sector bancario de Londres ?  
+¿ Recibirían un impulso competitivo los centros bancarios en Nueva york , Frankfurt , o incluso París si los banqueros internacionales huyen de la ciudad de Londres , alarmados ante la perspectiva de pasar tiempo tras las rejas si sus operaciones de derivados se desmoronan nuevamente ?  
+Los miembros de la Comisión ofrecen dos respuestas a dichas preguntas , mismas que son algo contradictorias entre sí .  
+La primera indica que , francamente , no les importa .  
+" No se debe tomar en cuenta el riesgo de un éxodo " , dice la Comisión , señalando que las ventajas de ser un centro financiero mundial se han visto acompañadas por graves riesgos que afectan a la economía nacional .  
+A diferencia de Estados unidos , donde el sector financiero representa una menor proporción del Pib , la economía del Reino unido aún no ha recuperado la producción perdida durante la época posterior a la Gran recesión del año 2008 , debido a la continua reducción de personal en el sector bancario .  
+Los miembros de la Comisión reconocen que la pérdida del estatus de Londres como centro financiero mundial sería costosa en términos de empleo y producción , por lo que desarrollaron una segunda línea de argumentación .  
+Cuando esta Comisión expresa su opinión sobre la igualdad de condiciones en las finanzas internacionales dice que , " no hay nada inherentemente óptimo " acera de dichas condiciones .  
+En la opinión de la Comisión , los intentos de desarrollar un mercado financiero único europeo han obligado a los países a responder a las deficiencias reveladas por la crisis del año 2008 a la velocidad del " barco más lento en el convoy marino " .  
+Por el contrario , según la Comisión , " puede haber grandes beneficios para el Reino unido en su calidad de centro financiero si se demuestra que este centro sí puede establecer y adherirse a normas significativamente superiores al mínimo internacional " .  
+Además del nuevo y estricto régimen de responsabilidad personal , la Comisión complementaría las normas de Basilea sobre el capital de los bancos con un ratio de apalancamiento más exigente .  
+El gobierno británico , preocupado por encontrar formas para estimular el crecimiento debido a que se acerca la próxima contienda electoral , con seguridad pensará mucho antes de hacer cualquier cambio que pudiese conducir los negocios hacia fuera del país .  
+Pero el gobierno está atrapado entre la espada y la pared , ya que está cercado por un parlamento dispuesto a realizar reformas , que tiene un fuerte respaldo tanto de una prensa hostil con los bancos como de la opinión pública , y por las directivas de la Ue que piden se ponga en práctica un régimen más estricto .  
+Por lo tanto , ¿ está la Comisión en lo correcto al indicar que el gobierno debe actuar con rapidez con relación a las reformas y no tomar en cuenta las consecuencias ?  
+La evidencia que uno puede encontrar en los estudios internacionales sugiere que los cambios normativos implementados hasta ahora no hicieron huir a los banqueros .  
+Londres ya ha implementado un enfoque que es más estricto que el de la mayoría de los otros centros financieros .  
+En la actualidad los reguladores son perceptiblemente más exigentes y más intrusivos que sus contrapartes en Nueva york .  
+A los banqueros no les gusta esto , pero aún no han partido hacia otros lugares que sean más de su agrado .  
+Tampoco indican que lo harán .  
+De hecho , el último índice Z-yen de los centros financieros mundiales ( Z-yen index of global financial centers ) mostró que Londres mantenía su posición en el primer lugar - y con un margen sin cambios con relación a Nueva york .  
+Los centros asiáticos están ganando terreno , como es de esperar , pero difícilmente son competidores directos para los negocios que pudiesen llevarse a cabo en Londres .  
+Los centros financieros de Frankfurt y París , los competidores europeos más plausibles , están languideciendo en la décima y la veintiseisava posición , respectivamente .  
+Las agencias de calificación y los accionistas se ponen nerviosos cuando se enteran de que un entorno regulatorio más estricto no es necesariamente una desventaja .  
+Sin embargo , un régimen en el que la responsabilidad personal afecta fuertemente a las personas dentro de una jurisdicción hará reflexionar a los banqueros , sobre todo en el caso de los bancos mundiales que tienen complejos sistemas matriciales de gestión que permiten que los jefes de productos financieros se desplacen a otros lugares .  
+Los legisladores británicos deberán comprobar que cualquier nuevo régimen encarcele a las personas correctas , en la manera correcta .  
+Independientemente de cuan atractiva políticamente sea la idea de poner tras las rejas a banqueros sin escrúpulos , en la práctica es probable que ponerlos allí continúe siendo un gran desafío .  

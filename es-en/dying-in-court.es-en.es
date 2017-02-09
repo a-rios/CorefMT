@@ -1,0 +1,31 @@
+Morir en los tribunales  
+Utrecht - Gloria taylor , canadiense , tiene esclerosis lateral amiotrófica ( Ela ) , también conocida como enfermedad de Lou gehrig .  
+Durante unos años sus músculos se debilitarán hasta que ya no pueda caminar , utilizar las manos , masticar , tragar , hablar y , al final , respirar .  
+Entonces morirá .  
+Taylor no quiere pasar por todo eso .  
+Quiere morir en el momento que elija ella misma .  
+El suicido no es delito en el Canadá , por lo que , como dice Taylor : " Sencillamente , no puedo entender por qué a quienes pueden mover su cuerpo y padecen una enfermedad terminal la ley les permite dispararse cuando ya no pueden soportar más su situación , porque pueden sostener y apuntar una pistola , pero , como mi enfermedad afecta a mi capacidad para mover y controlar mi cuerpo , no se puede permitirme recibir ayuda compasiva para que pueda cometer un acto equivalente utilizando una medicación letal " .  
+Taylor considera que la ley le ofrece una alternativa cruel : o bien poner fin a su vida cuando aún puede disfrutarla , pero tiene capacidad para matarse , o renunciar al derecho que otros tienen a poner fin a su vida cuando decidan hacerlo .  
+Acudió a los tribunales , con el argumento de que las disposiciones del Código penal que le impiden recibir asistencia para morir están en contradicción con la Carta canadiense de derechos y Libertades , que concede a los canadienses los derechos a la vida , la libertad , la seguridad personal y la igualdad .  
+La vista del tribunal fue notable por la minuciosidad con la que la juez Lynn smith examinó las cuestiones éticas que se le habían planteado .  
+Recibió dictámenes periciales de figuras destacadas sobre los dos aspectos de la cuestión , no sólo canadienses , sino también expertos de Australia , Bélgica , los Países bajos , Nueva zelanda , Suiza , el Reino unido y los Estados unidos , cuyos conocimientos técnicos abarcaban la medicina general , los cuidados paliativos , la neurología , los estudios sobre discapacidades , la gerontología , la psiquiatría , la psicología , el derecho , la filosofía y la bioética .  
+Muchos de ellos fueron interrogados en el tribunal .  
+Junto con el derecho de Taylor a morir , se examinaron detenidamente los debates celebrados durante decenios sobre la asistencia para morir .  
+El mes pasado , Smith dictó sentencia .  
+El caso , Carter v . el Canadá , podría servir de libro de texto sobre los datos , la legislación y la ética de la asistencia para morir .  
+Por ejemplo , se ha debatido mucho la diferencia entre la práctica aceptada de retirar el apoyo vital o cualquier otro tratamiento , sabiendo que es probable que el paciente muera sin él , y la práctica impugnada de ayudar activamente a un paciente a morir .  
+Según la sentencia de Smith , " una distinción ética nítida resulta escurridiza " y la opinión de que no existe semejante distinción ética es " convincente " .  
+Examina y acepta un argumento propuesto por Wayne sumner , distinguido filósofo canadiense : si las circunstancias del paciente son tales , que el suicido resultaría éticamente permisible , en caso de que el paciente pudiera cometerlo , en ese caso también es éticamente permisible que el médico facilite el medio para que el paciente lo haga .  
+Smith tuvo que juzgar también si había consideraciones de política pública que se opusieran a la legalización de la asistencia médica para morir .  
+Su decisión se centra principalmente en el riesgo de que se presione a personas vulnerables - por ejemplo , los mayores o quienes tengan discapacidades - para que acepten la asistencia para morir cuando no la deseen de verdad .  
+Existen opiniones opuestas sobre si la legalización de la eutanasia voluntaria en los Países bajos y la asistencia médica para morir en Oregón han propiciado un aumento en el número de personas vulnerables muertas o asistidas para morir sin que hayan concedido su completo consentimiento con conocimiento de causa .  
+Durante muchos años , Herbert hendin , psiquiatra y experto en suicidios , ha afirmado que las salvaguardas incluidas en esas leyes no protegen a los vulnerables .  
+Ofreció documentación al respecto en el juicio .  
+Lo mismo hizo , por la otra parte , Hans van Delden , médico de una residencia y bioético que durante los veinte últimos años ha participado en todos los estudios empíricos más importantes de decisiones para poner fin a vidas en su país .  
+Peggy battin , la más destacada bioética americana que se ocupa de la muerte y la eutanasia , también testificó .  
+En esa controversia , Smith se inclina firmemente por la posición de Van delden y Battin , al concluir que " la documentación empírica reunida en las dos jurisdicciones no abona la hipótesis de que la muerte con asistencia médica haya impuesto un riesgo particular a las poblaciones socialmente vulnerables " .  
+De hecho , dice , " la documentación abona la posición del Dr. van delden de que es posible que un Estado designe un sistema que permita a algunas personas el acceso a la muerte con asistencia médica y a la vez proteja socialmente a las personas y los grupos vulnerables " .  
+( El informe holandés más reciente , publicado después de que Smith dictara sentencia , confirma que no ha habido un aumento espectacular de los casos de eutanasia en los Países bajos . )  
+Después , tras examinar la legislación aplicable , Smith declaró que las disposiciones del Código penal que impiden la asistencia médica para morir violan el derecho de las personas discapacitadas no sólo a la igualdad , sino también a la vida , la libertad y la seguridad .  
+Así abrió la vía a la asistencia médica para morir a cualquier persona adulta capacitada y grave e irremediablemente enferma , en condiciones no demasiado diferentes de las que se aplican en otras jurisdicciones en las que dicha asistencia es legal .  
+La decisión será recurrida casi con toda seguridad y parece probable que el resultado final dependerá de las interpretaciones que de la legislación canadiense hagan los jueces de apelación , pero parece probable que el veredicto de Smith sobre la ética de la asistencia para morir - y de los datos relativos a las jurisdicciones , como las de los Países bajos y Oregón , que la autorizan - estará vigente durante mucho tiempo en el futuro .  

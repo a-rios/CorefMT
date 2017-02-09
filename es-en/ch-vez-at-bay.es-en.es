@@ -1,0 +1,22 @@
+Chávez a raya  
+São Paulo - Las recientes victorias de la oposición en las elecciones estatales y municipales de Venezuela , junto con la crisis financiera internacional , han empezado a poner límites a los poderes del Presidente hugo chávez por primera vez en el decenio que lleva en el poder .  
+De hecho , las elecciones han demostrado que el control del país por parte de Chávez ya no es total .  
+Ahora hay una oposición sólida en Venezuela y menos distancia entre quienes gobiernan y quienes quieren gobernar .  
+Teniendo en cuenta que la oposición sigue pagando un precio por su boicoteo de las elecciones de 2005 que dieron a Chávez un control absoluto del Parlamento , se trata de un avance importante .  
+La fuerza y la coherencia , cada vez mayores , de la oposición no se deben sólo al número de partidarios de Chávez que lo han abandonado .  
+De hecho , quienes en otro tiempo abrigaban la esperanza de crear un " tercer eje " en la política venezolana fueron marginados por la tradicional polarización entre los partidarios y los oponentes de Chávez .  
+En cambio , la oposición ha aumentado por haber recuperado los niveles de apoyo popular que obtuvo en 1998 y 2001 - en torno al 40 por ciento - y porque ha logrado devolver a su grey a los abstencionistas e indecisos , incluidas importantes facciones populares .  
+Ahora la oposición está representada sobre todo por políticos democráticos profesionales , que no sólo han unido a un gran grupo de facciones diversas , sino que , además , han desplazado a los " Salvadores de la patria " , grupo acostumbrado a dirigir a la oposición desde los salones de los hoteles de la capital .  
+La nueva dirección de la oposición desplazó también a quienes querían suplantar a los dirigentes " populistas " con una oposición antipolítica .  
+Así , pues , la oposición ha logrado su objetivo : una cabeza de playa en la política venezolana con auténtico e importante apoyo popular .  
+Ese reequilibrio político en cuanto a votos y a instituciones , podría crear mayores barreras contra cualquier desviación autoritaria , venga de donde viniere .  
+Chávez y sus partidarios deben aprender ahora lo que es gobernar dentro de límites .  
+El Presidente había abrigado la esperanza de repetir su papel de " gran propagandista " en elecciones anteriores , por lo que dirigió personalmente su campaña e hizo caso omiso a la crítica de que estaba aprovechándose fraudulentamente de su cargo , pero , al final , esa ventaja y sus habituales amenazas verbales contaron menos que el deseo de los votantes de algunas ciudades y regiones de castigar a su régimen por su desgobierno .  
+La paradoja de estas elecciones que han causado un sobresalto es la de que , en realidad , van a estabilizar la política en Venezuela , al menos de momento , y van a contribuir a una renovación de la democracia , cosa importante para la oposición , porque su nueva influencia surge en un momento en el que , con la contracción económica y la abrupta bajada de los precios del petróleo , al Gobierno le va a resultar difícil seguir comprando el apoyo mediante subvenciones y donativos .  
+Eso no quiere decir que la retórica revolucionaria y antiimperialista de Chávez haya perdido su atractivo , pero ya no basta para garantizar su poder sin control .  
+De hecho , las sombras de militarismo que han aparecido sobre el régimen de Chávez pueden haber inquietado a una mayoría de venezolanos que se pregunta quién será el próximo adversario perseguido .  
+No obstante , está claro que Chávez continuará con su socialismo tropical , proclamando el valor de la democracia participativa de Venezuela e insistiendo en su credo antiimperialista .  
+Entretanto , la oposición intentará rentabilizar su victoria , que , aunque parcial , ha sido importante en su simbolismo político .  
+Entre esos extremos , el pueblo de Venezuela observará el desarrollo de los acontecimientos , reacio a comprometer su democracia o a perder los privilegios económicos que ha obtenido .  
+Ahora Chávez afronta una nueva realidad electoral , surgida por primera vez en diciembre de 2007 , cuando perdió el referéndum consultivo que había convocado para reformar la Constitución .  
+Los resultados electorales de noviembre de 2008 y una crisis financiera mundial que podría superar la capacidad de Chávez para pagar sus políticas radicales pueden limitar ahora sus posibilidades de seguir dividiendo un país cuyos habitantes , como la mayoría de las personas , quieren vivir en una democracia pacífica y próspera .  

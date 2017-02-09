@@ -1,0 +1,39 @@
+La salud de la política americana  
+Cambridge - El plan del Presidente barack obama de ampliar la cobertura de salud a casi todos los americanos , recientemente aprobado por el Congreso de los estados unidos , constituye la legislación social más importante promulgada en el país desde el decenio de 1960 .  
+Aunque la oposición republicana sigue siendo fuerte , la ley fue una importante victoria política nacional para Obama .  
+Su promulgación tiene también consecuencias más amplias , porque , como la elección de Obama en 2008 , aborda cuestiones relativas a la salud del sistema político de los Estados unidos .  
+Al fin y al cabo , en tiempos estaba generalizada la opinión de que un afroamericano sin una máquina política no podía llegar a presidente .  
+Recientemente , muchos observadores han sostenido que el paralizado sistema político americano impediría al país plasmar sus abundantes recursos de poder en capacidad de dirección .  
+Como ha sostenido recientemente un periodista perspicaz , " los Estados unidos siguen teniendo los medios necesarios para abordar casi todas sus deficiencias estructurales ... la utilización de la energía , los gastos médicos , la adecuada combinación educativa y ocupacional para revitalizar una clase media sólida .  
+ésa es la tragedia americana de comienzos del siglo xxi : una cultura llena de vitalidad , que se renueva a sí misma y atrae el talento del mundo y un sistema de gobierno que cada vez parece más una broma " .  
+El de la conversión del poder - la plasmación de los recursos de poder en una influencia efectiva - es un problema antiguo para los Ee.uu. la constitución se basa en la concepción liberal del siglo xviii de que la mejor forma de controlar el poder es mediante la fragmentación y los contrapesos .  
+En materia de política exterior , la Constitución de los ee.uu. siempre ha incitado al Presidente y al Congreso a luchar por el control .  
+Poderosos grupos de presión económicos y étnicos luchan por sus definiciones egoístas del interés nacional .  
+El Congreso siempre presta atención a quienes hacen ruido y los intereses especiales lo apremian para que legisle sobre tácticas en materia de política exterior , códigos de conducta y sanciones a otros países .  
+Como observó Kissinger en cierta ocasión , " lo que críticos extranjeros presentan como una búsqueda de la dominación por parte de los Estados unidos es con mucha frecuencia una respuesta a grupos de presión interiores " .  
+El efecto acumulativo - proseguía Kissinger - " mueve a la política exterior americana a adoptar una actitud unilateral e intimidatoria , pues , a diferencia de las comunicaciones diplomáticas , que en general son una invitación al diálogo , la legislación se plasma en una prescripción que no admite negociación , el equivalente operativo de un ultimátum " .  
+También constituye un motivo de preocupación la disminución de la confianza pública en las instituciones de los Ee.uu. en 2010 , sólo una quinta parte de los americanos ha dicho que confiaba en que el Gobierno hiciera lo adecuado todo el tiempo o la mayor parte del tiempo .  
+Como lo expresó William galston , ex miembro del equipo de gobierno de Clinton , " nunca es más importante la confianza que cuando se pide a los ciudadanos que hagan sacrificios con vistas a un futuro mejor .  
+La desconfianza del gobierno que haga esa petición podría ser la precursora - o incluso la causa - de la decadencia nacional " .  
+La fundación de los Estados unidos se basó en parte en la desconfianza del Gobierno y , según una larga tradición que se remonta hasta Thomas jefferson , los americanos no deben preocuparse demasiado por los bajos niveles de confianza en el Gobierno .  
+Cuando no se le pregunta por la gestión diaria de los asuntos públicos , sino sobre el marco constitucional subyacente , el público adopta una posición positiva .  
+De hecho , si se pregunta a los americanos cuál es el mejor lugar para vivir , el 80 por ciento dice que los Ee.uu. si se les pregunta si les gusta el sistema democrático de gobierno , el 90 por ciento dice que sí .  
+Pocos son los que creen que el sistema está podrido y debe ser derrocado .  
+Probablemente algunos aspectos del estado de ánimo actual sean cíclicos , mientras que otros representan un descontento con las peleas y el punto muerto políticos .  
+Es cierto que , cuando se la compara con el pasado reciente , la política de los partidos ha llegado a estar más polarizada , pero la política malintencionada no es nada nuevo y gran parte de las pruebas de la pérdida de confianza en el Gobierno corresponden a datos de las encuestas , en las que se sopesan respuestas sensibles a la forma de formular las preguntas .  
+Además , la mayor disminución se produjo hace más de cuatro decenios , a finales del de 1960 y a principios del de 1970 .  
+Eso no quiere decir que las expresiones de una menor confianza en el Gobierno no sean problemáticas .  
+Sean cuales fueren las razones para dicha disminución , si el público llega a mostrarse reacio a aportar recursos decisivos , como , por ejemplo , los dólares de los impuestos , o a cumplir voluntariamente con las leyes o si jóvenes brillantes se niegan a dedicarse al servicio gubernamental , la capacidad gubernamental resultará deficiente y el público llegará a estar más insatisfecho con él .  
+Un clima de desconfianza puede también desencadenar acciones extremas por parte de miembros desviados de la población , como , por ejemplo , un atentado con bomba contra un edificio federal en la Ciudad de oklahoma en 1995 .  
+Hasta ahora , esos resultados en materia de comportamiento no parecen haberse materializado .  
+El Servicio de impuestos internos no ve un aumento del fraude fiscal .  
+En muchos sentidos , los funcionarios de la Administración han llegado a ser menos corruptos que en decenios anteriores y el Banco mundial concede una calificación alta a los Ee.uu. ( más del 90 por ciento ) en materia de " control de la corrupción " .  
+Además , después de cuarenta años de aumento de la abstención en las elecciones presidenciales , del 38 por ciento al 50 por ciento , en 2000 se redujo y en 2008 volvió a ascender al 42 por ciento .  
+El comportamiento de los ciudadanos no parece haber cambiado tan espectacularmente como las respuestas a las encuestas de opinión .  
+Tres cuartas partes de los americanos se sienten vinculados con sus comunidades y dicen que la calidad de la vida en ellas es excelente o buena ; el 40 por ciento dice que la colaboración con otros en su comunidad es lo más importante que pueden hacer .  
+En los últimos años , la política y las instituciones políticas americanas han llegado a estar más polarizadas de lo que indica la distribución de las opiniones .  
+La situación se agravó con la contracción económica posterior a 2008 .  
+Como concluía recientemente un editorial de The economist , " el sistema político de los Estados unidos fue concebido para que la legislación en el nivel federal resultara difícil , no fácil .  
+Sus fundadores consideraban que la mejor forma de gobernar un país del tamaño de los Estados unidos era en el nivel local , no en el nacional . ( ... )  Así , pues , el sistema básico funciona , pero eso no es una excusa para pasar por alto los sectores en que podría reformarlo " , como , por ejemplo , la garantía de obtener escaños seguros en la Cámara de representantes mediante la alteración de los límites de distritos electorales y los procedimientos de bloqueo del reglamento del Senado y el filibusterismo  
+Está por ver si el sistema político americano podrá reformarse y afrontar esa clase de problemas .  
+La victoria de Obama en materia de atención de salud , como su elección en 2008 , indica que el sistema político de los Estados unidos no está tan destrozado como quieren hacernos creer los críticos que trazan analogías con la caída de Roma o de otros imperios .  

@@ -1,0 +1,38 @@
+La verdad sobre la soberanía  
+Cambridge - Durante el debate mantenido hace poco en el parlamento francés para discutir el nuevo tratado fiscal europeo , el gobierno socialista de Francia negó vehementemente que su-nonhum-sg ratificación supusiera una limitación de la soberanía del país .  
+El primer ministro Jean ‑ Marc ayrault aseguró que el tratado no impone " ninguna restricción en el nivel del gasto público " y dummy-he agregó que " El parlamento de la República francesa conserva la soberanía presupuestaria " .  
+Mientras Ayrault intentaba tranquilizar a su-masc-sg colegas más escépticos ( entre ellos , muchos miembros de su-masc-sg propio partido ) , el Comisario europeo de competencia , Joaquín almunia , dummy-he estaba enviando un mensaje similar a su-masc-sg compañeros socialdemócratas en Bruselas .  
+Para que Europa salga adelante , dummy-he les dijo , dummy-he debe demostrar que están equivocados los que-hum creen que hay un conflicto entre globalización y soberanía .  
+A nadie le gusta ceder soberanía nacional , y parece que a los políticos de izquierda menos que a nadie .  
+Pero al negar el hecho evidente de que para que la eurozona sea viable es necesario introducir restricciones sustanciales a la soberanía , los líderes europeos están engañando a su-pl votantes , retrasando la europeización de la política democrática y aumentando el costo político y económico que habrá que pagar en definitiva .  
+El objetivo al que apunta la eurozona es lograr la plena integración económica de la región , lo cual implica eliminar los costos de transacción que obstaculizan las actividades comerciales y financieras transfronterizas .  
+Para que esto sea posible , es evidente que los gobiernos deben abstenerse de aplicar restricciones directas al comercio y los flujos de capital ; pero además , dummy-they deben armonizar con los otros estados miembros su-pl normas y reglamentos nacionales ( por ejemplo , las normas de seguridad de los productos y las normativas bancarias ) , para evitar que dummy-they opongan barreras indirectas al comercio .  
+Y también deben comprometerse a no hacer cambios en estas políticas , ya que de lo contrario la incertidumbre misma actuará como costo de transacción .  
+Todo esto ya estaba implícito en la iniciativa de crear un mercado único para la Unión europea ; la eurozona significó un avance adicional , ya que con la unificación monetaria se pretendía erradicar por completo los costos de transacción asociados con las monedas nacionales y el riesgo cambiario .  
+En pocas palabras , el proyecto de integración europea siempre ha supuesto restricciones a la soberanía nacional .  
+La incertidumbre que ahora pesa sobre su-nonhum-sg futuro se debe a que la soberanía ha vuelto a interponerse en el camino del proyecto .  
+En una unión económica auténtica , sostenida por instituciones políticas comunes , los problemas financieros de Grecia , España y otros países no se habrían agigantado como ahora , hasta el punto de amenazar la existencia misma de la unión .  
+dummy-we Podemos hacer una comparación con Estados unidos : allí , a nadie se le ocurre llevar registro de ( por decir algo ) el déficit de cuenta corriente entre Florida y el resto del país ( aunque dummy-nonhum es casi seguro que ha de ser enorme , ya que en Florida residen muchos jubilados que-hum viven de prestaciones sociales financiadas con fondos procedentes de otros lugares ) .  
+Si el gobierno del estado de Florida se declarara en bancarrota , los bancos de Florida seguirían funcionando normalmente , porque se encuentran bajo jurisdicción federal , no del estado .  
+Si fueran los bancos de Florida los que se vinieran a pique , las finanzas del estado no se verían afectadas , porque los bancos son en última instancia responsabilidad de instituciones federales .  
+Si un trabajador de Florida se queda sin empleo , el subsidio de desempleo se lo pagan desde Washington , Dc .  
+Y si a los votantes de Florida no les gusta la marcha de la economía , no dummy-they irán a protestar y provocar disturbios a la capital del estado , sino que dummy-they presionarán a su-pl representantes en el Congreso para que dummy-they introduzcan cambios en las políticas federales .  
+dummy-nonhum No parece que a los estados de la Unión les sobre soberanía .  
+Hay que sumarle a esto cierto malentendido que hay en lo que atañe a la relación entre soberanía y democracia .  
+Restringir el ejercicio de la soberanía no siempre dummy-nonhum es antidemocrático .  
+En politología se habla de " delegación democrática " , esto es , la idea de que para obtener mejores resultados , hay ocasiones en las que el soberano tal vez prefiera circunscribir su-nonhum-sg poder ( apelando a compromisos internacionales o delegando poderes a agencias autónomas ) .  
+El ejemplo por excelencia es el de los bancos centrales independientes , en los cuales se delega la gestión diaria de la política monetaria para aislarla de los vaivenes políticos y así obtener una mejor estabilidad de precios .  
+Pero aunque una limitación selectiva de la soberanía puede mejorar el funcionamiento del sistema democrático , dummy-it no está garantizado que todas las limitaciones implícitas en la integración de mercados vayan a funcionar .  
+En la política interna de cada país , el alcance de la delegación se calibra con mucho cuidado para restringirla a unas pocas áreas donde las cuestiones suelen ser extremadamente técnicas y las diferencias entre los partidos no son significativas .  
+Una globalización realmente prodemocrática respetaría estos límites y solo dummy-nonhum impondría restricciones compatibles con la idea de delegación democrática , a las que tal vez dummy-nonhum complementaría con unas pocas normas procedimentales que mejoren el debate democrático fronteras adentro ( por ejemplo , normas de transparencia , rendición de cuentas , representatividad , uso de datos científicos , etc. ) .  
+Como el ejemplo de Estados unidos deja en claro , se puede ceder soberanía ( dummy-nonhum es lo que han hecho Florida , Texas , California y los otros estados de la Unión ) sin menoscabar la democracia .  
+Pero para combinar integración de mercados con democracia deben crearse instituciones políticas supranacionales que sean representativas y estén obligadas a rendir cuentas de su-pl acciones .  
+El conflicto entre democracia y globalización adquiere proporciones graves cuando la globalización , al mismo tiempo que dummy-nonhum restringe la articulación local de las preferencias políticas , no ofrece a cambio una ampliación del espacio democrático en el nivel regional o global .  
+La agitación política que vemos en España y Grecia dummy-nonhum indica que Europa ya fue demasiado lejos en ese sentido .  
+Aquí entra en juego mi trilema político : no se puede tener globalización , democracia y soberanía nacional , todo al mismo tiempo .  
+De las tres opciones , hay que elegir dos .  
+Si los líderes europeos quieren conservar la democracia , dummy-they deberán elegir entre la unión política y la desintegración económica .  
+O bien dummy-they renuncian explícitamente a la soberanía económica o bien comienzan a emplearla activamente en beneficio de su-pl ciudadanos .  
+Lo primero supone sincerarse con los respectivos electorados y construir un espacio democrático por encima del nivel de las naciones ‑ estado .  
+Lo segundo , renunciar a la unión monetaria y poner en marcha políticas monetarias y fiscales de nivel nacional que sirvan a una recuperación sostenida .  
+Cuanto más posterguen esta decisión , mayor dummy-it será el costo económico y político que habrá que pagar en definitiva .  

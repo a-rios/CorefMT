@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="NC">Bienes_públicos</tree><tree label="sn"><tree label="NP">Globales</tree></tree></tree><tree label="sn"><tree label="f"><tree label="Fd">:</tree></tree><tree label="^isn"><tree label="spec"><tree label="DA">El</tree></tree><tree label="NP">Componente_ausente</tree></tree></tree></tree></tree> 

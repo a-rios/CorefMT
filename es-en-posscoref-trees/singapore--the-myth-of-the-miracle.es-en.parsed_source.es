@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="NP" ord="s1.1">Singapur</tree><tree label="sn"><tree label="f"><tree label="Fd" ord="s1.2">:</tree></tree><tree label="^isn"><tree label="spec"><tree label="DA" ord="s1.3">El</tree></tree><tree label="NP" ord="s1.4">Mito_del_milagro</tree></tree></tree></tree></tree> 

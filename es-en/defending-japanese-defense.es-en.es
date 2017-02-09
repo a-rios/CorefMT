@@ -1,0 +1,27 @@
+Defender la defensa japonesa  
+El Gobierno y el Consejo nacional de seguridad del japón se proponen revisar el Esbozo de programa de defensa nacional ( Epdn ) al final de este ańo .  
+En un borrador de los cambios propuestos presentado al Primer ministro junichiro koizumi se asignan tres tareas principales a las Fuerzas de autodefensa : una reacción eficaz contra las nuevas amenazas , la participación en actividades internacionales de mantenimiento de la paz y la defensa contra una invasión .  
+La compleja situación actual en materia de seguridad , con ataques terroristas por parte de agentes no estatales que se producen paralelamente a las guerras tradicionales entre Estados , requiere una estrategia ágil e integrada .  
+El proyecto de revisión del Epdn parece reconocerlo , al subrayar la necesidad de unas medidas propias de defensa por parte del Japón , la cooperación mediante la alianza Japón-estados unidos y las contribuciones a las misiones multilaterales .  
+Además , el Consejo nacional de seguridad ha indicado la necesidad de introducir un nuevo plan para unas fuerzas de defensa flexibles y multifuncionales .  
+Por desgracia , algunos componentes decisivos de la estrategia de seguridad del Japón que está surgiendo siguen siendo vagos y contradictorios .  
+Por ejemplo , si bien se considera poco probable la amenaza de una invasión , en el Libro blanco de la defensa de 2004 se sostiene que " la función primordial " de las Fuerzas de autodefensa es la de prepararse para lo peor , porque no se puede desarrollar de la noche a la mańana una capacidad defensiva suficiente .  
+Dicho de otro modo , el Japón afirmará claramente su voluntad de defender la nación y prevenir una invasión en combinación con el sistema de seguridad Japón-estados unidos .  
+Por otra parte , el Consejo nacional de seguridad propone " reducir el tamańo de las fuerzas de defensa " , lo que entrańa una atenuación de la voluntad de defensa .  
+En realidad , el hecho de que no se seńale posibilidad alguna de una " ampliación en caso de emergencia " de las Fuerzas de autodefensa agrava esa preocupación .  
+Desde luego , el gobierno es el encargado en última instancia de determinar la escala apropiada de capacidad de defensa en consonancia con las consideraciones fiscales , pero también tiene la obligación de preparar una política detallada y realista encaminada a lograr el nivel necesario de capacidad de defensa en caso de amenazas imprevistas .  
+Así , pues , el Gobierno del japón debe dar una indicación clara de su voluntad auténtica de defender la seguridad del país .  
+Naturalmente , no se puede juzgar la capacidad de defensa sólo por los niveles de las fuerzas .  
+La concepción que figura en el proyecto de Epdn de unas nuevas Fuerzas de autodefensa , más adaptables , móviles , flexibles y para usos diversos , con recursos tecnológicos avanzados y capacidad para la recogida de información , requiere una reevaluación fundamental de la organización y el equipo existentes .  
+De conformidad con las medidas adoptadas por la comunidad internacional para garantizar la paz y la estabilidad , el proyecto establece también la creación de una unidad básica en cada una de las ramas militares y un sistema operacional integrado .  
+La reorganización militar prevista en el Epdn es de gran alcance .  
+Las fuerzas de tierra del Japón deben reorientar su estructura actual , orientada a la consecución de la capacidad de combate para contrarrestar una invasión en gran escala , con miras a contar con una mayor adaptabilidad para las acciones militares en circunstancias menos graves .  
+La marina debe dejar de estar centrada en la capacidad para la guerra antisubmarina , propia de la época de la guerra fría , y crear una estructura encaminada a defender las islas , vigilar y contrarrestar los ataques con cohetes balísticos y luchar contra las actividades ilegales de barcos espías .  
+La fuerza aérea debe continuar con sus actividades de vigilancia en el espacio aéreo circundante y mantener la disposición para contrarrestar los ataques aéreos , además de modificar en parte las tácticas para reaccionar contra una invasión , pues disminuye la probabilidad de un ataque desde el aire .  
+Un problema es la dilución de la capacidad para la guerra antisubmarina .  
+El Japón debe desarrollar unas fuerzas de defensa equilibradas y con la capacidad necesaria para reaccionar ante las nuevas amenazas , como , por ejemplo , el rápido aumento de la flota de China , en particular sus fuerzas submarinas .  
+La importancia de la capacidad para la guerra antisubmarina en el Pacífico occidental no ha disminuido .  
+Al contrario , la reciente violación de las aguas territoriales japonesas por submarinos nucleares chinos indica que , en lugar de reducirla , se debe aumentar aún más dicha capacidad .  
+Si el Japón decide efectivamente reducir sus fuerzas de defensa a ese respecto , un cambio audaz y cualitativo resulta inevitable .  
+En particular , podría entrańar la introducción de lo que hasta ahora se había considerado equipo tabú , como , por ejemplo , los portaviones ligeros o los submarinos nucleares .  
+En esta época de incertidumbre , cuando hasta la naturaleza de las amenazas que la nación afronta es incierta , los planificadores militares y estratégicos del Japón deben seguir buscando formas de adaptar las Fuerzas de autodefensa a las numerosas amenazas actuales , pero de un modo que aporte una dirección auténtica y que la población , los militares y los vecinos del Japón consideren convincente .  

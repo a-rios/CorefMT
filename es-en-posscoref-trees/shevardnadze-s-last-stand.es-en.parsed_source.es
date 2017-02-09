@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="f"><tree label="Fia" ord="s1.1">¿</tree></tree><tree label="^isentence"><tree label="spec"><tree label="DA" ord="s1.2">La</tree></tree><tree label="NP" ord="s1.3">última_jugada_de_shevardnadze</tree></tree></tree><tree label="f"><tree label="Fit" ord="s1.4">?</tree></tree></tree></tree> 

@@ -1,0 +1,36 @@
+Los coches eléctricos y el desarrollo sostenible  
+Nueva York - La clave para la lucha contra el cambio climático estriba en una tecnología mejor .  
+Tenemos que encontrar nuevas formas de producir y utilizar la energía , satisfacer nuestras necesidades alimentarias , trasladarnos de un lugar a otro y calentar y refrescar nuestros hogares , que nos permitan reducir el consumo de petróleo , gas , carbón , fertilizantes de nitrógeno y otras fuentes de gases que provocan el efecto de invernadero .  
+Hay suficientes opciones válidas disponibles mediante las cuales el mundo puede lograr el objetivo de luchar contra el cambio climático con un costo razonable ( tal vez el uno por ciento de la renta mundial al año ) , sin por ello impedir a la economía mundial seguir creciendo y elevando el nivel de vida .  
+Una de las novedades más interesantes que se perfilan en el horizonte es la nueva generación de automóviles eléctricos .  
+En los primeros tiempos del automóvil , al final del siglo xix , muchas clases de coches competían entre sí : vapor , batería y motor de combustión interna ( Mci ) .  
+Los motores de combustión interna propulsados por gasolina y diésel se llevaron la palma con el éxito del modelo T. que salió por primera vez de la cadena de montaje en 1908 .  
+Cien años después , la competencia vuelve a despertar .  
+La era de los vehículos eléctricos está al caer .  
+El Toyota prius , vehículo eléctrico híbrido introducido por primera vez en el Japón en 1997 , constituyó un hito inicial .  
+Al conectar un pequeño generador y una batería recargable al sistema de frenado de un coche normal , el híbrido cuenta , además de con el motor normal , con otro propulsado por una batería .  
+El kilometraje obtenido aumenta lo suficiente para que el híbrido resulte comercialmente viable y , cuando los consumidores deban pagar impuestos por el dióxido de carbono que emitan sus vehículos , los que ahorren gasolina llegarán a ser comercialmente aún más viables .  
+Hay mucha más innovación en marcha , encabezada por el vehículo híbrido eléctrico de General motors , el Chevy volt , al final de 2010 .  
+Mientras que el Prius es un vehículo Mci normal con un pequeño motor , el Volt será un vehículo eléctrico con un motor adjunto .  
+La del Volt será una batería de iones de litio , de vanguardia y de gran rendimiento , que promete una autonomía de unos sesenta kilómetros por carga y un lapso de recarga de seis horas a partir de un enchufe normal de pared .  
+Conforme a los modos normales de conducir , el Volt recorrerá tantos kilómetros con la batería , ¡ que alcanzará unos 360 kilómetros por galón de gasolina !  
+Larry burns , el visionario jefe del departamento de investigación e innovación de Gm hasta su reciente jubilación , considera el vehículo eléctrico mucho más que una oportunidad para ahorrar gasolina , aun siendo esto importante .  
+Según Burns , la era de los vehículos eléctricos remodelará la red energética , modificará las modalidades de uso de los vehículos y en general mejorará la calidad de la vida en las zonas urbanas , en las que vivirá y circulará la mayor parte de la población mundial .  
+En primer lugar , habrá muchos tipos de vehículos eléctricos , incluidos el eléctrico híbrido , el vehículo sólo con batería y los vehículos propulsados por células de combustión de hidrógeno , esencialmente una batería alimentada por una fuente externa de hidrógeno .  
+Esos diferentes vehículos podrán aprovisionarse en innumerables fuentes energéticas .  
+Las electricidades solar , eólica y nuclear - todas ellas carentes de emisiones de Co2 - pueden alimentar la red energética que recargará las baterías .  
+Asimismo , se pueden utilizar esas fuentes energéticas renovables para dividir el agua en hidrógeno e iones de hydroxyl y después utilizar el primero para propulsar las células de combustión de hidrógeno .  
+En segundo lugar , la capacidad de almacenamiento de la flota de vehículos desempeñará un papel importante en la estabilización de la red energética .  
+No sólo los vehículos propulsados por batería obtendrán corriente de la red eléctrica durante la recarga , sino que , además , cuando estén estacionados , podrán devolver la electricidad suplementaria a la red durante los períodos de mayor demanda .  
+La flota de automóviles pasará a formar parte de la red eléctrica general y será gestionada eficiente ( y remotamente ) para optimar el momento de la recarga en la red y de la devolución de electricidad a ella .  
+En tercer lugar , los vehículos propulsados por electricidad harán posible un nuevo mundo de vehículos " inteligentes " , en los que los sistemas de sensores y las comunicaciones de vehículo a vehículo permitirán la protección contra las colisiones , la distribución del tráfico y la dirección remota del vehículo .  
+De ese modo , la integración de la tecnología de la información y del sistema de propulsión del vehículo introducirá nuevos niveles de seguridad , comodidad y mantenimiento .  
+Se trata de ideas visionarias y , aun así , están al alcance de la tecnología , pero su aplicación requerirá nuevas formas de colaboración entre el sector público y el privado .  
+Los fabricantes de automóviles , los suministradores de conexiones de banda ancha y los constructores de carreteras estatales habrán de contribuir , cada cual por su lado , a un sistema integrado .  
+Todos esos sectores requerirán nuevas formas de competir y cooperar con los demás .  
+El sector público tendrá que aportar fondos para que sea posible la comercialización de la nueva generación de vehículos : mediante inversiones en investigación e innovación , subvenciones a los consumidores y apoyo a la infraestructura complementaria ( por ejemplo , puntos de recarga en lugares públicos ) .  
+La nueva era del vehículo eléctrico ejemplifica las importantes oportunidades que podemos aprovechar , mientras avanzamos desde la insostenible era de los combustibles fósiles hasta una nueva era de tecnologías sostenibles .  
+Los negociadores actuales sobre el clima se pelean porque sólo ven la amenaza climática desde un punto de vista negativo : ¿ quién pagará para reducir la utilización de los combustibles fósiles ?  
+Sin embargo , la concepción del automóvil de Burns nos recuerda que la transición a la sostenibilidad puede aportar avances reales en la calidad de vida , cosa que es aplicable no sólo a los automóviles , sino también a la elección de sistemas energéticos , diseños de edificios , planificación urbanística y sistemas alimentarios ( en vista de que la producción y el transporte de alimentos representan una sexta parte , aproximadamente , del total de emisiones de gases que provocan el efecto de invernadero ) .  
+Debemos replantearnos la amenaza climática como una oportunidad para la transformación y la cooperación mundiales en una serie de avances tecnológicos a fin de lograr el desarrollo sostenible .  
+Mediante ingeniería de última hora y nuevos tipos de colaboración entre el sector privado y el público , podemos acelerar la transición a escala mundial a tecnologías sostenibles , con beneficios tanto para los países pobres como para los ricos , y con ello encontrar una base para acuerdos mundiales sobre el cambio climático que hasta ahora han resultado esquivos .  

@@ -1,0 +1,39 @@
+Deuda e impuestos en la eurozona  
+Bruselas - La crisis actual en la zona del euro se conoce en todo el mundo como la " crisis de deuda soberana del euro " .  
+Sin embargo , en realidad se trata de una crisis de la deuda externa , no la deuda soberana .  
+La importancia de la deuda externa está bien ilustrada por el caso de Portugal : aunque las relaciones de deuda pública y déficit del país son muy similares a las de Francia , la prima de riesgo de su-pl deuda pública dummy-nonhum ha aumentado de forma sostenida , hasta que se vio obligado a recurrir al fondo de rescate de la Unión europea .  
+El problema clave que afronta Portugal es , por tanto , no de política fiscal , sino la alta deuda ( externa ) de su-nonhum-sg sector privado : su-nonhum-sg bancos y empresas .  
+La importancia limitada de la deuda pública por sí sola es también evidente en Italia y Bélgica .  
+Ambos países tienen relaciones de deuda a Pib mucho más altas que Portugal , pero dummy-they pagan una prima de riesgo mucho menor .  
+La razón clave es que ambos tienen muy poca deuda externa ( Bélgica tiene en realidad un superávit de cuenta corriente ) .  
+De hecho , aunque el índice de deuda de Bélgica es superior a la media de la zona del euro ( alrededor del 100 % del Pib ) , el país sigue pagando una prima de riesgo inferior a 100 puntos básicos , a pesar de estar sin gobierno desde hace más de un año .  
+¿ Por qué los mercados se centran en la deuda externa ?  
+Una de las razones , por supuesto , es que en una crisis la deuda privada tiende a convertirse en deuda pública .  
+En consecuencia , los mercados financieros miran el endeudamiento global de un país .  
+Pero también es importante a quién se le adeuda .  
+El punto clave es que los estados de la eurozona mantienen su-pl plenas competencias fiscales , lo que produce un simple corolario para un país con elevada deuda pública , pero sin deuda externa : su-pl deuda pública está en manos de los residentes y el gobierno siempre dummy-nonhum puede ir pagando su-nonhum-sg deuda mediante alguna forma de impuesto global ( por ejemplo , un tributo sobre el patrimonio ) .  
+Así , el gobierno de ese país simplemente podría aprobar una ley que obligue a que cada titular de un bono de gobierno pague un impuesto equivalente al 50 % del valor nominal del bono .  
+El valor de la deuda pública se reduciría así a la mitad , de manera muy similar a lo que ocurriría si el gobierno ordenara que el banco central duplicara la oferta monetaria , lo que presumiblemente daría lugar a una duplicación de los precios .  
+La naturaleza de los impuestos que se necesitan para pagar la deuda pública podría ser diferente si los bancos poseyeran deuda pública , porque en este caso el gobierno tendría que aplicar impuestos a los titulares de depósitos bancarios .  
+Pero el punto clave sigue siendo el mismo : en tanto y cuanto un gobierno mantenga su-nonhum-sg plenas atribuciones fiscales , siempre dummy-nonhum puede pagar su-nonhum-sg deuda interna , incluso sin la capacidad de imprimir dinero .  
+Pero este no es el caso si la deuda se debe a extranjeros , porque el gobierno no puede cobrarles impuestos  
+Por lo tanto , la deuda externa constituye el problema subyacente de un estado soberano con problemas de solvencia .  
+( La excepción a esta regla son los Estados unidos , que disfruta de lo que Charles de gaulle llamó el " exorbitante privilegio " de tener su-nonhum-sg deuda externa expresada en su-nonhum-sg propia moneda . )  
+Las cosas se vuelven más complicadas si los residentes extranjeros poseen una gran parte de la deuda pública de un país , pero su-pl habitantes cuentan también con grandes activos en el extranjero .  
+En este caso , el gobierno se enfrenta a la tentación de caer en el impago de su-nonhum-sg deuda externa , mientras que su-nonhum-sg ciudadanos todavía pueden disfrutar de los rendimientos de su-nonhum-sg activos en el extranjero .  
+Cuanto más difícil sea para el gobierno aplicar impuestos a los activos extranjeros de su-nonhum-sg residentes , mayor dummy-it será esta tentación .  
+Sin embargo , incluso en este caso , el gobierno debería ser capaz de pagar su-nonhum-sg deuda si de alguna manera puede inducir a su-nonhum-sg ciudadanos a vender su-nonhum-sg activos extranjeros y comprar bonos internos del gobierno en su-nonhum-sg lugar .  
+La importancia de este punto quedó de manifiesto en 2001 en el caso de Argentina , que no tenía una gran deuda externa neta .  
+El sector privado poseía grandes activos extranjeros , mientras que el gobierno tenía aproximadamente la misma cantidad de pasivos externos .  
+Aun así , la Argentina se declaró en quiebra , porque los argentinos ricos habían sacado su-nonhum-sg activos fuera del país y , por lo tanto , los habían puesto fuera del alcance del gobierno , mientras que los argentinos pobres se negaron a pagar los impuestos necesarios para satisfacer las demandas de los acreedores extranjeros .  
+Por otra parte , cuando dummy-they no son los hogares sino las instituciones - como los fondos de pensiones - quienes poseen los activos extranjeros del país , estos se pueden identificar y someter a impuestos .  
+dummy-it Es el caso sobre todo en Europa .  
+Este análisis sugiere que el procedimiento para enfrentar los " excesivos desequilibrios [ de cuenta corriente ] " que se va a introducir en la actual reforma de gobierno de la eurozona dummy-nonhum va en la dirección correcta .  
+Pero también dummy-nonhum implica que la concentración exclusiva de la Unión europea y el Fondo monetario internacional sobre el ajuste fiscal en la periferia de la Ue es un error .  
+Para Grecia , el ajuste fiscal es , por supuesto , la cuestión clave .  
+Sin embargo , para Portugal el problema clave es el permanente déficit externo del sector privado .  
+Irlanda es también diferente , ya que dummy-nonhum tiene una deuda externa muy pequeña y pronto tendrá un superávit de cuenta corriente .  
+su-nonhum-sg gobierno entonces no debería precisar de financiación externa , siempre que dummy-nonhum pueda movilizar los ahorros de su-nonhum-sg propios ciudadanos .  
+Como dummy-nonhum demuestra la experiencia de Letonia , las primas de riesgo dummy-they pueden bajar muy rápidamente .  
+En resumen , el ajuste fiscal es necesario pero no suficiente para escapar de una crisis de la deuda .  
+Es igual de importante fomentar el ahorro interno y lograr que los ciudadanos compren bonos de su-pl propio gobierno en lugar de mantener su-pl dinero en el extranjero .  

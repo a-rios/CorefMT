@@ -1,0 +1,36 @@
+Vuelta a la falsa ilusión de la devaluación  
+" El dólar es nuestra moneda y el problema de ustedes " .  
+ésa fue la ocurrencia del Secretario del tesoro de los estados unidos antes de que el Presidente nixon pusiera fin al sistema de Breton woods hace tres decenios .  
+Lo que la franqueza de John connolly reflejaba era la capacidad - y la disposición - de los Estados unidos para exportar sus problemas económicos reduciendo el valor del dólar y convirtiendo en chivos expiatorios a los países opuestos a aquella estrategia .  
+El Presidente george w. bush parece empeñado en repetir la desafortunada política de Nixon .  
+Como el equipo Nixon / Connolly , la reacción del gobierno de Bush ante los inmensos déficit presupuestario y comercial ha sido la de dejar caer - y con fuerza - al dólar , al tiempo que intenta también distraer la atención de su responsabilidad señalando con un dedo acusador a China como la causa de las presiones deflacionistas y del desempleo en los Estados unidos .  
+Sin embargo , es probable que esa estrategia resulte tan ineficaz ahora como lo fue para Nixon , quien sólo consiguió iniciar un período de estancamiento .  
+La política de Bush está condenada a fracasar , porque , como en el decenio de 1970 , los problemas económicos de los Estados unidos son de origen local .  
+No son importados y no se puede resolverlos simplemente cambiando el valor del dólar .  
+La dependencia del mundo respecto de los Estados unidos como única fuente de aumento de la demanda mundial brinda a este país la posibilidad de maniobrar con su divisa , pero a costa de agravar inmensos desequilibrios mundiales .  
+Desde 2000 , el exceso de capacidad productiva de los Estados unidos ha superado las de la zona del euro y del Japón combinadas , pues su economía ha crecido más despacio que su potencial anual de 3,5 % a 4 % y el desempleo ha aumentado en los Estados unidos .  
+Esos lamentables resultados propician protestas airadas , en el sentido de que los puestos de trabajo americanos están desapareciendo en el extranjero y de que la consecuencia de las exportaciones baratas puede ser la deflación .  
+Lamentablemente , los Estados unidos no son los únicos que consideran la devaluación una panacea para los problemas internos .  
+Las autoridades japonesas , demasiado tímidas para emprender reformas serias en su país , se esfuerzan por mantener lo más bajo posible el valor del yen frente al dólar y las divisas asiáticas rivales .  
+De forma semejante , la Unión europea creó el euro para dar a sus miembros una mayor estabilidad monetaria .  
+Cuando el euro estaba bajo , el orgullo herido obligó a los gobiernos de la Ue a hacer declaraciones para intentar lograr que subiera .  
+Ahora que el euro está alto , los mismos gobiernos están haciendo lo propio para intentar lograr que baje .  
+El vertiginoso ascenso , ponderado según la balanza comercial , del euro en el último año está exacerbando , en efecto , las presiones inmediatas dentro de la Ue , pero los ministros de hacienda de la Unión harían mejor en acelerar las reformas internas que Europa necesita , en lugar de seguir el ejemplo de Bush y presionar al Banco central europeo para que haga bajar una divisa fuerte hasta su valor real .  
+Aun así , la estrategia monetaria de los Estados unidos es la más insensata : otro inmenso error en una política económica tan caprichosa , que resulta difícil saber por dónde empezar a enumerar sus errores .  
+Tal vez el mejor punto por el que comenzar sea el rápido deterioro del presupuesto federal de los Estados unidos en los dos últimos años .  
+A partir de un superávit de 1,4 por ciento del Pib en 2000 , el gobierno Bush ha obtenido un déficit de 4,6 por ciento este año .  
+Los déficit presupuestarios de los Estados unidos pueden haber librado a las economías americana y mundial de resultados aún peores en los dos últimos años , pero ahora resulta mucho más difícil resolver los males que aquejan a los Estados unidos .  
+Una política fiscal más rigurosa podría contribuir en gran medida a fomentar la confianza en los Estados unidos y también a ayudar al resto del mundo a abandonar su dependencia de este país como único motor del crecimiento .  
+El crecimiento en otros países podría ayudar a los Estados unidos a exportar más , pero eso no brindará la solución milagrosa que anhela el gobierno de Bush , porque un dólar débil no tiene por qué provocar un aumento equivalente en el precio de las importaciones estadounidenses .  
+Se debe en parte a que el precio final de un producto importado refleja numerosos costos , como , por ejemplo , la distribución y la comercialización , en los que no influye el tipo de cambio .  
+De hecho , muchos países que exportan a los Estados unidos - en particular , el Japón y China - fijan los precios de sus productos en dólares .  
+Como esos países tienen mucho interés en mantener su cuota en el mayor mercado del mundo , con frecuencia absorben el efecto de una bajada del dólar reduciendo sus beneficios en lugar de subir los precios .  
+Como muestra un reciente estudio de John lipsky , economista jefe de J.p. morgan , se está reduciendo la vinculación entre los tipos de cambio y el comercio .  
+Lo que hace que la estrategia de los Estados unidos resulte insensata es que el gobierno de Bush está atacando a China en el preciso momento en que está aumentando la dependencia de los Estados unidos respecto de las compras chinas de bonos estatales estadounidenses .  
+Sin dichas compras , los Estados unidos podrían afrontar un aumento de los tipos de interés internos que podría constituir una amenaza tanto para su recuperación económica como para la economía mundial .  
+Además , si China decidiera vender sus activos en dólares , el mercado de bonos descontaría las obligaciones estatales estadounidenses , con lo que subirían los tipos de interés a largo plazo de ese país y resultaría anulado gran parte del estímulo ( o tal vez todo ) , sea cual fuere , brindado por la depreciación del dólar .  
+Por suerte , el Gobierno de china sabe que el consejo de los Estados unidos de que deje flotar el renminbi ahora mismo es peligroso ... tanto para China como para la economía mundial .  
+Las políticas encaminadas a beneficiar a la economía de un país a expensas de la de otro , como , por ejemplo , las devaluaciones competitivas , estuvieron generalizadas durante la gran depresión del decenio de 1930 .  
+Durante la mayor parte de la posguerra , los gobiernos parecían haber aprendido la lección de aquella época , razón por la cual resulta extraño que hoy los dirigentes de las economías más fuertes del mundo coqueteen de nuevo con una insensatez tan peligrosa .  
+Para resolver sus problemas internos , los Estados unidos deben adoptar una actitud presupuestaria más rigurosa y no reducir el valor del dólar , pero , como se avecinan las elecciones presidenciales , ningún gobierno estadounidense reduciría el gasto ni subiría los impuestos , conque podemos despedirnos de que el gobierno de Bush , económicamente analfabeto , se atreva a hacer ninguna de las dos cosas .  
+Como no hay mal que por bien no venga , en este caso esa dejación puede hacer recordar que ningún país - ni siquiera los poderosos Estados unidos - pueden resolver sus problemas devaluando .  

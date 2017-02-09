@@ -1,0 +1,29 @@
+Encarcelar a los mensajeros  
+Washington , D.c. - A medida que aumenta la influencia de China en los asuntos mundiales , el mundo está observando con mayor atención que nunca para ver qué clase de gran potencia llegará a ser .  
+El mes próximo , cuando el disidente encarcelado Liu xiaobo reciba el premio Nobel de la paz , la atención se apartará de los aspectos más alentadores de lo que los dirigentes de China gustan de llamar el " ascenso " de su país y se centrará en su persistente maltrato a sus ciudadanos más críticos .  
+Ya la torpe reacción de los funcionarios chinos ante el premio ha socavado su preciada - y pródigamente financiada - misión de proyección del " poder blando " de China en todo el mundo .  
+Liu obtuvo el premio porque su compromiso de toda la vida con el activismo político resulta excepcional , pero debemos prestar la misma atención a otro activista chino encarcelado y cuya difícil situación en manos del sistema chino de justicia es tan preocupante como la de Liu y mucha más reveladora de los límites de la disensión permisible .  
+Un tribunal de Beijing condenó recientemente a Zhao lianhai , ex agente publicitario de 38 años de edad , por " utilizar una cuestión social popular para instigar a las masas ( ... ) con miras a alterar gravemente el orden social " y lo sentenció a dos años y medio de reclusión .  
+A diferencia de Liu , Zhao no había pedido un cambio del sistema político de China , sino que había pasado dos años centrado en la idea casi trivialmente anodina de que su familia y muchos otros merecen una reparación por parte del Sanlu dairy group , empresa que provocó piedras en los riñones a sus hijos al adulterar ilegalmente su leche en polvo con una substancia química industrial : melamina .  
+Zhao no se propuso ser un activista .  
+Su hijo de tres años tuvo la suerte de recuperarse rápidamente después de que él y otros 300.000 niños enfermaran tras beber la leche adulterada en 2008 , pero algunos de los niños orinaron sangre , otros han padecido prolongados problemas de salud y al menos seis murieron .  
+Zhao , que en tiempos trabajaba para el propio servicio gubernamental de vigilancia de la inocuidad de los productos y vivía en la capital , vio una oportunidad para ayudar a familias peor situadas .  
+Creó sitios web para ayudarlas a intercambiar información médica , atraer la atención de los medios de comunicación y presentar demandas judiciales con vistas a obtener una indemnización .  
+Al principio , la campaña pareció dar resultado .  
+A raíz de ella , hubo una retirada en masa de leche china y el Sanlu dairy group se hundió .  
+Dos de los proveedores de Sanlu fueron ejecutados y su presidenta fue condenada a prisión perpetua .  
+El Congreso nacional popular de china promulgó una nueva ley de inocuidad de los alimentos .  
+Pero , después de que Zhao y otros padres protestaran por que el plan de indemnización gubernamental era insuficiente para sufragar el costo del tratamiento médico permanente de sus hijos , empezaron a recibir amenazas de la policía local .  
+Los sitios web de Zhao fueron cerrados repetidas veces y los abogados del grupo recibieron llamadas de teléfono de las autoridades en las que los instaban a abandonar la causa .  
+Al final de 2009 , Zhao fue detenido oficialmente ; desde entonces sigue retenido por la policía .  
+La campaña de Zhao se había basado en la creencia , generalizada en China , de que , si bien los funcionarios o empresarios locales pueden entregarse a actividades venales o delictivas , el gobierno central , una vez informado de la verdad , procurará que se haga justicia , .  
+Al fin y al cabo , el mismos dirigentes chinos que rechazan las peticiones de reforma política por parte de Liu sostienen que lo que los ciudadanos chinos quieren de verdad no son los derechos " al estilo occidental " , sino la satisfacción de las necesidades básicas - agua potable , oportunidades económicas , alimentos inocuos - que permita a sus familias prosperar , junto con la protección adecuada que les brinda el sistema político autóctono .  
+Pero la condena de Zhao , como el maltrato de otros denunciantes chinos , envía el mensaje de que , cuando afrontan lo que les parece una amenaza a la estabilidad social , las instituciones jurídicas de China no cumplen con la tarea de brindar protecciones básicas a sus ciudadanos .  
+Un hilo de intercambios sobre ese caso en Tianya , un popular portal chino en la red Internet , no tardó en quedar inundado con comentarios que expresaban desconcierto e indignación ante el veredicto .  
+" Yo no tengo hijos " , decía el autor de uno de los mensajes , " pero , al leer esto , se me encoge el corazón " .  
+Otro escribió : " Si seguimos así , nuestro país no tendrá futuro " .  
+En Hong kong , la sentencia recibida por Zhao ha provocado protestas populares delante de organismos oficiales y objeciones oficiales de funcionarios locales .  
+Reacciones semejantes deberían ser mucho más preocupantes para los dirigentes de China que reprimenda alguna de un grupo de noruegos .  
+Los aliados de Zhao no pretenden " humillar a China " , sino que , como quienes en todo el mundo creen que China merece reconocimiento por sus impresionantes logros - de hecho , como el propio Liu xiabo - , quieren que su país cuente con instituciones de gobierno dignas de su potencia económica cada vez mayor .  
+Lo mismo desean los vecinos y los socios mundiales de China y por razones que tienen tanto que ver con el interés propio como con los valores políticos .  
+Para que China cumpla sus compromisos sobre una gran diversidad de cuestiones internacionales - comercio , inocuidad de los productos y protección medioambiental , por citar sólo algunos - e inspire confianza y respeto auténticos dentro y fuera del país , tendrá que apreciar a personas como Zhao , no silenciarlas .  

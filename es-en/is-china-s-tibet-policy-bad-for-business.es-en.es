@@ -1,0 +1,26 @@
+¿ Es la política de China en el Tibet mala para los negocios ?  
+Cuando un funcionario de seguridad del Gobierno de china acusó recientemente a unos seguidores del Dalai lama de organizar ataques suicidas - simplemente la más extremada de un aluvión de alegaciones contra la " camarilla del Dalai " - , fue como si la Revolución cultural siguiera haciendo furor .  
+De hecho , en lo que al Tíbet se refiere en particular , los dirigentes chinos , cada vez más refinados y pragmáticos , parecen más que nada una regresión a la era de Mao , con su propaganda en forma de arengas y sus políticas coercitivas .  
+¿ Tienen los inversores extranjeros razones para preocuparse por ello ?  
+Si bien no se puede descartar la posibilidad de que las recientes protestas en el Tíbet muevan a las autoridades a cambiar de rumbo , las primeras señales no son prometedoras .  
+Hasta ahora , el régimen se ha limitado a aplicar las mismas medidas contundentes que alimentaron las quejas de los tibetanos en primer lugar .  
+La presión internacional por sí sola no cambiará esa situación .  
+La presión interior podría hacerlo , pero cualquier oportunidad de esa clase ha desaparecido en la batalla de una guerra de relaciones públicas .  
+Por una parte , algunos medios internacionales de comunicación hicieron una descripción en blanco y negro ( y no siempre del todo objetiva ) de la violencia de marzo como una represión brutal contra pacíficos monjes tibetanos .  
+Por otra parte , los medios de comunicación oficiales de China han alimentado la irritación interna ante lo que consideraban un prejuicio occidental contra China .  
+Una vez despertado el sentimiento nacional , pocos chinos se preguntan por qué hubo esa violencia .  
+Naturalmente , la cuestión del Tíbet existe desde hace decenios , por lo general sin plantear problemas graves a los inversores extranjeros , pero la combinación de los primeros desórdenes habidos en el Tíbet en casi 20 años con la oleada , mucho mayor , de críticas a China cuando falta poco para la celebración de los Juegos olímpicos ha hecho que las empresas y los inversores se hayan puesto a evaluar lo que significa para ellos , en particular desde el punto de vista de la reputación y la ética .  
+Las protestas relacionadas con el Tíbet ante varias embajadas de China de todo el mundo y durante el relevo de la antorcha olímpica brindan un simple atisbo de lo que probablemente ocurra a continuación .  
+Los inversores en China deben tener en cuenta su vulnerabilidad a la publicidad negativa y tener confianza en poder explicar su posición .  
+Algunos ya se han visto obligados a hacerlo y muchos de ellos podrían estar en el punto de mira de las campañas actuales encaminadas a señalar a la atención internacional las diversas cuestiones relativas a los derechos humanos antes de la celebración de los Juegos olímpicos .  
+Las empresas más vulnerables son en general las que tienen mayor relieve público , las que hacen las mayores o más visibles inversiones , las que son patrocinadoras importantes de los Juegos y las que tienen alguna relación concreta con las políticas del Gobierno de china en el Tíbet .  
+De este último grupo forman parte las empresas extractivas y de la construcción asociadas con el propio gobierno de la Región autónoma del tíbet ( Rat ) .  
+éstas son las que afrontan las mayores dificultades , tanto para distanciarse de las políticas del Gobierno como para responder a las impresiones negativas de los inversores sobre la viabilidad de las operaciones en esa región en la situación actual .  
+Naturalmente , la inversión extranjera en la Rat es una gota en el océano en comparación con la de China en conjunto .  
+Los activistas no pueden poner la mira en todas las empresas extranjeras que invierten en China , por lo que no es probable que la mayoría de ellas se vean afectadas ni resulten perjudicadas en su reputación .  
+Parece muy dudoso que la corriente de la opinión internacional se vuelva contra China hasta el punto de que se espere en serio que los inversores en general den la espalda a ese mercado .  
+No obstante , en los casos en que las empresas o las industrias sean particularmente vulnerables en materia de reputación , el de la imagen y la ética podría ser un factor importante en más decisiones empresariales marginales ( en particular , con los costos en aumento y una reglamentación laboral más estricta que ya están moviendo a algunas empresas a interesarse por otros lugares ) .  
+Entretanto , el más reciente giro en las consecuencias de los acontecimientos del Tíbet nos recuerda curiosamente que la autoafirmación e influencia recientes de China en el escenario internacional están creando una amenaza cada vez más grave para las empresas extranjeras .  
+Mientras que las empresas occidentales que invierten en China deben afrontar una perspectiva de protestas y críticas en sus países de origen por quienes hacen campañas en pro del Tíbet , algunas de ellas se están viendo sometidas a presiones en la propia China .  
+La gran cadena minorista francesa Carrefour ha padecido protestas en sus tiendas de toda China por activistas nacionalistas enfurecidos por las protestas habidas en París cuando la antorcha olímpica pasó por esa ciudad .  
+En la atmósfera actual , a muchas empresas les resultará difícil no verse colocadas entre la espada y la pared .  

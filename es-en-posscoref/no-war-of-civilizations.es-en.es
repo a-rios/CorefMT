@@ -1,0 +1,1 @@
+Ninguna Guerra de civilizaciones  

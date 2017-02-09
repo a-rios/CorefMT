@@ -1,0 +1,33 @@
+La bomba de tiempo de la liquidez  
+Nueva York - Desde la crisis financiera global de 2008 ha surgido una paradoja en los mercados financieros de las economías avanzadas .  
+Políticas monetarias no convencionales han generado un exceso gigantesco de liquidez .  
+Pero una serie de sacudidas recientes sugieren que la liquidez macro ahora está asociada a una severa iliquidez del mercado .  
+Las tasas de interés promovidas por las políticas están cercanas a cero ( y a veces por debajo de cero ) en la mayoría de las economías avanzadas , y la base monetaria ( el dinero creado por los bancos centrales en forma de efectivo y reservas líquidas de los bancos comerciales ) ha aumentado - duplicándose , triplicándose y , en los Estados unidos , cuadruplicándose en relación al período previo a la crisis - .  
+Esto mantuvo bajas las tasas de interés a corto y largo plazo ( e inclusive negativas en algunos casos , como Europa y Japón ) , redujo la volatilidad de los mercados de bonos e hizo aumentar muchos precios de activos ( incluidos acciones , bienes raíces y bonos de renta fija del sector público y privado ) .  
+Y , sin embargo , los inversores tienen motivos para preocuparse .  
+Sus miedos comenzaron con el llamado " flash crash " de mayo de 2010 , cuando , en cuestión de 30 minutos , los principales índices bursátiles de Estados unidos cayeron casi el 10 % , antes de recuperarse rápidamente .  
+Luego llegó el " taper tantrum " en la primavera de 2013 , cuando las tasas de interés a largo plazo de Estados unidos se dispararon 100 puntos básicos después de que el entonces presidente de la Reserva federal ben bernanke sugirió su intención de poner fin a las compras mensuales de títulos a largo plazo por parte de la Fed .  
+De la misma manera , en octubre de 2014 , los rendimientos del Tesoro de estados unidos se derrumbaron casi 40 puntos básicos en cosa de minutos , algo que , a criterio de los estadísticos , debería ocurrir solamente una vez en 3.000 millones de años .  
+El último episodio se produjo apenas el mes pasado cuando , en espacio de pocos días , los rendimientos de los bonos alemanes a 10 años pasaron de cinco puntos básicos a casi 80 .  
+Estos episodios han alimentado los temores de que , inclusive mercados muy profundos y líquidos - como las acciones estadounidenses y los bonos de gobierno en Estados unidos y Alemania - tal vez no sean lo suficientemente líquidos .  
+¿ Qué representa , entonces , la combinación de liquidez macro e iliquidez de mercado ?  
+Por empezar , en los mercados de acciones , los operadores de alta frecuencia ( Hft por su sigla en inglés ) , que usan programas informáticos con algoritmos para seguir las tendencias de los mercados , son responsables de un porcentaje mayor de las transacciones .  
+Esto crea , para sorpresa de nadie , un comportamiento de manada .  
+De hecho , el trading hoy en Estados unidos se concentra en el comienzo y en la última hora de las operaciones diarias , cuando los Hft están más activos ; el resto del día , los mercados son ilíquidos , con pocas transacciones .  
+Una segunda causa reside en el hecho de que los activos de renta fija - como los bonos de gobierno , corporativos y de mercados emergentes - no se negocian en bolsas más líquidas , como las acciones .  
+Por el contrario , se negocian principalmente en mercados extrabursátiles ilíquidos .  
+Tercero , no sólo la renta fija es más ilíquida , sino que ahora la mayoría de estos instrumentos - que se han multiplicado enormemente , debido a la emisión vertiginosa de deudas privadas y públicas antes y después de la crisis financiera - se mantienen en fondos abiertos que les permiten a los inversores salir a las 24 horas .  
+Imaginen un banco que invierte en activos ilíquidos pero les permite a los depositantes hacerse de su efectivo en 24 horas : si se produce una corrida sobre estos fondos , la necesidad de vender activos ilíquidos puede llevar su precio a niveles muy bajos en muy poco tiempo , lo que consiste , en efecto , en una liquidación .  
+Cuarto , antes de la crisis de 2008 , los bancos eran creadores de mercado en instrumentos de renta fija .  
+Tenían grandes inventarios de estos activos , ofreciendo así liquidez y aplacando la volatilidad excesiva de los precios .  
+Pero , cuando las nuevas regulaciones comenzaron a penalizar este tipo de operaciones ( a través de cargos de capital más altos ) , los bancos y otras instituciones financieras han reducido su actividad de creación de mercado .  
+Así , en tiempos de sorpresa que mueven los precios y rendimientos de los bonos , los bancos no están presentes para actuar como estabilizadores .  
+En resumen , si bien la creación de una liquidez macro por parte de los bancos centrales puede mantener bajos los rendimientos de los bonos y reducir la volatilidad , también derivó en operaciones atestadas en manada ( exacerbadas por los Hft ) y en una mayor inversión en fondos de bonos ilíquidos , mientras que una regulación más ajustada implica que los creadores de mercados están perdidos en acción .  
+En consecuencia , cuando ocurren sorpresas - por ejemplo , la Fed señala una salida antes de lo esperado de las tasas de interés cero , un incremento repentino de los precios del petróleo o un repunte incipiente del crecimiento de la eurozona - , la reevaluación de las acciones y especialmente los bonos puede ser abrupta y dramática : todo aquel que quede atrapado en las mismas operaciones en manada tiene que salir rápido .  
+Las operaciones en manada en la dirección opuesta ocurren , pero , como muchas inversiones son en fondos ilíquidos y los creadores de mercados tradicionales que aplacaron la volatilidad desaparecieron del mapa , los vendedores se ven obligados a liquidar sus activos .  
+Esta combinación de liquidez macro y de iliquidez de mercado es una bomba de tiempo .  
+Hasta ahora , sólo condujo a crisis precipitadas volátiles y a cambios repentinos en los rendimientos de los bonos y los precios de las acciones .  
+Pero , con el tiempo , cuanto más tiempo los bancos centrales creen liquidez para controlar la volatilidad a corto plazo , más alimentarán las burbujas de acciones , bonos y otros mercados de activos .  
+En tanto más inversores inviertan en activos sobrevaluados cada vez más ilíquidos - como los bonos - , el riesgo de una crisis a largo plazo aumenta .  
+Este es el resultado paradójico de las políticas implementadas para responder a la crisis financiera .  
+La liquidez macro está alimentando períodos de bonanza y burbujas ; pero la iliquidez de mercado terminará dando lugar a un descalabro y finalmente a un colapso .  

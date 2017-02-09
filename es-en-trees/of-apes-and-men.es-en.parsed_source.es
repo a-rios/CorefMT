@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="SP">De</tree><tree label="sn"><tree label="^lsn"><tree label="NP">Primates</tree><tree label="conj"><tree label="CC">y</tree></tree></tree><tree label="grup.nom"><tree label="NP">Hombres</tree></tree></tree></tree></tree> 

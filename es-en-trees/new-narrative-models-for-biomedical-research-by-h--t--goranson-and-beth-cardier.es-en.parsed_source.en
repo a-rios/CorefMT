@@ -1,0 +1,44 @@
+The Curing Machine 
+VIRGINIA BEACH - Last year , the Nobel Prize in Medicine was awarded for a discovery that took 44 years to develop , and involved two different research teams . 
+The breakthrough promises new kinds of diagnosis and therapy , but what if such insights could be developed by computers in minutes , rather than decades ? 
+The recent appearance of a new coronavirus , which has killed nine people in the United Kingdom and the Middle East , is a reminder that novel treatments are sometimes needed in a hurry . 
+With different modeling abstractions , it might be possible to build an artificial-intelligence system ( AI ) that could design new treatments . 
+That system would suggest surprising , effective therapies , because it would understand disease in ways that are difficult for humans to imagine . 
+The notion seems like science fiction : everyone knows that AI is not particularly clever . 
+In order to build a &quot; curing machine &quot; of this kind , at least one far-reaching innovation is needed : a better way of modeling entire systems , which would deliver new conceptual tools to both biology and computer science . 
+In both fields , the conventional approach has been reductionist , with problems modeled at the level of their most basic components . 
+While this makes it possible to build &quot; expert systems &quot; that reason in narrow domains , or to design search engines that can find discrete facts , we are no closer to AI that reasons the way that we do - in and across multiple contexts , including time . 
+AI cannot integrate information about seemingly distinct processes , such as chemical , physiological , and psychological events , or anticipate novel outcomes . 
+We do these things over dinner . 
+In biology , there has been a similar reductionist approach , best exemplified by the Human Genome Project , which catalogued the molecular &quot; recipe &quot; for every aspect of the body , in order to discover how the most basic pieces interacted . 
+Alas , the expected revolution in therapies is yet to occur . 
+Worldwide , total annual investment in biomedical research is about $ 110 billion . 
+Yet , despite 25 years of intense investment in structural biology , we remain unable to move from understanding molecules to an understanding of whole systems . 
+A model of the dynamics between multiple processes - chemical , physiological , and psychological - would lend new insight into how diseases operate . 
+Consider , for example , the sense of smell . 
+The nasal cavity is unique , as the only place where brain cells ( neurons ) are directly exposed to the environment . 
+If we model smell on local terms , we can trace how nasal neurons interact with scent particles , sending signals through a network of other neurons to the brain . 
+We have good abstractions in structural biology to describe this . 
+But these neurons are also part of an adaptive , regenerative system . 
+Sensory neurons die a programmed death ; you literally have a new sense of smell every month . 
+Modeling it requires the consideration of more than just local signaling . 
+Neurons operate as a cooperative group : more arrive at the location than are needed for a simple replacement . 
+To explain why they voluntarily die , we would need a new system-level vocabulary . 
+It does not stop there . 
+When your neurons are replaced , they change . 
+If you are newly in love ( or experience a trauma ) and a scent is associated with it , you may develop a heightened sensitivity to that scent . 
+Your physio-cognitive apparatus evolves . 
+This process interests researchers enormously , because it is one of only two contexts in which neural regeneration occurs . 
+If it were understood , it could lead to cures for many crippling diseases , both neurological ( like Parkinson &apos;s and Alzheimer &apos;s ) and degenerative ( including those , like cancer , associated with aging ) . 
+One way to understand how this higher-level coherence emerges is to study it in a more accessible form . 
+As it happens , there is a naturally occurring information structure in which the needed behaviors are easier to observe and explain . 
+That structure can be found in stories . 
+Stories are remarkable for the way that they allow us to comprehend new concepts , and continue to make sense of them , even when they involve numerous contexts and unexpected associations . 
+We take the resulting narrative effects for granted : surprise endings , intriguing situations , and a compulsion to read or watch until the finish . 
+If models of biology and AI included these dynamics , they would demonstrate how unexpected elements can emerge from an evolving coherence . 
+Indeed , incorporating this principle into both fields could result in new diagnostic capabilities and new forms of individualized treatment , with a different therapy designed for each person . 
+An infection such as the coronavirus is currently countered with a vaccine tailored to block it . 
+But what if there was a way to &quot; tune &quot; bodies to reject all infections ? 
+For example , there are a few cases of natural immunity to HIV , but we are unable to understand why . 
+The challenge in biomedical and computational research is to model the dynamics between diverse processes at the level of whole systems . 
+Once we can do this , we are much more likely to develop AI tools that are capable of unexpected breakthroughs in understanding how the body supports and resists illness . 

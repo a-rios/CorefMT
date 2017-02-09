@@ -1,0 +1,22 @@
+El despegue de las potencias medias  
+El ambiente de seguridad posterior a los ataques terroristas del 11 de septiembre de 2001 contra los Estados unidos han mostrado claramente las limitaciones de las Naciones unidas , e incluso de Estados unidos como la única superpotencia mundial , para mantener la seguridad internacional .  
+Sin embargo , las potencias medias con ideas similares podrían complementar lo que les hace falta a la Onu o los Eu , y generar suficiente influencia para estabilizar el ambiente de seguridad internacional .  
+Japón , Australia , Alemania o Canadá podrían ser esas potencias .  
+Como países libres y democráticos , dummy-they comparten valores comunes .  
+Además , dummy-they son potencias no nucleares y no tienen un lugar permanente en el Consejo de seguridad de naciones unidas .  
+Todos son aliados de los Eu desde hace mucho tiempo .  
+De hecho , en años recientes estos países ya han tenido muchas oportunidades para demostrar su-pl capacidades y su-pl voluntad de contribuir a la seguridad internacional si se les solicita , ya que también dummy-they comparten el reconocimiento de que la estabilidad global favorece a su-pl propios intereses nacionales .  
+Sin embargo , hay diferencias sutiles entre estos países que pueden influir en si cooperación bilateral o su-pl coordinación con la Onu o los Eu .  
+Como resultado , dummy-they deben complementar su-pl ventajas , características e intereses mutuos a fin de optimizar su-pl papel en la promoción de la seguridad internacional .  
+Durante muchos años , Japón ha estado dando pasos muy cuidadosos en esta esfera , pero recientemente han ocurrido cambios sustanciales .  
+En marzo de 2007 , Japón acordó establecer una " semi-alianza " con Australia y emitió un " Comunicado conjunto sobre la Cooperación japón-australia en materia de Seguridad " .  
+A principios de junio , los ministros de defensa y de relaciones exteriores de ambos países sostuvieron la primera reunión ordinaria sobre seguridad ( la llamada " reunión 2+2 " ) en Tokio y acordaron promover la cooperación en materia de defensa en varios campos , incluyendo la cooperación internacional .  
+Bajo su-pl últimos dos primeros ministros , Japón ha estado haciendo contribuciones prácticas sostenidas a la estabilización del ambiente de seguridad internacional como forma de proteger su-pl propios intereses nacionales e internacionales .  
+Así , Japón está contribuyendo a crear las condiciones que les permitan a las potencias medias actuar de manera conjunta y eficaz para suministrar un " bien público " esencial .  
+Esas propuestas prácticas abordan temas globales clave , incluyendo el terrorismo internacional , el fortalecimiento de los mecanismos de control de armamento , la reducción del armamento y la no proliferación , esfuerzos para contener los intentos de Corea del norte e Irán por desarrollar armas nucleares , alentar una mayor transparencia en las fuerzas armadas de China , limitar las ambiciones imperialistas de Rusia y construir una red global de defensa de misiles balísticos contra los misiles que pudieran lanzar los regímenes delincuentes .  
+Sin embargo , los esfuerzos para promover este tipo de cooperación no deben limitarse a estas potencias medias .  
+Hay muchos otros países democráticos de nivel medio que deberían participar .  
+Pueden utilizarse varios enfoques para construir una coalición de esas potencias , incluyendo el uso de las Naciones unidas e intentar influir sobre la política exterior de los Eu .  
+Para avanzar en esos esfuerzos , puede ser necesario que las potencias medias como Japón , Canadá , Australia y Alemania refuercen su-pl vínculos con otros países de nivel medio con ideas afines que posean armas nucleares y tengan lugares permanente en el Consejo de seguridad de naciones unidas , como el Reino unido o Francia , o con potencias nucleares menores que no tengan lugar en el Consejo de seguridad , como la India .  
+Una vez que una coalición de ese tipo se establezca firmemente , el siguiente paso sería participar activamente en la negociación de las cuestiones de seguridad principales , como la reducción y el control internacional de los armamentos y la no proliferación , y alentar al mismo tiempo la participación de China y Rusia .  
+La meta debería ser crear y ejercer influencia en la comunidad internacional hasta el punto que la coalición se convierta en el equivalente de un " sexto " miembro permanente del Consejo de seguridad .  

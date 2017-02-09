@@ -1,0 +1,31 @@
+A New us agenda for Latin america  
+Ciudad De Mexico - Al próximo presidente norteamericano no le resultará una tarea sencilla remediar el embrollo internacional heredado de la administración Bush .  
+Si bien América latina no será una prioridad ni para la administración de Obama ni para la de Mccain , seguir con la desatención de los últimos siete años por parte de Estados unidos ya no es viable .  
+Se destacan dos desafíos político-diplomáticos diferentes : la inminente transición o crisis de sucesión de Cuba y el continuo ascenso de las " dos izquierdas " de la región , una representada por el presidente Hugo chávez de venezuela y la otra , por el cada vez más influyente presidente Luiz inácio lula da Silva de brasil .  
+La próxima administración norteamericana sólo resultará exitosa si entiende que América latina está atravesando un período que combina los mejores y los peores aspectos de su historia : el más rápido crecimiento económico desde los años 1970 , con una reducción de la pobreza y la desigualdad , y una actitud más democrática y respetuosa de los derechos humanos que en cualquier momento antes , pero cada vez más polarizada políticamente .  
+En Cuba , el eventual alejamiento de Fidel castro de la escena representa un inmenso desafío .  
+Estados unidos no puede seguir adelante con las políticas fallidas del pasado medio siglo .  
+Exigir una transición democrática con todas las de la ley como prerrequisito para normalizar las relaciones norteamericano-cubanas no es realista y a América latina le resulta indigestible .  
+Sin embargo , Estados unidos no puede dejar de lado la cuestión de la democracia y los derechos humanos en Cuba mientras espera la partida del hermano de Fidel , Raúl .  
+La realpolitik y el miedo de otro éxodo de refugiados cubanos por los canales de Florida puede tentar a Estados unidos a buscar una solución " china " o " vietnamita " para Cuba : normalizar las relaciones diplomáticas a cambio de una reforma económica , dejando para más tarde la cuestión del cambio político interno .  
+Pero Estados unidos no debería sucumbir a esta tentación .  
+Estados unidos , Canadá , Europa y América latina han construido un marco legal regional , que no debe abandonarse , para defender el régimen democrático y los derechos humanos en el hemisferio .  
+Cuba necesita retornar al concierto regional de potencias , pero debe aceptar las reglas de este concierto .  
+Llevar a cabo elecciones libres y justas tal vez no sea la cuestión principal , pero tampoco es algo que debería postergarse por el bien de la estabilidad y viabilidad .  
+Las elecciones , más bien , deben ser parte de un proceso abarcador de normalización : no deberían ser ni un ultimátum ni algo sin importancia .  
+Si bien Estados unidos debería levantar su embargo comercial tan pronto como comience la transición de Cuba , todo lo demás debería estar sujeto a que Cuba inicie un proceso de resolución de todas las cuestiones pendientes .  
+Pero Cuba es sólo parte de lo que podría llamarse el problema de la " izquierda " de América latina .  
+De hecho , se ha escrito mucho recientemente sobre el ascenso de la izquierda en América latina en la última década .  
+Por cierto , hay dos izquierdas en la región : una izquierda moderna , democrática , globalizada y amiga del mercado , que se encuentra en Chile , Brasil , Uruguay , partes de América central y , hasta cierto punto , en Perú ; y una izquierda retrógrada , populista , autoritaria , estatista y antinorteamericana , que se encuentra en México , El salvador , Nicaragua , Cuba , Ecuador , Bolivia , Venezuela y , en menor medida , en Argentina , Colombia y Paraguay .  
+Algunas de estas " izquierdas " están en el poder ; algunas , como en México en su última elección presidencial debatible , estuvieron a punto de conquistarlo , pero todavía pueden hacerlo .  
+En los últimos dos años , se ha vuelto cada vez más evidente que la izquierda " moderna " o " blanda " , en términos generales , está gobernando bien .  
+La otra izquierda demostró ser más extrema y errática de lo que muchos anticiparon .  
+La primera no siente ningún afán por " exportar " su " modelo " , mientras que la segunda tiene una estrategia y los medios para hacerlo .  
+La izquierda retrógrada hoy puede concretar el viejo sueño del Che guevara : " no uno , dos , muchos Vietnam " , sino " una , dos , muchas Venezuelas " , que llegan al poder mediante las urnas y luego lo conservan y lo concentran mediante cambios constitucionales y la creación de milicias armadas y partidos monolíticos .  
+Puede financiar todo esto con el apoyo de la compañía de petróleo estatal de Venezuela , implementando políticas sociales que son erróneas a largo plazo pero atractivas a corto plazo , especialmente si las llevan a cabo médicos , maestros e instructores cubanos .  
+He aquí un dilema para el próximo presidente norteamericano : cómo abordar la clara fisura entre las dos izquierdas de un modo tal que mejore las relaciones entre Estados unidos y América latina , fortifique a la izquierda moderna y debilite a la izquierda retrógrada sin recurrir a las fallidas políticas intervencionistas del pasado .  
+Las mejores medidas concentradas estrictamente en América latina son claras como el agua , si no fácilmente alcanzables .  
+Requieren fortalecer a aquellos gobiernos de la izquierda moderna , o aquellos del centro o centro-derecha , amenazados por la antigua izquierda , y al mismo tiempo dejarle en claro a esta última que hay que pagar un precio por violar las doctrinas básicas de la democracia , el respeto por los derechos humanos y el régimen del derecho .  
+Darle la espalda a este tipo de desafíos ya no es una opción viable para Estados unidos .  
+Además de algunas cuestiones de particular interés ( petróleo , armas , guerrillas , drogas ) , hoy Estados unidos necesita profundamente a América latina porque se está topando con una resistencia que brota en todas partes , y con mayor virulencia que en cualquier otro momento desde el fin de la Segunda guerra mundial .  
+El próximo presidente norteamericano debe revigorizar una relación que está a punto de ser transformada sustancialmente por primera vez desde la Política de buenos vecinos de franklin roosevelt de hace siete décadas .  

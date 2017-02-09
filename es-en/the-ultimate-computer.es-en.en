@@ -1,0 +1,48 @@
+The Ultimate Computer 
+The personal computer on my desktop is hundreds of times as fast , and has thousands of times as much memory , as the mainframe computer that served my entire university when I was a student . 
+Such advances in the processing speed and storage capacity of computers are expected to continue until the laws of physics impose certain limits . 
+After all , we cannot shrink atoms or increase the speed of light . 
+Now , imagine a computer technology that eventually approaches these limits . 
+Imagine further that every star in every galaxy in the observable universe could somehow be fashioned into computers of this &quot; ultimate &quot; type . 
+That would be a lot of very fast computers . 
+Or if they were connected together we could think of them as a single , massively parallel computer : call it the &quot; Universe Computer . &quot; 
+Admittedly , there are tasks - word processing , for example - at which this imaginary computer would be no more useful than any one of its constituent computers operating independently . 
+But for large , repetitive trial-and-error tasks , such as code breaking , the speed and power of this integrated &quot; Universe Computer &quot; would be vastly superior to anything we could ever hope to build , right ? 
+Hold that thought . 
+Quantum theory - the branch of physics that deals with elementary particles and the microscopic properties of matter - has produced some of our deepest insights into nature , and describes some startlingly counter-intuitive phenomena . 
+For example , it implies that elementary particles , rather than being located at one position at a time , travel on several trajectories simultaneously . 
+No one disputes that quantum phenomena , if they could be harnessed , would revolutionize information processing , enabling ways of computing that no existing computer , even in principle , would be capable of duplicating . 
+Among the tasks for which quantum computing would be ideally suited are &quot; algorithmic searches . &quot; 
+Put simply , algorithmic searches are what computer programmers use as a last resort when looking for a mathematical needle in a haystack : they make the computer try every possible answer in turn until it finds the right one . 
+Obviously , the resources required for such searches are proportional to the number of possible answers : common sense tells us that trying a thousand possibilities requires a thousand times as many operations as trying one . 
+Trying a million possibilities requires a million times as many operations . 
+But our ordinary common sense does not apply in fundamental physics . 
+In 1996 , the computer scientist Lov Grover discovered a quantum algorithm - a way to program a quantum computer - that could try out a million possibilities in only a thousand times the time needed to try one , and a trillion possibilities in only a million times the time of one , and so on , without limit . 
+What would happen inside a quantum computer when it performs an algorithmic search ? 
+The unseemly truth is that most physicists are perplexed and embarrassed by this question . 
+Many explain away quantum phenomena with weasel words , or worse , they simply eschew explanation altogether . 
+True , quantum phenomena cannot be observed directly . 
+But we can deduce their existence and attributes by measuring their effects on things that are directly observable . 
+We have never observed live dinosaurs , either , but we know they existed - and quite a lot about how they worked - from the fossil record . 
+A growing minority of physicists , myself included , accept the &quot; many universes &quot; interpretation of quantum mechanics . 
+We concluded that what we observe as a single particle is really one of countless similar entities in different universes , subtly affecting each other through a process called &quot; quantum interference . &quot; 
+To us , no mystery exists in quantum computation , only wonder . 
+Quantum computing , according to this view , is possible because a quantum computer performs vast numbers of separate computations in different universes and then shares the results through quantum interference . 
+The equations of quantum theory describe this phenomenon step by step . 
+But because such information sharing is achievable only through quantum interference , these same equations also drastically limit the types of task that quantum computation should be able to perform , or speed up . 
+Direct communication between universes is , for example , ruled out . 
+In fact , only a handful of potentially useful quantum algorithms are known at present . 
+Grover &apos;s algorithm is one . 
+Other known quantum algorithms will easily be able to crack the most widely used secure cryptographic systems of today . 
+Coincidentally , cryptographic systems which themselves use quantum computation are already commonplace in laboratories , heralding the development of communication that is both perfectly secure - even against quantum attack - and immune to future advances in mathematics or technology . 
+Quantum cryptography happens to be relatively easy to implement . 
+Unfortunately , we have no computers powerful enough to run any other useful quantum algorithm ; building powerful quantum computers is a major scientific and technological challenge for the coming decades . 
+But theoretical physicists already know how many different types of components are required to make a quantum computer , and how complicated these components must be . 
+The astonishing answer is that virtually any interaction between two information-carrying entities , including atoms or elementary particles , will do . 
+As the physicist Seth Lloyd commented , &quot; almost anything becomes a computer if you shine the right kind of light on it . &quot; 
+It has long been assumed that a single type of machine , given time and memory , could simulate the behavior of any other state of matter . 
+It turns out that existing computers , or even the imaginary &quot; Universe Computer , &quot; are not the ones . 
+But a general-purpose quantum computer would be . 
+In quantum physics , this &quot; computational universality &quot; is part of the essence of all matter - and thus of the comprehensibility of nature . 
+No other branch of physics involves such wide-ranging interaction between theory , experiment , technology , and philosophy . 
+No other field of scientific research holds more promising implications for our understanding of the universe . 

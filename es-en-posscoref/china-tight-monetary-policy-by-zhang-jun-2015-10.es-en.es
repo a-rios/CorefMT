@@ -1,0 +1,36 @@
+La opción de China en materia de políticia monetaria  
+Shanghái - La economía de China ha seguido un rumbo sorprendente en los últimos años : de motor sin precedentes a importante riesgo mundial , al menos en opinión de algunos .  
+De hecho , en vista de que este año el crecimiento de China casi seguro que no alcanzará el objetivo del siete por ciento fijado por las autoridades , el mundo está mirando ahora atentamente posibles señales de crisis y una desaceleración mucho más marcada .  
+¿ Cómo ha llegado China hasta aquí ?  
+¿ Podrá encaminarse de nuevo a restablecer su-hum-sg crecimiento económico ?  
+El crecimiento de China llevaba un tiempo siendo insostenible .  
+Un plan poco prudente de estímulo de la inversión en activos fijos , adoptada como reacción ante la crisis financiera mundial , mantuvo el crecimiento del Pib en el nueve por ciento durante dos años , pero , después de 2011 , el estímulo se convirtió en una atadura macroeconómica , que causó un desplome del crecimiento de la inversión de una tasa nominal de más del 30 por ciento a otra del diez por ciento , aproximadamente , hace poco .  
+Esa situación impide la utilización de la capacidad productiva y los recursos naturales y explica por qué el crecimiento del Pib por encima del siete por ciento es , sencillamente , imposible .  
+El exceso de capacidad y un crecimiento en declive se refuerzan mutuamente .  
+No sólo dummy-nonhum tiene el exceso de capacidad repercusiones negativas en el crecimiento ; tal vez más importante sea que un crecimiento marcadamente decreciente también contribuye a despidos en masa en algunas industrias ( en particular la de los recursos naturales y las industrias pesada y química ) .  
+Lo que hemos de preguntarnos es por qué dummy-nonhum continúa la desaceleración .  
+Una línea de pensamiento popular se centra en los factores estructurales a largo plazo , como , por ejemplo , la transición demográfica , pero hasta ahora pocos estudios han indicado que los factores estructurales sean suficientes para explicar la magnitud del declive de la tasa de crecimiento de China en los dos últimos años .  
+Una respuesta más convincente se encuentra en la posición de China en materia de política monetaria .  
+Desde que dummy-nonhum pasó a ocupar su-nonhum-sg cargo en 2013 , el Primer ministro del gobierno , Li keqiang , ha optado por no relajar las rigurosas políticas macroeconómicas del gobierno anterior , sino por abrigar la esperanza de que la consiguiente presión sobre las industrias existentes contribuya a estimular el cambio estructural , tan deseado por las autoridades , centrándose en el consumo de los hogares y en los servicios .  
+Los economistas acogieron con agrado ese planteamiento ostensiblemente racional , que aminoraría el aumento del crédito impulsor de una acumulación de deuda enorme en el período de 2008-2010 .  
+La trayectoria de China hacia un crecimiento menor recibió la denominación de la " nueva normalidad " .  
+Pero , para que ese planteamiento dé resultado , el crecimiento del Pib tendría que mantenerse constante , en lugar de reducirse marcadamente , y no ha sido eso lo que ha sucedido .  
+De hecho , aunque el ajuste estructural continúa en China , la economía está afrontando una contracción cada vez más grave de la demanda y una continua deflación .  
+El índice de precios al consumo ( Ipc ) se ha mantenido por debajo del dos por ciento y el índice de precios de producción ( Ipp ) dummy-nonhum ha sido negativo durante 44 meses .  
+En un país con una enorme cantidad de liquidez - la M2 ( una medida común de la masa monetaria ) dummy-nonhum equivale al doble del Pib de china - y unos costos de los préstamos que siguen aumentando , eso es algo que-hum tiene poco sentido .  
+El problema estriba en que el Gobierno ha mantenido un tipo de interés de referencia ajustado al Ppi que-hum supera el 11 por ciento .  
+Los tipos de interés ascienden a un ridículo 20 por ciento en el sector bancario paralelo e incluso mayor en el caso de algunos préstamos privados .  
+El resultado es unos costos financieros excesivamente elevados , que han impedido el mantenimiento de una rentabilidad marginal por las empresas de muchas industrias del sector manufacturero .  
+Además , la clausura de las plataformas de financiación de las administraciones locales , junto con el límite máximo de los créditos impuesto por el Gobierno central , ha hecho que el gasto local de capital de inversión en infraestructuras se redujera hasta un nivel sin precedentes y el endurecimiento de las restricciones financieras dummy-nonhum ha debilitado en gran medida el crecimiento en el sector inmobiliario .  
+Como las administraciones y las empresas locales dummy-they tienen dificultades para pagar los intereses , dummy-they entran en un círculo vicioso : endeudarse con el sector bancario paralelo para cumplir con su-pl obligaciones , con lo que aumenta aún más el tipo de interés sin riesgo .  
+Si unos tipos de interés reales excesivamente elevados están socavando la demanda interna que China necesita para corregir la desaceleración económica , dummy-it es natural preguntarse por qué no adopta el Gobierno medidas para reducirlos .  
+La respuesta aparente es el primordial compromiso gubernamental de alejar la economía del crecimiento impulsado por la inversión y la exportación .  
+Pero dummy-it es dudoso que China pueda alcanzar la reequilibración impulsada por el consumo que pretende .  
+Al fin y al cabo , ninguna economía asiática con gran rendimiento ha logrado semejante reequilibración en el pasado y China tiene un modelo de crecimiento similar .  
+Así las cosas , la actual deflación de China debería motivar a su-nonhum-sg autoridades para aplicar una flexibilización monetaria reduciendo los tipos de interés hasta un nivel muy inferior , incluso de cero .  
+Semejante iniciativa , para la que China tiene mucho margen , no sólo permitiría la reducción de las cargas de deuda existentes , sino que , además , dummy-hum permitiría - y tal vez fuera más importante - la refinanciación de la deuda a medida que se acelere la economía .  
+De hecho , como la mayoría de los préstamos bancarios de China - a diferencia de lo que ocurre en Europa , por ejemplo - están ahora inmovilizados en infraestructuras y otros activos físicos , antes que el desapalancamiento es preferible impulsar la demanda .  
+Lo fundamental es reducir los tipos de interés lo suficiente para mitigar los riesgos financieros de un elevado apalancamiento y permitir la reestructuración de las deudas de las administraciones locales .  
+Unos menores costos de endeudamiento impulsarían también el mercado de capitales de China , que-hum es fundamental para proporcionar financiación mediante la inversión en capital a empresas innovadoras pequeñas y medianas .  
+Naturalmente , China debe seguir con las cancelaciones y canjes de deuda y mantenerse en la vía de la reforma estructural gradual , pero las autoridades deben reconocer el daño que se está haciendo con unos tipos de interés reales excesivamente elevados .  
+La flexibilización monetaria es decisiva para impedir que se aminore aún más el crecimiento y garantizar , así , la estabilidad económica interna y mantener el impulso de la recuperación a escala mundial .  

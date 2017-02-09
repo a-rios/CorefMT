@@ -1,0 +1,43 @@
+Genetics \ u0027 Information Revolution 
+Unlocking the secrets of the human genome would be impossible without the computerized manipulation of massive amounts of data , including the majority of the three billion chemical units that comprise our own species &apos; genetic blueprint . 
+Sequence data , whether from proteins or nucleic acids , are well suited to computer processing because they are easily digitized and broken down into their constituent units . 
+Simple computer programs can compare two or more strings of these units and evaluate degrees of similarity , search huge databases to match new sequences against known ones , and cluster groups of sequences in the form of a family tree . 
+The implications of research on the first proteins to be studied almost half a century ago were profound . 
+These sequences were all rather small - insulin has only about 50 amino acids , depending on the species - but the variation between species was clear . 
+My own interest began with one of these simple molecules 40 years ago , when I was a postdoctoral student in Sweden . 
+Fibrinopeptides are short sequences that are relatively easy to purify and have the virtue of changing significantly from species to species . 
+As a result , we were able to show a strong correspondence between the fossil record and most of the changes that were observed in the fibrinopeptide sequences . 
+So it was obviously possible to interpret the evolutionary past in terms of existing genetic sequences . 
+But advances in computing were indispensable to further progress . 
+In 1965 , Robert Ledley began the first real sequence database , the Atlas of Protein Sequence and Structure . 
+In 1967 , researchers produced a genetic tree of a score of animals and fungi that had virtually the same branching order as would have been drawn by a classical biologist , even though their computer was utterly ignorant of the comparative anatomy , paleontology , embryology , and other non-molecular attributes of these creatures . 
+Finally , in 1970 a splendid computer innovation enabled the proper alignment of amino acid sequences ( which is vital to all subsequent data management ) . 
+The interpretation of sequencing data then developed along two dimensions . 
+First , there was a natural interest in the relationships between organisms . 
+The assumption was that random changes occur along all limbs of a genetic tree , but depending on the protein , only some small fraction survives . 
+If these survival rates were constant , then distances separating existing sequences could be calculated . 
+A second kind of comparison focused on so-called paralogous proteins , which are descended from a common ancestor within the same creature as a result of gene duplications . 
+Both types of comparison showed that new proteins come from old ones , just as evolutionary theory would predict . 
+Duplications of parts of a DNA genome occur constantly in all organisms , mainly as a result of random breakage and reunion events . 
+Most of these duplicated segments are doomed to oblivion , because any proteins their genes produce are redundant . 
+Occasionally , however , a slightly modified gene product proves adaptively advantageous , and a new protein is born . 
+Often its function is very similar to the old one , but occasionally a drastic change occurs . 
+Then , in 1978 , DNA sequencing came into wide use . 
+Almost immediately , a flood of fresh genetic information overwhelmed the existing protein sequence database . 
+A second storehouse , GenBank , was established , but initially it concentrated exclusively on DNA sequences . 
+And yet the interesting information resided in the translated DNA sequences , that is , their protein equivalents . 
+It was one of those rare moments of opportunity when an amateur could compete with professionals . 
+So I began my own database , mostly using translated DNA sequences ; 
+Armed with a very primitive computer and some very simple programs written by an undergraduate student , we began matching every new sequence against all previously reported sequences and found many wholly unexpected relationships . 
+By the time the Human Genome Initiative was launched at the end of the 1980 &apos;s , the amount of data was no longer the limiting factor in the development of new knowledge ; suddenly , managing it was . 
+Many scientists were skeptical about the human genome project . 
+The human genome , they pointed out , contained a hundred times more amino acid sequences than the existing databases . 
+So how would the genes be identified ? 
+How can you match up something that &apos;s never been found ? 
+But every gene in a genome is not an entirely new construct , and not all protein sequences are possible - otherwise , the number of different sequences would be vastly greater than the number of atoms in the Universe . 
+Only a miniscule fraction of possible sequences has ever occurred , through duplication , multiplication , and modification of a small starter set of genes . 
+As a result , most genes are related to other genes . 
+I was confident that bioinformatics would enable us to identify all genes merely by sequence inspection . 
+Even one of the most studied organisms , E. coli , has an abundance of genes whose function has never been found . 
+Still , the benefits of deciphering genomes have been tremendous . 
+The promises of quick medical applications may have been over-stated . 

@@ -1,0 +1,27 @@
+La Europa de david cameron  
+Estocolmo - Es probable que en los próximos 18-24 meses se decida la forma de Europa para decenios venideros y el Reino unido ha puesto en marcha ahora el reloj para ese proceso .  
+El Primer ministro david cameron , reelegido con una mayoría clamorosa - y totalmente inesperada - en la Cámara de los comunes , debe ahora utilizar su mandato mejorado para exponer un plan de reformas de la Ue que sea atractivo para todos los Estados miembros .  
+En los últimos años , el Reino unido ha sido como el mundo al revés , al postrarse Cameron ante el ala fanáticamente antieuropea de su Partido conservador , aunque sólo sea para mantener a raya al Partido de la independencia del reino unido , pero ahora que su autoridad se ha visto reforzada en gran medida por su victoria y el Ukip ha resultado el mayor perdedor en las elecciones , puede dar un paso adelante como el europeo comprometido , pero pragmático , que es en realidad .  
+En una serie de discursos de los últimos años , Cameron ha hablado sobre un programa europeo de reformas centrado en el aumento de la competitividad de la Ue y la mejora de la transparencia de sus instituciones .  
+Después del revanchismo ruso y la propagación del caos por Oriente medio , si Cameron hubiera de hablar actualmente de los cambios que debe hacer Europa , yo esperaría que añadiese su apoyo a una política exterior y de seguridad común más eficaz .  
+Si Cameron expone semejante programa de reformas en el Consejo europeo del próximo mes de junio y está dispuesto a escuchar , además de hablar , podría poner en marcha un proceso que beneficiara a toda Europa .  
+Ahora bien , corresponderá primordialmente al Presidente del consejo de la ue , Donald tusk , durante las presidencias de Luxemburgo , los Países bajos , Eslovaquia y Malta de la ue a lo largo de los dos próximos años , hacer avanzar un plan de reformas a principios de 2017 .  
+Será un proceso que deben dirigir los 28 Estados miembros de la Ue , en lugar de la Comisión europea .  
+La reforma de la Ue sólo puede tener éxito recurriendo a las instituciones políticas nacionales de la Ue y logrando su participación .  
+El próximo año debería ser un período de debate intenso sobre un plan de reformas que , cuando esté concluido , acuerden - es de esperar - todos los miembros de la Ue , porque Cameron debe cumplir su promesa de celebrar un referéndum sobre la permanencia en la Ue o la salida de ella antes de que el Reino unido se haga cargo de la presidencia rotatoria el 1 de julio de 2017 .  
+De momento , las encuestas de opinión indican que el electorado del Reino unido votaría a favor de continuar dentro de la Ue .  
+Ahora bien , ninguna encuesta de opinión predijo que el resultado de las elecciones generales sería un gobierno conservador mayoritario .  
+Así , pues , nadie debería hacerse ilusiones sobre los riesgos inherentes a cualquier referéndum británico sobre la permanencia en la Ue .  
+Naturalmente , la Ue no carece de capacidad para influir en el resultado .  
+La Unión puede desempeñar su papel en los dieciocho próximos meses demostrando su capacidad para no sólo presentar un potente plan de reformas , sino también aplicar otras políticas fundamentales , como , por ejemplo , la Asociación transatlántica de comercio e Inversión con los Estados unidos y el Mercado único digital .  
+El éxito en esos sectores y los beneficios económicos que aportarán harán que el abandono de la Ue resulte aún menos atractivo para el Reino unido .  
+Pero una decisión de abandonarla por parte del Reino unido , en caso de que llegara a producirse , iniciaría un proceso doloroso y complicado para negociar la salida y acordar algún tipo de relación nueva .  
+No habría opciones atractivas y el resultado - independientemente de la mayor o menor buena voluntad con la que las partes vayan a las negociaciones - dejaría tanto al Reino unido como a la Ue visiblemente disminuidos , entre otras cosas en el escenario mundial .  
+Además , sería ingenuo esperar que el resto de la Ue pudiera continuar simplemente como antes .  
+Al contrario : la retirada británica inspiraría probablemente iniciativas similares en otros países , con el riesgo de que la Ue , ya debilitada , empezara a fragmentarse .  
+Y , en vista de sus intentos actuales de dividir a Europa , podemos estar seguros de que el Presidente de rusia , Vladimir putin , haría todo lo que pudiera para alentar y financiar semejante división .  
+Durante ese período , la Ue tendría también que abordar las actuales amenazas a sus vecinos orientales - en particular Ucrania - planteadas por el revisionismo de Putin , además del desplome de gran parte de sus vecinos meridionales de Oriente medio y de áfrica del norte .  
+En ese marco , una Europa debilitada y fracturada - incapacitada para afrontar amenazas procedentes de sus vecinos más inmediatos - sería un lugar más peligroso para vivir .  
+Se debe ver la notable victoria de Cameron como una oportunidad para lanzar una Ue renovada y reformada en los dos próximos años .  
+Los socios europeos del Reino unido esperan que Cameron prepare el debate que ahora debe comenzar para que de él surja una Ue en verdad más fuerte , que pueda afrontar su futuro y los imperativos futuros , pero también existe la posibilidad de que todo salga pésimamente .  
+En estos tiempos peligrosos , no se deben subestimar las consecuencias de una desintegración de Europa .  

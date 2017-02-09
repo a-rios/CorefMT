@@ -1,0 +1,35 @@
+Ortega : ¿ primero o tercero ?  
+Ante la amenaza inesperada que representa el ex alcalde de Managua herty lewites , Daniel ortega ha decretado un estado de emergencia en el Frente sandinista ( Fsln ) .  
+Nadie duda que el nombramiento precipitado de Ortega como candidato presidencial para las elecciones de noviembre 2006 , constituye una respuesta defensiva ante el desafío planteado por el movimiento que encabeza Lewites , un sandinista pragmático que según las encuestas es el político más popular de Nicaragua .  
+Lo llamativo ha sido que Ortega se haya expuesto a tanto desgaste político para imponer su candidatura , eliminando de un tajo la demanda de elecciones primarias en su partido .  
+Ortega no sólo expulsó a Lewites del fsln , sino que desplegó toda su influencia a través de los poderes del estado que controla , cancelando el permiso policial para un acto público y prohibiéndole el uso de los símbolos del partido en sus manifestaciones .  
+Pero a pesar de la prohibición oficial no logró expropiarle las calles al movimiento de Lewites que continúa organizando concentraciones masivas .  
+Y al atentar contra la libertad de movilización política , Ortega agredió a todos los ciudadanos que ahora se sienten más amenazados por su poder autoritario .  
+La quinta candidatura presidencial de Ortega -- después de haber perdido en las últimas tres elecciones -- conlleva un claro mensaje a la Administración bush en Estados unidos .  
+Un llamado a la confrontación con los " veteranos de la contra " de los ochenta -- Elliot abrams , John negroponte , Roger noriega , Dan fisk , Otto reich -- que hoy ejercen importantes cuotas de poder en Washington .  
+No por casualidad durante el acto de proclamación de Ortega se insistió en que el gobierno de Estados unidos " ha diseñado un plan para asesinar al comandante Ortega " .  
+Ante su militancia , Ortega se declara amenazado de muerte , y ahora espera ansioso la reacción de la Administración bush que a través del subsecretario de estado para América latina , Roger noriega , ya lo ha calificado como un " matón " .  
+Su cálculo político apunta a activar el resorte político emocional más profundo de los sandinistas , llamándolos a cerrar filas contra la " amenaza imperialista " .  
+Un expediente que en el pasado ha resultado ser sumamente efectivo para eliminar la disidencia interna en el Fsln .  
+De manera que la confrontación Ortega-bush , en un ambiente de polarización , equivale a una profecía autocumplida , y tiende a convertirse en su arma principal para debilitar a los opositores dentro de su propio partido .  
+En su discurso triunfalista , Ortega asegura que su campaña hacia la Presidencia forma parte de una ola victoriosa de la izquierda latinoamericana frente al agotamiento del neoliberalismo en el continente .  
+Como respaldo a esta tesis exhibe los triunfos recientes de Lula da Silva en Brasil , Tabaré vázquez en Uruguay , Ricardo lagos en Chile y Nestor kirchner en Argentina .  
+Lo que Ortega no explica es que su propia candidatura se asemeja más al fracaso de Schafik handal en El salvador , mientras que Vázquez , Lagos , o Kirshner , y hasta el mismo Lula en el poder , se parecen más a lo que hoy simboliza Lewites en Nicaragua .  
+Ellos representan una izquierda moderna y democrática , socialmente comprometida y a la vez capaz de concertar soluciones nacionales con el capital y de abanderar diferencias profundas con Estados unidos y el Fmi , pero sin colocar al país al borde del abismo .  
+Un pensamiento y una práctica democrática de izquierda que bajo el caudillismo de Ortega , ha sido purgada del Fsln bajo cargos de traición , desviación socialdemócrata y agentes del imperialismo .  
+Por el contrario , en el contexto de la nueva izquierda latinoamericana , a Ortega más bien se le percibe como un mal remedo de Fidel castro sin los millones del petróleo de Hugo chávez ; pero sin ningún parentesco con la izquierda democrática .  
+A pesar de todo , si logra mantener unido a su partido y a la vez se divide el mayoritario voto antisandinista , Ortega tiene un chance objetivo de ganar las elecciones del 2006 .  
+Irónicamente , su principal aliado en esta aventura sería su antiguo enemigo , el expresidente Arnoldo alemán , quien guarda casa por cárcel , sentenciado por sus escándalos de corrupción .  
+Entre Ortega y Alemán , controlan el 90 % del parlamento , así como la Corte suprema de justicia , y el Poder electoral , y mantienen en jaque permanente al presidente Enrique bolaños .  
+Alemán también enfrenta una rebelión en el Partido liberal constitucionalista ( Plc ) , encabezada por el ex ministro de hacienda , Eduardo montealegre , el presidenciable con mayor popularidad entre los liberales .  
+Si Alemán bloquea la candidatura de Montealegre en el Plc y lo empuja a formar otro polo político , entonces las oportunidades de Ortega aumentan considerablemente .  
+El capital empresarial que financia las campañas electorales , ya está enfrentado a un dilema complejo : ¿ es preferible aliarse con un Plc dominado por el corrupto de Alemán , que apoyar a una nueva fuerza democrática , corriendo el riesgo de facilitarle el triunfo a Ortega ?  
+La pregunta aún pertenece a la dimensión especulativa , pero lo cierto es que una elección a tres bandas representa el mejor mundo para Ortega .  
+Y por eso el líder del Fsln está comprometido en rehabilitar políticamente a Arnoldo alemán , pues apuesta a que su excarcelación abona en su propio interés para polarizar al liberalismo y dividir a la derecha .  
+Sin embargo , en medio de este plan maestro del Fsln , Ortega ahora tiene que enfrentar el desafío de Herty lewites entre su propio electorado .  
+Si están en lo correcto las encuestas que revelan la preferencia mayoritaria por Lewites entre los sandinistas -- 72 % vs .  
+18 % para Ortega -- , y si su movimiento logra articular una organización nacional para mantenerse en las calles , en cuestión de meses podría convertirse en un adversario imbatible para Ortega .  
+En el inédito escenario de una elección a cuatro bandas -- el Plc de alemán , el Fsln de ortega , Montealegre , y Lewites , -- , una encuesta realizada en enero por Borge y Asociados proyectó que Lewites obtendría el primer lugar , Montealegre el segundo , Ortega el tercero , y Alemán , o su candidato , el cuarto .  
+Si tales proyecciones se mantienen , Lewites y Montealegre , incluso separados , reúnen el potencial de llevar a la Asamblea nacional más diputados que el Fsln y el Plc juntos , lo cual tendría un valor estratégico para la democracia en función de sepultar el pacto de los caudillos , con que Alemán y Ortega han mal gobernado el país en los últimos años .  
+Es cierto que aún es muy prematuro para hacer pronósticos definitivos sobre esta hipótesis , pero basta advertir que en ochos semanas las rebeliones de Lewites y Montealegre han cambiado más el panorama político del país , que en los últimos dos años .  
+Así que nada se puede descartar en esta larga contienda presidencial .  

@@ -1,0 +1,34 @@
+El misterio del Karmapa lama  
+Nueva Delhi - La incautación por la policía de grandes sumas de moneda china en el monasterio indio del Karmapa lama - una de las figuras más importantes del budismo tibetano - ha revivido viejas sospechas sobre sus continuos vínculos con China y lo obligó a negar que sea un " agente de Beijing " .  
+El Dalai lama , el Panchen lama y el Karmapa lama son las tres principales figuras del budismo tibetano , en representación de instituciones paralelas que han estado en conflicto de forma intermitente a lo largo de su historia .  
+Y China , en busca de reforzar su control sobre el Tíbet , ha buscado controlar el proceso tradicional de búsqueda de la reencarnación cada lama que fallece .  
+Así , en 1992 , China ayudó a seleccionar a Ogyen trinley dorje , de siete años de edad , como el 17 º Karmapa lama , instalándolo en el monasterio Tsurphu del tíbet , residencia ancestral de los Karmapas que fuera casi destruida durante la Revolución cultural .  
+Se convirtió en el primer " Buda viviente " reencarnado en ser reconocido y ratificado por la China comunista .  
+Pero entonces , en 1999 , Dorje realizó un impresionante escape a la India a través de Nepal , que no solo atrajo la atención del mundo , sino también profunda desconfianza por la aparente facilidad con la que él y sus acompañantes lograron huir .  
+El Dalai lama lo ha alojado desde entonces en el monasterio Gyuto en Dharamsala , India .  
+Anteriormente , en 1995 , China instaló su propio Panchen lama después de que sus servicios de seguridad secuestraran al niño de seis años designado por los tibetanos , quien simplemente desapareció junto con su familia .  
+Ahora China está a la espera de que fallezca el actual Dalai lama - que tiene más de 75 años y ha sufrido episodios de mala salud últimamente - , para poder ungir a su sucesor también .  
+Sin embargo , el Dalai lama , el rostro carismático del movimiento tibetano , ha dejado claro que su sucesor provendrá del " mundo libre " , lo que excluye al Tíbet gobernado por China .  
+Esto genera las condiciones para el surgimiento de dos Dalai lamas rivales , uno elegido por China y el otro por el movimiento tibetano en el exilio .  
+De hecho , el Karmapa lama nombrado por los chinos tiene un contendor que se ha establecido en Nueva delhi .  
+Con ambos Karmapas en la India , el gobierno indio ha tratado de mantener la paz mediante la prohibición a ambos de acceder al monasterio sagrado Rumtek , en el estado indio de Sikkim , en los Himalayas .  
+En este contexto , el descubrimiento de 1,1 millones de renminbi y grandes sumas de otras monedas extranjeras ha suscitado una nueva controversia sobre Dorje .  
+Mientras que sus seguidores han protagonizado protestas en contra de la redada policial y el interrogatorio de su líder , los funcionarios indios han expresado su temor de que China lo esté financiando como parte de un plan para influir en la secta Kagyu del karmapa , que controla importantes monasterios a lo largo de la militarizada frontera indo-tibetana .  
+De acuerdo con Xu zhitao , funcionario del Departamento de trabajo del frente unido del comité central del partido comunista chino , la afirmación de que " el Karmapa [ puede ser ] un agente o espía de China demuestra que la India mantiene una actitud de desconfianza hacia China " .  
+Sin embargo , esta actitud parece justificada : la división de Xu está a cargo de la supervisión de las instituciones monásticas del Tíbet , inculcando normas " patrióticas " entre los monjes y monjas - a través de la reeducación , si es necesario - e infiltrando el movimiento de resistencia tibetano y los monasterios budistas tibetanos a ambos lados de la frontera indo-tibetana .  
+Históricamente , las comunidades de la región del Himalaya han estado muy integradas .  
+Pero , con el Tíbet bloqueado tras una cortina de hierro desde su anexión por parte de China en 1951 , las economías y culturas de toda la región del Himalaya se han debilitado .  
+Sin embargo , el budismo tibetano todavía sirve como nexo común , y la secta Kagyu del karmapa es una poderosa fuerza en el lado indio .  
+El decomiso de dinero ha reabierto la pregunta que surgiera en 1999 : ¿ estuvo China tras la huida de Dorje a la India , o es un desertor genuino que simplemente se hartó de vivir en una jaula dorada en China ?  
+China tenía varios motivos posibles para la crear su " fuga " ; por ejemplo , el deseo de reforzar su afirmación del título en un momento en que el candidato rival ( respaldado por importantes intereses en la India , Bután y Taiwán ) parecía estar ganando terreno .  
+Si Dorje hubiese permanecido en el Tíbet podría haber perdido terreno ante su rival , ya que el monasterio de Rumtek , de 280 años y la más santa institución de la escuela Kagyu , es donde se encuentra la todopoderosa secta del " sombrero negro " , la corona simbólica del Karmapa que , se cree , está tejida con cabellos de deidades femeninas .  
+A China también le debe de haber resultado conveniente el hecho de que , en el turbio mundo de la política intratibetana , curiosamente su Karmapa tuviese el apoyo del Dalai lama .  
+Históricamente , los Dalai lamas y Karmapa lamas competían entre sí por obtener influencia , hasta que la escuela Gelug del dalai lama ganó ascendiente sobre la orden Kagyu .  
+Sin embargo , según la tradición tibetana el Dalai lama no tiene ningún papel en la selección o el apoyo a un Karmapa .  
+En este caso , el Dalai lama dio su aprobación por razones puramente políticas .  
+El anterior Karmapa lama murió en 1981 , y la controversia sobre su sucesor que se ha prolongado desde entonces refleja también la lucha por el control de los $ 1,5 mil millones de dólares en bienes de la orden Kagyu , la más rica del budismo tibetano .  
+En momentos en que hay pleitos legales por el control del monasterio Rumtek , como es lógico , el Karmapa rival que reside en Nueva delhi karmapa saludó la reciente incautación de efectivo como un hecho que " pone al descubierto " a su rival nombrado por los chinos .  
+De manera significativa , y en contraste con sus ataques cada vez más furibundos contra el Dalai lama , China no ha denunciado ( o quitado su reconocimiento ) a su Karmapa , a pesar de que su huida a la India señalara su fracaso para mantener la lealtad de un supuesto títere .  
+Ogyen trinley dorje , de 25 años y hablante de chino mandarín , critica de vez en cuando al gobierno chino , por ejemplo , por su empeño en " crear este conflicto étnico " en el Tíbet .  
+Sin embargo , China se ha abstenido de atacarle , dejando en claro que desea que regrese con el tiempo .  
+Y la actual saga en torno al Karmapa , con su elusiva política y sus intrigas , podría acabar por ser apenas el acto de apertura , un anticipo de lo que puede sobrevenir cuando dos Dalai lamas enfrentados surjan tras la desaparición del actual .  

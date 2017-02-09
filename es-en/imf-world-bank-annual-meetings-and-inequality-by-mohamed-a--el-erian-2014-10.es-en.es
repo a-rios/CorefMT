@@ -1,0 +1,31 @@
+La triplicidad de la desigualdad  
+Laguna Beach - En las recién concluidas reuniones anuales del Fondo monetario internacional y del Banco mundial , hubo no pocas desconexiones .  
+Una de las más destacadas fue la disparidad entre el interés de los participantes en los debates sobre la desigualdad y la falta actual de un plan de acción oficial para que los gobiernos la aborden .  
+Se trata de un fallo grave de la imaginación política ... y que se debe abordar urgentemente .  
+Hay buenas razones para la intensificación del interés .  
+Si bien la desigualdad ha desminuido entre los países , ha aumentado dentro de ellos , tanto en los países en desarrollo como en los desarrollados .  
+Ese proceso ha sido impulsado por una combinación de cuestiones estructurales y persistentes , incluidos el cambio de naturaleza de los avances tecnológicos , el aumento de las características inversoras como la de que " el que gana se lo lleva todo " y los sistemas políticos que favorecen a los adinerados , y con las fuerzas cíclicas ha adquirido proporciones propias de turbocompresores .  
+En el mundo desarrollado , la raíz del problema es una polarización política sin precedentes , que ha impedido reaccionar de forma exhaustiva y ha hecho recaer una carga política excesiva en los bancos centrales .  
+Aunque las autoridades monetarias gozan de más autonomía política que los otros organismos encargados de la formulación de políticas , carecen de los instrumentos necesarios para abordar eficazmente los imperativos que afrontan sus países .  
+En tiempos normales , la política fiscal apoyaría la política monetaria , entre otras cosas desempeñando un papel redistributivo , pero estos tiempos no son normales .  
+Como la paralización política bloquea una reacción fiscal apropíada - después de 2008 , el Congreso de los estados unidos no aprobó un presupuesto anual , componente básico de una gestión económica responsable , durante cinco años - , los bancos centrales se han visto obligados a impulsar las economías artificialmente .  
+Para ello , han recurrido a unos tipos de interés próximos a cero y a medidas heterodoxas como la relajación cuantitativa para estimular el crecimiento y la creación de empleo .  
+Además de ser incompleto , ese planteamiento favorece implícitamente a los ricos , que cuentan con una parte desproporcionadamente grande de los activos financieros .  
+Entretanto , las empresas han ido volviéndose cada vez más resueltas en sus empeños por reducir sus cuotas tributarias , entre otras cosas mediante supuestas inversiones , con las cuales trasladan sus sedes a jurisdicciones en las que los impuestos sean menores .  
+A consecuencia de ello , la mayoría de los países afrontan un trío de desigualdades - de renta , riqueza y oportunidades - , que , si no se contrarrestan , se refuerzan mutuamente , con consecuencias de gran alcance .  
+De hecho , aparte de sus consecuencias morales , sociales y políticas , ese trío entraña una preocupación económica seria : en lugar de crear incentivos para el trabajo denonado y la innovación , la desigualdad empieza a socavar el dinamismo económico , la inversión , el empleo y la prosperidad .  
+Como los hogares opulentos gastan una parte menor de sus ingresos y riqueza , una mayor desigualdad se plasma en un menor consumo total , con lo que entorpece la recuperación de unas economías que ya cargan con una demanda agregada insuficiente .  
+Los altos niveles de desigualdad actuales impiden también las reformas estructurales necesarias para impulsar la productividad , al tiempo que socavan las medidas encaminadas a abordar las bolsas residuales de endeudamiento excesivo .  
+Se trata de una combinación peligrosa que socava la cohesión social , la eficacia política , el crecimiento presente del Pib y el potencial económico futuro .  
+ésa es la razón por la que resulta tan decepcionarte que , pese a una conciencia mayor de la desigualdad , las reuniones del Fmi y del Banco mundial , a las que asisten miles de encargados de la formulación de políticas , participantes del sector privado y periodistas , en las que se impartieron seminarios sobre la desigualdad tanto en los países avanzados como en las regiones en desarrollo , no tuvieran repercusiones de importancia en el programa normativo .  
+Las autoridades parecen convencidas de que no es el momento apropiado para una iniciativa válida a fin de abordar la desigualdad de renta , riqueza y oportunidades , pero lo único que se conseguirá con esperar será volver ese problema más difícil de resolver .  
+En realidad , se pueden - y se deben - adoptar diversas medidas para detener el aumento de la desigualdad .  
+En los Estados unidos , por ejemplo , una determinación política sostenida contribuiría a cerrar resquicios enormes en materia de planificación del patrimonio y herencia , además de en la tributación de los hogares y las grandes empresas , que benefician desproporcionadamente a los ricos .  
+Asimismo , hay margen para suprimir el anticuado uso de gravar los fondos especulativos y los fondos de inversión privada con " participaciones en cuenta " con un tipo preferente .  
+Se podría reformar mejor la fiscalidad de la propiedad de viviendas y su subvención , sobre todo los niveles de precios máximos , y se ha demostrado con argumentos poderosos que hace falta un aumento del salario mínimo .  
+Desde luego , semejantes medidas sólo harán alguna mella en la desigualdad , si bien importante y visible .  
+Para intensificar sus efectos , se necesita una postura más amplia en materia de política macroeconómica , con el objetivo explicito de revigorizar y reformular las medidas de reforma estructural , impulsando la demanda agregada y eliminando los endeudamientos excesivos .  
+Semejante planteamiento reduciría la enorme carga normativa que recae actualmente sobre los bancos centrales .  
+Es hora de que haya una mayor atención mundial a la desigualdad para que se plasme en medidas concertadas .  
+Algunas iniciativas abordarían la desigualdad directamente ; otras desactivarían algunas de las fuerzas que la impulsan .  
+Con todas ellas se avanzaría mucho en la mitigación de un potente obstáculo para el bienestar económico y social de las generaciones actuales y futuras .  

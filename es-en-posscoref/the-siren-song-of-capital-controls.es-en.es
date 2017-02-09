@@ -1,0 +1,31 @@
+El canto de sirena de los controles del capital  
+Ithaca ( Nueva York ) - Los controles del capital vuelven a estar de moda .  
+Al afrontar una importante apreciación de la divisa y temiendo auges de los precios de los activos impulsados por dinero especulativo , países como Indonesia , Corea del sur y Taiwán han adoptado medidas recientemente para limitar las entradas de capitales .  
+Unos banqueros centrales nerviosos de muchos otros mercados en ascenso , incluido el de la India , al afrontar presiones de los exportadores perjudicados por el aumento de los tipos de cambio , están pensando en la posibilidad de aplicar también controles más amplios de las entradas de capitales .  
+A comienzos de este año , el Fondo monetario internacional se pronunció a favor de los controles de capitales .  
+Entonces , ¿ resiste nueva fascinación con los controles de capitales un examen detenido ?  
+Los controles de capitales siguen siendo una idea desafortunada : una idea que es mucho más seductora en teoría que en la práctica .  
+Además , existen razones poderosas para considerar las entradas de capitales en los mercados en ascenso una oportunidad de fortalecer los mercados nacionales de capitales en lugar de una amenaza , primordialmente , a la estabilidad financiera .  
+Las corrientes de capital sin limitaciones podrían , efectivamente , representar un desastre para una economía que tenga mercados financieros con un funcionamiento defectuoso , niveles elevados de corrupción y políticas monetarias y fiscales poco eficientes .  
+Por eso , podría parecer aceptable que los mercados en ascenso detengan o incluso inviertan los avances que han logrado en la liberalización de las corrientes de capital para poner primero su-pl casas en orden .  
+Pero volver a imponer controles de capitales dummy-it no es , sencillamente , una opción fructífera .  
+Cuando los incentivos para que el dinero cruce las fronteras son intensos , encontrará una vía para hacerlo , gracias a la proliferación de empresas que intervienen en múltiples países y a la expansión del comercio internacional , que sirve de conducto para disfrazar las corrientes de capital y evadir los controles .  
+Incluso en una economía rígidamente gestionada como la de China , entradas en masa de capitales dummy-they han podido encontrar la forma de sortear los controles a lo largo del último decenio .  
+Además , el establecimiento de controles de un tipo de entrada de capitales propicia , sencillamente , su-pl disfraz con otras formas .  
+Los controles de capitales tienen costos reales , aun cuando dummy-they no consigan detener las entradas de capitales .  
+Crean una capa de protección contra la competencia para quienes están mejor relacionados , política o económicamente , o tienen pura y simplemente influencia para sortear las restricciones , lo que coloca a las empresas de mediano tamaño , principales motores de la creación de puestos de trabajo , en una situación muy desventajosa .  
+La imposición de controles crea también incertidumbre sobre las políticas del país .  
+El desplome del mercado de valores de Tailandia en diciembre de 2006 , a raíz de la imposición de un modesto impuesto a las inversiones en Bolsa , es un ejemplo de lo que puede suceder .  
+De forma más general , los juegos del gato y el ratón que se suceden cuando las autoridades intentan adelantarse a los esfuerzos de los inversores para evadir los controles dummy-they no redundan en pro de la estabilidad ni del crecimiento .  
+Los mercados en ascenso deben abordar las entradas de capitales buscando formas de utilizar el capital extranjero de modo más eficaz , lo que entraña un fortalecimiento de los mercados financieros internos .  
+Por ejemplo , en la India hay una gran necesidad de financiar grandes proyectos de infraestructuras que no pueden atender fácilmente los bancos locales .  
+La liberación de los mercados de bonos de empresas ayudaría a los inversores extranjeros a contribuir al desarrollo de las infraestructuras del país y al tiempo a obtener un buen rendimiento al aumentar el potencial productivo de la India .  
+Un método complementario es el de liberalizar aún más las salidas de capital para contrarrestar las entradas de capitales , lo que brindaría a las familias y las empresas del país más vías para invertir en el extranjero y diversificar su-pl carteras de valores .  
+En realidad , China lo ha hecho ampliando su-nonhum-sg programa nacional de inversión institucional para permitir más inversión en el exterior .  
+Con esto dummy-I no quiero decir en modo alguno que los riesgos de las corrientes de capital extranjero hayan desaparecido ni que los mercados en ascenso deban abrir su-pl cuentas de capital inmediatamente .  
+dummy-they Siguen existiendo ineficiencias enormes en los mercados financieros internacionales , que siguen acosados por un comportamiento gregario y otras patologías .  
+Las cantinelas sobre las políticas fiscales y monetarias pueden dar poco consuelo a un banquero central o un ministro de hacienda que necesiten urgentemente impedir los aumentos repentinos de entradas de capitales y de las presiones internas en pro del bloqueo de la apreciación de la divisa , pero la reacción visceral para contener la apreciación del tipo de cambio que ha de seguir a un potente aumento de la reproductividad no hace sino espolear más entradas de capitales .  
+En última instancia , unas políticas adecuadas , unos mercados financieros y otras instituciones mas sólidos son los que en verdad contribuirán a estabilizar y gestionar las entradas de capitales .  
+Pese a ser muy tentadoras , las soluciones rápidas , como los controles de capitales , simplemente dan una falsa sensación de seguridad y retrasan los necesarios ajustes de una economía .  
+La dura realidad es la de que las autoridades de los mercados en ascenso tienen pocas opciones más que la de gestionar activamente el proceso de liberalización a fin de mejorar la relación entre costos y beneficios en lugar de intentar luchar contra lo inevitable .  
+Esta última actitud entraña el riesgo de quedarse con lo peor de todas las opciones : todos los costos de los controles de capitales y todas las complicaciones de la política interna resultantes de unas corrientes de capitales inestables , pero pocos de los posibles beneficios aportados por el capital extranjero .  

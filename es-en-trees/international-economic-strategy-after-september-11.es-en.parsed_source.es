@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">La</tree></tree><tree label="NP">Estrategia_económica_internacional_después_del</tree></tree><tree label="sn"><tree label="Z">11</tree><tree label="sp"><tree label="SP">de</tree><tree label="sn"><tree label="W">septiembre</tree></tree></tree></tree></tree></tree> 

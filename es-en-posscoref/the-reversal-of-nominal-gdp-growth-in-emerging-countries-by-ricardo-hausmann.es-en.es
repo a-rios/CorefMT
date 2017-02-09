@@ -1,0 +1,39 @@
+El fin de la fiesta de los mercados emergentes  
+Cambridge - El entusiasmo por los mercados emergentes ha ido esfumándose este año y no sólo por los recortes previstos por la Reserva federal de los estados unidos a su-hum-sg compras de activos en gran escala .  
+Las acciones y los bonos de los mercados emergentes han bajado en el año transcurrido y el crecimiento económico se está desacelerando .  
+Para ver por qué , resulta útil entender cómo dummy-we llegamos a la situación actual .  
+Entre 2003 y 2011 , el Pib en dólares a precios corrientes aumentó un 35 por ciento acumulativo en los Estados unidos y un 32 por ciento , un 36 por ciento y un 49 por ciento en Gran bretaña , el Japón y Alemania , respectivamente , todos ellos calculados en dólares de los Ee.uu. en el mismo período , el Pib nominal en dólares experimentó el vertiginoso aumento de un 348 por ciento en el Brasil , un 346 por ciento en China , un 331 por ciento en Rusia y un 203 por ciento en la India .  
+Y no fueron sólo los tal llamados países Bric los que experimentaron el auge .  
+La producción de Kazakistán aumentó más de un 500 por ciento , mientras que Indonesia , Nigeria , Etiopía , Rwanda , Ucrania , Chile , Colombia , Rumania y Vietnam vieron su-nonhum-sg Pib en dólares crecer más de un 200 por ciento cada uno .  
+Eso significa que las ventas por término medio , en dólares , hechas en supermercados , empresas de bebidas , grandes almacenes , empresas de telecomunicaciones , tiendas de informática y los concesionarios de motos chinas aumentaron a tasas comparables en esos países .  
+Tiene sentido que las empresas se trasladen a donde hay auge de las ventas en dólares y que los gestores de activos pongan dinero donde el crecimiento del Pib en dólares es más rápido .  
+dummy-we Podríamos inclinarnos por interpretar esos asombrosos resultados de los mercados emergentes como consecuencia del crecimiento en la cantidad de cosas reales que esas economías producen , pero dummy-nonhum sería en gran medida erróneo .  
+dummy-we Tomemos el caso de Brasil .  
+Sólo el 11 por ciento del crecimiento de su-nonhum-sg Pib en dólares , que superó al de China entre 2003 y 2011 , se debió al aumento de la producción real ( ajustado para tener en cuenta la inflación ) .  
+El 89 por ciento restante dummy-it fue consecuencia de un aumento del 222 por ciento de los precios en dólares en ese período , pues los precios en moneda local aumentaron más rápidamente que los precios en los Ee.uu. y la tasa de cambio se apreció .  
+Algunos de los precios que aumentaron fueron los de los productos básicos que exporta el Brasil , lo que se reflejó en un aumento del 40 por ciento en los términos de intercambio ( el precio de las exportaciones comparado con el de las importaciones ) del país , por lo que los mismos volúmenes de exportaciones equivalieron a más dólares .  
+Rusia pasó por una experiencia algo similar .  
+El aumento real de la producción explica sólo el 12,5 por ciento del aumento del valor en dólares del Pib nominal en el período 2003-2011 , mientras que el resto es atribuible al aumento de los precios del petróleo , que mejoró los términos de intercambio de Rusia en un 125 por ciento , y a una apreciación real del 56 por ciento del rublo frente al dólar .  
+En cambio , el crecimiento real en China fue tres veces el del Brasil y Rusia , pero su-nonhum-sg términos de intercambio se deterioraron , en un 26 por ciento , porque su-nonhum-sg exportaciones de productos manufacturados bajaron de precio , mientras que su-nonhum-sg importaciones de productos básicos se encarecieron .  
+El porcentaje del crecimiento real en el crecimiento del Pib nominal en dólares de los Ee.uu. de los principales países emergentes fue apenas del 20 por ciento .  
+Los tres fenómenos que impulsaron el Pib nominal en dólares - aumentos de la producción real , aumento en el precio relativo de las exportaciones y apreciación del tipo de cambio real - no son independientes unos de otros .  
+Los países que crecen más rápidamente suelen experimentar una apreciación del tipo de cambio real , fenómeno conocido como el efecto Balassa-samuelson .  
+Los países cuya relación de intercambio mejora suelen crecer también más rápidamente y experimentar una apreciación del tipo de cambio real al expandirse la economía debido al gasto interno de unos mayores ingresos por exportación y a que los dólares se tornan relativamente más abundantes ( y , por tanto , más baratos ) .  
+Los tipos de cambio reales pueden apreciarse también por las entradas de capitales , que reflejan el entusiasmo de los inversores extranjeros por las perspectivas del país .  
+Por ejemplo , de 2003 a 2011 las entradas de capitales en Turquía dummy-they aumentaron casi un ocho por ciento del Pib , lo que explica en parte el aumento del 70 por ciento de su-nonhum-sg precios en dólares .  
+La apreciación real podría ser también consecuencia de políticas macroeconómicas incoherentes que sitúen al país en una posición frágil , como en la Argentina y en Venezuela .  
+La distinción entre esos fenómenos dispares y relacionados es importante , porque algunos son claramente insostenibles .  
+En general , las mejoras en los términos de intercambio y las entradas de capitales no continúan permanentemente : o se estabilizan o con el tiempo se invierte su-pl dirección .  
+De hecho , los términos de intercambio no suele tener una tendencia a largo plazo y revela una muy pronunciada reversión a la media .  
+Si bien los pecios del petróleo , los metales y los alimentos aumentaron enormemente después de 2003 y alcanzaron su-pl máximos históricos entre 2008 y 2011 , nadie espera aumentos similares de los precios en el futuro .  
+El debate estriba en si los precios se mantendrán más o menos como dummy-they están o si bajarán , como ya lo dummy-they han hecho los de los alimentos , los metales y el carbón .  
+Lo mismo se puede decir de las entradas de capitales y la presión al alza que ejercen sobre el tipo de cambio real .  
+Al fin y al cabo , los inversores extranjeros llevan su-pl dinero al país porque dummy-they esperan poder sacar de él aún más dinero en el futuro ; cuando eso ocurre , el crecimiento suele aminorarse , si no desplomarse , como dummy-it ocurrió en España , Portugal , Grecia e Irlanda .  
+En algunos países - como , por ejemplo , China , Tailandia , Corea del sur y Vietnam - el crecimiento nominal del Pib se debió en gran medida al crecimiento real .  
+Además , según el Atlas de complejidad económica , de próxima publicación , esas economías empezaron a fabricar productos más complejos , fenómeno precursor de un crecimiento sostenible .  
+Angola , Etiopía , Ghana y Nigeria también dummy-they tuvieron un muy importante crecimiento real , pero el Pib nominal fue impulsado por unos grandes efectos resultantes de los términos de intercambio y la apreciación real .  
+Sin embargo , en el caso de la mayoría de los países emergentes el crecimiento del Pib nominal en dólares en el período 2003-2011 fue consecuencia de mejoras en los términos de intercambio , de las entradas de capitales y de la apreciación real .  
+Esos procesos tienden a revertirse y cuando dummy-they lo hacen , se desacelera o se desinfla el Pib en dólares .  
+En la mayoría de los países emergentes , el crecimiento del Pib en dólares excedió por mucho lo que cabría de esperar como consecuencia del crecimiento real y de una apreciación real consistente con al efecto Balassa-samuelson .  
+La misma dinámica que en los años buenos infló el valor del Pib en dólares funcionará ahora en la dirección opuesta : unos precios estables o menores de las exportaciones dummy-they reducirán el crecimiento real y dummy-they harán que las divisas dejen de apreciarse o incluso se debiliten en términos reales .  
+Por ello , no es de extrañar que se haya acabado la fiesta .  

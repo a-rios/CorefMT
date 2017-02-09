@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="NP" ord="s1.1">Estados_unidos</tree><tree label="sn"><tree label="f"><tree label="Fc" ord="s1.2">,</tree></tree><tree label="^isn"><tree label="spec"><tree label="DA" ord="s1.3">el</tree></tree><tree label="NC" ord="s1.4">paria</tree></tree></tree></tree></tree> 

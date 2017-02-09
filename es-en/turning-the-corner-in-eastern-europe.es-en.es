@@ -1,0 +1,30 @@
+Para que la Europa oriental se recupere  
+Londres - Como dijo en cierta ocasión el satírico ruso Mijail saltykov-shchedrin : " Hay datos convenientes e inconvenientes y hay otros que ni siquiera son datos " .  
+Al entrar en 2010 , un dato conveniente es el de que la economía mundial ha detenido su dramático desplome y ha comenzado a recuperarse .  
+Un dato inconveniente es el de que la recuperación sigue siendo frágil y un dato que no es tal es el de que los próximos meses vayan a ser un camino de rosas .  
+Al contrario , sigue habiendo dificultades graves y se debe abordarlas con urgencia .  
+La región abarcada por el Banco europeo de reconstrucción y Desarrollo - la Europa central , oriental y sudoriental , Rusia , el Cáucaso y el Asia central - se ha visto afectada de forma particularmente dura por la crisis económica y financiera que comenzó en 2008 .  
+Una intervención intensa y decidida ( Rusia y Kazajstán ) o un apoyo coordinado y sin precedentes por parte de las instituciones financieras internacionales ( Ucrania , Hungría y Letonia ) han sido necesarios para prevenir caídas aún más dramáticas .  
+A medida que la economía real vaya ajustándose a unas circunstancias distintas y a una demanda mundial e interna mucho más débil , en el Berd esperamos un aumento de los créditos morosos en nuestra región .  
+Además , las empresas se verán obligadas a reestructurarse para reducir los costos y aumentar la competitividad , lo que provocará un mayor desempleo , con inevitables tensiones sociales y una mayor presión a unas arcas estatales ya gravemente castigadas .  
+Al continuar la apurada situación de los mercados crediticios , el mantenimiento de la liquidez y la renovación y la refinanciación de la deuda plantearán también problemas muy graves .  
+El crecimiento del crédito ha caído casi a cero en muchos países y se está contrayendo en muchos otros , a medida que se reducen los niveles de deuda de los hogares y las empresas .  
+Además , algunos gobiernos de la región están sometidos a la doble presión de tener que reducir sus déficits presupuestarios y pagar la deuda ; quedará muy poco para el gasto que podría estimular la actividad económica , como , por ejemplo , las inversiones en infraestructuras o eficiencia energética .  
+Todo ello presionara aún más al sector financiero , que en la Europa central y oriental es propiedad en gran medida de importantes grupos bancarios occidentales .  
+Gracias a la adopción de medidas coordinadas por todos los copartícipes importantes en la Iniciativa de viena , la retirada en gran escala de dichos bancos , con posibles consecuencias de gran alcance para la región fue evitada en 2009 , pero el sector financiero de la región sigue sometido a una gran tensión y aún queda por delante un prolongado proceso de ajuste para afrontar los niveles en aumento de créditos morosos y necesidades de recapitalización de los bancos .  
+Otra cuestión no resuelta es la carga de la deuda exterior que muchas entidades financieras tienen .  
+Muchas monedas locales de la región del Berd ( como , por ejemplo , el florín húngaro , el jryvnia ucraniano y el rublo ruso ) sufrieron una profunda depreciación en el último trimestre de 2008 , lo que representa un auge para los exportadores , pero un veneno para los bancos de países que se dieron un festín con préstamos en divisas extranjeras antes de que golpeara la crisis .  
+En Hungría , por ejemplo , los créditos en divisas extranjeras ascendían al 34 por ciento del Pib del país al final de junio de 2008 .  
+Con semejante vulnerabilidad ante la evolución adversa de las divisas , Hungría se vio obligada , cuatro meses después , a firmar un plan de rescate encabezado por el Fmi por valor de 25.000 millones de dólares , cuando la crisis financiera llegó a la Europa oriental .  
+Una reacción ante esa amenaza es la de fortalecer los mercados nacionales de capitales .  
+ésa será una de las prioridades del Berd en 2010 .  
+Nos proponemos adoptar un doble planteamiento : aumentar en gran medida nuestros préstamos en moneda local y examinar nuevas vías en el marco de la Iniciativa de viena para abordar la crisis e impedir su repetición .  
+El de desarrollar los mercados de capitales en moneda local es un empeño a largo plazo que requiere el compromiso y la resolución de un mayor grupo de participantes .  
+A partir de nuestra experiencia con la Iniciativa de viena , hemos visto que se pueden obtener beneficios decisivos con la coordinación de nuestras medidas y la mayor participación posible del sector privado .  
+Un elemento que los bancos centrales y los reguladores citan con frecuencia es un nuevo régimen reglamentador : la crisis ha revelado que se deben reformar los marcos institucionales y reglamentadores en la región del Berd para introducir normas macroprudenciales de forma más sistemática y eficaz .  
+Pueden consistir en mayores requisitos de capital o de reservas como amortiguadores para momentos más difíciles o la estipulación de normas de liquidez y requisitos especiales para bancos sistémicamente importantes a fin de evitar una repetición del dilema de lo " demasiado grande para quebrar " que se ha planteado a muchos países y no sólo los de la región del Berd .  
+Sin embargo , resulta indiscutible que en una Europa financieramente integrada , los intentos de formular una nueva y mejor regulación sólo serán eficaces si esas reformas no se limitan al nivel nacional .  
+Las soluciones internacionales son decisivas para impedir el " arbitraje en matera de reglamentación " transfronterizo : por ejemplo , el de circunvenir la reglamentación del país anfitrión tomando préstamos directamente del banco matriz .  
+Entidades financieras internacionales como , por ejemplo , el Berd , y órganos supranacionales , como , por ejemplo , la Unión europea y el G-20 , desempeñarán un papel decisivo a la hora de afrontar esas dificultades en los próximos años .  
+En el marco de una integración y cooperación mayores y mejoradas , tendremos que buscar soluciones para que la recuperación sea más segura y sostenible .  
+Como diría Saltykov-shchedrin ; conveniente o no , es un dato .  

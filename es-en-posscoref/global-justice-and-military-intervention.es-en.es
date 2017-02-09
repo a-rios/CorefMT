@@ -1,0 +1,30 @@
+Justicia mundial e intervención militar  
+Melbourne - El mundo ha contemplado horrorizado la utilización por el coronel Muamar el gadafi de su-masc-sg ejército para atacar a quienes protestan y se oponen a su-pl gobierno y ha matado a centenares o posiblemente miles de civiles desarmados .  
+Muchos de su-masc-sg propios hombres se han negado a disparar contra su-masc-sg propio pueblo y se han pasado al bando de los rebeldes o han volado con su-pl aviones a la cercana Malta , por lo que Gadafi ha llamado a mercenarios de países vecinos , dispuestos a obedecer su-masc-sg órdenes .  
+Los dirigentes del mundo se han apresurado a condenar las acciones de Gadafi .  
+El 26 de febrero , el Consejo de seguridad de las naciones unidas votó unánimemente la imposición de un embargo de armas a Libia y la remisión del caso de la violencia del régimen al Tribunal penal internacional para el posible procesamiento de los responsables e instó a los Estados miembros a que dummy-they congelaran los activos de Gadafi y de su-pl familia .  
+dummy-it Es la primera vez que el Consejo de seguridad ha remitido por unanimidad una situación que entraña violaciones de los derechos humanos al Tribunal penal internacional y es digno de destacar que países que no son miembros del Tribunal - incluidos los Estados unidos , Rusia y China - apoyarán esa decisión .  
+Así , pues , se puede considerar esa resolución otro paso más hacia la creación de un sistema mundial de justicia con capacidad para castigar a quienes cometen violaciones flagrantes de los derechos humanos , independientemente de su-pl condición política o jurídica en su-pl país .  
+Sin embargo , en otro sentido la resolución del Consejo de seguridad ha sido decepcionante .  
+La situación en Libia pasó a ser una prueba de la seriedad con que la comunidad internacional se toma la idea del deber de proteger al pueblo contra su-nonhum-sg gobernantes .  
+Se trata de una idea antigua , pero su-nonhum-sg forma moderna echa su-nonhum-sg raíces en la trágica falta de intervención contra el genocidio de Ruanda en 1994 .  
+Según las conclusiones de una investigación posterior de las Naciones unidas , tan sólo 2.500 militares adecuadamente capacitados podrían haber impedido la matanza de 800.000 tutsis .  
+El ex Presidente bill clinton ha dicho que el error cometido durante su-hum-sg presidencia y que más lamenta fue el de no instar a la intervención en Ruanda .  
+Kofi annan , que-hum entonces era Secretario general adjunto de operaciones de mantenimiento de la paz , calificó la situación en las Nn .  
+Cuando Annan pasó a ser Secretario general , dummy-he instó a que se formularan principios que indicasen cuándo está justificado que la comunidad internacional intervenga para impedir violaciones flagrantes de los derechos humanos .  
+A ese respecto , el Gobierno del canadá creó una Comisión internacional de intervención y Soberanía de los estados , que recomendó que se considerara justificada la intervención militar , como medida extraordinaria , en los casos en que dummy-nonhum estuviera habiendo - o dummy-nonhum fuese inminente - una pérdida de vidas en masa causada por acciones deliberadas del Estado o la negativa o la dejación del Estado a la hora de actuar .  
+La Asamblea general de las nn .  
+Ese principio cuadra con la situación actual en Libia .  
+Sin embargo , en la resolución del Consejo de seguridad no hay referencia alguna a la posibilidad de una intervención militar y ni siquiera a la imposición de una zona de exclusión aérea sobre Libia a fin de impedir que Gadafi utilice aviones para atacar a quienes protestan .  
+Un organismo particularmente interesado en transformar la idea del deber de proteger en un motivo para la intervención es el Centro mundial en pro del Deber de proteger de la universidad de la ciudad de nueva york , que ha pedido a los miembros de las Nn .  
+Uu . que cumplan compromisos que contrajeron en 2005 y hagan realidad el deber de proteger en el caso de Libia .  
+dummy-nonhum Insta a que se examine la posibilidad de adoptar diversas medidas , varias de las cuales dummy-they iban incluidas en la resolución del Consejo de seguridad , pero también una zona de exclusión aérea .  
+Además de sostener que el deber de proteger dummy-nonhum puede justificar la intervención militar , la Comisión internacional sobre Intervención y Soberanía de los estados recomendó un conjunto de principios cautelares .  
+Por ejemplo , la intervención militar debe ser el último recurso y , además , debe haber pocas probabilidades de que su-nonhum-sg consecuencias sean peores que las de la inacción .  
+Corresponde juzgar a los expertos si las características específicas de la situación en Libia se ajustan a los principios cautelares .  
+Nadie quiere otra guerra prolongada como las del Iraq y del Afganistán , pero Libia no es el Iraq ni el Afganistán : su-nonhum-sg población representa sólo una quinta parte de la de cualquiera de esos dos países y hay un potente movimiento popular en pro de una forma democrática de gobierno .  
+Suponiendo que las fuerzas militares extranjeras neutralizaran rápidamente a las tropas de Gadafi , dummy-they podrían abandonar Libia rápidamente y dejar que su-pl pueblo decidiera su-nonhum-sg futuro .  
+En el momento de escribir este artículo , puede que haya razones para creer que otras sanciones o amenazas , exceptuada la intervención militar , vayan a ser suficientes para disuadir un mayor derramamiento de sangre .  
+Tal vez los rebeldes y las sanciones puedan derrocar Gadafi sin ayuda y sin gran pérdida de vidas .  
+Tampoco está claro si una intervención militar causaría más muertes que las que evitaría .  
+Pero esas son las preguntas que debe hacerse la comunidad internacional y que el Consejo de seguridad debería estar debatiendo , para que el principio del deber de proteger y su-nonhum-sg posibles consecuencias para la intervención militar lleguen a formar parte de nuestra concepción de los requisitos del derecho internacional y de la ética mundial .  

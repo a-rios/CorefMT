@@ -1,0 +1,27 @@
+Los antieuropeos de Europa  
+París - En 2005 , dos miembros fundadores de la Unión europea , Francia y los Países bajos , rechazaron en un referéndum popular el propuesto tratado constitucional de la Ue .  
+Ahora dos partidos de extrema derecha de esos países , el Frente nacional francés y el Partido de la libertad holandés , han constituido una alianza con vistas a las elecciones al parlamento europeo que se celebrarán en mayo de 2014 .  
+Esperan atraerse a partidos de la misma orientación y de otros países de la Ue y formar un potente bloque parlamentario para acabar con " el monstruo de Europa " , como Geert wilders , dirigente del partido de la Libertad , llama a la Ue .  
+No es casualidad que Francia y los Países bajos hayan encabezado esa sórdida iniciativa .  
+Los dos países están inmersos en una crisis de identidad que esta convirtiéndose en desdén de Europa , los extranjeros , los migrantes y todo lo que representa al " otro " , y los dos están experimentando un aumento de la sospecha popular respecto de las tradicionales minorías políticas selectas .  
+En ese ambiente , las próximas elecciones al parlamento europeo parecen pintiparadas para partidos extremistas , en vista de que encuestas recientes a la opinión pública indican que el Frente nacional será el partido más votado en Francia .  
+Las elecciones europeas dejan indiferentes a la mayoría de los ciudadanos , lo que se plasma en una escasa participación ... excepto entre los que se definen por aquello a lo que se oponen y desean expresar su ira y su frustración ante el status quo .  
+Marine le pen , la dirigente del Frente nacional , es astuta y eficiente y transmite un mensaje directo : " Europa es enemiga del pueblo , por lo que éste debe movilizarse contra ella " .  
+Con su apariencia de moderación , resulta mucho más atractiva que su padre y ex dirigente del partido , Jean-marie le pen .  
+Su estrategia consiste en introducirse en la corriente central de la política francesa desprendiéndose de todos los restos de antisemitismo del pasado , con lo que convierte el Frente nacional en una opción aparentemente legítima y substitutiva de la decadente derecha tradicional , que ha padecido un prolongado período de luchas intestinas desde la derrota de Nicolas sarkozy en las elecciones presidenciales de 2012 .  
+En los Países bajos , Wilders , que es más un hombre-espectáculo que un dirigente de un partido real , ya ha formado parte del Gobierno , lo que brinda una pátina de legitimidad a Le pen simplemente al constituir una alianza con ella .  
+Resulta interesante que los principales partidos antieuropeos danés y británico no hayan querido imitarlo , al negarse a entrar en un pacto con un partido que fue - y probablemente siga siendo - antisemita en esencia .  
+Y , sin embargo , lo que en última instancia une a los partidos de extrema derecha de Europa es similar a lo que subyace al ascenso del Tea party dentro del Partido republicano americano : un racismo y una xenofobia encubiertos .  
+Aunque los seguidores del Tea party , grupo al que en una encuesta de opinión anterior se identificó como en un 89 por ciento blanco y en un 1 por ciento negro , afirman oponerse ante todo al gasto gubernamental , aceptan la ayuda del Gobierno para ellos .  
+Lo que no pueden aceptar es a un presidente negro y a un gobierno que gaste para " otros " .  
+Asimismo , aunque los populistas de Europa utilizan su oposición a " Bruselas " como banderín de enganche , su ideología conserva el atavismo que movió a sus antepasados .  
+Hoy las fuerzas de extrema derecha pueden ser más antimusulmanas que antisemítas - Wilders puede ser incluso partidario sincero de Israel - , pero mantienen la concepción del mundo antihumanista , cínica y racista de sus predecesores del decenio de 1930 .  
+Naturalmente , un país como Francia no está volviendo a la política de dicho decenio , aunque sólo sea porque los recuerdos del desplome militar y moral del país en 1940 no han desaparecido , pero los brutales ataques racistas a la ministra de Justicia , Christiane taubira , que es negra , habrían sido inconcebibles en los decenios pasados y , en toda Europa , la desaparición de los tabúes y el convencimiento de que se puede decir cualquier cosa - e insultar a cualquiera - ha propiciado un aumento de los incidentes racistas que sólo superficialmente son aislados .  
+Europa no está a punto de volverse fascista ; sin embargo , sería peligroso desconocer que está extraviándose o atribuir esa reciente evolución exclusivamente a los malos tiempos económicos y al elevado desempleo .  
+Se debe a causas políticas y éticas más profundas .  
+Por ejemplo , Alemania consigue resistirse al populismo mejor que otros países europeos , no sólo porque su economía es fuerte y su historia constituye una forma de vacunación .  
+Además , los alemanes pueden agradecer el coraje y la competencia de sus dirigentes políticos , incluida la Canciller angela merker y su predecesor , Gerhard schröder .  
+La mejor reacción ante la atroz alianza actual de partidos populistas y racistas es el valor , la determinación y la claridad de posición .  
+Toda alianza de un partido conservador tradicional con las fuerzas de extrema derecha será una garantía de derrota ... moral , además de política .  
+Así fue en el pasado en Europa , como lo es hoy en el caso del Partido republicano de los estados unidos .  
+A veces no hay una cuchara lo suficientemente larga para cenar con el diablo .  

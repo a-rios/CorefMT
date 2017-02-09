@@ -1,0 +1,21 @@
+Publicar o morir  
+Oxford - Hace unos años , dos investigadores noruegos presentaron su versión de una pendiente resbaladiza de la investigación científica , con errores honrados ( observaciones y análisis equivocados ) en la parte de arriba y fraude intencionado ( plagio , falsificación e invenciones ) en la parte de abajo .  
+Colocaron el " sesgo de publicación " hacia la mitad de la escala , pero debería haber estado mucho más abajo .  
+De hecho , la no publicación de los resultados de investigaciones es la forma más común y preocupante , con mucho , de conducta poco ética en materia de investigaciones de salud ... y ha tenido consecuencias letales .  
+Hace mucho tiempo que existen pruebas anecdóticas del sesgo de publicación , pero , a medida que los requisitos para el registro de ensayos clínicos se han vuelto más rigurosos , su magnitud ha llegado a ser cifrable : los resultados de al menos la mitad de los ensayos clínicos con pacientes y voluntarios sanos permanecen inéditos durante años después de su realización .  
+Los estudios con resultados " negativos · " son los que tienen menos probabilidades de ver la luz del día , pero la falta de información sobre investigaciones puede propiciar recomendaciones tergiversadas sobre prácticas clínicas , sufrimiento y muerte .  
+Por ejemplo , los medicamentos contra las arritmias fueron prescritos en gran escala - con la aprobación de la Administración de alimentos y Medicamentos de los estados unidos - a víctimas de ataques cardíacos durante más de un decenio , con la suposición de que la reducción de las anormalidades del ritmo cardíaco disminuiría las tasas de mortalidad , pero , como informó el periodista investigador Thomas j. moore en su libro Deadly medicine ( " Medicina mortal " ) , en el momento de mayor utilización , dichos medicamentos estaban matando todos los años a más americanos que durante toda la guerra del Vietnam .  
+A raíz de esa revelación , un equipo de investigadores británicos informó sobre un ensayo clínico que habían hecho más de un decenio antes .  
+Su estudio había descubierto una tasa mayor de fallecimientos entre los pacientes que recibían un nuevo medicamento contra las arritmias que entre los que recibían un placebo .  
+Según explicaron , no habían publicado los resultados porque se había abandonado la creación de ese medicamento por razones comerciales .  
+Sin embargo , observaron , retrospectivamente , que sus resultados " podrían haber dado un aviso temprano de problemas futuros " .  
+Además de sufrimientos y muertes evitables , no comunicar los resultados de investigaciones aminora también el ritmo de descubrimientos científicos .  
+Está reconocido de forma general que el alto nivel actual de inversión en investigaciones farmacéuticas está produciendo demasiado pocos descubrimientos importantes .  
+En una reunión sobre " investigación aplicada " , un directivo de una organización dedicada a la investigación por encargo , una empresa que presta servicios de investigación subcontratados a las industrias farmacéutica y de biotecnología , expuso el problema .  
+" Lo que de verdad nos frustra " , comentó , " es que una empresa farmacéutica nos encargue la preparación de un ensayo en fase temprana cuando ya sabemos que se trata de un callejón sin salida y la razón por la que lo sabemos es la de que ya hemos recorrido ese callejón sin salida con otra empresa , pero no se informa de ese experimento por razones comerciales " .  
+Dicho de otro modo , el proceso de descubrimiento de medicamentos padece las consecuencias de una ineficiencia inherente , debida a la insuficiencia de la información , pero , si bien el derroche puede ser tolerable , el daño evitable a los pacientes no lo es .  
+Los voluntarios de ensayos con medicamentos no deben aceptar ese abuso de su participación en las investigaciones .  
+No publicar los resultados de ensayos clínicos es una traición a la confianza implícita que han puesto en los investigadores para que con su contribución aumenten y mejoren el cúmulo de conocimientos científicos .  
+Tampoco el público debe aceptar ese desperdicio de recursos .  
+Sencillamente , carece de justificación el ocultamiento de los resultados de estudios de investigaciones sobre la salud .  
+Su publicación es un imperativo moral .  

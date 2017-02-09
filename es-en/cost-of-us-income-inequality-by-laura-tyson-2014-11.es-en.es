@@ -1,0 +1,40 @@
+Los costos en aumento de la desigualdad de renta en los Estados unidos  
+Berkeley - Durante los últimos decenios , la desigualdad de renta en los Estados unidos ha aumentado en gran medida ... y esa tendencia no da muestras de ir a invertirse .  
+La última vez en que la desigualdad era tanta como ahora fue justo antes de la Gran depresión .  
+Un nivel tan elevado de desigualdad no sólo es incompatible con las normas de justicia social e igualdad de oportunidades observadas de forma generalizada , sino que , además , representa una grave amenaza para la economía y la democracia de los Estados unidos .  
+Un factor subyacente a la desigualdad que va en aumento en este país es el estancamiento de los ingresos de la mayoría de los americanos .  
+Como el aumento de los beneficios resultantes del crecimiento económico va a parar a una fracción diminuta de hogares de renta elevada de los Ee.uu. , los ingresos de la familia media correspondiente al 90 por ciento inferior han estado estancados desde 1980 .  
+Según un informe reciente del Consejo de asesores económicos , si el porcentaje de ingresos que fuera a parar al 90 por ciento inferior hubiese sido en 2013 el mismo que en 1973 , la renta anual mediana de los hogares ( ajustada según el tamaño de las familias ) habría sido un 18 por ciento , es decir , 9.000 dólares , mayor que ahora .  
+Los ingresos disponibles ( descontados los impuestos y las transferencias ) de las familias pobres de los Ee.uu. llevan decenios a la zaga de sus homólogos de otros países desarrollados .  
+Ahora la clase media también está quedando rezagada .  
+Durante los tres últimos decenios , los hogares de renta media de la mayoría de los países desarrollados disfrutaron de aumentos mayores de los ingresos disponibles que los comparables de los hogares de los Ee.uu. este año , los Ee.uu. han perdido ante el Canadá la distinción de tener la clase media " más próspera " y varios países europeos van pisándoles los talones .  
+Si se suman las generosas prestaciones en materia de educación , atención de salud y jubilación a los cálculos de los ingresos disponibles de las familias en esos países , la posición relativa de la clase media de los Ee.uu. desciende aún más .  
+La culpa principal de la languideciente suerte de la clase media de los Estados unidos es atribuible al lento aumento de los salarios .  
+Después de llegar a su punto culminante a comienzos del decenio de 1970 , los ingresos medianos reales ( ajustados conforme a la inflación ) de los trabajadores con jornada laboral completa y de edades comprendidas entre los 25 y los 64 años han estado estancados , en parte por una desaceleración del aumento de la productividad y en parte por un desfase enorme entre la productividad y el aumento de los salarios .  
+Desde 1980 , la remuneración media real por hora ha aumentado a una tasa de un uno por ciento , es decir , la mitad de la tasa de aumento de la productividad .  
+Además , los aumentos de los salarios han llegado a ser mas desiguales y los mayores han correspondido al 10 por ciento superior de los asalariados .  
+Además , el cambio tecnológico y la mundialización han reducido el número de empleos que requieren aptitudes medias en el total del empleo , mientras que el de los que requieren aptitudes inferiores ha aumentado .  
+Esas tendencias , junto con una tasa menor de participación de la fuerza laboral durante el último decenio , explica el estancamiento de los ingresos de la clase media .  
+Para la mayoría de los americanos , los salarios son la fuente primordial de ingresos disponibles , de los que depende el gasto personal en consumo , el componente mayor , con mucha diferencia , de la demanda agregada .  
+A lo largo de los últimos decenios , al aminorarse el aumento de los ingresos disponibles , los hogares de renta media y baja recurrieron a la deuda para mantener el consumo .  
+Las tasas de ahorro personal se desplomaron y la deuda crediticia e hipotecaria se disparó , al intentar los hogares mantener el ritmo con las modalidades de consumo de los ricos .  
+Durante algún tiempo , el aumento de la desigualdad de la renta no aminoró el aumento del consumo ; de hecho , las presiones del " consumo debido al efecto de filtración " fomentaron un mayor gasto en consumo , más deuda , más quiebras y más dificultades financieras entre los hogares de renta media y baja .  
+El momento de la verdad llegó con la crisis financiera del período 2007-2008 .  
+Desde entonces , el aumento agregado del consumo ha sido flojo , pues las familias de renta media y baja se han visto obligadas a reducir su endeudamiento y pagar su deuda , con frecuencia mediante dolorosas suspensiones de pagos de sus hipotecas , su principal ( y en muchos casos único ) activo .  
+Como esas familias se han apretado el cinturón , el ritmo del gasto en consumo y del crecimiento económico ha dependido más de los asalariados de la parte superior de la distribución de los ingresos .  
+Desde que se acabó la recesión en 2009 , el gasto real en consumo del cinco por ciento superior ha aumentado un 17 por ciento , frente tan sólo el uno por ciento del 95 por ciento inferior .  
+La tónica de la recuperación ha reforzado las tendencias a largo plazo .  
+En 2012 , el cinco por ciento superior de los asalariados representó el 38 por ciento del gasto en consumo personal , frente al 27 por ciento en 1995 .  
+Durante ese período , el porcentaje del 80 por ciento inferior de asalariados bajó del 47 por ciento al 39 por ciento .  
+Con miras al futuro , la desigualdad de renta en aumento y los ingresos estancados de la mayoría de los americanos representan una demanda agregada más débil y un crecimiento más lento .  
+Aún más importante es que la desigualdad de renta limita el crecimiento económico por el lado de la oferta mediante sus efectos negativos en las oportunidades educativas y el desarrollo del capital humano .  
+Los niños de familias de renta baja y alta nacen con capacidades similares , pero tienen oportunidades educativas muy diferentes , pues los de las familias de renta baja tienen menos probabilidades de lograr el acceso a la educación en la infancia temprana , más de asistir a escuelas con recursos insuficientes y que imparten una educación de grado K-12 y menos de cursar una carrera universitaria o concluirla .  
+El desfase resultante en el rendimiento escolar entre los niños nacidos en familias de renta baja y alta se manifiesta en una edad temprana y aumenta con el tiempo .  
+Según algunos cálculos , el desfase actual es el doble del de hace dos decenios .  
+Así , pues , los Ee.uu. están atrapados en un círculo vicioso : el aumento de la desigualdad de renta engendra más desigualdad de oportunidades educativas , que , a su vez , crea una mayor desigualdad en cuanto al rendimiento escolar , lo que se plasma , a su vez , en un despilfarro de talento humano , una fuerza laboral menos instruida , un crecimiento económico más lento e incluso una mayor desigualdad de ingresos  
+Aunque los costos económicos de la desigualdad de renta son importantes , los costos políticos pueden resultar más perjudiciales y peligrosos .  
+Los ricos tienen tanto los incentivos como la capacidad para promover políticas que mantengan o realcen su posición .  
+En vista del destripamiento de las limitaciones de la financiación de las campañas electorales por el Tribunal supremo de los ee.uu. , ha llegado a ser más fácil que nunca para que la concentración del poder económico ejerza un poder político concentrado .  
+Aunque las contribuciones a las campañas no garantizan la victoria , brindan a la minoría económica selecta un mayor contacto con los legisladores , los reglamentadores y otros funcionarios públicos , lo que les permite moldear el debate político a favor de sus intereses .  
+A consecuencia de ello , el sistema político de los Ee.uu. está cada vez más dominado por el dinero .  
+Se trata de una señal clara de que la desigualdad de renta en los Ee.uu. ha alcanzado niveles que amenazan no sólo el crecimiento económico , sino también la salud de su democracia .  

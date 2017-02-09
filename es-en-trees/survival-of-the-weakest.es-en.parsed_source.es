@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">La</tree></tree><tree label="NC">supervicencia</tree></tree><tree label="sp"><tree label="SP">del</tree><tree label="sn"><tree label="spec"><tree label="RG">más</tree></tree><tree label="AQ">débil</tree></tree></tree></tree></tree> 

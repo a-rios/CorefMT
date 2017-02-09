@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="spec"><tree label="DI" ord="s1.1">Una</tree></tree><tree label="NP" ord="s1.2">Civilización</tree></tree><tree label="sp"><tree label="SP" ord="s1.3">en</tree><tree label="sn"><tree label="NP" ord="s1.4">Crisis</tree></tree></tree></tree></tree> 

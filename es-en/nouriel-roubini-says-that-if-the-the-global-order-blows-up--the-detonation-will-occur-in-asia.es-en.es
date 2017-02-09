@@ -1,0 +1,33 @@
+La zona cero mundial en Asia  
+Nueva York - El mayor riesgo geopolítico de nuestro tiempo no es un conflicto entre Israel y el Irán por la proliferación nuclear .  
+Tampoco es el de un desorden crónico en un arco de inestabilidad que ahora se extiende desde el Magreb hasta el Hindu kush .  
+Ni siquiera es el de una segunda guerra fría entre Rusia y Occidente por Ucrania .  
+Todos esos son riesgos graves , desde luego , pero ninguno lo es tanto como el mantenimiento del carácter pacífico del ascenso de China .  
+Por eso resulta particularmente preocupante oír a funcionarios y analistas japoneses y chinos comparar la relación bilateral de sus países con la existente entre Gran bretaña y Alemania en vísperas de la primera guerra mundial .  
+Las disputas entre China y varios de sus vecinos por islas y derechos marítimos en litigio ( comenzando por el conflicto con el Japón ) son tan sólo la punta del iceberg .  
+A medida que China llegue a ser una potencia económica aún mayor , dependerá cada vez más de las rutas marinas para sus importaciones de energía , otros insumos y bienes , lo que entraña la necesidad de desarrollar una marina de alcance oceánico para velar por que su economía no pueda quedar estrangulada por un bloqueo marítimo .  
+Pero lo que China considera un imperativo defensivo podría ser considerado agresivo y expansionista por sus vecinos y los Estados unidos y lo que parece un imperativo defensivo para los Ee.uu. y sus aliados asiáticos - la creación de una mayor capacidad militar en la región para afrontar el ascenso de China - podría ser considerado por China un agresivo intento de contenerla .  
+Históricamente , siempre que ha surgido una nueva gran potencia y ha afrontado a otra ya existente , el resultado ha sido un conflicto militar .  
+La incapacidad para dar cabida al ascenso de Alemania provocó las dos guerras mundiales del siglo xx ; la confrontación del Japón con otra potencia en el Pacifico - los Ee.uu. - llevó la segunda guerra mundial a Asia .  
+Naturalmente , no hay leyes de hierro de la Historia : China y sus interlocutores no están condenados a repetir el pasado .  
+El comercio , la inversión y la diplomacia pueden desactivar las tensiones en aumento , pero , ¿ lo harán ?  
+Las grandes potencias de Europa se cansaron por fin de infligirse matanzas unas a otras .  
+Los países europeos , al afrontar una amenaza común del bloque soviético y con la incitación de los Ee.uu. , crearon instituciones para fomentar la paz y la cooperación , que propiciaron la unión económica y monetaria , ahora una unión bancaria y en el futuro posiblemente una unión política y fiscal .  
+Pero no existen instituciones semejantes en Asia , donde agravios históricos muy antiguos entre China , el Japón , Corea , India y otros países siguen siendo heridas abiertas .  
+Incluso dos de los más importantes aliados de los Estados unidos - el Japón y Corea del sur - mantienen una enconada disputa por las " mujeres de solaz " obligadas a trabajar en burdeles militares japoneses antes de la segunda guerra mundial y durante ella , pese a que el Japón presentó disculpas oficiales hace veinte años .  
+¿ Por qué están agravándose esas tensiones entre las grandes potencias asiáticas y por qué ahora ?  
+Para empezar , las potencias de Asia han elegido recientemente - o están a punto de elegir - a dirigentes más nacionalistas que sus predecesores .  
+El Primer ministro del japón , Shinzo abe , el Presidente de china , Xi jinping , la Presidenta de corea del sur , Park geun-ye , y Narendra modi , que probablemente será el próximo Primer ministro de la india , pertenecen a esa categoría .  
+En segundo lugar , todos esos dirigentes afrontan ahora problemas enormes debidos a la necesidad de aplicar reformas estructurales para mantener unas tasas de crecimiento satisfactorias frente a las fuerzas económicas mundiales que están trastornando los viejos modelos .  
+Tipos diferentes de reformas estructurales revisten importancia decisiva en China , el Japón , la India , Corea e Indonesia .  
+Si los dirigentes de uno o más de esos países fracasaran en el frente económico , podrían sentirse políticamente obligados a transferir la culpa a " enemigos " extranjeros .  
+En tercer lugar , muchos aliados de los Ee.uu. en Asia ( y en otras zonas ) están preguntándose si el reciente " giro " estratégico hacia Asia es creíble .  
+En vista de la débil respuesta de los Ee.uu. a las crisis de Siria , Ucrania y otros puntos calientes geopolíticos , el manto de seguridad americano en Asia parece cada vez más andrajoso .  
+Ahora China está poniendo a prueba la credibilidad de las garantías de los Ee.uu. , lo que plantea la perspectiva de que los amigos y aliados de los Ee.uu. - comenzando por el Japón - deban tomar en sus manos una parte mayor de sus necesidades de seguridad  
+Por último , a diferencia de lo ocurrido en Europa , en la que Alemania aceptó la culpa por los horrores de la segunda guerra mundial y contribuyó durante decenios a dirigir el empeño de la construcción de la Unión europea actual , entre los países asiáticos no existe semejante acuerdo histórico .  
+A consecuencia de ello , se han inculcado sentimientos patrioteros a generaciones que están muy alejadas de los horrores de las guerras pasadas , mientras que las instituciones que podrían fomentar la cooperación económica y política siguen en pañales .  
+Se trata de una combinación de factores letal , que con el tiempo podría provocar un conflicto militar en una región decisiva para la economía mundial .  
+¿ Cómo pueden los Ee.uu. girar hacia Asia de una forma creíble y que no intensifique las impresiones de China de que se intenta contenerla o de los aliados de los Ee.uu. de que se quiere apaciguar a China ?  
+¿ Cómo puede China crear la legítima capacidad militar defensiva que una gran potencia necesita y merece sin preocupar a sus vecinos y a los Ee.uu. , en el sentido de que su objetivo sea apropiarse de los territorios disputados y aspire a la hegemonía estratégica en Asia ?  
+¿ Y cómo pueden las demás potencias de Asia confiar en que los Ee.uu. apoyarán sus legítimas preocupaciones en materia de seguridad en lugar de abandonarlas a una auténtica finlandización bajo el dominio chino ?  
+Para encontrar soluciones diplomáticas a la multitud de tensiones geopolíticas y geoeconómicas de Asia , será necesaria una enorme prudencia por parte de los dirigentes de esa región y de los Ee.uu. a falta de instituciones regionales de apoyo , poco hay para garantizar que el deseo de paz y prosperidad prevalezca sobre las condiciones e incentivos que tienden hacia el conflicto y la guerra .  

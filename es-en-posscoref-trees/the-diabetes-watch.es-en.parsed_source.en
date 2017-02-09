@@ -1,0 +1,35 @@
+The Diabetes Watch 
+WELLINGTON - The world is currently in the grip of a diabetes epidemic . 
+A recent major study by Majid Ezzati and colleagues from Imperial College London and Harvard University found that the number of adults with type 2 diabetes increased from an estimated 153 million in 1980 to 347 million in 2008 . 
+The number could be 370 million today . 
+Every region of the world is affected , although the epidemic is growing most rapidly in Oceania and least rapidly in East Asia . 
+Globally , the type 2 diabetes epidemic has been growing in lockstep with rising obesity levels . 
+This is not surprising - an increase in body fat and a decrease in physical activity are the direct causes of type 2 ( as opposed to type 1 ) diabetes . 
+In fact , much of the health effects of obesity and physical inactivity are mediated through diabetes . 
+These health effects are serious . 
+Diabetes already is the major cause of kidney failure , blindness , and lower-limb amputation in many countries , and a major cause of heart attacks and strokes . 
+Despite this , surveillance of diabetes remains relatively undeveloped throughout the world , even in high-income countries . 
+Public-health surveillance is &quot; the ongoing systematic collection , analysis , interpretation , and dissemination of health data for the purpose of preventing and controlling disease &quot; - in short , information for action . 
+There is nothing in this definition that restricts surveillance to communicable diseases , yet in practice this has generally been the case . 
+The reasons are not hard to find . 
+Communicable disease outbreaks occur over days to weeks ( or at the most , months ) ; the danger is &quot; clear and present &quot; ; and prevention and control generally requires intervention by the state - the quarantine of victims , tracing and immunization of contacts , or elimination of environmental sources of the infectious agent . 
+The situation regarding chronic diseases like diabetes is very different . 
+The epidemic happens silently over years or decades ; the danger is either not recognized or not considered avoidable ; and action is often seen as the responsibility of the individual ( lifestyle modification ) or health-care system ( pharmaceutical prescription ) , rather than the state . 
+Yet effective chronic disease surveillance can save lives . 
+If disease trends are monitored , along with patients &quot; responses to treatment and the population &apos;s exposure to risk factors , the success or failure of policies designed to prevent or control chronic diseases can be evaluated , resource allocation can be rationally prioritized , and the public can be kept fully informed of the risks that they face . 
+Recognizing this , in December 2005 the New York City Board of Health mandated the laboratory reporting of test results for glycosylated haemoglobin ( HbA1c ) - a biomarker for diabetes and a key indicator of blood glucose control - thereby creating the world &apos;s first population-based diabetes registry . 
+Mandatory laboratory reporting of HbA1c results ( along with basic demographic data ) for a defined population ( New York City residents ) allowed New York &apos;s Department of Health to monitor trends in diabetes prevalence , assess testing coverage , and examine health-care use and glycemic control of residents living with diabetes . 
+Beyond these population-based surveillance functions , the registry was able to support patient care by ensuring that individual health-care providers and patients were made aware of elevated or rising HbA1c levels . 
+Both the patient-support function and the surveillance function required use of a unique patient identifier , so that letters could be mailed to patients and tests from the same patient could be linked over time . 
+In 2009 , Thomas Frieden and colleagues from the New York City Board of Health reviewed the registry &apos;s first four years of operation and concluded that it was performing well . 
+Getting all laboratories to report regularly and completely , however , proved challenging and not all health-care providers and patients proved willing to participate . 
+The Board of Health &apos;s initiative has been widely praised as exemplifying the application of classical communicable-disease surveillance-and-control tools to a chronic disease . 
+Other commentators , however , have criticized the registry for potentially compromising patient confidentiality and privacy , and even for disrupting the relationship between patients and their doctors . 
+While these criticisms may or may not be justified , it is probably true to say that the New York City diabetes registry , though highly innovative , is at best an interim solution . 
+Rather than relying on laboratory reporting of a single biomarker , an ideal chronic-disease surveillance system would extract all necessary data directly from the patient record . 
+Any diagnosis of diabetes , or subsequent monitoring of disease progression , requires a medical consultation and hence an entry into the patient record - and so into the practice &apos;s patient-management information system . 
+Logically , the surveillance system should operate by extracting the entire subset of data required for surveillance purposes from each health-care provider &apos;s patient management information system ( &quot; front-end capture &quot; ) . 
+This data would then be securely transferred ( electronically ) to a suitable data warehouse . 
+After appropriate cleaning ( checking for missing data , correcting coding errors ) , and anonymizing , the data would be available for access and querying . 
+Given appropriate statistical analysis and careful interpretation , useful reports could be generated for surveillance purposes and , if desired , for patient-care support as well ( using encrypted unique patient identifiers to preserve confidentiality of personal information ) . 
+In view of the rising burden of diabetes and other chronic diseases throughout the world , urgent attention must be devoted to strengthening surveillance systems for noncommunicable diseases at all levels - from local practices to global institutions . 

@@ -1,0 +1,30 @@
+El riesgo de la recuperación en los Estados unidos  
+Cambridge - La economía de los Estados unidos se está acercando al pleno empleo y podría haberlo alcanzado ya , pero la favorable tendencia del empleo en este país va acompañada de un aumento importante de los riesgos en el sector financiero por culpa de la política monetaria excesivamente relajada a la que se recurrió para lograr la recuperación económica actual .  
+La tasa total de desempleo ha bajado a tan sólo el 5,5 por ciento y la tasa de desempleo entre los graduados universitarios es de tan sólo 2,5 por ciento .  
+El aumento de la inflación que suele producirse cuando la economía alcanza semejantes niveles de empleo se ha retrasado temporalmente por la bajada de los precios del petróleo y por la apreciación del dólar en un 20 por ciento .  
+El dólar fuerte no sólo reduce el costo de las importaciones , sino que , además , hace bajar los precios de los productos nacionales que compiten con las importaciones .  
+Es probable que la inflación empiece a aumentar en el año que comienza a contar a partir de ahora .  
+El regreso al pleno empleo refleja la estrategia de la Reserva federal consistente en aplicar una " política monetaria heterodoxa " : la combinación de compras en gran escala de activos a largo plazo conocida como " relajación cuantitativa " y su promesa de mantener los tipos de interés a corto plazo cercanos a cero .  
+El bajo nivel de todos los tipos de interés resultante de dicha política movió a los inversores a comprar valores y aumentar los precios de las viviendas ocupadas por sus dueños .  
+A consecuencia de ello , el valor neto de los hogares americanos aumentó en diez billones de dólares en 2013 , lo que indujo aumentos del gasto en consumo y de la inversión empresarial .  
+Después de una recuperación inicial lenta , el Pib real empezó a aumentar con tasas anuales de más del cuatro por ciento en la segunda mitad de 2013 .  
+El gasto en consumo y la inversión empresarial continuaron a ese ritmo en 2014 ( exceptuado el primer trimestre , por los efectos de un invierno excepcionalmente crudo ) .  
+Ese intenso crecimiento aumentó el empleo y brindó el pleno empleo a la economía .  
+Pero las políticas monetarias heterodoxas de la Reserva federal han creado también riesgos graves para el sector financiero y la economía en conjunto .  
+Los bajísimos tipos de interés que ahora predominan han movido a los inversores a correr riesgos excesivos para logar un mayor rédito actual de sus carteras , en muchos casos para atender las obligaciones de devolución establecidas en los contratos de pensiones y seguros .  
+Esa búsqueda del rédito ha aumentado los precios de todos los bonos a largo plazo hasta niveles insostenibles , ha reducido los márgenes de crédito de los bonos empresariales y la deuda de los mercados en ascenso , ha incrementado los precios relativos de la propiedad inmobiliaria comercial y ha aumentado la relación entre precios y ganancias en el mercado de valores hasta un 25 por ciento más que su media histórica .  
+El ambiente de tipos de interés bajos ha hecho también que los prestadores corran riesgos mayores para mantener sus beneficios .  
+Los bancos y otros prestadores están concediendo créditos con condiciones más favorables a prestatarios de menor calidad y a prestatarios con grandes cantidades de deuda pendiente .  
+Además , los bajos tipos de interés han creado un nuevo problema : un desajuste de la liquidez .  
+Los costos favorables del endeudamiento han impulsado un aumento enorme de la emisión de bonos empresariales , muchos de los cuales se encuentran en fondos mutuos de bonos o fondos cotizados en bolsa .  
+Los inversores en esos fondos creen - acertadamente - que tienen una liquidez total .  
+Pueden pedir el efectivo a un día vista , pero en ese caso los fondos mutuos y los fondos cotizados en bolsa tienen que vender los bonos empresariales .  
+No está claro quiénes serán los compradores , sobre todo desde que la legislación Dodd-frank sobre la reforma financiera de 2010 limitó lo que pueden hacer los bancos y aumentó sus requisitos en materia de capital , que ha incrementado el costo de invertir en bonos .  
+Aunque se habla de contrarrestar esos riesgos con políticas macroprudenciales , esa clase de políticas no existen en los Estados unidos , exceptuados los mayores requisitos en materia de capital que se han impuesto a los bancos comerciales .  
+No hay políticas encaminadas a reducir los riesgos de los bancos paralelos , las compañías de seguros o los fondos mutuos .  
+Así , pues , ésa es la situación que la Reserva federal afronta ahora al examinar la política monetaria " normalizadora " .  
+Algunos miembros del Comité federal para las Operaciones de mercado abierto ( el organismo encargado de la formulación de políticas de la Reserva federal ) temen , por tanto , que el aumento del tipo de los fondos federales a corto plazo desencadene un aumento importante de los tipos a largo plazo , lo que provocaría pérdidas para los inversores y los prestadores y tendría repercusiones negativas en la economía .  
+Otros temen que , aun sin esas sacudidas financieras , los importantes resultados actuales de la economía no continúen cuando se aumenten los tipos de interés .  
+Y otros miembros más del Comité federal para las Operaciones de mercado abierto quieren mantener bajos los tipos de interés para reducir aún más la tasa de desempleo , pese a las perspectivas de aceleración de la inflación y la aparición de mayores riesgos en el sector financiero .  
+Pero , a fin de cuentas , los miembros del Comité federal para las Operaciones de mercado abierto deben reconocer que no pueden aplazar el aumento de los tipos de interés indefinidamente y que , una vez que comiencen a hacerlo , deberían lograr con relativa rapidez que el tipo de los fondos federales reales ( ajustados a la inflación ) ascienda al dos por ciento .  
+Mi conjetura es la de que en el mejor de los casos empezarán a aumentar los tipos en septiembre y que el tipo de los fondos federales ascenderá al tres por ciento en algún momento de 2017 .  

@@ -1,0 +1,33 @@
+Determinación más allá del poder  
+Budapest - La segunda ronda de la elección parlamentaria griega el 17 de junio es sólo el último síntoma de la crisis más seria que afectó a las democracias occidentales y las sociedades abiertas desde los años 1960 .  
+Las democracias liberales en Occidente hoy luchan por evitar - y , al hacerlo , exacerban - una crisis de identidad , que pone en riesgo el contrato social existente y amenaza con su implosión .  
+El fin de la Guerra fría legó a nuestros líderes un nuevo conjunto de desafíos en materia de gobernancia , que rápidamente cobraron magnitud , en gran medida debido a una globalización más veloz , a las consecuencias de la liberalización económica de los años 1980 y a la revolución en la tecnología de la información en los años 1990 .  
+Estos desafíos , que no se abordaron de manera suficiente , enseguida llevaron a muchos a cuestionar la sustentabilidad del atractivo de la democracia liberal en casa y su universalidad en el exterior , y a explorar los supuestos méritos del " modelo chino " , mejor caracterizado como una forma de capitalismo autoritario o estatal .  
+El colapso financiero de 2008 , que enseguida se metamorfoseó hasta convertirse en la recesión económica más profunda de Occidente desde los años 1930 , no hizo más que agregar leña al fuego , conforme los responsables de las políticas se pusieron de rodillas y adoptaron una modalidad de gestión de la crisis para nada transparente , condonando una intervención estatal masiva en la economía y la socialización de las pérdidas del sector privado a una escala nunca vista antes .  
+La resultante austeridad fiscal hundió a muchos por debajo de la línea de pobreza y aceleró la desigualdad económica , mientras que muchas instituciones privadas , habiendo causado la crisis de 2008 , se recuperaron en la arena pública .  
+Para colmo de males , en Grecia e Italia , dos de los países más duramente castigados , los mercados financieros efectivamente derrocaron a gobiernos electos , por más imperfectos que fuesen .  
+El desventurado ex primer ministro griego George papandreou tuvo que renunciar el año pasado después de atreverse a sugerir un referendo para decidir el futuro económico de sus compatriotas .  
+( Irónicamente , la inminente elección servirá de facto como el referendo que Papandreou sugirió en octubre de 2011 ) .  
+En la raíz de la crisis europea ( y su crisis equivalente en Estados unidos ) hay un cambio en la configuración del poder económico , social y político .  
+Las democracias liberales y las sociedades abiertas tradicionalmente se basaron en un delicado equilibrio de estas tres formas de poder .  
+En los últimos veinte años , nuestras elites fueron incapaces de sostenerlo , ya que el poder económico hace mucho tiempo que se volvió global y se desprendió del poder político , muchas veces corrompiendo la política democrática en el proceso .  
+Al mismo tiempo , el poder social , que ofrece el oxígeno para la legitimidad democrática , resultó marginalizado y desilusionado , y cada vez se aleja más de las correas de transmisión tradicionales de la política .  
+El resultado es una erosión de la estatura de los partidos políticos tradicionales y de los sindicatos , y niveles bajos sin precedentes de confianza en los gobiernos se hacen evidentes .  
+Potenciadas por los nuevos medios , se están empezando a formar identidades alrededor de las nuevas redes de interacción social que suelen desafiar las fronteras estatales y tienen escasa conexión con las instituciones tradicionales de gobernancia de la democracia liberal .  
+La reticencia de las elites de hoy a promover un equilibrio efectivo de los tres poderes - para reconocer una determinación más amplia más allá de maximizar cada poder individual - visiblemente se tradujo en un respeto menguante por el bien público .  
+Esto tiene consecuencias dramáticas para la democracia liberal y las sociedades abiertas .  
+Frente a un poder político disminuido ( y a veces usurpado ) por la transformación de su contraparte económica , y el hecho de que su desapego de su base social lo vuelva cada vez más ilegítimo , llegó la era de los populistas y los extremistas .  
+Ahora los vemos hacerse un festín con las democracias debilitadas en muchos países europeos , en tanto movimientos marginales compiten seriamente por el poder y amenazan con borrar los logros de más de 60 años de integración europea .  
+En Estados unidos , el sistema político se sumergió en una parálisis partidaria aparentemente inextricable , socavando seriamente el sistema de equilibrio de poderes y generando una sensación cada vez más profunda de malestar y frustración .  
+Nos encontramos en un momento crítico .  
+Para recrear la democracia y las sociedades abiertas en una era global hace falta invertir en nuevas ideas para volver a equilibrar el poder político , económico y social tanto a nivel nacional como global .  
+A nivel nacional , necesitamos poner a prueba nuevos mecanismos para el diseño e implementación de políticas , volviendo a conectar las instituciones democráticas con los ciudadanos y las redes emergentes de la sociedad civil .  
+A nivel global , debemos permitir que el poder político y el poder social establezcan su lugar legítimo junto al poder económico .  
+Un ajuste menor no será suficiente ; necesitamos una transformación de la arquitectura institucional global .  
+A menos que podamos establecer un espacio socio-político global , no estaremos en condiciones de deliberar legítimamente sobre la provisión de bienes públicos globales , mucho menos distribuirlos de manera exitosa .  
+A la cabeza del esfuerzo por lograr un espacio de este tipo tienen que estar quienes estén dispuestos a asumir riesgos - emprendedores sociales y políticos que no tienen miedo de cruzar las líneas que tradicionalmente dividen sectores y estados , y que ayudan a recrear una comunidad global de determinación más allá del poder .  
+El filósofo francés Jean-paul sartre alguna vez describió el Muro de berlín como un espejo .  
+En vista del sistema soviético , resultaba verdaderamente fácil pasar por alto nuestras propias debilidades y errores .  
+Cuando cayó el Muro , nuestras elites se esforzaron por mantener la ficción de una marcha triunfal inherentemente inminente por la democracia liberal en todo el mundo , hoy despojada por la crisis económica a ambos lados del Atlántico .  
+Hemos perdido dos décadas valiosas para responder de manera adecuada a la globalización y a la crisis de la democracia liberal y las sociedades abiertas .  
+Es hora de iniciar una reflexión honesta sobre el poder y su determinación en el mundo de hoy , que cambia a pasos acelerados .  

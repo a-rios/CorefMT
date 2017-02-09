@@ -1,0 +1,33 @@
+En apoyo a la investigación sobre células raíz embrionarias  
+La mayoría de las células de nuestros cuerpos tienen una vida corta y una misión específica que cumplir .  
+Las células raíz , que se encuentran en muchos órganos , desde la piel hasta la médula ósea , son diferentes .  
+Los " ancestros " de las células comunes , son capaces de regenerarse indefinidamente .  
+Dadas las señales bioquímicas correctas , estas células se pueden dividir y transformarse en distintos tipos de células según las necesidades .  
+Tal versatilidad significa que las células raíz tienen el potencial para regenerar tejidos de órganos dañados y ofrecer tratamientos nuevos y sorprendentes para una gama de enfermedades que en la actualidad son devastadoras .  
+En efecto , las células raíz podrían tal vez permitir que el ser humano " desarrollara órganos nuevos " para remplazar los enfermos , con lo que existiría la posibilidad de nuevas terapias celulares .  
+Con base en investigaciones de células similares en ratones , los científicos prevén que las células raíz podrían utilizarse para reponer médula ósea en los pacientes que sufren de cáncer , para producir células pancreáticas que alivien la diabetes , o células neuronales para tratar la enfermedad de Parkinson , la de Alzheimer y varios trastornos cerebrales y de la espina vertebral .  
+Para estas investigaciones , lo mejor es obtener células raíz de embriones en sus etapas más tempranas , creados mediante fertilización in vitro , pero eso plantea dilemas éticos .  
+La idea de que se creen embriones humanos con el propósito específico de " ordeñarlos " con fines médicos , crea el temor de un regreso al " mundo feliz " .  
+Aun cuando esos extremos son poco probables , la posibilidad de que haya abusos de cualquier tipo genera una fuerte oposición .  
+La mayoría de quienes se oponen a las investigaciones no cuestionan su valor científico o médico , sino el uso de embriones humanos .  
+Estas personas , sobre todo en Alemania , donde las investigaciones sobre las células raíz traen recuerdos de la eugenesia Nazi , sostienen que la investigación con células obtenidas de embriones es innecesaria porque las células raíz también se encuentran de manera natural en los tejidos adultos .  
+Aunque los científicos muestran un optimismo cauto ante informes recientes sobre la plasticidad de las células raíz obtenidas de tejidos adultos , es poco lo que saben sobre la posibilidad de mantenerlas fuera del cuerpo , sobre su capacidad de diferenciación y si se pueden obtener en las cantidades que se requieren a fin de estudiar su utilidad para usos clínicos .  
+Si las investigaciones se detienen con base en ese optimismo , es posible que pasen varios años antes de que los científicos determinen si las células raíz obtenidas en tejidos adultos son equivalentes a las embrionarias en términos de su potencial para curar enfermedades .  
+No podemos darnos el lujo de avanzar secuencialmente con estas tecnologías tan promisorias .  
+Debemos explorar todas las rutas que puedan conducir a curas médicas en favor de quienes lo necesitan .  
+Mientras que las investigaciones en células ráiz adultas deben llevarse a cabo en forma agresiva , ello no debe ser a expensas de un programa agresivo que explore el potencial que tienen las células raíz de ser utilizadas en terapias para el ser humano .  
+En los Estados unidos , donde el problema fue estudiado por la Comisión consultiva nacional sobre Etica biomédica a través de audiencias y discusiones con expertos en ética , líderes religiosos , científicos y médicos , recientemente se adoptó una restricción más .  
+Se llegó a la conclusión de que es permisible desde el punto de vista ético preparar cepas de células raíz a partir de embriones congelados , pero únicamente de aquéllos obtenidos durante un proceso de fertilización in vitro y cuyos donantes y su médico consideren que exceden los requerimientos clínicos ( generalmente se fertilizan más óvulos de los que se implantan en las mujeres que quieren embarazarse ) .  
+Con base en esas discusiones , el Instituto nacional de la salud ( Nih ) de los Estados unidos promulgó lineamientos que permiten el uso de fondos del gobierno para la investigación sobre células raíz pero que , en su redacción actual , prohíben a los investigadores que tienen fondos federales crear nuevas cepas .  
+Esa restricción obliga a que las cepas se obtengan únicamente de fuentes privadas o comerciales que se adhieran a los protocolos incluidos en los lineamientos .  
+Yo creo que restringir el uso de los fondos gubernamentales para la creación de células raíz , aunque es prudente desde el punto de vista político , genera desventajas científicas substanciales .  
+Sabemos que varios factores poco estudiados provocan que las células raíz pierdan su capacidad para convertirse en células de todos los tipos .  
+Esta pérdida de la capacidad de diferenciación puede deberse a la forma en la que se obtienen las células raíz , las condiciones que rodean su crecimiento y otras variables de su manejo .  
+Permitir que distintos investigadores financiados por el gobierno obtengan cepas celulares en condiciones diferentes en sus propios laboratorios , como se ha hecho recientemente en Gran bretaña y Francia , es el mejor camino para determinar cuáles son las condiciones críticas para generar células útiles para propósitos terapéuticos específicos .  
+Las células raíz embrionarias preparadas en el laboratorio de un científico con toda probabilidad se obtuvieron , guardaron y conservaron con métodos que maximizan su potencia para usos particulares .  
+Las que se obtienen de fuentes comerciales posiblemente tendrán antecedentes genéticos desconocidos y por lo tanto resultan menos útiles para los estudios importantes .  
+Aunque en ocasiones se mencionan contingencias remotas , la elección ética fundamental que plantea la investigación de las células raíz es más limitada : deben o no utilizarse embriones humanos , que a la larga serán destruidos legalemente , para crear terapias que podrían salvar vidas .  
+Quienes se oponen al aborto sin importar los motivos afirman que sacrificar un embrión humano para obtener células raíz es similar al aborto y por lo tanto es inmoral .  
+Pero , bajo mi punto de vista , obtener células raíz de embriones que están en sus etapas más tempranas y que al final serán destruidos es éticamente distinto al aborto .  
+También debemos considerar las consecuencias morales de abandonar estas investigaciones que tienen el potencial de salvar y mejorar vidas humanas .  
+¿ Qué mayor moralidad existe que hacer todo lo que podamos para ayudar a los individuos cuyas vidas están plagadas por la enfermedad ?  

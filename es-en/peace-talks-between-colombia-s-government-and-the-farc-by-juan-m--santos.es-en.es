@@ -1,0 +1,31 @@
+Las últimas Guerrillas  
+Bogotá - Durante la Guerra fría , las tensiones entre Occidente y la Unión soviética afectaron prácticamente a todos los países del mundo .  
+Uno de sus efectos fue el surgimiento en América latina de grupos guerrilleros que buscaban desestabilizar las dictaduras militares y lograr el retorno de la democracia y las libertades , además de otras reformas políticas ; objetivos que , según creían , no se podían alcanzar por la vía pacífica .  
+Un factor - más que ningún otro - estimuló el surgimiento de estas guerrillas , y ese fue el triunfo de la Revolución cubana en 1959 , que demostró la posibilidad de alzarse con el poder por la vía de las armas .  
+El Che guevara , uno de los máximos exponentes de esta revolución , murió en Bolivia en 1967 intentando exportar su proyecto guerrillero más allá de Cuba .  
+Ya terminando el 2012 , las condiciones en la región son muy diferentes .  
+La democracia ya no es la excepción sino la regla en el hemisferio occidental , los regímenes militares sucumbieron ante el poder de las urnas y las guerrillas han pasado a ser , en gran medida , una reliquia del pasado .  
+Sin embargo , Colombia , la más antigua y más estable democracia de la región , sigue padeciendo el ataque de guerrillas armadas .  
+A diferencia de lo que sucede en otros países , en Colombia las guerrillas no sólo buscaron reivindicaciones políticas sino que fueron permeadas por el poder corruptor del narcotráfico , lo que las convirtió en una mezcla de organizaciones subversivas y mafias criminales .  
+Como reacción , hubo ciudadanos que formaron ilegalmente grupos de autodefensa , pero esas organizaciones exacerbaron en última instancia la violencia , acabaron despojando de sus tierras a los campesinos , forzaron desplazamientos de población y contribuyeron a prolongar el conflicto durante casi cinco decenios .  
+A consecuencia de ello , ha habido generaciones de colombianos que - como la mía - han crecido rodeadas de violencia y sin conocer nunca una paz real .  
+Varias de las guerrillas que se formaron en Colombia en las décadas de los sesentas y los setentas ya no existen y se incorporaron a la sociedad después de suscribir acuerdos de paz .  
+Algunos de sus antiguos miembros han llegado a cargos de alta responsabilidad : ministros , congresistas , gobernadores y alcaldes , incluyendo el actual alcalde de Bogotá , Gustavo petro , quien fue miembro del grupo guerrillero M-19 en los ochentas .  
+Hoy día , sólo dos grupos siguen inmersos en una lucha anacrónica : las Fuerzas armadas revolucionarias de colombia ( Farc ) , el mayor , más antiguo y mejor financiado de los dos , y el Ejército de liberación nacional ( Eln ) .  
+Después de ganar la presidencia en 2002 , álvaro uribe se comprometió a confrontar a las guerrillas - que habían añadido el terrorismo a su repertorio - , desplegando una ofensiva que empleó todo el poder del Estado y sus autoridades encargadas de imponer el cumplimiento de la ley .  
+Yo he tenido la oportunidad - primero como ministro de Defensa del presidente Uribe y ahora como Presidente - de asestar los golpes más fuertes a las guerrillas y a las bandas de narcotraficantes .  
+El compromiso del Gobierno de luchar contra el terrorismo se ha visto reflejado en la reducción del número de miembros de las Farc : de más de 20.000 hace una década a poco más de 8.000 en la actualidad .  
+No cejaremos hasta que Colombia esté libre de grupo guerrilleros , pero ese irrevocable compromiso de derrotar al terrorismo no nos impide buscar - con seriedad , con prudencia y aprendiendo de los errores del pasado , cuando una prolongada zona desmilitarizada permitió a las Farc recuperar cierta fuerza - el fin del conflicto interno armado por la vía del diálogo .  
+El pasado mes de octubre , después de casi dos años de conversaciones exploratorias , se iniciaron en Oslo ( Noruega ) conservaciones oficiales entre el Gobierno nacional y las Farc para buscar dicho fin .  
+Desde noviembre , las conversaciones se trasladaron a La habana ( Cuba ) , donde se celebrarán hasta su conclusión .  
+Las conversaciones que hemos iniciado serán conversaciones directas y discretas , sobre una agenda temática breve y definida , con un horizonte de tiempo también definido .  
+Noruega y Cuba han servido como países anfitriones y garantes de los diálogos , y contamos también con el acompañamiento de Venezuela y Chile .  
+A eso le estamos apostando , no sólo el Gobierno sino la gran mayoría de la sociedad colombiana que apoya este proceso .  
+Lo hacemos con optimismo moderado - pues ya la guerrilla defraudó la esperanza del pueblo colombiano en otras ocasiones - y con la certeza de que es una oportunidad que no podemos dejar pasar .  
+No obstante , he sido enfático en que los diálogos de paz no paralizan el accionar del Estado .  
+Mientras no se alcance un acuerdo final , la fuerza pública colombiana sigue y seguirá confrontando - con toda la contundencia - a los grupos armados ilegales que persistan en amenazar la tranquilidad y la vida de los colombianos .  
+Y - lo más importante - , tal como lo hemos venido haciendo desde el inicio de nuestra administración , seguiremos construyendo paz con actos de gobierno : realizando programas sociales para reducir la pobreza , al igual que programas económicos para generar empleo ; reparando las víctimas del conflicto ; garantizando la devolución de las tierras a los campesinos despojados , y generando condiciones de equidad en todo el país .  
+El proceso de paz que hemos iniciado con las Farc - serio , realista , sobrio - busca el fin del conflicto interno armado en Colombia y , si logramos este objetivo , podría significar el fin definitivo de las últimas guerrillas en todo el continente americano , el fin de una era que comenzó hace más de medio siglo .  
+Será , en este sentido , un factor de paz y estabilidad para el resto de la región .  
+Llegar a un acuerdo con las Farc para poner fin al conflicto , lo que entraña el desarme y la desmovilización de ese grupo , permitiría a la estrella de Colombia brillar más que nunca .  
+El Gobierno colombiano está comprometido a hacer todos los esfuerzos para convertir en realidad el sueño de tener un país - y un continente - sin guerrillas en 2013 .  

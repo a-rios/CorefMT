@@ -1,0 +1,34 @@
+¿ Deben ocuparse los bancos centrales del desempleo ?  
+Washington , Dc - El 12 de diciembre el presidente de la Reserva federal estadounidense , Ben bernanke , anunció que la Fed mantendrá las tasas de interés casi en cero hasta que la tasa de desempleo disminuya al 6,5 % , siempre que las expectativas inflacionarias continúen bajo control .  
+Si bien los estatutos que rigen a la Fed , a diferencia de los del Banco central europeo , incluyen explícitamente un mandato para apoyar el empleo , el anuncio marcó la primera vez en que la Fed vinculó su política sobre tasas de interés a una meta cuantitativa para el empleo .  
+Es un cambio bienvenido y debería ser emulado por otros - incluso por el Bce .  
+Los estatutos de los bancos centrales difieren en términos de los objetivos que fijan para la política monetaria .  
+Todos incluyen la estabilidad de los precios .  
+Muchos agregan una referencia las condiciones económicas generales , incluidos el crecimiento y el empleo , o a la estabilidad financiera .  
+Algunos otorgan al banco central autoridad para fijar unilateralmente meta de inflación , mientras que otros estipulan la necesidad de coordinar con el gobierno la fijación de los objetivos .  
+No hay ejemplos recientes entre los bancos centrales más importantes , sin embargo , de fijación de metas cuantitativas para el empleo .  
+Esto debería cambiar a medida que la magnitud del desafío sobre el empleo que enfrentan las economías avanzadas gane visibilidad .  
+Los débiles mercados laborales , la baja inflación y el aumento de la deuda sugieren que un reordenamiento fundamental de las prioridades está a la orden del día .  
+En Japón , Shinzo abe , el primer ministro entrante , está señalando el mismo conjunto de preocupaciones , aunque parece proponer un objetivo de inflación " mínima " para el Banco de japón , en vez de un vínculo con el crecimiento o el empleo .  
+La difusión de las cadenas de valor mundiales que incorporan a cientos de millones de trabajadores de los países en desarrollo a la economía global , así como las nuevas tecnologías para ahorrar mano de obra , implican escasas probabilidades de inflación por presión de los costos salariales .  
+De la misma manera , el mercado de los bonos de largo plazo indica expectativas inflacionarias extremadamente bajas ( por supuesto , las tasas de interés son mayores cuando se perciben posibles incumplimientos de la deuda soberana o riesgos de redenominación , como el sur de Europa , pero eso no tiene nada que ver con la inflación ) .  
+Además , el desapalancamiento en curso desde la implosión financiera de 2008 podría ser más sencillo si la inflación fuese moderadamente mayor durante unos pocos años , un debate fomentado por el Fondo monetario internacional hace un año .  
+Junto con estas consideraciones , los responsables de las políticas deberían tener en cuenta los tremendos costos humanos y económicos que produce el desempleo elevado : desde millones de vidas destruidas , erosión de habilidades y desaparición de oportunidades para toda una generación , hasta el peso muerto que implica mantener ociosos a los recursos humanos .  
+¿ No es la incapacidad para garantizar que millones de jóvenes adquieran las habilidades necesarias para participar en la economía un problema tan grave para una sociedad como un elevado volumen de deuda pública ?  
+En ningún otro sitio este reordenamiento de prioridades es más necesario que en la zona del euro .  
+Sin embargo , extrañamente , es la Fed y no el Bce quien ha fijado una meta para el desempleo .  
+La tasa de desempleo en Ee .  
+Si la meta del Bce para la inflación fuese del 3 % , en vez de un valor cercano pero inferior al 2 % y Alemania , poseedora del mayor superávit mundial de cuenta corriente , fomentara un crecimiento de los salarios del 6 % y tolerase una inflación del 4 % - que implicarían un moderado crecimiento de los salarios reales por encima del aumento esperado en la productividad - el proceso de ajuste en la zona del euro sería económica y políticamente menos costoso .  
+De hecho , el cálculo de políticas en Europa del norte subestima en gran medida las pérdidas económicas debido a los trastornos impuestos al Sur por la excesiva austeridad y la deflación salarial .  
+Los elevados niveles de desempleo juvenil , los problemas de salud y la capacidad ociosa resultantes también tendrán un impacto sustancial sobre la demanda de importaciones al Norte .  
+Al contrario de lo que indica la sabiduría convencional , el mandato legal del Bce permitiría un reordenamiento tal de las prioridades , ya que , con referencia al Bce , el Tratado sobre el Funcionamiento de la unión europea establece que " El objetivo principal [ énfasis añadido ] del Sistema europeo de bancos centrales [ ... ] será mantener la estabilidad de los precios " , y otra parte del tratado se ocupa de políticas económicas generales para la zona del euro y enfatiza el empleo .  
+Esto no parecería impedir al Bce fijar un objetivo temporal complementario para el empleo en un momento de desafíos excepcionales .  
+Además , el Bce tiene autoridad para fijar metas de inflación para toda la zona del euro , y podría elevarlas durante dos o tres años , sin incumplir ningún tratado .  
+El verdadero problema es la actual actitud política alemana .  
+De alguna forma , el recuerdo de la hiperinflación de principios de la década de 1920 parece más atemorizante que aquel del desempleo masivo a principios de la década de 1930 , aunque fue este último el impulsor del avance del nazismo .  
+Tal vez las próximas elecciones alemanas permitan que fuerzas progresivas clarifiquen lo que está en juego para Alemania y Europa - de hecho , para todo el mundo .  
+En un contexto más global , nada de esto pretende minimizar los peligros de la inflación en plazos mayores .  
+En la mayoría de los países y la mayor parte del tiempo la inflación debería mantenerse en valores muy reducidos , y los bancos centrales debieran anclar las expectativas inflacionarias con metas de largo plazo estables , aunque la alternativa de fijar metas para el Pbi nominal merece ser considerada .  
+Además , la política monetaria no puede ser un sustituto de largo plazo para las reformas estructurales y los presupuestos sostenibles .  
+Los períodos prolongados con tasas de interés reales nulas conllevan el peligro de crear burbujas de activos , asignar recursos incorrectamente , y generar efectos indeseados sobre la distribución del ingreso , como lo demuestra la historia reciente - incluso en Ee .  
+Durante los próximos dos o tres años , sin embargo , y especialmente en Europa , la necesidad de desapalancar , los costos del desempleo generalizado y el riesgo de un colapso social hacen que la meta temporal anunciada por la Fed para el desempleo resulte muy deseable .  

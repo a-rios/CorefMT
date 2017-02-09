@@ -1,0 +1,54 @@
+The Language of Genomics 
+DALIAN , CHINA - Last week , a company called Complete Genomics announced 10 new customers for its genome-sequencing service . 
+The price was not specified , but the company said its goal is to offer the service for $ 5,000 within a year . 
+What struck me was not the announcement itself , but the name of the CEO : Cliff Reid , the CEO when I knew him in the 1980 &quot; s of a text-search company called Verity . 
+The connection hit me almost immediately . 
+Genes are , in a sense , the instruction language for building humans ( or any other living thing ) . 
+And language is symbols that interact to build meaning . 
+And , yes , of course , it was the same Cliff Reid I knew back in the late 1980 &quot; s . 
+What Complete Genomics is doing with the $ 91 million it has raised so far is exciting . 
+It has built a genome-sequencing factory and plans to build several more over the next few years . 
+Many academic and commercial research facilities want one , as do several countries . 
+What I find interesting are the implications . 
+Right now , a genome is akin to a novel written in an unknown language . 
+There is a huge amount of information in there , but we can &apos;t understand it . 
+Imagine getting a copy of Tolstoi &apos;s War and Peace in Russian and ( assuming you can &apos;t read Russian ) trying to figure out the story . 
+Impossible . 
+That &apos;s pretty much the situation of natural-language understanding at the time Reid joined Verity . 
+On the other hand , we have started recognizing some words - specific genetic variants - that seem to correspond to certain incidents in history . 
+In the case of genetics , those incidents are diseases and conditions . 
+And just as it usually takes several individuals to cause an incident , so it often takes several genetic variations , plus ambient factors , to cause a disease . 
+Genes often work together , sometimes aided by factors such as a person &apos;s diet or behavior , to cause a condition . 
+There are two key challenges in genomics . 
+One is simply detecting the genes , alone or in combination , that seem to lead to certain diseases . 
+That alone can be useful . 
+With enough data , we can then figure out that the same &quot; disease &quot; is in fact a variety of different disorders , some susceptible to particular known treatments and some susceptible to others or simply incurable . 
+For this , mere correlation is sufficient . 
+People with BRCA-derived breast cancer benefit from treatment with herceptin , whereas those with other kinds of breast cancer do not . 
+We don &apos;t know why , but the correlation is clear . 
+The second challenge is to understand how the genes interact among themselves or with other factors to produce the condition , which should enable the development of new preventive measures or treatments based on the details of how the condition begins and how it progresses . 
+That , of course , is much more interesting - and harder to do . 
+In a sense , it &apos;s the difference between matching words and understanding a piece of text . 
+So , it is no surprise that Reid has found a role in this new marketplace . 
+Complete Genomics and its competitors are about to create huge amounts of data . 
+CGI &apos;s edge is not just sequencing the genomes cheaply , but also refining the data into lists of variations . 
+In other words , for most research the questions revolve not around an entire genome , but around the relevant differences of any individual &apos;s genome from the norm . 
+There are common differences , like the differences between blue eyes and brown eyes , or even between people likely to have Crohn &apos;s disease and those who are unlikely to have it . 
+Then there are differences that result simply from a &quot; broken &quot; gene , which is not a variant but simply a mistake . 
+Most of these are harmless ; the really harmful ones don &apos;t survive long enough to show up anywhere . 
+The researchers &quot; task is to find meaning from all this data . 
+We &apos;re just at the beginning of this process , which will take many years . 
+While some researchers are looking for statistical correlations , others are studying how the individual genes interact . 
+For all of them , access to genome sequences is important . 
+But the genomes mean little without the corresponding medical records , just as the Russian novel - in any language - means little without a corresponding knowledge of Russian history . 
+Obtaining that history requires consent from the individuals whose genomes are sequenced . 
+It also requires a lot of data processing to make the records usable . 
+Much of the information is simply not recorded . 
+And much is still on paper , or in scanned images , insurance company records , and pharmacy transactions . 
+There is a standard language for representing diseases , but in many cases the records containing this language might as well be hidden in mattresses . 
+The current movement in many developed countries towards electronic medical records will improve health care directly , but it will also lead to much improved information liquidity to help genetic and other medical research . 
+We now have the ability to sequence genomes at increasingly lower costs , and we are slowly making the corresponding health information computer-readable . 
+Companies such as Complete Genomics are developing software that can process the information . 
+There is , of course , still a huge amount of data to collect and process , and huge amounts of research and discovery to happen . 
+But it is hard not to be optimistic about our increasing medical knowledge . 
+The challenge five years from now will be to turn all that knowledge into practice through better preventive measures , better drugs , and better care . 

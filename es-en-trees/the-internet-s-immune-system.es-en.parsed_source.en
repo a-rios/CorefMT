@@ -1,0 +1,40 @@
+The Internet &apos;s Immune System 
+NEW YORK - Viruses , phishing , spyware , spam , denial-of-service attacks , botnets ... You have probably heard these words , and perhaps even suffered from what they signify , with or without knowing it . 
+I &apos;d like to lay out a simple path to addressing ( not resolving ) these security problems , one that does not require agreement among all governments ( or people ) on what really constitutes a crime , much less a global police force or unenforceable global treaties . 
+If we can increase security in general , then governments can focus on the real criminals . 
+A better approach is to view computer security as an issue of public health and economics , in which people can protect themselves but must pay for the costs they impose on others . 
+We need to enable people to defend themselves against others ; prevent innocent , well-meaning people from becoming infected and harming others ; and reduce the incentives and ability of the ill-intentioned to do harm . 
+That sounds like a lot of different challenges . 
+But there are effective approaches to each of them that do not require tracking everyone online , or requiring IDs for every interaction . 
+Tracking user IDs will not enable us to catch or stop bad guys , and it will render the Internet impossible to use . 
+We can &apos;t save cyberspace by destroying its openness . 
+To implement effective security , the entities best equipped to do so , the Internet service providers , must take the lead . 
+They are technically savvy organizations with the ability ( more or less ) to protect users and detect abusers ; they have a direct ( though impersonal ) relationship with their users ; and they compete for users &quot; business , so that , unlike governments , they will suffer if they perform badly . 
+The ISPs ( rather than governments ) should provide basic security - anti-virus , anti-phishing , anti-spam , and the like - as a regular feature of consumer Internet services . 
+This is not hard to do . 
+A number of anti-virus companies compete to offer consumer security services ; each ISP could select one , or offer its customers a choice of three , for example . The trick is to get consumers to use these tools - which will require an awareness campaign along the lines of public health messages . The result should be something closer to widespread hand-washing than to a system of acute-care hospitals . 
+As for spam , ISPs ( including mail service providers ) could limit their users to , say , 100 e-mails a day ; for more , you have to pay or at least post a security bond , or pass some good behavior test . 
+At the same time , all ISPs should implement an e-mail ID system ( there are two good standards , called Domain Keys and SPF ) . 
+This is not to track everyone &apos;s mail , but to prevent bad guys from spoofing good guys . 
+ISPs would throttle traffic from ISPs that did not join the security collective , and pretty soon their customers would complain , forcing them either to join or find themselves relegated to the underworld , from which it would be hard to launch attacks because no one would accept their traffic . 
+And , because ISPs answer to other ISPs , not governments , dissidents and whistleblowers could maintain their anonymity . 
+As for anti-phishing and malware downloads , there are a number of services that track &quot; bad &quot; sites and warn users off . 
+Users can still go where they want , but at least there are signposts warning that they are entering a dangerous neighborhood . 
+Google does this in its search results , working with StopBadware.org ( I am an advisory board member ) , and both Mozilla Firefox and Microsoft &apos;s Internet Explorer offer similar protections . In all cases , adventurous users or professionals can overcome the paternalism , but only by paying what amounts to liability insurance , for the risks they impose on the system . 
+The point is to create economic incentives to reduce cybercrime . 
+Real criminals won &apos;t be deterred , but such a system would prevent the rest of us from being pulled along or becoming victims . 
+With fewer victims , crime will pay less . 
+There are several reasons why this has not yet happened . 
+The first is inertia , combined with ( or disguised as ) idealism - the mistaken idea that the Internet should be free not just for speech , but also from payment . Yet it costs something to maintain an infrastructure that keeps people safe . 
+Indeed , cost - both to users and to ISPs - is the second obstacle . 
+The challenge is to acknowledge the costs ( as we are now doing with pollution ) and assign them to people who can - and can be compelled to - pay for them . 
+After all , we accept the costs of police forces and health care , including not just hospitals , but also clean water , safe food , etc . 
+So how do we make this happen ? 
+ISPs need to pass these costs on to their customers . 
+But they won &apos;t , because they compete mostly on price . 
+So customers need to demand security as part of their service , while ISPs need to shun ISPs that don &apos;t comply . 
+To help things along , someone should file a lawsuit - not too many ! - against ISPs who tolerate misbehavior . The targets should be ISPs that willfully serve criminal customers , refusing to deal with complaints to the point that ignorance is no longer a legitimate excuse . 
+But ISPs &quot; costs also include warning people away from bad sites , which requires a due-process system to notify owners of compromised websites - so that they can fix them or realize that they have been exposed . 
+Such a system is relatively expensive to manage , but it is cheaper than the costs of not having it . 
+These changes would not create some digital nervous system with a centralized brain that could solve all problems . 
+Instead , they would result in something like an immune system of competing ISPs and evolving security services , local and omnipresent . That would vastly improve the overall computer-security situation : Ordinary people would feel secure and law enforcement and security specialists could focus on the biggest threats . 

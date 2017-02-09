@@ -1,0 +1,31 @@
+El ascenso del renminbi  
+Beijing - El 26 de octubre el tipo de cambio al contado del renminbi frente al dólar alcanzó el nivel superior de su banda de flotación por segundo día de operaciones consecutivo .  
+El aumento empezó cuando la banda de cotización de la tasa de cambio del renminbi se amplió a ± 1 % y ahora ha llegado a un máximo histórico desde la reforma de la divisa en 1994 .  
+Sin señales de una mejoría de los fundamentos económicos , la rápida apreciación del renminbi es un acontecimiento potencialmente peligroso para China - debido en parte al riesgo de que se invierta la situación de forma abrupta y dolorosa .  
+El aumento del renminbi durante el último mes se puede atribuir a una mayor liquidez global que comenzó a principios del tercer trimestre , pues los responsables del diseño de políticas han respondido a la crisis de deuda soberana de la eurozona y al estancamiento de la producción .  
+De hecho , de acuerdo con Morgan stanley , las autoridades monetarias de 16 de los 33 países a los que da seguimiento - incluidos siete de diez bancos centrales de países avanzados y nueve de veintitrés bancos centrales de mercados emergentes - han bajado sus tasas de interés de referencia o reducido los requisitos de reservas .  
+Después de dos rondas de facilitación cuantitativa ( Qe , por sus siglas en inglés ) , las hojas de balance del Banco central europeo ( Bce ) y de la Reserva federal estadounidense han incrementado a 3.2 billones de euros ( 4.1 billones de dólares ) y 2.9 billones de dólares , respectivamente .  
+El nuevo programa de operaciones monetarias simples del Bce en mercados secundarios de bonos soberanos y la " Qe3 " abierta de la Reserva continúan con esta tendencia , mientras que el Banco de japón ha expandido su programa de compra de activos por octava vez .  
+Los efectos de la más reciente ronda de facilitación cuantitativa de los países desarrollados están empezando a sentirse en los mercados emergentes , donde las salidas de capital de corto plazo a lo largo de casi un año han dado lugar a una nueva ola de entradas de capital de corto plazo .  
+Como la rentabilidad de los bonos estadounidenses sigue cayendo y los valores de ese país están alcanzando topes de precios debido a la recuperación lenta de la economía , se prevé un mayor flujo de dinero hacia los mercados de productos básicos y hacia los países emergentes con los rendimientos más altos .  
+Dada la adhesión de China a una política monetaria estable , es más atractivo mantener el renminbi como activo .  
+En efecto , a medida que el renminbi se iba apreciando en el último mes , el Banco de china no intervino sustancialmente para recomprar dólares a los bancos comerciales - una decisión pocas veces vista en años recientes .  
+Esto indica que fue principalmente el arbitraje a corto plazo de fondos externos lo que generó la apreciación del renminbi .  
+Otra razón que explica la apreciación del renminbi es que está vinculado al dólar , que ha fluctuado ampliamente desde octubre de 2011 .  
+En consecuencia , si bien el renminbi tuvo una mala evolución frente al dólar en el primer semestre de este año ( incluso con una depreciación temporal ) , el " precipicio fiscal " de fin de año en Estados unidos junto con la facilitación cuantitativa 3 han debilitado al dólar desde el comienzo del tercer trimestre , pues el tipo de cambio ha vuelto al nivel que tenía a principios de este año .  
+No obstante , hay que seguir atentos .  
+Si bien los mercados territorial y extraterritorial del renminbi siguen desvinculados , el comienzo de la estabilización del renminbi en la balanza comercial permite que el mercado extraterritorial del renminbi de Hong kong ( Cnh ) coexista con el mercado territorial ( Cny ) de esa divisa lo que deja un amplio margen para el arbitraje .  
+Dado que las tasas de rendimiento reales y previstas del renminbi son más elevadas que las tasas reales de rendimiento de otras divisas , se ha convertido en un activo positivo frente a las monedas extranjeras , lo que refuerza la tendencia a tener activos denominados en renminbi y pasivos denominados en monedas extranjeras .  
+Dado que China sigue imponiendo controles de capital no es fácil para los inversionistas extranjeros poner su dinero en el mercado Cny .  
+Por ende , gran parte de las entradas extranjeras de capital de corto plazo se han desviado hacia el mercado Cnh .  
+En efecto , en meses recientes las autoridades monetarias de Hong kong han tenido que inyectar liquidez a su sistema bancario cuatro veces - más de 14,000 millones de dólares de Hong kong - para estabilizar el tipo de cambio de la divisa , lo que indica claramente que el flujo internacional de capital volátil en realidad se está dirigiendo al continente .  
+Aun cuando el renminbi se ha fortalecido recientemente , la divisa se encuentra en una banda cambiaria que es conveniente a su balanza comercial exterior ; no obstante , China no podría soportar una brusca apreciación del tipo de cambio .  
+Por suerte , eso parece improbable .  
+De hecho , los tipos de las operaciones a plazo entregables y no entregables prevén una depreciación a un año del renminbi de 2.35 % y 1.75 % , respectivamente .  
+De hecho , se podrían realizar otra vez operaciones al descubierto del renminbi - muy probablemente mediante el mercado Cnh .  
+A principios de diciembre de 2008 , la crisis mundial condujo a una salida global de capitales de China y el tipo de cambio del renminbi cayó a su nivel más bajo por cuatro días consecutivos - un récord no registrado desde la reforma del tipo de cambio de julio de 2005 .  
+Posteriormente , a partir del 30 de noviembre de 2011 , el tipo de cambio llegó casi al fondo de la banda de fluctuación durante siete días , lo que provocó pánico en los mercados .  
+Estos acontecimientos no son recuerdos lejanos .  
+Después de todo , el tipo de cambio de una divisa no está determinado solamente por los fundamentos económicos .  
+Siempre habrá flujos de capital extranjero de corto plazo que pueden incrementar la volatilidad de una moneda .  
+En efecto , después de su reciente y brusca apreciación , el renminbi podría convertirse en el objetivo principal de los especuladores de las operaciones al descubierto .  

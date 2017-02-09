@@ -1,0 +1,1 @@
+<tree label="sent"><tree label="sentence"><tree label="^lsentence"><tree label="^lsentence"><tree label="spec"><tree label="DA">Los</tree></tree><tree label="AQ">maoístas</tree></tree><tree label="conj"><tree label="CC">y</tree></tree></tree><tree label="sn"><tree label="spec"><tree label="DA">la</tree></tree><tree label="NC">masacre</tree></tree></tree></tree> 

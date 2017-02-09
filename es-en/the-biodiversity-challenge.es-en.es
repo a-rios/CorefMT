@@ -1,0 +1,32 @@
+El imperativo en pro de la diversidad biológica  
+Londres - En este año , declarado Año internacional de la diversidad biológica por las Naciones unidas y en el que se celebrará la reunión del Convenio sobre la Diversidad biológica en el Japón , está claro que las amenazas al medio ambiente que afrontamos son muy graves y van en aumento y que nunca había sido tan urgente la necesidad de actuar .  
+Nuestras vidas y las de todos los demás seres vivos de este planeta forman parte de la diversidad biológica y dependen de ella .  
+Dicho de forma sencilla , la diversidad biológica es la trama de la vida , compuesta por todos los organismos que encontramos en todos los hábitats , desde los peces de los océanos profundos hasta las aves de los bosques tropicales y todo lo que se encuentra entre medias .  
+La diversidad de plantas y hongos forma parte de la base misma de la diversidad biológica y de ellos dependen todas las demás formas de vida .  
+Las plantas absorben el dióxido de carbono y producen oxígeno , con lo que proporcionan el aire que respiramos y contribuyen a regular el clima .  
+Brindan alimentos , medicinas , combustibles , abrigos , agua potable y suelos fértiles .  
+La diversidad vegetal nos mantiene ahora y en el futuro nos permitirá adaptarnos , innovar y en última instancia sobrevivir .  
+Y , aun así , pese a nuestra dependencia de ese increíble patrimonio natural para nuestras vidas y bienestar y los de las generaciones futuras , estamos despilfarrándolo a un ritmo sin precedentes .  
+Nuestra generación afronta una pérdida de diversidad biológica en gran escala .  
+Las extinciones de especies están produciéndose a un ritmo mucho mayor que el ciclo natural , en gran medida a causa de la destrucción de hábitats causada por actividades humanas , como , por ejemplo , la desforestación y el desmonte de tierras .  
+Está demostrado que el cambio climático acelerará esa pérdida .  
+Pero hay esperanza en medio de las tinieblas .  
+De hecho , no existe una razón técnica por la que una especie deba acabar extinguiéndose y se están consiguiendo grandes logros en la protección de la diversidad biológica .  
+Por ejemplo , científicos y conservacionistas de todo el mundo están colaborando en proyectos , como , por ejemplo , la asociación Banco de semillas del milenio , fundada y coordinada por los Reales jardines botánicos de kew .  
+Dicha asociación de más de 100 instituciones en más de 50 países ya ha conservado el 10 por ciento de las especies vegetales del mundo y está trabajando con miras a conservar el 25 por ciento , centrándose en las que son escasas , están amenazadas y son útiles .  
+Lo que hace falta ahora es voluntad política y recursos financieros para sostener esa labor .  
+La importante reunión del Convenio sobre la Diversidad biológica que va a celebrarse en Nagoya ( Japón ) del 18 al 29 de diciembre es una oportunidad a ese respecto y en Kew abrigamos la esperanza de lograr resultados positivos en materia de acuerdos internacionales en los decisivos sectores de la conservación y la utilización de la diversidad biológica , el acceso a ella y el reparto de sus beneficios de forma sostenible .  
+Entretanto , en el nivel nacional , es esencial que la conservación de la diversidad biológica pase a formar parte integral de las políticas gubernamentales y los procedimientos de gestión sostenible en todo el mundo .  
+Para calibrar la mitigación de la pobreza , fundamental para los objetivos de desarrollo del Milenio , se recurre en gran medida al Pib , pero se debe incluir la gestión sostenible del capital natural , del que depende la salud económica .  
+En efecto , no debemos olvidar los infinitos beneficios espirituales y recreativos que el mundo natural ofrece a las poblaciones y las culturas de todas partes .  
+Se trata de un componente del bienestar humano que no se puede calibrar exclusivamente con el Pib .  
+Se ha afirmado que gran parte de la pérdida de la diversidad biológica ha sido consecuencia de la falta de comprensión de su verdadero valor .  
+Dos iniciativas importantes están poniendo de relieve el valor de nuestro capital natural : el estudio respaldado por las Naciones unidas , " La economía de los ecosistemas y de la diversidad biológica " , y el Programa de las naciones unidas de reducción de las emisiones debidas a la desforestación y la degradación forestal en los países en desarrollo ( Reed+ ) .  
+Una vez que se entienda el verdadero valor de nuestros recursos naturales , en lugar de darlo por sentado , como si fuera una reserva infinitamente disponible , se reconocerá mejor la importancia decisiva de la conservación de la diversidad biológica .  
+Los programas eficaces de conservación se basan en conocimientos científicos sólidos .  
+Así , pues , la adelantada labor de Kew para la comprensión y la conservación de plantas de todo el mundo es un pilar fundamental en la lucha contra la pérdida de la diversidad biológica .  
+Sus colecciones albergan algunos de los mayores y más completos archivos de la diversidad vegetal del mundo y son un punto de referencia mundial para la investigación .  
+Una comprensión profunda de la ciencia botánica es esencial para planificar y ejecutar los proyectos de conservación .  
+La reciente labor de Kew con la Unión internacional para la Conservación de la naturaleza , el Museo de historia natural y la Sociedad zoológica de londres para crear un muestrario de la Lista roja de plantas ha revelado por primera vez que una de cada cinco especies de plantas del mundo está amenazada de extinción .  
+A consecuencia de ello , ahora tenemos una base de comparación para calibrar los avances en materia de conservación de las plantas de todo el mundo .  Tenemos los conocimientos , los expertos y las asociaciones para lograr una diferencia positiva y muy real en materia de conservación de la diversidad biológica a escala mundial y acogemos con beneplácito el apoyo de todos los sectores de la sociedad para que nos ayuden a lograrlo .  La diversidad biológica es esencial para nuestra salud , riqueza y bienestar y ahora tenemos la capacidad para detener su destrucción e invertir la tendencia .  
+Comprometer la voluntad política y una pequeña fracción de los recursos financieros del mundo con la diversidad biológica y las investigaciones científicas que la sostienen aportaría beneficios indispensables a largo plazo , incluido un planeta sano para nuestros hijos .  

@@ -1,0 +1,27 @@
+Hillary clinton en Beijing  
+Nueva York - Hillary clinton ha partido camino de China .  
+La decisión de la Secretaria de estado de los estados unidos de hacer su primer viaje al extranjero por Asia y , en particular , China ha sido inteligente y , si lo hace con aplomo , podría rendir enormes beneficios al gobierno de Obama en su intento de restablecer la capacidad de dirección mundial .  
+El hecho de que Clinton haya optado por ir a Asia ahora , cuando el Departamento de estado no está aún completo - en vista de que no hay aún embajador en Beijing . muchos de sus antiguos funcionarios se han marchado o están haciéndolo y muchos recién nombrados no están aún en sus puestos - atestigua su determinación de delimitar el de Asia como su sector preferente .  
+Lo que Clinton aporta a esa tarea es apertura y el anhelo de crear una nueva estructura para las relaciones entre los Ee.uu. y China , pero , aun cuando muchas otras cuestiones entran en juego , el fortalecimiento de esa relación bilateral de la mayor importancia requiere un nuevo interés común subyacente .  
+Paradójicamente , la amenaza del cambio climático se presta bien para ese fin .  
+El Gobierno de china no debe subestimar el compromiso de Clinton y Obama con esa cuestión .  
+Como ella dijo en un discurso - anterior al viaje - pronunciado en la Asia society de nueva york , " la colaboración en materia de energía limpia y una mayor eficiencia ofrece una oportunidad auténtica para profundizar la relación entre los Ee.uu. y China en general " .  
+Tras reconocer públicamente que los Ee.uu. " han sido hasta ahora los mayores emisores de los gases que causan el efecto de invernadero " , declaró que este país " debe encabezar las gestiones y medidas encaminadas a reducir las emisiones perjudiciales y crear una economía menos dependiente del carbono " .  
+China llevaba mucho tiempo esperando para oír eso .  
+De modo que Clinton ha puesto las bases para explorar la posibilidad de una colaboración con China con vistas a afrontar la amenaza del cambio climático .  
+La receptividad de los chinos al respecto reflejará el grado en que ambos países harán avanzar el debate desde la teoría hasta la práctica , además de estabilizar sus relaciones .  
+Hasta ahora , los chinos han adoptado la actitud de esperar a ver a quién nombraba Obama para ocuparse de las relaciones con China y qué dirían los nuevos emisarios .  
+Esa cautela es comprensible , pero lo que parecía faltar en China era un reconocimiento pleno de que la situación en los Ee.uu. sigue aún poco definida y de que , con un nuevo presidente , casi todo puede estar sometido a cambios sin precedentes .  
+Con una actitud más activa , los chinos habrían podido influir en las políticas procedentes en última instancia de la parte americana .  
+Es que , en relación con China , Clinton y Obama son yizhang baizhi , " una hoja de papel en blanco " .  
+Con la visita de Clinton a Beijing , ha llegado el momento de empezar a esbozar un futuro común entre los Ee.uu. y China de modo deliberado y reflexivo .  
+En su discurso , Clinton recordó el antiguo aforismo chino Tongzhou gongji : " Quienes se encuentren en el mismo barco deben procurar que la travesía sea apacible " .  
+Se refiere a un antiguo episodio en el que soldados de los Estados de wu y Yue , que estaban en guerra , se encontraron con el mismo barco para cruzar un río en plena tormenta y acordaron deponer las armas a fin de hacer la travesía en común .  
+Constituye una metáfora apropiada para la situación en la que se encuentran ahora los Ee.uu. y China : en un planeta que corre el riesgo de un calentamiento peligroso provocado por nuestro progreso desbocado .  
+Es inevitable y apropiado que Clinton saque a relucir el Tíbet , los derechos humanos y otras cuestiones polémicas , pero todo indica que le gustaría hacerlo en el marco de una relación Ee.uu. - China renovada , cuyo núcleo sea la colaboración .  
+De modo que los dirigentes chinos se equivocarían gravemente si consideraran la del cambio climático una cuestión secundaria y mucho más si la vieran como un problema impuesto a los países en desarrollo , como China , para impedir su progreso económico .  
+China debe aceptar el llamamiento de Clinton en pro de la colaboración en materia de cambio climático , que podría llegar a ser un cambio de paradigma en las relaciones entre los Ee.uu. y China , de forma muy parecida a como lo fue el frente unido contra la Unión soviética en 1972 , cuando Richard nixon y Henry kissinger fueron a China para iniciar la normalización de las relaciones .  
+Al encarar ese punto de inflexión , los dirigentes de China deben comprender lo maleable que es actualmente la política exterior de los Ee.uu. auque están acostumbrados a ver a este país como una " gran potencia " dominante y con frecuencia censuradora , la realidad actual es la de que los Ee.uu. están iniciando no sólo un nuevo período de gobierno , sino también todo un capítulo de su historia .  
+Y , como observó con una frase célebre Deng xiaoping respecto de las reformas de China en el decenio de 1980 , " estamos cruzando el río sobre las piedras y con mucho tiento " .  
+No es que el gobierno de Bush dejara las relaciones entre China y los Ee .  
+La apertura de Clinton a nuevos planteamientos y su temprano viaje a Beijing brindan una oportunidad incomparable a los dirigentes chinos para contribuir a la lucha contra el cambio climático , que tal vez sea la más grave amenaza que afronta el mundo en nuestro tiempo , una odisea común .  

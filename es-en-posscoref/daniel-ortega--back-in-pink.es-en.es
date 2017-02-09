@@ -1,0 +1,1 @@
+Ortega retorna en rosado  

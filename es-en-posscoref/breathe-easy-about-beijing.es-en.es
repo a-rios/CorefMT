@@ -1,0 +1,25 @@
+A respirar con tranquilidad sobre Beijing  
+Imágenes del panorama urbano de la ciudad de Beijing aparentemente inmersa en un caldo de humo y niebla han conformado un espectáculo común en las pantallas de televisión del mundo en los últimos días y semanas .  
+Periodistas extranjeros con detectores portátiles de contaminación ambiental han venido apareciendo en las esquinas verificando los niveles de hollín y polvo .  
+Todos parecen ansiosos por demostrar que el aire de la ciudad será un factor decisivo y debilitante para uno de los eventos deportivos de más alto perfil del mundo .  
+Sin duda , Beijing enfrenta un desafío gigantesco .  
+Existen preocupaciones reales y comprensibles por la salud de los competidores , especialmente aquellos que-hum participan en pruebas de resistencia y largas distancias como el ciclismo y la maratón .  
+Pero el foco frenético actual se caracteriza por una considerable amnesia .  
+Después de todo , la contaminación ambiental fue una preocupación importante en Los angeles hace 24 años , aunque pocos ahora parecen recordar la dramática escena al final de la maratón de mujeres , cuando se la vio a la competidora suiza tambaleándose y tropezándose como consecuencia del agotamiento , el calor y , tal vez , los efectos de la contaminación ambiental .  
+Y la calidad del aire también fue un problema en los subsiguientes Juegos olímpicos de barcelona , Atlanta , Seúl y Atenas .  
+De modo que el debate sobre los Juegos de beijing merece más justicia de la que recibe .  
+De hecho , el Comité organizador de beijing , la ciudad en general , el gobierno y las seis provincias involucradas han obtenido logros reales y , es de esperarse , perdurables .  
+Esto es muy destacable si se lo vincula con el crecimiento económico de dos dígitos de la ciudad y el hecho de que los Juegos se están organizando en un país en desarrollo , con todos los desafíos sociales , económicos , sanitarios y ambientales que esto conlleva .  
+Por ejemplo , en los últimos siete años se cerraron unas 200 fábricas contaminantes , se las obligó a adoptar nuevos tipos de producción más limpia o se las desplazó fuera de la ciudad .  
+dummy-nonhum Es más , gracias a una inversión de 17.000 millones de dólares , hoy se trata más del 90 % de las aguas servidas de la ciudad , más del 50 % de la ciudad está arbolado y el gas natural representa más del 60 % de la generación de energía , comparado con aproximadamente el 45 % en 2000 .  
+Mientras tanto , este año dummy-they comenzaron a funcionar ocho nuevas líneas férreas , que cubren 200 kilómetros con una capacidad diaria cercana a los cuatro millones de personas , además de ponerse en marcha 60 kilómetros de líneas de autobús .  
+Los nuevos niveles de emisiones vehiculares cumplen con las más rigurosas normas europeas equivalentes , y son superiores que en Estados unidos .  
+Por otra parte , 50.000 taxis viejos y 10.000 autobuses han sido reemplazados , y 4.000 de los nuevos autobuses funcionan a gas natural - actualmente , la flota más grande de su-nonhum-sg tipo en el mundo - .  
+En los últimos días , las autoridades también les han exigido a las empresas que escalonaran la jornada laboral antes , durante y después de los Juegos para reducir los volúmenes de tránsito , además de un puñado de otras medidas destinadas a reducir el tránsito .  
+Asimismo , hay que considerar la atención brindada a los detalles ecológicos en las sedes olímpicas mismas , que incluyen la Villa olímpica de 400.000 metros cuadrados , donde se utiliza agua recuperada de la planta de tratamiento residual de Qinghe para los sistemas de calefacción y refrigeración , lo que resulta en un ahorro aproximado del 60 % en el consumo de energía .  
+Sólo el tiempo dirá si todas estas medidas reducirán la contaminación ambiental a niveles aceptables .  
+El Programa de naciones unidas para el Medio ambiente seguramente dummy-nonhum hará foco en esto en su-nonhum-sg informe post-juegos , que se basará en el informe inicial emitido en 2007 .  
+Pero dummy-it es evidente que Beijing está luchando por formar parte del Equipo verde , al abrazar normas ambientales que hoy son centrales para el movimiento olímpico , y que cada vez más son parte de otros grandes eventos deportivos , como los Objetivos verdes para las Copas mundiales de la fifa de 2006 y 2010 .  
+La mayor conciencia pública , la capacidad de exhibir nuevas maneras - y más sostenibles - de planificar el ambiente urbano y el legado de sistemas de energía y de transporte y otro tipo de infraestructura más amigables con el medio ambiente tampoco deberían subestimarse .  
+La humanidad actualmente está involucrada en una competencia urgente y de amplio alcance que contrapone la necesidad de insertar una " economía verde " del siglo xxi con la rápida implosión de nuestro clima y los sistemas de sustento de la vida natural .  
+Las posibilidades catalíticas e inspiradoras de acontecimientos como las Olimpíadas tienen , por lo tanto , un papel más amplio para desempeñar - un papel que podría servir para impedir que dummy-we nos tambaleemos y sucumbamos bajo el peso de nuestra degradación ambiental .  

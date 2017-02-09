@@ -1,0 +1,23 @@
+Por qué recortar las emisiones de carbono dummy-nonhum no es suficiente  
+Hace 20 años , los gobiernos adoptaron el Protocolo de montreal , un tratado para proteger la capa de ozono de la Tierra de las emisiones de sustancias químicas destructivas .  
+Pocos podrían haber previsto lo trascendental que resultaría esa decisión .  
+El Protocolo apuntaba de manera explícita a eliminar progresivamente sustancias como los clorofluorocarburos ( Cfc ) - que se encuentran en productos tales como heladeras , espumas y aerosoles para el cabello - de manera de reparar la delgada capa gaseosa que filtra los rayos ultravioleta nocivos del sol .  
+Para 2010 , cerca de 100 sustancias que destruyen el ozono , inclusive los Cfc , habrán sido eliminadas a nivel global .  
+Sin las decisiones que se tomaron hace 20 años , los niveles atmosféricos de las sustancias que destruyen el ozono habrían aumentado diez veces para 2050 .  
+Esto podría haber derivado en hasta 20 millones de casos adicionales de cáncer de piel y 130 millones más de casos de cataratas de ojos , para no hablar del daño a los sistemas inmunológicos humanos , la vida silvestre y la agricultura .  
+Pero ésta es sólo una parte de la historia que celebramos en el Día internacional de la preservación de la capa de ozono ( 16 de septiembre ) .  
+En los últimos dos años , se ha determinado que el Protocolo de montreal también salvó a la humanidad de un nivel importante de cambio climático , porque los gases que prohíbe también contribuyen al calentamiento global .  
+De hecho , un estudio realizado en 2007 calculaba que los beneficios para el clima que surgen del tratado sobre el ozono representan el equivalente a 135.000 millones de toneladas de C02 desde 1990 , o un retraso del calentamiento global de 7-12 años .  
+De modo que las lecciones aprendidas del Protocolo de montreal pueden tener una importancia mayor .  
+Los científicos hoy calculan que cerca del 50 % del cambio climático dummy-nonhum es causado por gases y sustancias contaminantes que no son C02 , entre los que se encuentran compuestos de nitrógeno , ozono de bajo nivel causado por la contaminación y carbono negro .  
+Por supuesto , sigue existiendo un grado de incertidumbre científica respecto de cuánto contribuyen precisamente algunas de estas sustancias contaminantes al calentamiento .  
+Pero definitivamente dummy-they juegan un papel importante .  
+Mientras tanto , es necesario eliminar muchos de estos gases por su-pl impacto ambiental más amplio en la salud pública , la agricultura y los ecosistemas valuados en billones de dólares del planeta , entre ellos los bosques .  
+dummy-we Consideremos el carbono negro , un componente de las emisiones de hollín de los motores diesel y el quemado ineficiente de las cocinas de biomasa que está asociado a entre 1,6 y 1,8 millones de muertes prematuras anualmente como consecuencia de la exposición a puertas cerradas y 800.000 como resultado de la exposición en la intemperie .  
+El carbono negro , que absorbe el calor del sol , también representa entre el 10 % y el 45 % del aporte al calentamiento global y , asimismo , está asociado con pérdidas aceleradas de glaciares en Asia , porque los depósitos de hollín oscurecen el hielo tornándolo más vulnerable al derretimiento .  
+Un estudio estima que el 26 % de las emisiones de carbono negro provienen de estufas y cocinas - más del 40 % de esta cantidad del quemado de madera , aproximadamente el 20 % del carbón , el 19 % de los residuos de cultivos y el 10 % del estiércol .  
+Algunas empresas han desarrollado estufas y cocinas que utilizan flujos de aire pasivo , mejor aislación y el 60 % menos de madera a fin de reducir las emisiones de carbono negro en aproximadamente el 70 % .  
+La introducción masiva de estos artefactos podría ofrecer múltiples beneficios para una economía verde .  
+Si bien el C02 puede seguir estando en la atmósfera durante siglos , otras sustancias contaminantes , entre ellas el carbono negro y el ozono , permanecen durante períodos relativamente cortos - días , semanas , meses o años - de manera que reducir o poner fin a las emisiones dummy-nonhum promete beneficios casi inmediatos para el clima .  
+La preocupación primordial de la comunidad internacional debe ser sellar un acuerdo serio y trascendente en la cumbre del clima de las Naciones unidas que se llevará a cabo en diciembre en Copenhague para reducir las emisiones de C02 y ayudar a los países vulnerables a adaptarse .  
+Si el mundo también ha de desplegar todos los medios disponibles para combatir el cambio climático , deben evaluarse científicamente y abordarse con urgencia las emisiones de todas las sustancias que inciden en el medio ambiente .  
