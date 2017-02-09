@@ -10,10 +10,10 @@ see: http://opus.lingfil.uu.se/download.php?f=News-Commentary11/News-Commentary1
 
 Contents:
 
--es-en: pure text, sentence aligend
--es-en-trees: English text, Spanish dependency trees in Moses XML (binarized)
--es-en-posscoref: pure text, Spanish with dummies for null subjects and annotated possessive pronoun 'su/sus' and annotated relative pronoun 'que'
--es-en-posscoref-trees: English text, Spanish dependency trees in Moses XML, with dummies for null subjects and annotated possessive pronoun 'su/sus' and annotated relative pronoun 'que'
+ -es-en: pure text, sentence aligend
+ -es-en-trees: English text, Spanish dependency trees in Moses XML (binarized)
+ -es-en-posscoref: pure text, Spanish with dummies for null subjects and annotated possessive pronoun 'su/sus' and annotated relative pronoun 'que'
+ -es-en-posscoref-trees: English text, Spanish dependency trees in Moses XML, with dummies for null subjects and annotated possessive pronoun 'su/sus' and annotated relative pronoun 'que'
 
 nc11.es.coref.conll.tar.bz2
   - annotated Spanish corpus, conll with entities
