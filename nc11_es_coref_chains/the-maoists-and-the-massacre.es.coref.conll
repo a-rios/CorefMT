@@ -1,0 +1,9 @@
+#begin document dummy
+1	Los	el	d	DA	gen=m|num=p|postype=article|eagles=DA0MP0	2	spec	_	_
+2	maoístas	maoísta	a	AQ	gen=c|num=p|postype=qualificative|eagles=AQ0CP0	0	sentence	_	_
+3	y	y	c	CC	postype=coordinating|eagles=CC	2	conj	_	_
+4	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	5	spec	_	_
+5	masacre	masacre	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	2	sn	_	_
+
+#end document dummy
+

@@ -1,0 +1,8 @@
+#begin document dummy
+1	El	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	2	spec	_	_
+2	Euro	euro	n	NP	postype=proper|ne=other|eagles=NP00V00	0	sentence	_	_
+3	se	se	p	PP	gen=c|num=c|postype=personal|person=3|eagles=PP3CN000	4	pass	_	_
+4	Acerca	acerca	n	NP	postype=proper|ne=other|eagles=NP00V00	2	sn	_	_
+
+#end document dummy
+

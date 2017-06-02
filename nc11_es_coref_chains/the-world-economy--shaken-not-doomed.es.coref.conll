@@ -1,0 +1,11 @@
+#begin document dummy
+1	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	2	spec	_	_
+2	Economía_mundial	economía_mundial	n	NP	postype=proper|ne=other|eagles=NP00V00	0	sentence	_	_
+3	:	:	F	Fd	punct=colon|eagles=Fd	4	f	_	_
+4	Agitada	agitado	a	AQ	gen=f|num=s|postype=qualificative|eagles=AQ0FSP	2	S	_	_
+5	,	,	F	Fc	punct=comma|eagles=Fc	4	f	_	_
+6	no	no	r	RN	postype=negative|eagles=RN	7	neg	_	_
+7	Desahuciada	desahuciada	n	NP	postype=proper|ne=other|eagles=NP00V00	2	sn	_	_
+
+#end document dummy
+

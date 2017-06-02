@@ -1,0 +1,14 @@
+#begin document dummy
+1	El	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	2	spec	_	_
+2	Acuerdo	acuerdo	n	NP	postype=proper|ne=other|eagles=NP00V00	0	sentence	_	_
+3	sobre	sobre	s	SP	postype=preposition|eagles=SPS00	2	sp	_	_
+4	Cambio_climático	cambio_climático	n	NP	postype=proper|ne=location|eagles=NP00G00	3	sn	_	_
+5	:	:	F	Fd	punct=colon|eagles=Fd	6	f	_	_
+6	Tendiendo	tender	v	VM	postype=main|mood=gerund|eagles=VMG0000	2	S	_	_
+7	puentes	puente	n	NC	gen=m|num=p|postype=common|eagles=NCMP000	6	cd	_	_
+8	con	con	s	SP	postype=preposition|eagles=SPS00	6	cc	_	_
+9	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	10	spec	_	_
+10	ciencia	ciencia	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	8	sn	_	_
+
+#end document dummy
+

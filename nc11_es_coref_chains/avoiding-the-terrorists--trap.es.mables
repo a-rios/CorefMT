@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 2, 3, 'NP', 3, 'FEM', 'SG', 'cd', '*', 1, 'evitar', 'other', '*', 'trampa_de_los_terroristas']]
+coref= {}
+determiners= {1: 'el'}
+pposat_heads= {}
+####

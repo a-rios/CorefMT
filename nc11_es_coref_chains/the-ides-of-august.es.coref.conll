@@ -1,0 +1,8 @@
+#begin document dummy
+1	Los	el	d	DA	gen=m|num=p|postype=article|eagles=DA0MP0	2	spec	_	_
+2	idus	idus	n	NC	gen=m|num=c|postype=common|eagles=NCMN000	0	sentence	_	_
+3	de	de	s	SP	postype=preposition|eagles=SPS00	2	sp	_	_
+4	agosto	agosto	w	W	_	3	sn	_	_
+
+#end document dummy
+

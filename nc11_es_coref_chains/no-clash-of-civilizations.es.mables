@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 2, 'NP', 3, '*', 'SG', 'sentence', '*', '*', '*', 'other', '*', 'choque_de_civilizaciones']]
+coref= {}
+determiners= {1: 'ninguno'}
+pposat_heads= {}
+####

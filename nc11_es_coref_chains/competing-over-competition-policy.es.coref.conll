@@ -1,0 +1,11 @@
+#begin document dummy
+1	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	2	spec	_	(0
+2	competencia	competencia	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	0	sentence	_	_
+3	sobre	sobre	s	SP	postype=preposition|eagles=SPS00	2	cn	_	_
+4	las	el	d	DA	gen=f|num=p|postype=article|eagles=DA0FP0	5	spec	_	_
+5	políticas	política##político	n	NC	gen=f|num=p|postype=common|eagles=NCFP000	3	sn	_	_
+6	de	de	s	SP	postype=preposition|eagles=SPS00	5	sp	_	_
+7	competencia	competencia	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	6	sn	_	(0)|0)
+
+#end document dummy
+

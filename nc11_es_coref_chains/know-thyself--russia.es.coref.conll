@@ -1,0 +1,10 @@
+#begin document dummy
+1	Rusia	rusia	n	NP	postype=proper|ne=organization|eagles=NP00O00	0	sentence	_	(0
+2	,	,	F	Fc	punct=comma|eagles=Fc	3	f	_	_
+3	conócete	conócete	v	VM	num=s|postype=main|person=3|mood=indicative|tense=present|eagles=VMIP3S0	1	S	_	(0)
+4	a	a	s	SP	postype=preposition|eagles=SPS00	3	cd	_	_
+5	tí	tí	n	NP	postype=proper|ne=person|eagles=NP00SP0	4	sn	_	_
+6	misma	mismo	a	AQ	gen=f|num=s|postype=qualificative|eagles=AQ0FS0	5	s.a	_	0)
+
+#end document dummy
+

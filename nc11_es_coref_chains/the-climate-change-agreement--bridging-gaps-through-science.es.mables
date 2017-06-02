@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 10, 'NP', 3, 'MASC', 'SG', 'sentence', '*', 0, 'tender', 'other', '*', 'acuerdo'], [2, 1, 4, 4, 'NP', 3, '*', 'SG', 'sp', '*', '*', '*', 'location', '*', 'cambio_clim\xc3\xa1tico'], [3, 1, 7, 7, 'NC', 3, 'MASC', 'PL', 'cd', '*', 6, 'tender', '-', '*', 'puente'], [4, 1, 9, 10, 'NC', 3, 'FEM', 'SG', 'cc', '*', 8, 'tender', '-', '*', 'ciencia']]
+coref= {}
+determiners= {1: 'el', 2: '*', 3: '*', 4: 'el'}
+pposat_heads= {}
+####

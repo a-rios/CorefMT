@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 8, 'NC', 3, 'MASC', 'SG', 'sentence', '*', 0, 'salvar', '-', '*', 'puente'], [2, 1, 5, 8, 'NC', 3, 'FEM', 'SG', 'cd', '*', 4, 'salvar', '-', '*', 'brecha']]
+coref= {}
+determiners= {1: 'uno', 2: 'el'}
+pposat_heads= {}
+####

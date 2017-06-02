@@ -1,0 +1,11 @@
+#begin document dummy
+1	Llegar	llegar	v	VM	postype=main|mood=infinitive|eagles=VMN0000	0	sentence	_	_
+2	Tarde	tarde	n	NP	postype=proper|ne=person|eagles=NP00SP0	1	suj	_	(0)
+3	le	le	p	PP	gen=c|num=s|postype=personal|person=3|eagles=PP3CSD00	4	ci	_	(0)
+4	da	dar	v	VM	num=s|postype=main|person=3|mood=indicative|tense=present|eagles=VMIP3S0	1	cc	_	_
+5	Ventajas	ventajas	n	NP	postype=proper|ne=location|eagles=NP00G00	4	suj	_	_
+6	a	a	s	SP	postype=preposition|eagles=SPS00	4	ci	_	_
+7	Serbia	serbia	n	NP	postype=proper|ne=organization|eagles=NP00O00	6	sn	_	_
+
+#end document dummy
+

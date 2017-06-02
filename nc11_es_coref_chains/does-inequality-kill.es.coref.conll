@@ -1,0 +1,9 @@
+#begin document dummy
+1	¿	¿	F	Fia	punct=questionmark|eagles=Fia	4	f	_	_
+2	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	3	spec	_	_
+3	desigualdad	desigualdad	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	4	suj	_	_
+4	mata	matar	v	VM	num=s|postype=main|person=3|mood=indicative|tense=present|eagles=VMIP3S0	0	sentence	_	_
+5	?	?	F	Fit	punct=questionmark|eagles=Fit	4	f	_	_
+
+#end document dummy
+

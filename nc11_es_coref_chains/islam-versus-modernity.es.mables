@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 2, 6, 'NP', 3, 'MASC', 'SG', 'cd', '*', '*', '*', 'other', '*', 'islam'], [2, 1, 5, 6, 'NC', 3, 'FEM', 'SG', 'sp', '*', '*', '*', '-', '*', 'modernidad']]
+coref= {}
+determiners= {1: 'el', 2: 'el'}
+pposat_heads= {}
+####

@@ -1,0 +1,399 @@
+#dummy
+pronoun:	[8, 2, 16, 16, 'PR', 3, '*', '*', 'suj', '*', 17, 'sacudir', '-', '*', 'que']
+ante_candidates:
+12.1975226777	[7, 2, 14, 19, 'NC', 3, 'MASC', 'SG', 'cc', '*', 13, 'responder', '-', '*', 'terremoto']
+1.47161930796	[6, 2, 8, 9, 'NC', 3, 'FEM', 'SG', 'suj', '*', 11, 'responder', '-', '*', 'gente']
+0.241992550181	[5, 2, 4, 6, 'NC', 3, 'MASC', 'SG', 'cc', '*', 3, 'responder', '-', '*', 'mundo']
+0.0167429144162	[4, 2, 1, 1, 'NP', 3, '*', 'SG', 'suj', '*', 11, 'responder', 'location', '*', 'melbourne']
+
+pronoun:	[12, 3, 11, 11, 'PE', 3, '*', 'PL', 'suj', '*', 11, 'hab\xc3\xadan', '-', '*', '\xc3\xa9l']
+ante_candidates:
+0.822783410208	[11, 3, 10, 10, 'NC', 3, 'MASC', 'PL', 'sp', '*', 9, 'donar', '-', '*', 'norteamericano']
+0.373858613265	[10, 3, 3, 10, 'NC', 3, 'MASC', 'PL', 'cc', '*', 1, 'donar', '-', '*', 'd\xc3\xada']
+0.00119931617346	[2, 1, 3, 7, 'NC', 3, 'MASC', 'PL', 'sentence', '*', '*', '*', '-', '*', 'l\xc3\xadmite']
+
+pronoun:	[16, 3, 22, 22, 'PX', 3, '*', 'PL', 'spec', '*', 23, 'donar', '-', '*', 'su']
+ante_candidates:
+24365.6018794	[12, 3, 11, 11, 'PE', 3, 'MASC', 'PL', 'suj', '*', 11, 'hab\xc3\xadan', '-', '*', '\xc3\xa9l']
+78.2374585122	[15, 3, 20, 20, 'NC', 3, 'MASC', 'SG', 'cn', '*', 19, 'donar', '-', '*', 'texto']
+33.9367002279	[14, 3, 18, 20, 'NC', 3, 'MASC', 'PL', 'cn', '*', 17, 'donar', '-', '*', 'mensaje']
+1.82367558295	[13, 3, 15, 23, 'NC', 3, 'FEM', 'SG', 'sp', '*', 14, 'donar', '-', '*', 'ayuda']
+0.218189797252	[8, 2, 16, 16, 'PR', 3, 'MASC', 'SG', 'suj', '*', 17, 'sacudir', '-', '*', 'que']
+0.0183529873533	[4, 2, 1, 1, 'NP', 3, '*', 'SG', 'suj', '*', 11, 'responder', 'location', '*', 'melbourne']
+0.00673517959445	[6, 2, 8, 9, 'NC', 3, 'FEM', 'SG', 'suj', '*', 11, 'responder', '-', '*', 'gente']
+0.00429648286879	[10, 3, 3, 10, 'NC', 3, 'MASC', 'PL', 'cc', '*', 1, 'donar', '-', '*', 'd\xc3\xada']
+0.000721603427209	[9, 2, 19, 19, 'NP', 3, '*', 'SG', 'cc', '*', 18, 'sacudir', 'location', '*', 'hait\xc3\xad']
+1.38734259863e-06	[2, 1, 3, 7, 'NC', 3, 'MASC', 'PL', 'sentence', '*', '*', '*', '-', '*', 'l\xc3\xadmite']
+5.82294590824e-07	[3, 1, 6, 7, 'NC', 3, 'FEM', 'SG', 'sp', '*', '*', '*', '-', '*', 'generosidad']
+4.91457586086e-07	[5, 2, 4, 6, 'NC', 3, 'MASC', 'SG', 'cc', '*', 3, 'responder', '-', '*', 'mundo']
+
+pronoun:	[22, 4, 15, 15, 'PE', 3, '*', 'SG', 'suj', '*', 15, 'don\xc3\xb3', '-', '*', '\xc3\xa9l']
+ante_candidates:
+4.14879456511	[17, 4, 1, 18, 'NC', 3, 'FEM', 'SG', 'sentence', '*', '*', '*', '-', '*', 'gente']
+1.23048390204	[19, 4, 7, 13, 'NP', 3, '*', 'SG', 'sp', 'ANIM', '*', '*', 'person', '*', 'Pacheco']
+0.0703942501463	[21, 4, 13, 13, 'NP', 3, '*', 'SG', 'sp', '*', '*', '*', 'organization', '*', 'chicago']
+0.00540285874729	[8, 2, 16, 16, 'PR', 3, 'MASC', 'SG', 'suj', '*', 17, 'sacudir', '-', '*', 'que']
+0.00485368149154	[15, 3, 20, 20, 'NC', 3, 'MASC', 'SG', 'cn', '*', 19, 'donar', '-', '*', 'texto']
+0.0015857129426	[20, 4, 9, 13, 'NC', 3, 'FEM', 'SG', 'sn', '*', '*', '*', '-', '*', 'madre_soltera']
+0.000386470527752	[13, 3, 15, 23, 'NC', 3, 'FEM', 'SG', 'sp', '*', 14, 'donar', '-', '*', 'ayuda']
+4.90242913038e-05	[4, 2, 1, 1, 'NP', 3, '*', 'SG', 'suj', '*', 11, 'responder', 'location', '*', 'melbourne']
+6.00190330643e-06	[5, 2, 4, 6, 'NC', 3, 'MASC', 'SG', 'cc', '*', 3, 'responder', '-', '*', 'mundo']
+1.65430624955e-06	[9, 2, 19, 19, 'NP', 3, '*', 'SG', 'cc', '*', 18, 'sacudir', 'location', '*', 'hait\xc3\xad']
+
+pronoun:	[38, 6, 19, 19, 'PE', 3, '*', 'SG', 'suj', '*', 19, 'podr\xc3\xada', '-', '*', '\xc3\xa9l']
+ante_candidates:
+18.8669412447	[32, 6, 6, 7, 'NC', 3, 'FEM', 'SG', 'suj', '*', 11, 'donar', '-', '*', 'cantidad']
+1.20280216961	[36, 6, 16, 16, 'NC', 3, 'MASC', 'SG', 'cn', '*', 15, 'donar', '-', '*', 'rescate']
+0.687000421025	[37, 6, 18, 18, 'NP', 3, '*', 'SG', 'cn', '*', 17, 'donar', 'location', '*', 'hait\xc3\xad']
+0.0497254720911	[22, 4, 15, 15, 'PE', 3, 'FEM', 'SG', 'suj', '*', 15, 'don\xc3\xb3', '-', '*', '\xc3\xa9l']
+0.00669656347331	[30, 5, 18, 18, 'NC', 3, 'MASC', 'SG', 'cd', '*', 17, 'recaudar', '-', '*', 'dinero']
+0.00601593604801	[25, 5, 4, 4, 'PR', 3, '*', '*', 'suj', '*', 17, 'recaudar', '-', '*', 'que']
+0.00176397469641	[27, 5, 10, 10, 'NC', 3, 'FEM', 'SG', 'cn', '*', 9, 'recaudar', '-', '*', 'podolog\xc3\xada']
+4.42397003509e-05	[19, 4, 7, 13, 'NP', 3, '*', 'SG', 'sp', 'ANIM', '*', '*', 'person', '*', 'Pacheco']
+4.11694840241e-06	[21, 4, 13, 13, 'NP', 3, '*', 'SG', 'sp', '*', '*', '*', 'organization', '*', 'chicago']
+4.22307022331e-07	[24, 4, 18, 18, 'NC', 3, 'FEM', 'SG', 'grup.nom', '*', 16, 'donar', '-', '*', 'ropa']
+4.31526728449e-08	[20, 4, 9, 13, 'NC', 3, 'FEM', 'SG', 'sn', '*', '*', '*', '-', '*', 'madre_soltera']
+
+pronoun:	[39, 6, 23, 23, 'PR', 3, '*', '*', 'cd', '*', 24, 'ofrecer', '-', '*', 'que']
+ante_candidates:
+0.208084222476	[38, 6, 19, 19, 'PE', 3, 'FEM', 'SG', 'suj', '*', 19, 'podr\xc3\xada', '-', '*', '\xc3\xa9l']
+0.181982297098	[36, 6, 16, 16, 'NC', 3, 'MASC', 'SG', 'cn', '*', 15, 'donar', '-', '*', 'rescate']
+0.118756204744	[35, 6, 13, 18, 'NC', 3, 'MASC', 'PL', 'cc', '*', 12, 'donar', '-', '*', 'esfuerzo']
+0.0546223028096	[37, 6, 18, 18, 'NP', 3, '*', 'SG', 'cn', '*', 17, 'donar', 'location', '*', 'hait\xc3\xad']
+0.0131117777455	[34, 6, 9, 10, 'NC', 3, 'MASC', 'PL', 'suj', '*', 11, 'donar', '-', '*', 'norteamericano']
+0.00537483840359	[33, 6, 8, 8, 'PR', 3, 'FEM', 'PL', 'cd', '*', 11, 'donar', '-', '*', 'que']
+
+pronoun:	[40, 6, 24, 24, 'PE', 3, '*', 'PL', 'suj', '*', 24, 'ofrecieron', '-', '*', '\xc3\xa9l']
+ante_candidates:
+1809.72317521	[34, 6, 9, 10, 'NC', 3, 'MASC', 'PL', 'suj', '*', 11, 'donar', '-', '*', 'norteamericano']
+3.56905722003	[33, 6, 8, 8, 'PR', 3, 'FEM', 'PL', 'cd', '*', 11, 'donar', '-', '*', 'que']
+0.384571150785	[35, 6, 13, 18, 'NC', 3, 'MASC', 'PL', 'cc', '*', 12, 'donar', '-', '*', 'esfuerzo']
+0.346173201018	[26, 5, 8, 10, 'NC', 3, 'MASC', 'PL', 'conj', '*', 7, 'recaudar', '-', '*', 'servicio']
+0.0180685988341	[29, 5, 14, 14, 'NC', 3, 'MASC', 'PL', 'cn', '*', 13, 'recaudar', '-', '*', 'auto']
+0.00431562656939	[28, 5, 12, 14, 'NC', 3, 'MASC', 'PL', 'sp', '*', 11, 'recaudar', '-', '*', 'lavado']
+0.00417583106797	[25, 5, 4, 4, 'PR', 3, '*', '*', 'suj', '*', 17, 'recaudar', '-', '*', 'que']
+0.000111549646829	[23, 4, 16, 18, 'NC', 3, 'MASC', 'PL', 'cd', '*', 15, 'donar', '-', '*', 'alimento']
+1.96612981027e-05	[18, 4, 3, 4, 'NC', 3, 'MASC', 'PL', 'sp', '*', '*', '*', '-', '*', 'recurso']
+
+pronoun:	[44, 6, 36, 36, 'PR', 3, '*', '*', 'suj', '*', 40, 'marcar', '-', '*', 'que']
+ante_candidates:
+2.68127619373	[43, 6, 34, 34, 'NC', 3, '*', 'SG', 'sp', '*', 33, 'asistir', '-', '*', '2004']
+0.327178358112	[41, 6, 28, 34, 'NC', 3, 'FEM', 'PL', 'cc', '*', 27, 'asistir', '-', '*', 'v\xc3\xadctima']
+0.157863724545	[42, 6, 31, 34, 'NC', 3, '*', '*', 'sp', '*', 30, 'asistir', '-', '*', 'tsunami']
+0.00910600580773	[39, 6, 23, 23, 'PR', 3, 'FEM', 'SG', 'cd', '*', 24, 'ofrecer', '-', '*', 'que']
+0.00258254862901	[40, 6, 24, 24, 'PE', 3, 'MASC', 'PL', 'suj', '*', 24, 'ofrecieron', '-', '*', '\xc3\xa9l']
+0.000654577702227	[36, 6, 16, 16, 'NC', 3, 'MASC', 'SG', 'cn', '*', 15, 'donar', '-', '*', 'rescate']
+0.000497776799717	[35, 6, 13, 18, 'NC', 3, 'MASC', 'PL', 'cc', '*', 12, 'donar', '-', '*', 'esfuerzo']
+0.00047305655126	[37, 6, 18, 18, 'NP', 3, '*', 'SG', 'cn', '*', 17, 'donar', 'location', '*', 'hait\xc3\xad']
+6.73380388824e-06	[33, 6, 8, 8, 'PR', 3, 'FEM', 'PL', 'cd', '*', 11, 'donar', '-', '*', 'que']
+
+pronoun:	[53, 7, 14, 14, 'PE', 3, '*', 'SG', 'suj', '*', 14, 'ha', '-', '*', '\xc3\xa9l']
+ante_candidates:
+163.94609508	[49, 7, 2, 2, 'NP', 3, '*', 'SG', 'suj', '*', 4, 'atravesar', 'organization', '*', 'estados_unidos']
+36.0457566986	[51, 7, 9, 13, 'NC', 3, 'FEM', 'SG', 'suj', '*', 4, 'atravesar', '-', '*', 'magnitud']
+0.700168342311	[44, 6, 36, 36, 'PR', 3, '*', 'SG', 'suj', '*', 40, 'marcar', '-', '*', 'que']
+0.100428958735	[52, 7, 12, 13, 'NC', 3, 'FEM', 'SG', 'sp', '*', 11, 'atravesar', '-', '*', 'respuesta']
+0.00601965621881	[39, 6, 23, 23, 'PR', 3, 'FEM', 'SG', 'cd', '*', 24, 'ofrecer', '-', '*', 'que']
+0.00535607231015	[45, 6, 41, 42, 'NC', 3, 'MASC', 'SG', 'cd', '*', 40, 'marcar', '-', '*', 'r\xc3\xa9cord']
+0.00159478324158	[37, 6, 18, 18, 'NP', 3, '*', 'SG', 'cn', '*', 17, 'donar', 'location', '*', 'hait\xc3\xad']
+0.00097615205714	[36, 6, 16, 16, 'NC', 3, 'MASC', 'SG', 'cn', '*', 15, 'donar', '-', '*', 'rescate']
+0.000963089290771	[47, 6, 46, 49, 'NC', 3, 'MASC', 'SG', 'cc', '*', 45, 'marcar', '-', '*', 'desastre']
+2.34069646223e-05	[42, 6, 31, 34, 'NC', 3, '*', '*', 'sp', '*', 30, 'asistir', '-', '*', 'tsunami']
+1.36793040688e-05	[30, 5, 18, 18, 'NC', 3, 'MASC', 'SG', 'cd', '*', 17, 'recaudar', '-', '*', 'dinero']
+3.72567364285e-06	[25, 5, 4, 4, 'PR', 3, '*', '*', 'suj', '*', 17, 'recaudar', '-', '*', 'que']
+2.26266370871e-07	[27, 5, 10, 10, 'NC', 3, 'FEM', 'SG', 'cn', '*', 9, 'recaudar', '-', '*', 'podolog\xc3\xada']
+
+pronoun:	[57, 8, 12, 12, 'PE', 3, '*', 'PL', 'suj', '*', 12, 'viven', '-', '*', '\xc3\xa9l']
+ante_candidates:
+0.916274489336	[40, 6, 24, 24, 'PE', 3, 'MASC', 'PL', 'suj', '*', 24, 'ofrecieron', '-', '*', '\xc3\xa9l']
+0.822783410208	[56, 8, 11, 11, 'NC', 3, 'MASC', 'PL', 'sp', '*', 10, 'vivir', '-', '*', 'haitiano']
+0.0430969027648	[50, 7, 5, 7, 'NC', 3, 'MASC', 'PL', 'cd', '*', 4, 'atravesar', '-', '*', 'tiempo']
+8.98013479648e-05	[33, 6, 8, 8, 'PR', 3, 'FEM', 'PL', 'cd', '*', 11, 'donar', '-', '*', 'que']
+4.70618018976e-05	[46, 6, 44, 44, 'NC', 3, 'FEM', 'PL', 'cc', '*', 43, 'marcar', '-', '*', 'donaci\xc3\xb3n']
+3.23750744069e-05	[35, 6, 13, 18, 'NC', 3, 'MASC', 'PL', 'cc', '*', 12, 'donar', '-', '*', 'esfuerzo']
+2.31043127019e-05	[41, 6, 28, 34, 'NC', 3, 'FEM', 'PL', 'cc', '*', 27, 'asistir', '-', '*', 'v\xc3\xadctima']
+9.31355590506e-07	[42, 6, 31, 34, 'NC', 3, '*', '*', 'sp', '*', 30, 'asistir', '-', '*', 'tsunami']
+
+pronoun:	[65, 10, 18, 18, 'PR', 3, '*', '*', 'suj', '*', 19, 'generar', '-', '*', 'que']
+ante_candidates:
+14.8330526793	[64, 10, 15, 22, 'NC', 3, 'MASC', 'SG', 'suj', '*', 14, 'realizar', '-', '*', 'partido']
+1.68525157291	[63, 10, 12, 13, 'NC', 3, 'FEM', 'PL', 'cc', '*', 4, 'realizar', '-', '*', 'estrella']
+0.27791240305	[62, 10, 5, 10, 'NP', 3, 'MASC', 'SG', 'cc', 'ANIM', 4, 'realizar', 'person', '*', 'serena_williams']
+0.00193786455489	[61, 10, 2, 2, 'NP', 3, '*', 'SG', 'sp', '*', 1, 'realizar', 'location', '*', 'melbourne']
+
+pronoun:	[72, 11, 15, 15, 'PR', 3, '*', '*', 'suj', '*', 16, 'ganar', '-', '*', 'que']
+ante_candidates:
+5.47687887285	[71, 11, 12, 13, 'NC', 3, 'FEM', 'SG', 'sp', '*', '*', '*', '-', '*', 'salud']
+0.559685003976	[70, 11, 10, 13, 'NC', 3, 'FEM', 'SG', 'sp', '*', '*', '*', '-', '*', '\xc3\xa1rea']
+0.165836385804	[69, 11, 7, 13, 'NC', 3, 'MASC', 'PL', 'sp', 'ANIM', '*', '*', 'person', '*', 'trabajador']
+0.0417711441695	[68, 11, 4, 26, 'NC', 3, 'MASC', 'SG', 'sn', '*', '*', '*', '-', '*', 'grupo']
+0.0213912999777	[67, 11, 2, 26, 'NP', 3, '*', 'SG', 'sentence', '*', '*', '*', 'location', '*', 'ruanda']
+
+pronoun:	[74, 11, 23, 23, 'PE', 3, '*', 'PL', 'suj', '*', 23, 'recaudaron', '-', '*', '\xc3\xa9l']
+ante_candidates:
+11.2394870142	[69, 11, 7, 13, 'NC', 3, 'MASC', 'PL', 'sp', 'ANIM', '*', '*', 'person', '*', 'trabajador']
+0.101680424286	[66, 10, 20, 22, 'NC', 3, 'FEM', 'PL', 'cd', '*', 19, 'generar', '-', '*', 'donaci\xc3\xb3n']
+0.00169787304857	[63, 10, 12, 13, 'NC', 3, 'FEM', 'PL', 'cc', '*', 4, 'realizar', '-', '*', 'estrella']
+
+pronoun:	[76, 12, 2, 2, 'PD', 3, 'MASC', 'SG', 'suj', '*', 3, 'plantear', '-', '*', 'este']
+ante_candidates:
+0.101975670949	[73, 11, 21, 21, 'NC', 3, 'MASC', 'SG', 'cc', '*', 20, 'recaudar', '-', '*', 'mes']
+0.0156847293149	[68, 11, 4, 26, 'NC', 3, 'MASC', 'SG', 'sn', '*', '*', '*', '-', '*', 'grupo']
+0.0135787802695	[75, 11, 26, 26, 'NP', 3, '*', 'SG', 'cc', '*', 25, 'recaudar', 'organization', '*', 'hait\xc3\xad']
+0.00288913096941	[67, 11, 2, 26, 'NP', 3, '*', 'SG', 'sentence', '*', '*', '*', 'location', '*', 'ruanda']
+
+pronoun:	[87, 14, 15, 15, 'PR', 3, '*', '*', 'suj', '*', 26, 'morir', '-', '*', 'que']
+ante_candidates:
+47.5577361031	[86, 14, 13, 14, 'NC', 3, 'MASC', 'PL', 'S', 'ANIM', 12, 'ser', 'person', '*', 'chico']
+1.47161930796	[85, 14, 5, 6, 'NC', 3, 'FEM', 'SG', 'suj', '*', 4, 'resultar', '-', '*', 'cifra']
+
+pronoun:	[103, 15, 35, 35, 'PR', 3, '*', 'PL', 'suj', '*', 36, 'correr', '-', '*', 'quien']
+ante_candidates:
+37.9254462876	[102, 15, 32, 43, 'NC', 3, 'FEM', 'PL', 'cd', '*', 31, 'salvar', '-', '*', 'vida']
+0.249502959125	[97, 15, 13, 43, 'NC', 3, 'FEM', 'PL', 'cd', '*', 12, 'existir', '-', '*', 'raz\xc3\xb3n']
+
+pronoun:	[110, 16, 15, 15, 'PE', 3, '*', 'SG', 'suj', '*', 15, 'impide', '-', '*', '\xc3\xa9l']
+ante_candidates:
+391.502226677	[107, 16, 3, 4, 'NC', 3, 'FEM', 'SG', 'suj', '*', 5, 'donar', '-', '*', 'gente']
+1.73480392547	[94, 15, 6, 6, 'NP', 3, 'MASC', 'SG', 'suj', 'ANIM', 5, 'decir', 'person', '*', 'Hassenfeld']
+1.57529260084	[101, 15, 27, 43, 'NC', 3, 'FEM', 'SG', 'suj', '*', 23, 'ser', '-', '*', 'ayuda']
+0.189709334231	[98, 15, 18, 22, 'NC', 3, 'MASC', 'SG', 'suj', '*', 23, 'ser', '-', '*', 'auxilio']
+0.138069330854	[96, 15, 10, 10, 'NC', 3, 'MASC', 'SG', 'suj', '*', 12, 'existir', '-', '*', 'net']
+0.0330276008407	[100, 15, 25, 25, 'NC', 3, 'MASC', 'SG', 'atr', '*', 23, 'ser', '-', '*', 'costo-efectivo']
+0.0137791017708	[106, 15, 41, 43, 'NC', 3, 'FEM', 'SG', 'sp', '*', 40, 'correr', '-', '*', 'pobreza']
+0.00669656347331	[104, 15, 37, 37, 'NC', 3, 'MASC', 'SG', 'cd', '*', 36, 'correr', '-', '*', 'peligro']
+0.000898320167565	[99, 15, 21, 22, 'NC', 3, 'FEM', 'SG', 'cn', '*', 20, 'ser', '-', '*', 'cat\xc3\xa1strofe']
+0.000570239858956	[105, 15, 39, 43, 'NC', 3, 'FEM', 'SG', 'cc', '*', 38, 'correr', '-', '*', 'consecuencia']
+0.00022524468266	[88, 14, 18, 18, 'NP', 3, '*', 'SG', 'ao', '*', 17, 'morir', 'organization', '*', 'unicef']
+0.000145849954889	[85, 14, 5, 6, 'NC', 3, 'FEM', 'SG', 'suj', '*', 4, 'resultar', '-', '*', 'cifra']
+0.000145715575559	[89, 14, 20, 24, 'NP', 3, 'MASC', 'SG', 'suj', '*', 26, 'morir', 'organization', '*', 'fondo_de_las_naciones_unidas']
+1.73778383747e-05	[95, 15, 8, 8, 'NP', 3, '*', 'SG', 'cc', '*', 7, 'decir', 'location', '*', 'givewell']
+3.7717193527e-07	[90, 14, 23, 24, 'NP', 3, 'FEM', 'SG', 'sp', '*', 22, 'morir', 'other', '*', 'infancia']
+
+pronoun:	[136, 19, 9, 9, 'PR', 3, '*', '*', 'suj', '*', 10, 'matar', '-', '*', 'que']
+ante_candidates:
+0.721317283757	[135, 19, 8, 8, 'NP', 3, '*', 'SG', 'sp', '*', 7, 'recibir', 'location', '*', 'pakist\xc3\xa1n']
+0.559685003976	[134, 19, 4, 8, 'NC', 3, 'FEM', 'SG', 'sp', '*', 3, 'recibir', '-', '*', 'regi\xc3\xb3n']
+0.29428010422	[133, 19, 1, 13, 'NC', 3, 'MASC', 'SG', 'suj', '*', 14, 'recibir', '-', '*', 'terremoto']
+
+pronoun:	[148, 20, 22, 22, 'PR', 3, 'MASC', '*', 'cc', '*', 20, 'vivir', '-', '*', 'que']
+ante_candidates:
+6.49996509949	[147, 20, 18, 23, 'NC', 3, 'MASC', 'SG', 'sp', '*', 17, 'ser', '-', '*', 'contexto']
+0.0521478047376	[142, 20, 7, 8, 'NC', 3, 'MASC', 'PL', 'cn', '*', 6, 'ser', '-', '*', 'pa\xc3\xads']
+0.0168236989236	[141, 20, 5, 5, 'NC', 3, 'MASC', 'PL', 'cn', 'ANIM', 4, 'ser', 'person', '*', 'ni\xc3\xb1o']
+0.000850998558493	[144, 20, 12, 12, 'NC', 3, 'MASC', 'SG', 'grup.nom', '*', 10, 'ser', '-', '*', 'sarampi\xc3\xb3n']
+
+pronoun:	[160, 23, 6, 6, 'PE', 3, '*', 'PL', 'suj', '*', 6, 'fueran', '-', '*', '\xc3\xa9l']
+ante_candidates:
+0.0703356901998	[156, 21, 20, 20, 'NC', 3, 'MASC', 'PL', 'suj', '*', 19, 'morir', '-', '*', 'ahogado']
+0.0471133691823	[153, 21, 8, 8, 'NC', 3, 'MASC', 'PL', 'sp', 'ANIM', 7, 'ser', 'person', '*', 'ni\xc3\xb1o']
+0.000798967048692	[152, 21, 5, 5, 'PR', 3, '*', '*', 'conj', '*', 13, 'ser', '-', '*', 'que']
+0.000285373198391	[155, 21, 16, 17, 'NC', 3, 'FEM', 'PL', 'cag', '*', 15, 'ser', '-', '*', 'inundaci\xc3\xb3n']
+
+pronoun:	[164, 24, 8, 8, 'PR', 3, '*', '*', 'suj', '*', 9, 'lograr', '-', '*', 'que']
+ante_candidates:
+8.35890640071	[163, 24, 6, 13, 'NC', 3, 'MASC', 'PL', 'sp', 'ANIM', 5, 'imaginar', 'person', '*', 'h\xc3\xa9roe']
+2.78299909951	[162, 24, 3, 13, 'NC', 3, 'FEM', 'SG', 'cd', '*', 2, 'imaginar', '-', '*', 'aclamaci\xc3\xb3n']
+
+pronoun:	[169, 25, 13, 13, 'PR', 3, '*', '*', 'suj', '*', 15, 'descender', '-', '*', 'que']
+ante_candidates:
+5.64129398335	[168, 25, 10, 11, 'NC', 3, 'MASC', 'SG', 'sp', '*', 9, 'anunciar', '-', '*', 'a\xc3\xb1o']
+0.341330617727	[167, 25, 8, 11, 'NC', 3, '*', '*', 'cc', '*', 7, 'anunciar', '-', '*', 'septiembre']
+0.103087405286	[166, 25, 4, 4, 'NP', 3, '*', 'SG', 'suj', '*', 5, 'anunciar', 'organization', '*', 'unicef']
+
+pronoun:	[172, 25, 22, 22, 'PR', 3, '*', '*', 'suj', '*', 23, 'morir', '-', '*', 'que']
+ante_candidates:
+3.50297251685	[171, 25, 21, 21, 'NC', 3, 'MASC', 'PL', 'sp', 'ANIM', 20, 'descender', 'person', '*', 'ni\xc3\xb1o']
+1.73671495887	[170, 25, 18, 47, 'NC', 3, 'FEM', 'SG', 'cd', '*', 15, 'descender', '-', '*', 'cantidad']
+0.0141988553117	[169, 25, 13, 13, 'PR', 3, 'MASC', 'SG', 'suj', '*', 15, 'descender', '-', '*', 'que']
+0.00701522115857	[167, 25, 8, 11, 'NC', 3, '*', '*', 'cc', '*', 7, 'anunciar', '-', '*', 'septiembre']
+0.0031903061192	[166, 25, 4, 4, 'NP', 3, '*', 'SG', 'suj', '*', 5, 'anunciar', 'organization', '*', 'unicef']
+
+pronoun:	[182, 26, 8, 8, 'PR', 3, '*', '*', 'suj', '*', 9, 'contribuir', '-', '*', 'que']
+ante_candidates:
+7.08256724148	[180, 26, 3, 35, 'NC', 3, 'MASC', 'PL', 'sentence', '*', '*', '*', '-', '*', 'nombre']
+3.12379160875	[181, 26, 6, 35, 'NC', 3, 'FEM', 'PL', 'sp', 'ANIM', '*', '*', 'person', '*', 'persona']
+
+pronoun:	[189, 26, 33, 33, 'PE', 3, '*', 'PL', 'suj', '*', 33, 'siguen', '-', '*', '\xc3\xa9l']
+ante_candidates:
+2251.54411529	[187, 26, 27, 35, 'NC', 3, 'MASC', 'PL', 'cd', 'ANIM', 26, 'inmunizar', 'person', '*', 'ni\xc3\xb1o']
+1273.94893914	[182, 26, 8, 8, 'PR', 3, 'MASC', 'PL', 'suj', '*', 9, 'contribuir', '-', '*', 'que']
+9.50556063945	[181, 26, 6, 35, 'NC', 3, 'FEM', 'PL', 'sp', 'ANIM', '*', '*', 'person', '*', 'persona']
+0.279999456715	[164, 24, 8, 8, 'PR', 3, 'MASC', 'PL', 'suj', 'ANIM', 9, 'lograr', 'person', '*', 'que']
+0.0180685988341	[179, 25, 46, 47, 'NC', 3, 'MASC', 'PL', 'cn', '*', 45, 'recibir', '-', '*', 'medio']
+0.012365440722	[176, 25, 35, 36, 'NC', 3, 'MASC', 'PL', 'creg', '*', 34, 'morir', '-', '*', 'a\xc3\xb1o']
+0.00168270400412	[174, 25, 27, 37, 'NC', 3, 'MASC', 'PL', 'cc', '*', 26, 'morir', '-', '*', 'motivo']
+1.24396992337e-05	[167, 25, 8, 11, 'NC', 3, '*', '*', 'cc', '*', 7, 'anunciar', '-', '*', 'septiembre']
+
+pronoun:	[194, 27, 13, 13, 'PR', 3, '*', '*', 'suj', '*', 26, 'tender', '-', '*', 'que']
+ante_candidates:
+7.85609816348	[193, 27, 12, 12, 'NC', 3, 'MASC', 'PL', 'sp', '*', 11, 'responder', '-', '*', 'desastre_natural']
+1.05167177979	[192, 27, 9, 12, 'NC', 3, 'FEM', 'PL', 'cc', '*', 8, 'responder', '-', '*', 'v\xc3\xadctima']
+0.148807336445	[191, 27, 6, 7, 'NC', 3, 'FEM', 'SG', 'cc', '*', 5, 'responder', '-', '*', 'generosidad']
+0.0386885116984	[190, 27, 2, 3, 'NC', 3, 'FEM', 'SG', 'suj', '*', 4, 'responder', '-', '*', 'gente']
+
+pronoun:	[195, 27, 15, 15, 'PR', 3, '*', 'PL', 'suj', '*', 16, 'vivir', '-', '*', 'quien']
+ante_candidates:
+8.28937262829	[194, 27, 13, 13, 'PR', 3, 'MASC', 'PL', 'suj', '*', 26, 'tender', '-', '*', 'que']
+0.484150259047	[192, 27, 9, 12, 'NC', 3, 'FEM', 'PL', 'cc', '*', 8, 'responder', '-', '*', 'v\xc3\xadctima']
+
+pronoun:	[224, 31, 1, 1, 'PE', 3, '*', 'PL', 'suj', '*', 1, 'Pueden', '-', '*', '\xc3\xa9l']
+ante_candidates:
+18.9042767742	[219, 30, 4, 4, 'PR', 3, 'FEM', 'PL', 'suj', '*', 5, 'producir', '-', '*', 'que']
+0.0153405762548	[221, 30, 12, 12, 'NC', 3, 'MASC', 'PL', 'sp', '*', 11, 'producir', '-', '*', 'caso']
+0.00799410087842	[217, 29, 22, 23, 'NC', 3, 'MASC', 'PL', 'cd', 'ANIM', 21, 'tener', 'person', '*', 'hijo']
+
+pronoun:	[241, 33, 22, 22, 'PR', 3, '*', '*', 'suj', '*', 23, 'ocasionar', '-', '*', 'que']
+ante_candidates:
+14.4007444176	[240, 33, 20, 28, 'NC', 3, 'FEM', 'SG', 'suj', '*', 29, 'causar', '-', '*', 'falla']
+1.51579710644	[239, 33, 15, 30, 'NC', 3, 'MASC', 'SG', 'suj', '*', 14, 'existir', '-', '*', 'riesgo']
+0.167002624629	[238, 33, 11, 11, 'NP', 3, '*', 'SG', 'cag', '*', 10, 'predecir', 'organization', '*', 'eric_calais_de_la_universidad_purdue']
+0.0346714723094	[237, 33, 8, 11, 'NC', 3, 'MASC', 'PL', 'sp', '*', 7, 'predecir', '-', '*', 'geof\xc3\xadsico']
+0.0121995405525	[236, 33, 5, 11, 'NC', 3, 'MASC', 'SG', 'cc', '*', 3, 'predecir', '-', '*', 'equipo']
+0.00044382242696	[235, 33, 1, 11, 'NC', 3, 'MASC', 'PL', 'cc', '*', 12, 'predecir', '-', '*', 'a\xc3\xb1o']
+
+pronoun:	[244, 33, 32, 32, 'PR', 3, '*', '*', 'cd', '*', 33, 'causar', '-', '*', 'que']
+ante_candidates:
+2.11307486239	[242, 33, 24, 26, 'NC', 3, 'MASC', 'SG', 'cd', '*', 23, 'ocasionar', '-', '*', 'terremoto']
+0.461280803039	[243, 33, 28, 28, 'NP', 3, '*', 'SG', 'cc', '*', 27, 'ocasionar', 'location', '*', 'hait\xc3\xad']
+0.0932627615125	[241, 33, 22, 22, 'PR', 3, 'FEM', 'SG', 'suj', '*', 23, 'ocasionar', '-', '*', 'que']
+0.0310058077553	[239, 33, 15, 30, 'NC', 3, 'MASC', 'SG', 'suj', '*', 14, 'existir', '-', '*', 'riesgo']
+0.00257659423122	[237, 33, 8, 11, 'NC', 3, 'MASC', 'PL', 'sp', '*', 7, 'predecir', '-', '*', 'geof\xc3\xadsico']
+0.00158022265783	[238, 33, 11, 11, 'NP', 3, '*', 'SG', 'cag', '*', 10, 'predecir', 'organization', '*', 'eric_calais_de_la_universidad_purdue']
+0.00112853563916	[236, 33, 5, 11, 'NC', 3, 'MASC', 'SG', 'cc', '*', 3, 'predecir', '-', '*', 'equipo']
+4.94229699968e-05	[235, 33, 1, 11, 'NC', 3, 'MASC', 'PL', 'cc', '*', 12, 'predecir', '-', '*', 'a\xc3\xb1o']
+
+pronoun:	[245, 33, 33, 33, 'PE', 3, '*', 'SG', 'suj', '*', 33, 'caus\xc3\xb3', '-', '*', '\xc3\xa9l']
+ante_candidates:
+344.235931331	[241, 33, 22, 22, 'PR', 3, 'FEM', 'SG', 'suj', '*', 23, 'ocasionar', '-', '*', 'que']
+31.8647473989	[239, 33, 15, 30, 'NC', 3, 'MASC', 'SG', 'suj', '*', 14, 'existir', '-', '*', 'riesgo']
+4.95988448641	[244, 33, 32, 32, 'PR', 3, 'MASC', 'SG', 'cd', '*', 33, 'causar', '-', '*', 'que']
+1.31107875404	[231, 32, 4, 6, 'NC', 3, 'MASC', 'SG', 'suj', '*', 9, 'contribuir', '-', '*', 'gobierno']
+0.177696430182	[243, 33, 28, 28, 'NP', 3, '*', 'SG', 'cc', '*', 27, 'ocasionar', 'location', '*', 'hait\xc3\xad']
+0.065145760204	[238, 33, 11, 11, 'NP', 3, '*', 'SG', 'cag', '*', 10, 'predecir', 'organization', '*', 'eric_calais_de_la_universidad_purdue']
+0.0140964552142	[236, 33, 5, 11, 'NC', 3, 'MASC', 'SG', 'cc', '*', 3, 'predecir', '-', '*', 'equipo']
+0.00378450765067	[232, 32, 11, 18, 'NC', 3, 'FEM', 'SG', 'creg', '*', 10, 'contribuir', '-', '*', 'cantidad']
+0.00284231369087	[234, 32, 17, 18, 'NC', 3, 'MASC', 'SG', 'cag', '*', 16, 'contribuir', '-', '*', 'desastre_natural']
+5.78889663698e-05	[226, 31, 9, 13, 'NC', 3, 'MASC', 'SG', 'cc', '*', 8, 'estar', '-', '*', 'control']
+1.21334226145e-05	[230, 31, 24, 25, 'NC', 3, 'FEM', 'SG', 'creg', '*', 23, 'contribuir', '-', '*', 'pobreza']
+1.0943216701e-06	[228, 31, 17, 17, 'NC', 3, 'FEM', 'SG', 'cc', '*', 16, 'estar', '-', '*', 'duda']
+4.85739132261e-07	[225, 31, 5, 6, 'NC', 3, 'FEM', 'SG', 'cc', '*', 4, 'estar', '-', '*', 'medida']
+
+pronoun:	[246, 34, 1, 1, 'PE', 3, '*', 'PL', 'suj', '*', 1, 'Instaron', '-', '*', '\xc3\xa9l']
+ante_candidates:
+0.0238576482538	[235, 33, 1, 11, 'NC', 3, 'MASC', 'PL', 'cc', '*', 12, 'predecir', '-', '*', 'a\xc3\xb1o']
+0.0153405762548	[237, 33, 8, 11, 'NC', 3, 'MASC', 'PL', 'sp', '*', 7, 'predecir', '-', '*', 'geof\xc3\xadsico']
+0.000336135447131	[233, 32, 14, 14, 'NC', 3, 'FEM', 'PL', 'sp', '*', 13, 'contribuir', '-', '*', 'v\xc3\xadctima']
+
+pronoun:	[250, 34, 14, 14, 'PP', 3, 'MASC', 'PL', 'sp', '*', 13, 'tomar', '-', '*', 'ellos']
+ante_candidates:
+1527.79995369	[246, 34, 1, 1, 'PE', 3, 'MASC', 'PL', 'suj', '*', 1, 'Instaron', '-', '*', '\xc3\xa9l']
+572.506000601	[249, 34, 10, 11, 'NC', 3, 'MASC', 'PL', 'cd', '*', 9, 'fortalecer', '-', '*', 'edificio']
+0.0078199836892	[237, 33, 8, 11, 'NC', 3, 'MASC', 'PL', 'sp', '*', 7, 'predecir', '-', '*', 'geof\xc3\xadsico']
+
+pronoun:	[253, 35, 3, 3, 'PE', 3, 'MASC', 'SG', 'cd', '*', 3, 'hacerlo', '-', '*', '\xc3\xa9l']
+ante_candidates:
+0.22103831975	[247, 34, 3, 4, 'NP', 3, 'MASC', 'SG', 'cd', '*', 2, 'instar', 'organization', '*', 'gobierno']
+0.055822550252	[244, 33, 32, 32, 'PR', 3, 'MASC', 'SG', 'cd', '*', 33, 'causar', '-', '*', 'que']
+0.0173990404199	[239, 33, 15, 30, 'NC', 3, 'MASC', 'SG', 'suj', '*', 14, 'existir', '-', '*', 'riesgo']
+0.00211771642635	[238, 33, 11, 11, 'NP', 3, '*', 'SG', 'cag', '*', 10, 'predecir', 'organization', '*', 'eric_calais_de_la_universidad_purdue']
+0.000231242197366	[243, 33, 28, 28, 'NP', 3, '*', 'SG', 'cc', '*', 27, 'ocasionar', 'location', '*', 'hait\xc3\xad']
+1.64877648476e-05	[236, 33, 5, 11, 'NC', 3, 'MASC', 'SG', 'cc', '*', 3, 'predecir', '-', '*', 'equipo']
+
+pronoun:	[254, 35, 4, 4, 'PE', 3, 'MASC', 'SG', 'suj', '*', 4, 'contribuy\xc3\xb3', '-', '*', '\xc3\xa9l']
+ante_candidates:
+206.708931096	[253, 35, 3, 3, 'PE', 3, 'MASC', 'SG', 'cd', '*', 3, 'hacerlo', '-', '*', '\xc3\xa9l']
+0.00830875306524	[239, 33, 15, 30, 'NC', 3, 'MASC', 'SG', 'suj', '*', 14, 'existir', '-', '*', 'riesgo']
+0.000346433136418	[244, 33, 32, 32, 'PR', 3, 'MASC', 'SG', 'cd', '*', 33, 'causar', '-', '*', 'que']
+2.34866886471e-05	[238, 33, 11, 11, 'NP', 3, '*', 'SG', 'cag', '*', 10, 'predecir', 'organization', '*', 'eric_calais_de_la_universidad_purdue']
+1.56647482995e-05	[236, 33, 5, 11, 'NC', 3, 'MASC', 'SG', 'cc', '*', 3, 'predecir', '-', '*', 'equipo']
+6.61687010535e-06	[243, 33, 28, 28, 'NP', 3, '*', 'SG', 'cc', '*', 27, 'ocasionar', 'location', '*', 'hait\xc3\xad']
+
+pronoun:	[261, 37, 12, 12, 'PE', 3, '*', 'SG', 'suj', '*', 12, 'destine', '-', '*', '\xc3\xa9l']
+ante_candidates:
+1182.53163914	[258, 37, 1, 7, 'NP', 3, 'MASC', 'SG', 'suj', 'ANIM', 9, 'instar', 'person', '*', 'Tucker']
+0.451338960919	[254, 35, 4, 4, 'PE', 3, 'MASC', 'SG', 'suj', '*', 4, 'contribuy\xc3\xb3', '-', '*', '\xc3\xa9l']
+0.0981450822303	[259, 37, 5, 6, 'NC', 3, 'FEM', 'SG', 'sp', '*', 4, 'instar', '-', '*', 'organizaci\xc3\xb3n_sin_fines_de_lucro']
+0.00015647526738	[260, 37, 7, 7, 'NP', 3, '*', 'SG', 'sn', '*', 3, 'instar', 'organization', '*', 'geohazards_international']
+5.05896020392e-05	[255, 35, 6, 9, 'NC', 3, 'FEM', 'SG', 'creg', '*', 5, 'contribuir', '-', '*', 'cantidad']
+
+pronoun:	[273, 37, 53, 53, 'PE', 3, '*', 'PL', 'cd', '*', 53, 'reducirlos', '-', '*', '\xc3\xa9l']
+ante_candidates:
+90.3652885529	[267, 37, 29, 30, 'NC', 3, 'MASC', 'PL', 'cag', '*', 28, 'mitigar', '-', '*', 'terremoto']
+27.9448982663	[264, 37, 19, 53, 'NC', 3, 'MASC', 'PL', 'cag', '*', 18, 'destinar', '-', '*', 'esfuerzo']
+16.6295879559	[272, 37, 48, 49, 'NC', 3, 'MASC', 'PL', 'cn', '*', 47, 'tomar', '-', '*', 'riesgo']
+0.434078562021	[268, 37, 34, 34, 'NC', 3, 'MASC', 'PL', 'cc', '*', 33, 'entrenar', '-', '*', 'constructor']
+0.000179436370362	[256, 35, 9, 9, 'NC', 3, 'FEM', 'PL', 'sp', '*', 8, 'contribuir', '-', '*', 'v\xc3\xadctima']
+
+pronoun:	[274, 38, 1, 1, 'PE', 3, '*', 'SG', 'suj', '*', 1, 'Sostiene', '-', '*', '\xc3\xa9l']
+ante_candidates:
+11.7484172989	[261, 37, 12, 12, 'PE', 3, 'MASC', 'SG', 'suj', 'ANIM', 12, 'destine', 'person', '*', '\xc3\xa9l']
+0.482398134738	[270, 37, 42, 43, 'NC', 3, 'FEM', 'SG', 'suj', '*', 44, 'tomar', '-', '*', 'poblaci\xc3\xb3n']
+0.031509498136	[265, 37, 22, 22, 'NC', 3, 'MASC', 'SG', 'cn', '*', 21, 'destinar', '-', '*', 'rescate']
+0.00880864074436	[263, 37, 16, 53, 'NC', 3, 'MASC', 'SG', 'sp', '*', 15, 'destinar', '-', '*', 'dinero']
+0.00691935040838	[271, 37, 46, 49, 'NC', 3, 'FEM', 'SG', 'cd', '*', 44, 'tomar', '-', '*', 'conciencia']
+0.00669656347331	[266, 37, 25, 30, 'NC', 3, 'MASC', 'SG', 'cd', '*', 24, 'mitigar', '-', '*', 'da\xc3\xb1o']
+0.00396499831023	[269, 37, 37, 38, 'NC', 3, 'FEM', 'SG', 'cd', '*', 36, 'mejorar', '-', '*', 'ingenier\xc3\xada']
+0.00203317490996	[262, 37, 13, 53, '*', 3, 'MASC', 'SG', 'cd', '*', 12, 'destinar', '-', '*', '10/100']
+0.00010594085945	[259, 37, 5, 6, 'NC', 3, 'FEM', 'SG', 'sp', '*', 4, 'instar', '-', '*', 'organizaci\xc3\xb3n_sin_fines_de_lucro']
+6.21299054835e-07	[260, 37, 7, 7, 'NP', 3, '*', 'SG', 'sn', '*', 3, 'instar', 'organization', '*', 'geohazards_international']
+
+pronoun:	[281, 39, 14, 14, 'PE', 3, '*', 'SG', 'suj', '*', 14, 'podr\xc3\xada', '-', '*', '\xc3\xa9l']
+ante_candidates:
+30.1010390894	[278, 39, 1, 4, 'NC', 3, 'FEM', 'SG', 'suj', '*', 5, 'tener', '-', '*', 'propuesta']
+17.2911369827	[279, 39, 4, 4, 'NP', 3, 'MASC', 'SG', 'cn', 'ANIM', 3, 'tener', 'person', '*', 'tucker']
+1.77891936576	[280, 39, 6, 7, 'NC', 3, 'MASC', 'SG', 'cd', '*', 5, 'tener', '-', '*', 'sentido']
+0.614098612493	[275, 38, 3, 10, 'NC', 3, 'MASC', 'SG', 'suj', '*', 11, 'salvar', '-', '*', 'd\xc3\xb3lar']
+0.00177194590737	[270, 37, 42, 43, 'NC', 3, 'FEM', 'SG', 'suj', '*', 44, 'tomar', '-', '*', 'poblaci\xc3\xb3n']
+6.02333982257e-05	[262, 37, 13, 53, '*', 3, 'MASC', 'SG', 'cd', '*', 12, 'destinar', '-', '*', '10/100']
+3.91344898963e-05	[263, 37, 16, 53, 'NC', 3, 'MASC', 'SG', 'sp', '*', 15, 'destinar', '-', '*', 'dinero']
+3.74645530346e-05	[266, 37, 25, 30, 'NC', 3, 'MASC', 'SG', 'cd', '*', 24, 'mitigar', '-', '*', 'da\xc3\xb1o']
+3.52521404095e-05	[271, 37, 46, 49, 'NC', 3, 'FEM', 'SG', 'cd', '*', 44, 'tomar', '-', '*', 'conciencia']
+1.79524733229e-05	[269, 37, 37, 38, 'NC', 3, 'FEM', 'SG', 'cd', '*', 36, 'mejorar', '-', '*', 'ingenier\xc3\xada']
+1.04762938212e-05	[265, 37, 22, 22, 'NC', 3, 'MASC', 'SG', 'cn', '*', 21, 'destinar', '-', '*', 'rescate']
+5.3441500341e-07	[259, 37, 5, 6, 'NC', 3, 'FEM', 'SG', 'sp', '*', 4, 'instar', '-', '*', 'organizaci\xc3\xb3n_sin_fines_de_lucro']
+3.32376391074e-08	[260, 37, 7, 7, 'NP', 3, '*', 'SG', 'sn', '*', 3, 'instar', 'organization', '*', 'geohazards_international']
+
+pronoun:	[284, 39, 24, 24, 'PR', 3, '*', '*', 'suj', '*', 25, 'recaudar', '-', '*', 'que']
+ante_candidates:
+5.47687887285	[283, 39, 23, 23, 'NC', 3, 'FEM', 'SG', 'sp', '*', 22, 'recaudar', '-', '*', 'beneficencia']
+0.266389109483	[280, 39, 6, 7, 'NC', 3, 'MASC', 'SG', 'cd', '*', 5, 'tener', '-', '*', 'sentido']
+0.107208905405	[281, 39, 14, 14, 'PE', 3, 'FEM', 'SG', 'suj', '*', 14, 'podr\xc3\xada', '-', '*', '\xc3\xa9l']
+0.0194127213778	[279, 39, 4, 4, 'NP', 3, 'MASC', 'SG', 'cn', 'ANIM', 3, 'tener', 'person', '*', 'tucker']
+
+pronoun:	[297, 41, 6, 6, 'PD', 3, '*', 'SG', 'suj', '*', 7, 'suceder', '-', '*', 'ese']
+ante_candidates:
+0.524572672638	[295, 40, 15, 17, 'NC', 3, 'MASC', 'SG', 'cd', '*', 14, 'mitigar', '-', '*', 'da\xc3\xb1o']
+0.340569409308	[292, 40, 4, 5, 'NC', 3, 'MASC', 'SG', 'suj', '*', 7, 'responder', '-', '*', 'p\xc3\xbablico']
+0.101975670949	[293, 40, 9, 12, 'NC', 3, 'MASC', 'SG', 'cc', '*', 8, 'responder', '-', '*', 'pedido']
+
+pronoun:	[304, 42, 6, 6, 'PR', 3, '*', '*', 'suj', '*', 8, 'prometer', '-', '*', 'que']
+ante_candidates:
+27.5928251645	[303, 42, 4, 11, 'NC', 3, 'MASC', 'PL', 'suj', '*', 14, 'asegurar', '-', '*', 'gobierno']
+1.2464709713	[302, 42, 2, 2, 'NC', 3, 'MASC', 'SG', 'cc', '*', 1, 'asegurar', '-', '*', 'cambio']
+
+pronoun:	[308, 42, 19, 19, 'PX', 3, '*', 'SG', 'spec', '*', 20, 'estar', '-', '*', 'su']
+ante_candidates:
+62389.4497449	[307, 42, 17, 20, 'NC', 3, 'FEM', 'SG', 'suj', '*', 21, 'estar', '-', '*', 'parte']
+19202.1288743	[304, 42, 6, 6, 'PR', 3, 'MASC', 'PL', 'suj', '*', 8, 'prometer', '-', '*', 'que']
+4051.39774414	[306, 42, 11, 11, 'NP', 3, '*', 'SG', 'cn', '*', 10, 'prometer', 'organization', '*', 'hait\xc3\xad']
+9.51602225687	[305, 42, 9, 11, 'NC', 3, 'FEM', 'SG', 'cd', '*', 8, 'prometer', '-', '*', 'ayuda']
+0.00865655786763	[297, 41, 6, 6, 'PD', 3, 'MASC', 'SG', 'suj', '*', 7, 'suceder', '-', '*', 'ese']
+0.00624073749405	[302, 42, 2, 2, 'NC', 3, 'MASC', 'SG', 'cc', '*', 1, 'asegurar', '-', '*', 'cambio']
+0.00134350801799	[296, 41, 2, 7, 'NC', 3, 'FEM', 'PL', 'suj', '*', 8, 'ser', '-', '*', 'perspectiva']
+0.00117908303068	[279, 39, 4, 4, 'NP', 3, 'MASC', 'SG', 'cn', 'ANIM', 3, 'tener', 'person', '*', 'tucker']
+0.000406774778869	[301, 41, 28, 30, 'NC', 3, 'FEM', 'PL', 'cd', '*', 27, 'ayudar', '-', '*', 'v\xc3\xadctima']
+0.000383871407142	[298, 41, 15, 16, 'NC', 3, 'MASC', 'SG', 'creg', '*', 14, 'carecer', '-', '*', 'tipo']
+0.000131414604834	[292, 40, 4, 5, 'NC', 3, 'MASC', 'SG', 'suj', '*', 7, 'responder', '-', '*', 'p\xc3\xbablico']
+3.3360488312e-05	[299, 41, 19, 30, 'NC', 3, 'MASC', 'SG', 'creg', '*', 18, 'carecer', '-', '*', 'empuje']
+2.42229173698e-05	[300, 41, 23, 30, 'NC', 3, 'MASC', 'SG', 'cag', '*', 22, 'carecer', '-', '*', 'deseo']
+1.93753956018e-05	[281, 39, 14, 14, 'PE', 3, 'FEM', 'SG', 'suj', '*', 14, 'podr\xc3\xada', '-', '*', '\xc3\xa9l']
+2.7050493699e-06	[291, 39, 47, 48, 'NC', 3, 'MASC', 'PL', 'cag', '*', 46, 'mitigar', '-', '*', 'terremoto']
+9.37094315627e-07	[294, 40, 12, 12, 'NC', 3, 'MASC', 'PL', 'cn', '*', 11, 'responder', '-', '*', 'fondo']
+1.76222818129e-07	[293, 40, 9, 12, 'NC', 3, 'MASC', 'SG', 'cc', '*', 8, 'responder', '-', '*', 'pedido']
+8.78296314229e-08	[284, 39, 24, 24, 'PR', 3, 'FEM', 'SG', 'suj', '*', 25, 'recaudar', '-', '*', 'que']
+1.06149937835e-08	[285, 39, 26, 26, 'NC', 3, 'MASC', 'SG', 'cd', '*', 25, 'recaudar', '-', '*', 'dinero']
+7.0098590588e-09	[289, 39, 39, 48, 'NC', 3, 'MASC', 'PL', 'creg', '*', 38, 'ayudar', '-', '*', 'programa']
+4.0090465312e-09	[286, 39, 30, 37, 'NC', 3, 'MASC', 'PL', 'cd', '*', 29, 'ayudar', '-', '*', 'haitiano']
+3.90516818145e-10	[280, 39, 6, 7, 'NC', 3, 'MASC', 'SG', 'cd', '*', 5, 'tener', '-', '*', 'sentido']
+9.08875696736e-11	[282, 39, 20, 23, 'NC', 3, 'FEM', 'PL', 'cc', '*', 25, 'recaudar', '-', '*', 'entidad']

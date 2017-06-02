@@ -1,0 +1,19 @@
+#begin document dummy
+1	Recuerdos	recuerdo	n	NC	gen=m|num=p|postype=common|eagles=NCMP000	0	sentence	_	(0
+2	calientes	caliente	a	AQ	gen=c|num=p|postype=qualificative|eagles=AQ0CP0	1	cn	_	_
+3	/	/	F	Fh	punct=slash|eagles=Fh	2	f	_	_
+4	recuerdos	recuerdo	n	NC	gen=m|num=p|postype=common|eagles=NCMP000	2	grup.a	_	(0
+5	fríos	frío	a	AQ	gen=m|num=p|postype=qualificative|eagles=AQ0MP0	4	cn	_	0)
+6	:	:	F	Fd	punct=colon|eagles=Fd	8	f	_	_
+7	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	8	spec	_	_
+8	vida	vida	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	1	grup.nom	_	_
+9	política	político	a	AQ	gen=f|num=s|postype=qualificative|eagles=AQ0FS0	8	s.a	_	_
+10	media	medio	a	AQ	gen=f|num=s|postype=qualificative|eagles=AQ0FS0	8	s.a	_	_
+11	del	de	s	SP	gen=c|num=m|postype=preposition|contracted=yes|eagles=SPCMS	14	sp	_	_
+12	fascismo	fascismo	n	NC	gen=m|num=s|postype=common|eagles=NCMS000	11	sn	_	_
+13	y	y	c	CC	postype=coordinating|eagles=CC	14	conj	_	_
+14	del	de	s	SP	gen=c|num=m|postype=preposition|contracted=yes|eagles=SPCMS	8	sp	_	_
+15	comunismo	comunismo	n	NC	gen=m|num=s|postype=common|eagles=NCMS000	14	sn	_	0)
+
+#end document dummy
+

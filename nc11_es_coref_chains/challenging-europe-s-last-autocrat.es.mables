@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 3, 6, 'NC', 3, '*', 'SG', 'cd', 'ANIM', 2, 'desafiar', 'person', '*', 'aut\xc3\xb3crata'], [2, 1, 6, 6, 'NP', 3, '*', 'SG', 'sp', '*', 5, 'desafiar', 'location', '*', 'europa']]
+coref= {}
+determiners= {1: '*', 2: '*'}
+pposat_heads= {}
+####

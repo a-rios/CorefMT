@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 4, 'NC', 3, 'MASC', '*', 'sentence', '*', '*', '*', '-', '*', 'idus'], [2, 1, 4, 4, 'NC', 3, '*', '*', 'sp', '*', '*', '*', '-', '*', 'agosto']]
+coref= {}
+determiners= {1: 'el', 2: '*'}
+pposat_heads= {}
+####

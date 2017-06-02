@@ -1,0 +1,8 @@
+#begin document dummy
+1	Estados_unidos	estados_unidos	n	NP	postype=proper|ne=organization|eagles=NP00O00	0	sentence	_	_
+2	,	,	F	Fc	punct=comma|eagles=Fc	4	f	_	_
+3	el	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	4	spec	_	_
+4	paria	paria	n	NC	gen=c|num=s|postype=common|eagles=NCCS000	1	sn	_	_
+
+#end document dummy
+

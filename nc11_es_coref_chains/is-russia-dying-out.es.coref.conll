@@ -1,0 +1,10 @@
+#begin document dummy
+1	¿	¿	F	Fia	punct=questionmark|eagles=Fia	4	f	_	_
+2	Se	se	p	PP	gen=c|num=c|postype=personal|person=3|eagles=PP3CN000	4	pass	_	_
+3	está	estar	v	VA	num=s|postype=auxiliary|person=3|mood=indicative|tense=present|eagles=VAIP3S0	4	v	_	_
+4	muriendo	morir	v	VM	postype=main|mood=gerund|eagles=VMG0000	0	sentence	_	_
+5	Rusia	rusia	n	NP	postype=proper|ne=organization|eagles=NP00O00	4	suj	_	_
+6	?	?	F	Fit	punct=questionmark|eagles=Fit	4	f	_	_
+
+#end document dummy
+

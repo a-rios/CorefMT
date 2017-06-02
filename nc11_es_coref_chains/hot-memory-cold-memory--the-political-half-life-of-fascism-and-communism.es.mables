@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 15, 'NC', 3, 'MASC', 'PL', 'sentence', '*', '*', '*', '-', '*', 'recuerdo'], [2, 1, 4, 5, 'NC', 3, 'MASC', 'PL', 'grup.a', '*', '*', '*', '-', '*', 'recuerdo'], [3, 1, 7, 15, 'NC', 3, 'FEM', 'SG', 'grup.nom', '*', '*', '*', '-', '*', 'vida'], [4, 1, 12, 12, 'NC', 3, 'MASC', 'SG', 'sp', '*', '*', '*', '-', '*', 'fascismo'], [5, 1, 15, 15, 'NC', 3, 'MASC', 'SG', 'sp', '*', '*', '*', '-', '*', 'comunismo']]
+coref= {}
+determiners= {1: '*', 2: '*', 3: 'el', 4: '*', 5: '*'}
+pposat_heads= {}
+####

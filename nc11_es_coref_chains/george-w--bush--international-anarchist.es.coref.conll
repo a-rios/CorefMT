@@ -1,0 +1,8 @@
+#begin document dummy
+1	George_w._bush	george_w._bush	n	NP	postype=proper|ne=person|eagles=NP00SP0	0	sentence	_	_
+2	,	,	F	Fc	punct=comma|eagles=Fc	3	f	_	_
+3	anarquista	anarquista	n	NC	gen=c|num=s|postype=common|eagles=NCCS000	1	sn	_	_
+4	internacional	internacional	a	AQ	gen=c|num=s|postype=qualificative|eagles=AQ0CS0	3	s.a	_	_
+
+#end document dummy
+

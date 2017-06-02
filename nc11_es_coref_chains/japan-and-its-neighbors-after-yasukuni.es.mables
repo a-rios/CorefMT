@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 4, 'NP', 3, '*', 'SG', 'sentence', '*', '*', '*', 'location', '*', 'jap\xc3\xb3n'], [2, 1, 3, 3, 'PX', 3, '*', 'PL', 'spec', '*', '*', '*', '-', '*', 'su'], [3, 1, 3, 4, 'NP', 3, '*', 'SG', 'sentence', '*', '*', '*', 'organization', '*', 'vecinos_despu\xc3\xa9s_de_yasukuni']]
+coref= {}
+determiners= {1: '*', 3: '*'}
+pposat_heads= {2: ['4', 'Vecinos_despu\xc3\xa9s_de_yasukuni', 'vecinos_despu\xc3\xa9s_de_yasukuni', 'n', 'NP', 'postype=proper|ne=organization|eagles=NP00O00', '1', 'sn', '_', '_']}
+####

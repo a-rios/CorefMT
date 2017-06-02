@@ -1,0 +1,12 @@
+#begin document dummy
+1	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	2	spec	_	_
+2	protección	protección	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	0	sentence	_	_
+3	de	de	s	SP	postype=preposition|eagles=SPS00	2	cn	_	_
+4	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	5	spec	_	_
+5	investigación	investigación	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	3	sn	_	_
+6	y	y	c	CC	postype=coordinating|eagles=CC	2	conj	_	_
+7	los	el	d	DA	gen=m|num=p|postype=article|eagles=DA0MP0	8	spec	_	_
+8	descubrimientos	descubrimiento	n	NC	gen=m|num=p|postype=common|eagles=NCMP000	2	sn	_	_
+
+#end document dummy
+

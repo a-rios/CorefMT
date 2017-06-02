@@ -1,0 +1,12 @@
+#begin document dummy
+1	Una	uno	d	DI	gen=f|num=s|postype=indefinite|eagles=DI0FS0	2	spec	_	_
+2	agenda	agenda	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	0	sentence	_	_
+3	para	para	s	SP	postype=preposition|eagles=SPS00	2	sp	_	_
+4	el	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	5	spec	_	_
+5	Grupo	grupo	n	NP	postype=proper|ne=organization|eagles=NP00O00	3	sn	_	_
+6	de	de	s	SP	postype=preposition|eagles=SPS00	5	sp	_	_
+7	los	el	d	DA	gen=m|num=p|postype=article|eagles=DA0MP0	8	spec	_	_
+8	7	7	z	Z	ne=number|eagles=Z	6	sn	_	_
+
+#end document dummy
+

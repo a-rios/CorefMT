@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 5, 'NP', 3, 'FEM', 'SG', 'sentence', '*', '*', '*', 'other', '*', 'crecimiento_de_europa']]
+coref= {}
+determiners= {1: 'el', 2: 'el'}
+pposat_heads= {}
+####

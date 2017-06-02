@@ -1,0 +1,12 @@
+#begin document dummy
+1	El	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	2	spec	_	_
+2	águila	águila	n	NP	postype=proper|ne=other|eagles=NP00V00	0	sentence	_	_
+3	,	,	F	Fc	punct=comma|eagles=Fc	2	f	_	_
+4	el	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	5	spec	_	_
+5	Pavo_real	pavo_real	n	NP	postype=proper|ne=organization|eagles=NP00O00	2	sn	_	_
+6	y	y	c	CC	postype=coordinating|eagles=CC	2	conj	_	_
+7	el	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	8	spec	_	_
+8	Talibán	talibán	n	NP	postype=proper|ne=organization|eagles=NP00O00	2	sn	_	_
+
+#end document dummy
+

@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 5, 'NC', 3, 'FEM', 'SG', 'sentence', '*', '*', '*', '-', '*', 'oportunidad'], [2, 1, 5, 5, 'NP', 3, '*', 'SG', 'sp', '*', '*', '*', 'organization', '*', 'fmi']]
+coref= {}
+determiners= {1: 'el', 2: '*'}
+pposat_heads= {}
+####

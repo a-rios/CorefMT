@@ -1,0 +1,7 @@
+#begin document dummy
+1	Reconstruyan	reconstruir	v	VM	num=p|postype=main|person=3|mood=imperative|eagles=VMM03P0	0	sentence	_	_
+2	el	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	3	spec	_	_
+3	Camino_financiero_antes_de_que_otros_caigan	camino_financiero_antes_de_que_otros_caigan	n	NP	postype=proper|ne=other|eagles=NP00V00	1	cd	_	_
+
+#end document dummy
+

@@ -1,0 +1,8 @@
+#begin document dummy
+1	Singapur	singapur	n	NP	postype=proper|ne=location|eagles=NP00G00	0	sentence	_	_
+2	:	:	F	Fd	punct=colon|eagles=Fd	4	f	_	_
+3	El	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	4	spec	_	_
+4	Mito_del_milagro	mito_del_milagro	n	NP	postype=proper|ne=other|eagles=NP00V00	1	sn	_	_
+
+#end document dummy
+

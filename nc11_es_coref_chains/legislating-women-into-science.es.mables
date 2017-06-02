@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 3, 3, 'NP', 3, '*', 'SG', 'cc', 'ANIM', 2, 'legislar', 'person', '*', 'incluir'], [2, 1, 5, 6, 'NP', 3, 'FEM', 'SG', 'cd', '*', 4, 'legislar', 'organization', '*', 'mujeres'], [3, 1, 8, 9, 'NP', 3, 'FEM', 'SG', 'cc', '*', 7, 'legislar', 'location', '*', 'ciencia']]
+coref= {}
+determiners= {1: '*', 2: 'el', 3: 'el'}
+pposat_heads= {}
+####

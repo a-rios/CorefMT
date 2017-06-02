@@ -1,0 +1,9 @@
+#begin document dummy
+1	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	2	spec	_	_
+2	oportunidad	oportunidad	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	0	sentence	_	_
+3	perdida	perdido	a	AQ	gen=f|num=s|postype=qualificative|eagles=AQ0FSP	2	S	_	_
+4	del	de	s	SP	gen=c|num=m|postype=preposition|contracted=yes|eagles=SPCMS	2	sp	_	_
+5	Fmi	fmi	n	NP	postype=proper|ne=organization|eagles=NP00O00	4	sn	_	_
+
+#end document dummy
+

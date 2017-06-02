@@ -1,0 +1,10 @@
+#begin document dummy
+1	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	2	spec	_	_
+2	carrera	carrera	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	0	sentence	_	_
+3	armamentista	armamentista	a	AQ	gen=c|num=s|postype=qualificative|eagles=AQ0CS0	2	s.a	_	_
+4	de	de	s	SP	postype=preposition|eagles=SPS00	2	sp	_	_
+5	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	6	spec	_	_
+6	biología	biología	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	4	sn	_	_
+
+#end document dummy
+

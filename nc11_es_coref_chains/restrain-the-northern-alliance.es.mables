@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 3, 4, 'NP', 3, 'FEM', 'SG', 'cd', '*', 2, 'restringir', 'organization', '*', 'alianza_del_norte']]
+coref= {}
+determiners= {1: 'el'}
+pposat_heads= {}
+####

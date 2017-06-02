@@ -1,0 +1,9 @@
+#begin document dummy
+1	Lo	el	d	DA	gen=c|num=s|postype=article|eagles=DA0NS0	2	spec	_	_
+2	fantasmagórico	fantasmagórico	a	AQ	gen=m|num=s|postype=qualificative|eagles=AQ0MS0	0	sentence	_	_
+3	de	de	s	SP	postype=preposition|eagles=SPS00	2	sp	_	_
+4	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	5	spec	_	_
+5	realidad	realidad	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	3	sn	_	_
+
+#end document dummy
+

@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 2, 3, 'NP', 3, 'FEM', 'SG', 'sentence', '*', '*', '*', 'location', '*', 'sombra_del_marco_alem\xc3\xa1n']]
+coref= {}
+determiners= {1: 'el'}
+pposat_heads= {}
+####

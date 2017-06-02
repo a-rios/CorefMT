@@ -1,0 +1,14 @@
+#begin document dummy
+1	El	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	2	spec	_	_
+2	tiempo	tiempo	n	NC	gen=m|num=s|postype=common|eagles=NCMS000	4	suj	_	_
+3	se	se	p	PP	gen=c|num=c|postype=personal|person=3|eagles=PP3CN000	4	pass	_	_
+4	va	ir	v	VM	num=s|postype=main|person=3|mood=indicative|tense=present|eagles=VMIP3S0	0	sentence	_	_
+5	para	para	s	SP	postype=preposition|eagles=SPS00	4	cc	_	_
+6	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	7	spec	_	_
+7	reforma	reforma	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	5	sn	_	_
+8	de	de	s	SP	postype=preposition|eagles=SPS00	7	cn	_	_
+9	las	el	d	DA	gen=f|num=p|postype=article|eagles=DA0FP0	10	spec	_	_
+10	pensiones	pensión	n	NC	gen=f|num=p|postype=common|eagles=NCFP000	8	sn	_	_
+
+#end document dummy
+

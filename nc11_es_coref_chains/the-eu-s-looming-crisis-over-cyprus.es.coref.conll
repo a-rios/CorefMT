@@ -1,0 +1,11 @@
+#begin document dummy
+1	Chipre	chipre	n	NP	postype=proper|ne=organization|eagles=NP00O00	0	sentence	_	_
+2	,	,	F	Fc	punct=comma|eagles=Fc	4	f	_	_
+3	el	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	4	spec	_	_
+4	Islam	islam	n	NP	postype=proper|ne=organization|eagles=NP00O00	1	sn	_	_
+5	y	y	c	CC	postype=coordinating|eagles=CC	1	conj	_	_
+6	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	7	spec	_	_
+7	Unión_europea	unión_europea	n	NP	postype=proper|ne=organization|eagles=NP00O00	1	sn	_	_
+
+#end document dummy
+

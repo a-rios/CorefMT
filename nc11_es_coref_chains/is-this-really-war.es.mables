@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 3, 3, 'PD', 3, '*', 'SG', 'suj', '*', 2, 'ser', '-', '*', 'este'], [2, 1, 5, 5, 'NP', 3, '*', 'SG', 'cc', '*', 4, 'ser', 'location', '*', 'verdad_guerra']]
+coref= {}
+determiners= {2: '*'}
+pposat_heads= {}
+####

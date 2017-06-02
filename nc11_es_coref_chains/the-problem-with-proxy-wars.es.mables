@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 2, 'NP', 3, 'MASC', 'SG', 'sentence', '*', '*', '*', 'other', '*', 'problema_de_las_guerras_delegadas']]
+coref= {}
+determiners= {1: 'el'}
+pposat_heads= {}
+####

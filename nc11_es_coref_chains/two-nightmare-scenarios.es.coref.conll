@@ -1,0 +1,6 @@
+#begin document dummy
+1	Dos	2	z	Z	ne=number|eagles=Z	0	sentence	_	_
+2	Posibles_pesadillas	posibles_pesadillas	n	NP	postype=proper|ne=person|eagles=NP00SP0	1	sn	_	_
+
+#end document dummy
+

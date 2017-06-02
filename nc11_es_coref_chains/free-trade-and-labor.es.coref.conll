@@ -1,0 +1,9 @@
+#begin document dummy
+1	Trabajo	trabajo	n	NC	gen=m|num=s|postype=common|eagles=NCMS000	0	sentence	_	_
+2	,	,	F	Fc	punct=comma|eagles=Fc	1	f	_	_
+3	Mercado	mercado	n	NP	postype=proper|ne=organization|eagles=NP00O00	1	sn	_	_
+4	y	y	c	CC	postype=coordinating|eagles=CC	3	conj	_	_
+5	Comercio	comercio	n	NP	postype=proper|ne=other|eagles=NP00V00	3	grup.nom	_	_
+
+#end document dummy
+

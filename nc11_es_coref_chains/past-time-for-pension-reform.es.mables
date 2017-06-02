@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 2, 'NC', 3, 'MASC', 'SG', 'suj', '*', 4, 'ir', '-', '*', 'tiempo'], [2, 1, 6, 10, 'NC', 3, 'FEM', 'SG', 'cc', '*', 5, 'ir', '-', '*', 'reforma'], [3, 1, 9, 10, 'NC', 3, 'FEM', 'PL', 'cn', '*', 8, 'ir', '-', '*', 'pensi\xc3\xb3n']]
+coref= {}
+determiners= {1: 'el', 2: 'el', 3: 'el'}
+pposat_heads= {}
+####

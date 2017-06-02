@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 2, 'NP', 3, '*', 'SG', 'sentence', '*', '*', '*', 'other', '*', 'siglo_de_protestas_chinas']]
+coref= {}
+determiners= {1: 'uno'}
+pposat_heads= {}
+####

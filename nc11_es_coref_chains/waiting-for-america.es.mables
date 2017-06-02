@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 3, 3, 'NP', 3, '*', 'SG', 'cd', '*', 2, 'esperar', 'location', '*', 'norteam\xc3\xa9rica']]
+coref= {}
+determiners= {1: '*'}
+pposat_heads= {}
+####

@@ -1,0 +1,8 @@
+#begin document dummy
+1	¿	¿	F	Fia	punct=questionmark|eagles=Fia	3	f	_	_
+2	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	3	spec	_	_
+3	última_jugada_de_shevardnadze	última_jugada_de_shevardnadze	n	NP	postype=proper|ne=other|eagles=NP00V00	0	sentence	_	_
+4	?	?	F	Fit	punct=questionmark|eagles=Fit	3	f	_	_
+
+#end document dummy
+

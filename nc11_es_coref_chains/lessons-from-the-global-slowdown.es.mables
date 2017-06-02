@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 1, 'NP', 3, '*', 'SG', 'sentence', '*', '*', '*', 'other', '*', 'lecciones_de_la_deceleraci\xc3\xb3n_global']]
+coref= {}
+determiners= {1: '*'}
+pposat_heads= {}
+####

@@ -1,0 +1,6 @@
+#begin document dummy
+1	Ninguna	ninguno	p	PI	gen=f|num=s|postype=indefinite|person=0|eagles=PI0FS000	0	sentence	_	_
+2	Guerra_de_civilizaciones	guerra_de_civilizaciones	n	NP	postype=proper|ne=other|eagles=NP00V00	1	sn	_	_
+
+#end document dummy
+

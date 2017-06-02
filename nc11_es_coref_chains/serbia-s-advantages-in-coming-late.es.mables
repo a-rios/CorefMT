@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 2, 2, 'NP', 3, '*', 'SG', 'suj', 'ANIM', 1, 'llegar', 'person', '*', 'tarde'], [2, 1, 3, 3, 'PP', 3, '*', 'SG', 'ci', '*', 4, 'dar', '-', '*', 'le'], [3, 1, 5, 5, 'NP', 3, '*', 'SG', 'suj', '*', 4, 'dar', 'location', '*', 'ventajas'], [4, 1, 7, 7, 'NP', 3, '*', 'SG', 'ci', '*', 6, 'dar', 'organization', '*', 'serbia']]
+coref= {}
+determiners= {1: '*', 3: '*', 4: '*'}
+pposat_heads= {}
+####

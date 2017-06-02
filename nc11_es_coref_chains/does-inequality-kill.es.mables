@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 2, 3, 'NC', 3, 'FEM', 'SG', 'suj', '*', 4, 'matar', '-', '*', 'desigualdad']]
+coref= {}
+determiners= {1: 'el'}
+pposat_heads= {}
+####

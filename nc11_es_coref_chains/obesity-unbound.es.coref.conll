@@ -1,0 +1,7 @@
+#begin document dummy
+1	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	2	spec	_	_
+2	obesidad	obesidad	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	0	sentence	_	_
+3	ilimitada	ilimitado	a	AQ	gen=f|num=s|postype=qualificative|eagles=AQ0FS0	2	cn	_	_
+
+#end document dummy
+

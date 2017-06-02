@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 3, 3, 'NP', 3, '*', 'SG', 'suj', 'ANIM', 2, 'poder', 'person', '*', 'Salvar'], [2, 1, 5, 5, 'NP', 3, '*', 'SG', 'ci', '*', 4, 'poder', 'organization', '*', 'jap\xc3\xb3n']]
+coref= {}
+determiners= {1: '*', 2: '*'}
+pposat_heads= {}
+####

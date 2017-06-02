@@ -1,0 +1,10 @@
+#begin document dummy
+1	Drácula	drácula	n	NP	postype=proper|ne=person|eagles=NP00SP0	0	sentence	_	_
+2	y	y	c	CC	postype=coordinating|eagles=CC	1	conj	_	_
+3	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	4	spec	_	_
+4	lucha	lucha	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	1	sn	_	_
+5	de	de	s	SP	postype=preposition|eagles=SPS00	4	cn	_	_
+6	clases	clase	n	NC	gen=f|num=p|postype=common|eagles=NCFP000	5	sn	_	_
+
+#end document dummy
+

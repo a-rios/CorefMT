@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 2, 'NP', 3, 'MASC', 'SG', 'sentence', '*', '*', '*', 'other', '*', 'precedente_checheno']]
+coref= {}
+determiners= {1: 'el'}
+pposat_heads= {}
+####

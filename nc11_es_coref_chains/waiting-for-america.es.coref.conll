@@ -1,0 +1,7 @@
+#begin document dummy
+1	Esperando	esperar	v	VM	postype=main|mood=gerund|eagles=VMG0000	0	sentence	_	_
+2	a	a	s	SP	postype=preposition|eagles=SPS00	1	cd	_	_
+3	Norteamérica	norteamérica	n	NP	postype=proper|ne=location|eagles=NP00G00	2	sn	_	_
+
+#end document dummy
+

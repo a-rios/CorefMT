@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 2, 2, 'NP', 3, '*', 'SG', 'cd', '*', 1, 'luchar', 'other', '*', 'contra_la_inflaci\xc3\xb3n_promueve_el_crecimiento']]
+coref= {}
+determiners= {1: '*'}
+pposat_heads= {}
+####

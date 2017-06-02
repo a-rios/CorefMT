@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 2, 4, 'NC', 3, 'FEM', 'PL', 'suj', '*', 6, 'quedar', '-', '*', 'compa\xc3\xb1\xc3\xada'], [2, 1, 8, 8, 'NC', 3, 'FEM', 'SG', 'cc', '*', 7, 'quedar', '-', '*', 'casa']]
+coref= {}
+determiners= {1: 'el', 2: '*'}
+pposat_heads= {}
+####

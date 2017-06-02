@@ -1,0 +1,10 @@
+#begin document dummy
+1	Desafiando	desafiar	v	VM	postype=main|mood=gerund|eagles=VMG0000	0	sentence	_	_
+2	al	a	s	SP	gen=c|num=m|postype=preposition|contracted=yes|eagles=SPCMS	1	cd	_	_
+3	último	último	a	AO	gen=m|num=s|postype=ordinal|eagles=AO0MS0	4	s.a	_	_
+4	autócrata	autócrata	n	NC	gen=c|num=s|postype=common|eagles=NCCS000	2	sn	_	_
+5	de	de	s	SP	postype=preposition|eagles=SPS00	4	sp	_	_
+6	Europa	europa	n	NP	postype=proper|ne=location|eagles=NP00G00	5	sn	_	_
+
+#end document dummy
+

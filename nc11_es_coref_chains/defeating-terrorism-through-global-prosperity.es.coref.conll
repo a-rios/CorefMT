@@ -1,0 +1,10 @@
+#begin document dummy
+1	Derrotando	derrotar	v	VM	postype=main|mood=gerund|eagles=VMG0000	0	sentence	_	_
+2	al	a	s	SP	gen=c|num=m|postype=preposition|contracted=yes|eagles=SPCMS	1	cd	_	_
+3	Terrorismo	terrorismo	n	NP	postype=proper|ne=other|eagles=NP00V00	2	sn	_	_
+4	a_través_de	a_través_de	s	SP	postype=preposition|eagles=SPS00	1	cc	_	_
+5	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	6	spec	_	_
+6	Prosperidad_global	prosperidad_global	n	NP	postype=proper|ne=other|eagles=NP00V00	4	sn	_	_
+
+#end document dummy
+

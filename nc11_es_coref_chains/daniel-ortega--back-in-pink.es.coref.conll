@@ -1,0 +1,8 @@
+#begin document dummy
+1	Ortega	ortega	n	NP	postype=proper|ne=person|eagles=NP00SP0	2	suj	_	_
+2	retorna	retornar	v	VM	num=s|postype=main|person=3|mood=indicative|tense=present|eagles=VMIP3S0	0	sentence	_	_
+3	en	en	s	SP	postype=preposition|eagles=SPS00	2	cc	_	_
+4	rosado	rosado	a	AQ	gen=m|num=s|postype=qualificative|eagles=AQ0MS0	3	s.a	_	_
+
+#end document dummy
+

@@ -1,0 +1,10 @@
+#begin document dummy
+1	¿	¿	F	Fia	punct=questionmark|eagles=Fia	2	f	_	_
+2	Del	de	s	SP	gen=c|num=m|postype=preposition|contracted=yes|eagles=SPCMS	0	sentence	_	_
+3	Rojo	rojo	n	NP	postype=proper|ne=person|eagles=NP00SP0	2	sn	_	_
+4	al	a	s	SP	gen=c|num=m|postype=preposition|contracted=yes|eagles=SPCMS	2	f	_	_
+5	Verde	verde	n	NP	postype=proper|ne=organization|eagles=NP00O00	4	sn	_	_
+6	?	?	F	Fit	punct=questionmark|eagles=Fit	2	f	_	_
+
+#end document dummy
+

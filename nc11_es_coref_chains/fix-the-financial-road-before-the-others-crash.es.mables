@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 2, 3, 'NP', 3, 'MASC', 'SG', 'cd', '*', 1, 'reconstruir', 'other', '*', 'camino_financiero_antes_de_que_otros_caigan']]
+coref= {}
+determiners= {1: 'el'}
+pposat_heads= {}
+####

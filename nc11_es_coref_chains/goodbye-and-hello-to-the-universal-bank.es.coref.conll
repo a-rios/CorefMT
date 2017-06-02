@@ -1,0 +1,11 @@
+#begin document dummy
+1	Hola	hola	i	I	_	4	interjeccio	_	_
+2	y	y	c	CC	postype=coordinating|eagles=CC	1	conj	_	_
+3	adiós	adiós	n	NC	gen=m|num=s|postype=common|eagles=NCMS000	1	grup.nom	_	_
+4	a	a	s	SP	postype=preposition|eagles=SPS00	0	sentence	_	_
+5	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	6	spec	_	_
+6	banca	banca	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	4	sn	_	_
+7	universal	universal	a	AQ	gen=c|num=s|postype=qualificative|eagles=AQ0CS0	6	s.a	_	_
+
+#end document dummy
+

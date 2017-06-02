@@ -1,0 +1,8 @@
+#begin document dummy
+1	Japón	japón	n	NP	postype=proper|ne=location|eagles=NP00G00	0	sentence	_	(0
+2	y	y	c	CC	postype=coordinating|eagles=CC	1	conj	_	_
+3	sus	su	d	DP	gen=c|num=p|postype=possessive|person=3|eagles=DP3CP0	4	spec	_	(0)
+4	Vecinos_después_de_yasukuni	vecinos_después_de_yasukuni	n	NP	postype=proper|ne=organization|eagles=NP00O00	1	sn	_	0)
+
+#end document dummy
+

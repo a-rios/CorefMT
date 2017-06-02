@@ -1,0 +1,6 @@
+docid= dummy
+mables= [[1, 1, 1, 5, 'NP', 3, 'MASC', 'SG', 'sentence', '*', '*', '*', 'other', '*', 'crecimiento'], [2, 1, 4, 4, 'NC', 3, '*', 'SG', 'sp', '*', '*', '*', '-', '*', 'uno'], [3, 1, 5, 5, 'NP', 3, '*', 'SG', 'sentence', '*', '*', '*', 'other', '*', 'era_de_ansiedad']]
+coref= {}
+determiners= {1: 'el', 2: '*', 3: '*'}
+pposat_heads= {}
+####

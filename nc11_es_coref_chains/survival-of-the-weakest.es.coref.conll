@@ -1,0 +1,9 @@
+#begin document dummy
+1	La	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	2	spec	_	_
+2	supervicencia	supervicencia	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	0	sentence	_	_
+3	del	de	s	SP	gen=c|num=m|postype=preposition|contracted=yes|eagles=SPCMS	2	sp	_	_
+4	más	más	r	RG	_	5	spec	_	_
+5	débil	débil	a	AQ	gen=c|num=s|postype=qualificative|eagles=AQ0CS0	3	sn	_	_
+
+#end document dummy
+

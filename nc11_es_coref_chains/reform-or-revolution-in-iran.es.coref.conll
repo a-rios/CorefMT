@@ -1,0 +1,12 @@
+#begin document dummy
+1	¿	¿	F	Fia	punct=questionmark|eagles=Fia	2	f	_	_
+2	Habrá	haber	v	VA	num=s|postype=auxiliary|person=3|mood=indicative|tense=future|eagles=VAIF3S0	0	sentence	_	_
+3	Reforma	reforma	n	NP	postype=proper|ne=organization|eagles=NP00O00	2	cd	_	_
+4	o	o	c	CC	postype=coordinating|eagles=CC	3	conj	_	_
+5	Revolución	revolución	n	NP	postype=proper|ne=organization|eagles=NP00O00	3	grup.nom	_	_
+6	en	en	s	SP	postype=preposition|eagles=SPS00	2	cc	_	_
+7	Irán	irán	n	NP	postype=proper|ne=location|eagles=NP00G00	6	sn	_	_
+8	?	?	F	Fit	punct=questionmark|eagles=Fit	2	f	_	_
+
+#end document dummy
+

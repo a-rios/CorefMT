@@ -1,0 +1,11 @@
+#begin document dummy
+1	¿	¿	F	Fia	punct=questionmark|eagles=Fia	0	sentence	_	_
+2	El	el	d	DA	gen=m|num=s|postype=article|eagles=DA0MS0	3	spec	_	_
+3	Islam	islam	n	NP	postype=proper|ne=other|eagles=NP00V00	1	cd	_	_
+4	contra	contra	s	SP	postype=preposition|eagles=SPS00	3	sp	_	_
+5	la	el	d	DA	gen=f|num=s|postype=article|eagles=DA0FS0	6	spec	_	_
+6	modernidad	modernidad	n	NC	gen=f|num=s|postype=common|eagles=NCFS000	4	sn	_	_
+7	?	?	F	Fit	punct=questionmark|eagles=Fit	1	f	_	_
+
+#end document dummy
+
